@@ -49,8 +49,11 @@ class NewsCollector:
         """从 RSS 源获取新闻"""
         articles = []
         try:
-            feed = feedparser.parse(url)
-            for entry in feed.entries[:20]:  # 限制数量
+            # 添加 User-Agent 避免被屏蔽
+            headers = {'User-Agent': 'Mozilla/5.0 (compatible; IranWarTracker/1.0)'}
+            feed = feedparser.parse(url, agent='IranWarTracker/1.0', request_headers=headers)
+            
+            for entry in feed.entries[:10]:  # 限制数量，避免太多
                 if entry.link in self.seen_urls:
                     continue
 
@@ -69,18 +72,19 @@ class NewsCollector:
                 articles.append(article)
                 self.seen_urls.add(entry.link)
         except Exception as e:
-            print(f"Error fetching {url}: {e}")
+            print(f"⚠️  RSS源错误 {url}: {str(e)[:100]}")
         return articles
 
     def fetch_news_api(self) -> List[Dict]:
         """使用 NewsAPI 获取新闻"""
         if not NEWS_API_KEY:
+            print("ℹ️  NEWS_API_KEY 未设置，跳过 NewsAPI 数据源")
             return []
 
         articles = []
-        for keyword in SEARCH_KEYWORDS[:5]:  # 限制关键词数量
+        for keyword in SEARCH_KEYWORDS[:3]:  # 限制关键词数量
             try:
-                url = f"https://newsapi.org/v2/everything?q={keyword}&language=en&pageSize=20&apiKey={NEWS_API_KEY}"
+                url = f"https://newsapi.org/v2/everything?q={keyword}&language=en&pageSize=10&apiKey={NEWS_API_KEY}"
                 response = requests.get(url, timeout=10)
                 data = response.json()
 
@@ -103,8 +107,10 @@ class NewsCollector:
                         }
                         articles.append(article_data)
                         self.seen_urls.add(article["url"])
+                else:
+                    print(f"⚠️  NewsAPI 错误: {data.get('message', '未知错误')}")
             except Exception as e:
-                print(f"NewsAPI error for {keyword}: {e}")
+                print(f"⚠️  NewsAPI 请求失败 {keyword}: {str(e)[:100]}")
         return articles
 
     def fetch_gdelt(self) -> List[Dict]:
@@ -169,26 +175,37 @@ class NewsCollector:
         """主收集函数"""
         all_articles = []
 
+        print("🔍 开始收集新闻数据...")
+        
         # RSS 收集
+        print("📡 正在从 RSS 源获取新闻...")
         for source_type, feeds in RSS_FEEDS.items():
             for feed_url in feeds:
                 source_name = feed_url.split('/')[2]
+                print(f"  - 读取 {source_name} ({source_type})")
                 articles = self.fetch_rss(feed_url, source_type, source_name)
+                print(f"    ✅ 获取到 {len(articles)} 条新闻")
                 all_articles.extend(articles)
 
         # NewsAPI 收集
+        print("📰 正在从 NewsAPI 获取新闻...")
         api_articles = self.fetch_news_api()
+        print(f"    ✅ 获取到 {len(api_articles)} 条新闻")
         all_articles.extend(api_articles)
 
         # GDELT 收集
+        print("🌍 正在从 GDELT 获取数据...")
         gdelt_articles = self.fetch_gdelt()
+        print(f"    ✅ 获取到 {len(gdelt_articles)} 条数据")
         all_articles.extend(gdelt_articles)
 
         # 按日期排序
         all_articles.sort(key=lambda x: x['date'], reverse=True)
 
         # 限制总数（最近 100 条）
-        return all_articles[:100]
+        result = all_articles[:100]
+        print(f"📊 总共收集到 {len(result)} 条事件")
+        return result
 
     def save_data_js(self, events: List[Dict]):
         """保存为 JavaScript 数据文件"""
