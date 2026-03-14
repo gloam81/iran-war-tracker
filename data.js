@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T11:21:01.307764Z
+// 自动生成的数据 - 更新时间: 2026-03-14T11:30:00.791885Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T11:21:01.307715Z",
-    "totalEvents": 20,
+    "lastUpdate": "2026-03-14T11:30:00.791821Z",
+    "totalEvents": 26,
     "sources": {
-      "international": 20,
+      "international": 26,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_4c681fc0",
-      "title": "中国队在加时赛中以2比0击败台湾队，进入女子亚洲杯半决赛",
-      "summary": "卫冕冠军中国队在对阵东道主澳大利亚的比赛中获得半决赛，并在2027年世界杯上获得一席之地。",
-      "date": "2026-03-14T10:05:50Z",
-      "url": "https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss",
+      "id": "evt_b1af9e8f",
+      "title": "宣传战线上的战斗愈演愈烈",
+      "summary": "随着美国和以色列努力控制他们对伊朗的战争故事，他们的信息变得更加难以捍卫。",
+      "date": "2026-03-14T11:17:10Z",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,7 +37,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals"
+        "en": "The battle on the propaganda front intensifies"
       }
     },
     {
@@ -94,34 +94,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Four killed in southern Lebanon apartment after reported Israeli attack"
-      }
-    },
-    {
-      "id": "evt_d70d0dce",
-      "title": "曼联vs阿斯顿维拉：英超联赛–球队、首发、阵容",
-      "summary": "曼联周日在EPL主场迎战阿斯顿维拉，两人都有资格参加下赛季的冠军联赛。",
-      "date": "2026-03-14T09:40:26Z",
-      "url": "https://www.aljazeera.com/sports/2026/3/14/manchester-united-vs-aston-villa-premier-league-teams-start-lineups?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/3/14/manchester-united-vs-aston-villa-premier-league-teams-start-lineups?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Manchester United vs Aston Villa: Premier League – teams, start, lineups"
       }
     },
     {
@@ -209,62 +181,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d6635d88",
-      "title": "“杀死人民” ：人们如何在南非金矿中挨饿",
-      "summary": "在地下深处，当警察切断他们唯一的生命线时，手工采矿者面临着生存的斗争。",
-      "date": "2026-03-14T08:34:37Z",
-      "url": "https://www.aljazeera.com/features/longform/2026/3/14/kill-the-people-how-men-were-left-to-starve-in-a-south-african-gold-mine?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/longform/2026/3/14/kill-the-people-how-men-were-left-to-starve-in-a-south-african-gold-mine?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Kill the people’: How men were left to starve in a South African gold mine"
-      }
-    },
-    {
-      "id": "evt_83f99750",
-      "title": "随着美韩举行军事演习，朝鲜发射弹道导弹",
-      "summary": "首尔参谋长联席会议说，平壤发射了大约10枚弹道导弹。",
-      "date": "2026-03-14T08:17:27Z",
-      "url": "https://www.aljazeera.com/news/2026/3/14/north-korea-fires-ballistic-missiles-as-us-south-korea-hold-military-drills?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/14/north-korea-fires-ballistic-missiles-as-us-south-korea-hold-military-drills?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "North Korea fires ballistic missiles as US-South Korea hold military drills"
-      }
-    },
-    {
       "id": "evt_781f0af5",
       "title": "“以色列将民用基础设施作为政策目标”",
       "summary": "Nicholas Noe表示，以色列在黎巴嫩的战略似乎旨在瞄准民用基础设施。",
@@ -277,7 +193,7 @@ const siteData = {
           "url": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-is-targeting-civilian-infrastructure-as-a-matter-of-policy?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 31.7683,
         "lng": 35.2137,
@@ -293,6 +209,118 @@ const siteData = {
       }
     },
     {
+      "id": "evt_3e5c2fbc",
+      "title": "美国驻伊拉克巴格达大使馆遭导弹袭击直升机停机坪",
+      "summary": "据消息人士称，导弹袭击对任务造成了破坏，因为可以看到烟雾从建筑物中升起。",
+      "date": "2026-03-14T07:20:24Z",
+      "url": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad"
+      }
+    },
+    {
+      "id": "evt_35cbdc3b",
+      "title": "由于战争蹂躏国家，以色列在黎巴嫩南部的袭击中杀死了12名医务人员",
+      "summary": "以色列的袭击与它在加沙造成的类似屠杀相呼应，杀害了值班的医生、护理人员和护士。",
+      "date": "2026-03-14T06:58:20Z",
+      "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation"
+      }
+    },
+    {
+      "id": "evt_b5d44ed7",
+      "title": "美国袭击伊朗哈格岛上的军事基地，该岛拥有巨大的石油设施",
+      "summary": "德黑兰威胁说，如果岛上的石油结构受到攻击，将把与美国有关的石油设施减少到“一堆灰烬”。",
+      "date": "2026-03-14T06:42:25Z",
+      "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US attacks military sites on Iran’s Kharg island, home to vast oil facility"
+      }
+    },
+    {
+      "id": "evt_9fe29dc2",
+      "title": "伊朗战争：美国-以色列袭击的第15天发生了什么？",
+      "summary": "美国袭击了伊朗的哈格岛，因为它警告说，如果德黑兰扰乱通过霍尔木兹海峡的航运，油田可能是下一个。",
+      "date": "2026-03-14T05:45:46Z",
+      "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war: What is happening on day 15 of US-Israel attacks?"
+      }
+    },
+    {
       "id": "evt_c1b15b8f",
       "title": "伊朗人对新任最高领导人的首次讲话作出反应",
       "summary": "在莫塔巴·哈梅内伊（ Mojtaba Khamenei ）通过国家电视台的节目主持人发表第一次演讲后，伊朗人质疑谁是真正的负责人。",
@@ -305,7 +333,7 @@ const siteData = {
           "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -445,7 +473,7 @@ const siteData = {
           "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -458,6 +486,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Mission accomplished? The 2003 boast that haunts today's Iran conflict"
+      }
+    },
+    {
+      "id": "evt_16f89ad4",
+      "title": "真主党火箭弹袭击后以色列轰炸贝鲁特郊区和黎巴嫩南部",
+      "summary": "以色列的一些空袭还袭击了黎巴嫩首都的其他地区，据报道有12人在海滨丧生。",
+      "date": "2026-03-12T21:33:16Z",
+      "url": "https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel pounds Beirut suburbs and south Lebanon after Hezbollah rocket barrage"
       }
     },
     {
@@ -489,6 +545,34 @@ const siteData = {
       }
     },
     {
+      "id": "evt_9d5a7894",
+      "title": "以色列军方撤销对被控虐待巴勒斯坦被拘留者的士兵的指控",
+      "summary": "以色列军方的首席律师援引“特殊情况”撤销了涉及一名被关押在Sde Teiman军事监狱的巴勒斯坦男子的案件。",
+      "date": "2026-03-12T20:36:10Z",
+      "url": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee"
+      }
+    },
+    {
       "id": "evt_f2032e4e",
       "title": "伊朗新任最高领导人在第一份声明中誓言封锁霍尔木兹海峡",
       "summary": "莫塔巴·哈梅内伊（ Mojtaba Khamenei ）的消息还表示，伊朗将继续瞄准美国在该地区的基地。",
@@ -501,7 +585,7 @@ const siteData = {
           "url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -570,6 +654,90 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Tracking the wave of ship attacks that has choked off Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_2355ab2d",
+      "title": "英国男子在迪拜被指控拍摄伊朗导弹",
+      "summary": "据了解，外交部官员正在支持他的家人。",
+      "date": "2026-03-12T17:28:20Z",
+      "url": "https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "British man charged in Dubai for alleged filming of Iranian missiles"
+      }
+    },
+    {
+      "id": "evt_55313576",
+      "title": "（如果我们剩下废墟怎么办？ '：怀疑那些支持战争的伊朗人",
+      "summary": "教师、工程师和店主告诉英国广播公司，他们担心伊朗陷入混乱。",
+      "date": "2026-03-12T12:49:14Z",
+      "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war"
+      }
+    },
+    {
+      "id": "evt_494fe0d9",
+      "title": "“指着扳机” ：敦促伊朗人采取行动的致命警告",
+      "summary": "伊朗警察局长警告说，他的部队将把“应敌人要求”走上街头的任何人视为敌人。",
+      "date": "2026-03-12T10:07:43Z",
+      "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action"
       }
     }
   ]
