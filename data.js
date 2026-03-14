@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T15:23:30.975892Z
+// 自动生成的数据 - 更新时间: 2026-03-14T15:33:32.167386Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T15:23:30.975829Z",
+    "lastUpdate": "2026-03-14T15:33:32.167316Z",
     "totalEvents": 26,
     "sources": {
       "international": 26,
@@ -12,6 +12,34 @@ const siteData = {
     }
   },
   "events": [
+    {
+      "id": "evt_98464e09",
+      "title": "梵蒂冈特使在神父在炮击中丧生后访问黎巴嫩教堂",
+      "summary": "一名神父在以色列袭击中丧生后，梵蒂冈驻黎巴嫩特使访问了Qlayaa。",
+      "date": "2026-03-14T14:55:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Vatican envoy visits Lebanese church after priest killed in shelling"
+      }
+    },
     {
       "id": "evt_249b66e1",
       "title": "也门饥荒迫在眉睫，需要采取紧急行动",
@@ -374,34 +402,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran"
-      }
-    },
-    {
-      "id": "evt_3eec8708",
-      "title": "据报以色列袭击后，黎巴嫩南部公寓有四人死亡",
-      "summary": "据报以色列袭击后，黎巴嫩南部公寓有四人死亡",
-      "date": "2026-03-14T09:50:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Four killed in southern Lebanon apartment after reported Israeli attack"
       }
     },
     {
