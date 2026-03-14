@@ -440,6 +440,17 @@ if (typeof module !== 'undefined' && module.exports) {{
         print(f"📊 事件总数: {len(events)}")
         print(f"🕐 最后更新: {data['metadata']['lastUpdate']}")
 
+
+
+
+    def fetch_gdelt(self) -> List[Dict]:
+        """获取 GDELT 事件数据"""
+        return []
+
+    def fetch_telegram(self) -> List[Dict]:
+        """从 Telegram 频道获取新闻"""
+        return []
+
 def main():
     collector = NewsCollector()
     print("=" * 60)
@@ -485,6 +496,7 @@ def get_sample_data():
             "originalTexts": {"zh": "示例数据"}
         }
     ]
+
 
 if __name__ == "__main__":
     main()
