@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T12:14:50.836581Z
+// 自动生成的数据 - 更新时间: 2026-03-14T12:23:15.832871Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T12:14:50.836519Z",
+    "lastUpdate": "2026-03-14T12:23:15.832792Z",
     "totalEvents": 25,
     "sources": {
       "international": 25,
@@ -12,6 +12,90 @@ const siteData = {
     }
   },
   "events": [
+    {
+      "id": "evt_5580995a",
+      "title": "在更广泛的战争中，另外5名巴勒斯坦人在以色列在加沙的种族灭绝中丧生",
+      "summary": "随着伊朗战争中人道主义状况的恶化，以色列军队每天都在对被围困的加沙发动袭击。",
+      "date": "2026-03-14T12:12:07Z",
+      "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/14/israels-genocide-in-gaza-claims-another-5-palestinian-lives-amid-wider-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war"
+      }
+    },
+    {
+      "id": "evt_9c3786b9",
+      "title": "哈马斯敦促主要盟友伊朗停止对海湾国家的袭击",
+      "summary": "巴勒斯坦武装组织还申明，德黑兰有权自卫，免受美国和以色列的“侵略”。",
+      "date": "2026-03-14T12:05:46Z",
+      "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hamas urges key ally Iran to halt attacks on Gulf states"
+      }
+    },
+    {
+      "id": "evt_c18dc1e1",
+      "title": "为什么美国要瞄准伊朗的哈格岛？",
+      "summary": "这个小岛是伊朗能源基础设施中最重要的部分之一。",
+      "date": "2026-03-14T11:39:38Z",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why has the US targeted Iran's Kharg Island?"
+      }
+    },
     {
       "id": "evt_0ae4fa02",
       "title": "沙尘暴袭击加沙，影响流离失所的巴勒斯坦人",
@@ -265,23 +349,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_3e5c2fbc",
-      "title": "美国驻伊拉克巴格达大使馆遭导弹袭击直升机停机坪",
-      "summary": "据消息人士称，导弹袭击对任务造成了破坏，因为可以看到烟雾从建筑物中升起。",
-      "date": "2026-03-14T07:20:24Z",
-      "url": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss",
+      "id": "evt_bad92ca4",
+      "title": "据报道，更多的美国海军陆战队和军舰将被转移到中东",
+      "summary": "一名官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司（ CBS ） ，增援部队将来自一个通常驻扎在日本的两栖部队。",
+      "date": "2026-03-14T00:53:15Z",
+      "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-baghdad-iraq-targeted-with-missile-hits-helipad?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -289,7 +373,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad"
+        "en": "More US Marines and warships to be moved to Middle East, reports say"
+      }
+    },
+    {
+      "id": "evt_fb0c8142",
+      "title": "在无人机射击下，流亡的库尔德人等待与伊朗政权对抗",
+      "summary": "一群驻扎在伊拉克的战斗人员表示，他们“准备回家” ，因为他们面临来自德黑兰的无人机袭击。",
+      "date": "2026-03-13T22:02:39Z",
+      "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Under drone fire, exiled Kurds wait to confront Iranian regime"
       }
     },
     {
@@ -318,34 +430,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iranians react to new supreme leader's first address"
-      }
-    },
-    {
-      "id": "evt_61fe5d36",
-      "title": "随着伊朗政权更迭的希望逐渐消失，内塔尼亚胡面临政治考验",
-      "summary": "随着结束冲突的压力越来越大，以色列领导人将轰炸行动定性为改变了中东地区，使其对他们有利。",
-      "date": "2026-03-13T15:35:26Z",
-      "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "As hopes of regime change in Iran fade, Netanyahu faces political test"
       }
     },
     {
@@ -430,34 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'There's no hiding place on a ship': The sailors stranded near Iran"
-      }
-    },
-    {
-      "id": "evt_8a3183c2",
-      "title": "任务完成了吗？ 2003年萦绕在今天的伊朗冲突中",
-      "summary": "冲突之间的回声当然存在，但也存在深刻的差异。",
-      "date": "2026-03-13T00:04:03Z",
-      "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mission accomplished? The 2003 boast that haunts today's Iran conflict"
       }
     },
     {
@@ -629,34 +685,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_2355ab2d",
-      "title": "英国男子在迪拜被指控拍摄伊朗导弹",
-      "summary": "据了解，外交部官员正在支持他的家人。",
-      "date": "2026-03-12T17:28:20Z",
-      "url": "https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "British man charged in Dubai for alleged filming of Iranian missiles"
-      }
-    },
-    {
       "id": "evt_55313576",
       "title": "（如果我们剩下废墟怎么办？ '：怀疑那些支持战争的伊朗人",
       "summary": "教师、工程师和店主告诉英国广播公司，他们担心伊朗陷入混乱。",
@@ -682,34 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war"
-      }
-    },
-    {
-      "id": "evt_494fe0d9",
-      "title": "“指着扳机” ：敦促伊朗人采取行动的致命警告",
-      "summary": "伊朗警察局长警告说，他的部队将把“应敌人要求”走上街头的任何人视为敌人。",
-      "date": "2026-03-12T10:07:43Z",
-      "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action"
       }
     }
   ]
