@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T13:02:00.779712Z
+// 自动生成的数据 - 更新时间: 2026-03-14T13:19:28.056701Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T13:02:00.779625Z",
-    "totalEvents": 47,
+    "lastUpdate": "2026-03-14T13:19:28.056611Z",
+    "totalEvents": 48,
     "sources": {
-      "international": 24,
+      "international": 25,
       "iranian": 23,
       "social": 0,
       "osm": 0
@@ -16,7 +16,7 @@ const siteData = {
       "id": "evt_06b4f37f",
       "title": "حوزه و نهادهاي ديني",
       "summary": "حوزه و نهادهاي ديني",
-      "date": "2026-03-14T13:02:00.778363Z",
+      "date": "2026-03-14T13:19:28.055496Z",
       "url": "https://www.mehrnews.com/service/Religion-Thought/Rituals",
       "sources": [
         {
@@ -43,7 +43,7 @@ const siteData = {
       "id": "evt_85fea0d1",
       "title": "قرآن و عترت",
       "summary": "قرآن و عترت",
-      "date": "2026-03-14T13:02:00.273968Z",
+      "date": "2026-03-14T13:19:27.643301Z",
       "url": "https://www.mehrnews.com/service/Religion-Thought/Quran",
       "sources": [
         {
@@ -70,7 +70,7 @@ const siteData = {
       "id": "evt_953eb78c",
       "title": "عناوین اخبار",
       "summary": "عناوین اخبار",
-      "date": "2026-03-14T13:01:59.756258Z",
+      "date": "2026-03-14T13:19:27.227091Z",
       "url": "https://www.mehrnews.com/archive?tp=3",
       "sources": [
         {
@@ -97,7 +97,7 @@ const siteData = {
       "id": "evt_3c5d0748",
       "title": "دين، حوزه، انديشه",
       "summary": "دين، حوزه، انديشه",
-      "date": "2026-03-14T13:01:59.287003Z",
+      "date": "2026-03-14T13:19:26.764838Z",
       "url": "https://www.mehrnews.com/service/Religion-Thought",
       "sources": [
         {
@@ -124,7 +124,7 @@ const siteData = {
       "id": "evt_b4f79cb3",
       "title": "موسیقی و هنرهای تجسمی",
       "summary": "موسیقی و هنرهای تجسمی",
-      "date": "2026-03-14T13:01:58.873094Z",
+      "date": "2026-03-14T13:19:26.341119Z",
       "url": "https://www.mehrnews.com/service/Art/Music",
       "sources": [
         {
@@ -151,7 +151,7 @@ const siteData = {
       "id": "evt_89ddb5d0",
       "title": "رادیو و تلویزیون",
       "summary": "رادیو و تلویزیون",
-      "date": "2026-03-14T13:01:58.456680Z",
+      "date": "2026-03-14T13:19:25.926802Z",
       "url": "https://www.mehrnews.com/service/Art/TV-Radio",
       "sources": [
         {
@@ -178,7 +178,7 @@ const siteData = {
       "id": "evt_5bb71204",
       "title": "سینمای جهان",
       "summary": "سینمای جهان",
-      "date": "2026-03-14T13:01:58.009013Z",
+      "date": "2026-03-14T13:19:25.515304Z",
       "url": "https://www.mehrnews.com/service/Art/WorldCinema",
       "sources": [
         {
@@ -205,7 +205,7 @@ const siteData = {
       "id": "evt_bf9befc4",
       "title": "سینمای ایران",
       "summary": "سینمای ایران",
-      "date": "2026-03-14T13:01:57.050852Z",
+      "date": "2026-03-14T13:19:24.320374Z",
       "url": "https://www.mehrnews.com/service/Art/Cinema",
       "sources": [
         {
@@ -232,7 +232,7 @@ const siteData = {
       "id": "evt_9604de69",
       "title": "عناوین اخبار",
       "summary": "عناوین اخبار",
-      "date": "2026-03-14T13:01:56.578683Z",
+      "date": "2026-03-14T13:19:23.854286Z",
       "url": "https://www.mehrnews.com/archive?tp=1",
       "sources": [
         {
@@ -259,7 +259,7 @@ const siteData = {
       "id": "evt_14b3a748",
       "title": "کتاب و ادبیات",
       "summary": "کتاب و ادبیات",
-      "date": "2026-03-14T13:01:56.132162Z",
+      "date": "2026-03-14T13:19:23.186769Z",
       "url": "https://www.mehrnews.com/service/Culture/Poem-Lyrics",
       "sources": [
         {
@@ -286,7 +286,7 @@ const siteData = {
       "id": "evt_a778b9c2",
       "title": "صنایع فرهنگی",
       "summary": "صنایع فرهنگی",
-      "date": "2026-03-14T13:01:55.713166Z",
+      "date": "2026-03-14T13:19:22.768244Z",
       "url": "https://www.mehrnews.com/service/Culture/CulturalIndustries",
       "sources": [
         {
@@ -313,7 +313,7 @@ const siteData = {
       "id": "evt_c8cc669f",
       "title": "فرهنگ مقاومت",
       "summary": "فرهنگ مقاومت",
-      "date": "2026-03-14T13:01:54.666758Z",
+      "date": "2026-03-14T13:19:21.921397Z",
       "url": "https://www.mehrnews.com/service/Culture/Revolution-HolyDefence",
       "sources": [
         {
@@ -340,7 +340,7 @@ const siteData = {
       "id": "evt_1f84fa2f",
       "title": "فرهنگ عمومی",
       "summary": "فرهنگ عمومی",
-      "date": "2026-03-14T13:01:54.152319Z",
+      "date": "2026-03-14T13:19:21.084875Z",
       "url": "https://www.mehrnews.com/service/Culture/PublicCulture",
       "sources": [
         {
@@ -367,7 +367,7 @@ const siteData = {
       "id": "evt_7d3da3d7",
       "title": "عناوین اخبار",
       "summary": "عناوین اخبار",
-      "date": "2026-03-14T13:01:53.178775Z",
+      "date": "2026-03-14T13:19:20.019548Z",
       "url": "https://www.mehrnews.com/archive?tp=2",
       "sources": [
         {
@@ -394,7 +394,7 @@ const siteData = {
       "id": "evt_a7969566",
       "title": "فرهنگ و ادب",
       "summary": "فرهنگ و ادب",
-      "date": "2026-03-14T13:01:52.707851Z",
+      "date": "2026-03-14T13:19:19.548832Z",
       "url": "https://www.mehrnews.com/service/Culture",
       "sources": [
         {
@@ -421,7 +421,7 @@ const siteData = {
       "id": "evt_fd7c6562",
       "title": "زندگی با آیه ها",
       "summary": "زندگی با آیه ها",
-      "date": "2026-03-14T13:01:52.283715Z",
+      "date": "2026-03-14T13:19:19.131752Z",
       "url": "https://www.mehrnews.com/service/ZendegiBaAyeha",
       "sources": [
         {
@@ -448,7 +448,7 @@ const siteData = {
       "id": "evt_aa60be6c",
       "title": "美以对伊朗的攻击标志着华盛顿地区计划的失败：巴勒斯坦外交官",
       "summary": "美以对伊朗的攻击标志着华盛顿地区计划的失败：巴勒斯坦外交官",
-      "date": "2026-03-14T13:01:51.385970Z",
+      "date": "2026-03-14T13:19:18.214827Z",
       "url": "https://www.tehrantimes.com/news/524666/US-Israeli-assault-on-Iran-signals-failure-of-Washington-s-regional",
       "sources": [
         {
@@ -475,7 +475,7 @@ const siteData = {
       "id": "evt_0a77f0b3",
       "title": "作者： Shahrokh Saei",
       "summary": "作者： Shahrokh Saei",
-      "date": "2026-03-14T13:01:50.859882Z",
+      "date": "2026-03-14T13:19:17.534126Z",
       "url": "https://www.tehrantimes.com/news/524655/Trump-administration-in-disarray-How-Washington-miscalculated",
       "sources": [
         {
@@ -502,7 +502,7 @@ const siteData = {
       "id": "evt_589a205b",
       "title": "伊朗新领导人的信息： 10个问题和答案",
       "summary": "伊朗新领导人的信息： 10个问题和答案",
-      "date": "2026-03-14T13:01:50.387769Z",
+      "date": "2026-03-14T13:19:17.054655Z",
       "url": "https://www.tehrantimes.com/news/524671/Inside-the-message-of-Iran-s-new-Leader-10-questions-and-answers",
       "sources": [
         {
@@ -529,7 +529,7 @@ const siteData = {
       "id": "evt_4fb8ec95",
       "title": "作者： Soheila Zarfam",
       "summary": "作者： Soheila Zarfam",
-      "date": "2026-03-14T13:01:49.878556Z",
+      "date": "2026-03-14T13:19:16.497927Z",
       "url": "https://www.tehrantimes.com/news/524665/Bombed-but-standing",
       "sources": [
         {
@@ -556,7 +556,7 @@ const siteData = {
       "id": "evt_b4640e10",
       "title": "多媒体",
       "summary": "多媒体",
-      "date": "2026-03-14T13:01:49.334929Z",
+      "date": "2026-03-14T13:19:16.033520Z",
       "url": "https://www.tehrantimes.com/service/multimedia",
       "sources": [
         {
@@ -583,7 +583,7 @@ const siteData = {
       "id": "evt_d449b4cb",
       "title": "国际标准",
       "summary": "国际标准",
-      "date": "2026-03-14T13:01:48.852014Z",
+      "date": "2026-03-14T13:19:15.562841Z",
       "url": "https://www.tehrantimes.com/service/international",
       "sources": [
         {
@@ -610,7 +610,7 @@ const siteData = {
       "id": "evt_881d654f",
       "title": "職責包括︰",
       "summary": "職責包括︰",
-      "date": "2026-03-14T13:01:48.309495Z",
+      "date": "2026-03-14T13:19:15.025501Z",
       "url": "https://www.tehrantimes.com/subscription",
       "sources": [
         {
@@ -631,6 +631,34 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": "Membership"
+      }
+    },
+    {
+      "id": "evt_ae0951c5",
+      "title": "两艘印度船只穿越霍尔木兹海峡，伊朗称其允许通过",
+      "summary": "伊朗驻新德里特使表示，德黑兰允许一些印度船只通过海峡，这是封锁的罕见例外。",
+      "date": "2026-03-14T12:58:22Z",
+      "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/14/two-indian-ships-cross-strait-of-hormuz-as-iran-says-it-allowed-passage?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage"
       }
     },
     {
