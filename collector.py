@@ -61,7 +61,7 @@ class NewsCollector:
                     "summary": self.clean_html(entry.summary if hasattr(entry, 'summary') else entry.title),
                     "date": self.parse_date(entry.published_parsed),
                     "url": entry.link,
-                    "source": {"type": source_type, "name": source_name, "url": entry.link},
+                    "sources": [{"type": source_type, "name": source_name, "url": entry.link}],  # 改为数组
                     "category": self.categorize(entry.title + " " + entry.summary),
                     "location": self.extract_location(entry.title + " " + entry.summary),
                     "languages": ["en"] if source_type != "iranian" else ["fa"],
@@ -97,7 +97,7 @@ class NewsCollector:
                             "summary": article["description"] or article["title"],
                             "date": article["publishedAt"],
                             "url": article["url"],
-                            "source": {"type": "international", "name": article["source"]["name"], "url": article["url"]},
+                            "sources": [{"type": "international", "name": article["source"]["name"], "url": article["url"]}],
                             "category": self.categorize(article["title"]),
                             "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
                             "languages": ["en"],
