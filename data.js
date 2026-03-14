@@ -1,144 +1,280 @@
-// 自动生成的数据 - 更新时间: 2026-03-14
+// 自动生成的数据 - 更新时间: 2026-03-14T11:14:23.449680Z
 const siteData = {
-    "metadata": {
-        "title": "伊朗战争追踪",
-        "lastUpdate": "2026-03-14T08:00:00.000Z",
-        "totalEvents": 6,
-        "sources": {
-            "international": 4,
-            "iranian": 2,
-            "social": 2,
-            "osm": 1
+  "metadata": {
+    "title": "伊朗战争追踪",
+    "lastUpdate": "2026-03-14T11:14:23.449647Z",
+    "totalEvents": 10,
+    "sources": {
+      "international": 10,
+      "iranian": 0,
+      "social": 0,
+      "osm": 0
+    }
+  },
+  "events": [
+    {
+      "id": "evt_c1b15b8f",
+      "title": "Iranians react to new supreme leader's first address",
+      "summary": "People in Iran are questioning who's really in charge after Mojtaba Khamenei's first address came via a presenter on state TV.",
+      "date": "2026-03-13T15:53:48Z",
+      "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss"
         }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "Iranians react to new supreme leader's first address"
+      }
     },
-    "events": [
+    {
+      "id": "evt_61fe5d36",
+      "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
+      "summary": "Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict builds.",
+      "date": "2026-03-13T15:35:26Z",
+      "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
+      "sources": [
         {
-            "id": "evt_001",
-            "date": "2026-03-13T10:30:00Z",
-            "title": "伊朗举行大规模军事演习",
-            "summary": "伊朗伊斯兰革命卫队在南部波斯湾地区举行代号'伟大先知-19'的军事演习，测试新型导弹系统。伊朗方面称此举为防御性质，旨在展示威慑能力。",
-            "category": "military",
-            "location": {
-                "lat": 26.5,
-                "lng": 53.5,
-                "name": "波斯湾, 伊朗"
-            },
-            "sources": [
-                { "type": "iranian", "name": "IRNA", "url": "https://irna.ir" },
-                { "type": "international", "name": "Reuters", "url": "https://reuters.com" }
-            ],
-            "languages": ["fa", "en"],
-            "originalTexts": {
-                "fa": "رزمایش بزرگ نظامی ایران در خلیج فارس",
-                "en": "Iran holds large-scale military exercises in Persian Gulf"
-            }
-        },
-        {
-            "id": "evt_002",
-            "date": "2026-03-12T14:15:00Z",
-            "title": "国际原子能机构报告伊朗核活动进展",
-            "summary": "IAEA 最新报告显示，伊朗铀浓缩活动继续推进，已接近武器级浓度。国际社会表达严重关切，呼吁伊朗恢复合作。",
-            "category": "political",
-            "location": {
-                "lat": 48.2082,
-                "lng": 16.3738,
-                "name": "维也纳, 国际原子能机构"
-            },
-            "sources": [
-                { "type": "international", "name": "AP News", "url": "https://apnews.com" },
-                { "type": "international", "name": "BBC News", "url": "https://bbc.com" }
-            ],
-            "languages": ["en"],
-            "originalTexts": {
-                "en": "IAEA reports progress in Iran's nuclear activities"
-            }
-        },
-        {
-            "id": "evt_003",
-            "date": "2026-03-11T09:45:00Z",
-            "title": "伊朗社交媒体出现反政府抗议",
-            "summary": "据多个社交媒体平台视频显示，德黑兰、伊斯法罕等城市出现小规模抗议活动，民众要求经济改革和释放政治犯。伊朗当局暂时未正式回应。",
-            "category": "political",
-            "location": {
-                "lat": 35.6892,
-                "lng": 51.3890,
-                "name": "德黑兰, 伊朗"
-            },
-            "sources": [
-                { "type": "social", "name": "Twitter/X", "url": "https://twitter.com" },
-                { "type": "social", "name": "Telegram", "url": "https://telegram.org" }
-            ],
-            "languages": ["fa", "en"],
-            "originalTexts": {
-                "fa": "تظاهرات ضد دولت در تهران",
-                "en": "Anti-government protests in Tehran"
-            }
-        },
-        {
-            "id": "evt_004",
-            "date": "2026-03-10T16:20:00Z",
-            "title": "美国宣布对伊朗实施新制裁",
-            "summary": "美国财政部宣布对伊朗多家实体和个人实施制裁，指控其支持地区武装组织并参与导弹项目。伊朗外交部称制裁'非法且无效'。",
-            "category": "diplomatic",
-            "location": {
-                "lat": 38.9072,
-                "lng": -77.0369,
-                "name": "华盛顿, 美国"
-            },
-            "sources": [
-                { "type": "international", "name": "Reuters", "url": "https://reuters.com" },
-                { "type": "international", "name": "Al Jazeera", "url": "https://aljazeera.com" }
-            ],
-            "languages": ["en"],
-            "originalTexts": {
-                "en": "US announces new sanctions on Iran"
-            }
-        },
-        {
-            "id": "evt_005",
-            "date": "2024-10-01T08:00:00Z",
-            "title": "伊朗发射导弹袭击以色列",
-            "summary": "伊朗伊斯兰革命卫队向以色列发射了数十枚弹道导弹，作为对早些时候袭击的报复。以色列国防军表示，大部分导弹被拦截。",
-            "category": "military",
-            "location": {
-                "lat": 32.0853,
-                "lng": 34.7818,
-                "name": "特拉维夫, 以色列"
-            },
-            "sources": [
-                { "type": "international", "name": "BBC News", "url": "https://bbc.com" },
-                { "type": "iranian", "name": "IRNA", "url": "https://irna.ir" }
-            ],
-            "languages": ["en", "fa"],
-            "originalTexts": {
-                "en": "Iran launches missile attack on Israel",
-                "fa": "ایران به اسرائیل حمله موشکی کرد"
-            }
-        },
-        {
-            "id": "evt_006",
-            "date": "2024-10-02T12:30:00Z",
-            "title": "联合国安理会召开紧急会议",
-            "summary": "安理会就伊朗-以色列冲突召开紧急会议，多国呼吁克制。美国表示将加强与中东盟友的防御合作。",
-            "category": "diplomatic",
-            "location": {
-                "lat": 40.7128,
-                "lng": -74.0060,
-                "name": "纽约, 联合国"
-            },
-            "sources": [
-                { "type": "international", "name": "Reuters", "url": "https://reuters.com" },
-                { "type": "international", "name": "Al Jazeera", "url": "https://aljazeera.com" }
-            ],
-            "languages": ["en"],
-            "originalTexts": {
-                "en": "UN Security Council holds emergency meeting on Iran-Israel conflict"
-            }
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss"
         }
-    ]
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "As hopes of regime change in Iran fade, Netanyahu faces political test"
+      }
+    },
+    {
+      "id": "evt_6462c3d7",
+      "title": "All six crew members killed after US refuelling plane crashes in Iraq",
+      "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq.",
+      "date": "2026-03-13T14:29:12Z",
+      "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "All six crew members killed after US refuelling plane crashes in Iraq"
+      }
+    },
+    {
+      "id": "evt_d3d0d977",
+      "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
+      "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
+      "date": "2026-03-13T10:43:21Z",
+      "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated"
+      }
+    },
+    {
+      "id": "evt_377cf64c",
+      "title": "'There's no hiding place on a ship': The sailors stranded near Iran",
+      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.",
+      "date": "2026-03-13T01:47:54Z",
+      "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "'There's no hiding place on a ship': The sailors stranded near Iran"
+      }
+    },
+    {
+      "id": "evt_8a3183c2",
+      "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+      "summary": "The echoes between the conflicts are certainly there but there are also profound differences.",
+      "date": "2026-03-13T00:04:03Z",
+      "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "Mission accomplished? The 2003 boast that haunts today's Iran conflict"
+      }
+    },
+    {
+      "id": "evt_f402ea55",
+      "title": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon",
+      "summary": "The BBC visited the city of Nabatieh, witnessing the pace and scale of Israel's bombing as its war with Hezbollah continues to escalate.",
+      "date": "2026-03-12T20:53:35Z",
+      "url": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx28v2y7de2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "'Follow the smoke': BBC spends day with emergency teams as Israel strikes south Lebanon"
+      }
+    },
+    {
+      "id": "evt_f2032e4e",
+      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
+      "summary": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.",
+      "date": "2026-03-12T20:32:55Z",
+      "url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "Iran's new supreme leader vows to block Strait of Hormuz in first statement"
+      }
+    },
+    {
+      "id": "evt_9dd84897",
+      "title": "Emirati minister tells BBC Iran must end strikes on Gulf",
+      "summary": "The UAE says more than 1,800 drones and missiles have been projected at the country since the war began.",
+      "date": "2026-03-12T20:20:50Z",
+      "url": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "Emirati minister tells BBC Iran must end strikes on Gulf"
+      }
+    },
+    {
+      "id": "evt_567babb2",
+      "title": "Tracking the wave of ship attacks that has choked off Strait of Hormuz",
+      "summary": "Six ships have been reportedly attacked in the Gulf in less than 48 hours, bringing the total vessels attacked during the war to 18.",
+      "date": "2026-03-12T18:19:44Z",
+      "url": "https://www.bbc.com/news/articles/c80j4rln8zmo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c80j4rln8zmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "en"
+      ],
+      "originalTexts": {
+        "en": "Tracking the wave of ship attacks that has choked off Strait of Hormuz"
+      }
+    }
+  ]
 };
 
-// 翻译字典 - 预翻译的常用术语
 const translations = {
     categories: {
         military: "军事行动",
