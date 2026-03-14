@@ -12,20 +12,24 @@ from datetime import datetime, timedelta
 from typing import List, Dict
 import os
 import sys
+import hashlib
+import time
 
 # 配置
 OUTPUT_DIR = "."
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "data.js")
 
-# RSS 源列表 - 只保留最稳定、响应最快的源
+# RSS 源列表 - 恢复为多源
 RSS_FEEDS = {
     "international": [
-        # BBC - 通常很稳定
         "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://www.reuters.com/pf/api/v3/content/fetch/articles-by-section-alias-or-id",
+        "https://apnews.com/hub/apf-topnews/rss",
+        "https://www.aljazeera.com/xml/rss/all.xml"
     ],
     "iranian": [
-        # IRNA - 伊朗官方通讯社
         "https://www.irna.ir/rss",
+        "https://www.tehrantimes.com/rss"
     ]
 }
 
@@ -42,6 +46,35 @@ class NewsCollector:
     def __init__(self):
         self.events = []
         self.seen_urls = set()
+        # MyMemory Translation API（免费，无需密钥）
+        self.translate_api_url = "https://api.mymemory.translated.net/get"
+
+    def translate_text(self, text: str, source_lang: str = 'en', target_lang: str = 'zh') -> str:
+        """使用 MyMemory API 翻译文本"""
+        if not text or not text.strip():
+            return text
+        
+        # 如果已经是中文，跳过
+        if any('\u4e00' <= c <= '\u9fff' for c in text):
+            return text
+        
+        try:
+            # API 限制：每段最多 500 字符
+            text = text[:500]
+            params = {
+                'q': text,
+                'langpair': f'{source_lang}|{target_lang}'
+            }
+            response = requests.get(self.translate_api_url, params=params, timeout=5)
+            if response.status_code == 200:
+                data = response.json()
+                if data.get('responseStatus') == 200:
+                    translated = data['responseData']['translatedText']
+                    return translated
+        except Exception as e:
+            print(f"⚠️  翻译失败: {str(e)[:50]}")
+        
+        return text  # 失败时返回原文
 
     def fetch_rss(self, url: str, source_type: str, source_name: str) -> List[Dict]:
         """从 RSS 源获取新闻"""
@@ -55,17 +88,31 @@ class NewsCollector:
                 if entry.link in self.seen_urls:
                     continue
 
+                title = entry.title
+                summary = self.clean_html(entry.summary if hasattr(entry, 'summary') else entry.title)
+                
+                # 翻译成中文
+                title_zh = self.translate_text(title)
+                summary_zh = self.translate_text(summary)
+                
+                # 检测原文语言（简单判断）
+                has_fa = any('\u0600' <= c <= '\u06FF' for c in title + summary)  # 阿拉伯/波斯字符
+                has_en = any('a' <= c.lower() <= 'z' for c in title + summary)
+                
                 article = {
                     "id": self.generate_id(entry.link),
-                    "title": entry.title,
-                    "summary": self.clean_html(entry.summary if hasattr(entry, 'summary') else entry.title),
+                    "title": title_zh,
+                    "summary": summary_zh,
                     "date": self.parse_date(entry.published_parsed),
                     "url": entry.link,
-                    "sources": [{"type": source_type, "name": source_name, "url": entry.link}],  # 改为数组
-                    "category": self.categorize(entry.title + " " + entry.summary),
-                    "location": self.extract_location(entry.title + " " + entry.summary),
-                    "languages": ["en"] if source_type != "iranian" else ["fa"],
-                    "originalTexts": {"en": entry.title}
+                    "sources": [{"type": source_type, "name": source_name, "url": entry.link}],
+                    "category": self.categorize(title + " " + summary),
+                    "location": self.extract_location(title + " " + summary),
+                    "languages": ["zh", "fa"] if has_fa else ["zh", "en"],
+                    "originalTexts": {
+                        "fa": title if has_fa else None,
+                        "en": title if has_en and not has_fa else None
+                    }
                 }
                 articles.append(article)
                 self.seen_urls.add(entry.link)
