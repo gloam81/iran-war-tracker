@@ -331,9 +331,12 @@ class NewsCollector:
 
         print("🔍 开始收集新闻数据...")
         
-        # RSS 收集
+        # RSS 收集（只处理字符串类型的源）
         print("📡 正在从 RSS 源获取新闻...")
         for source_type, feeds in RSS_FEEDS.items():
+            # 跳过非RSS配置（如iranian_scrape, telegram, gdelt）
+            if source_type in ['iranian_scrape', 'telegram', 'gdelt']:
+                continue
             for feed_url in feeds:
                 source_name = feed_url.split('/')[2]
                 print(f"  - 读取 {source_name} ({source_type})")
@@ -341,13 +344,13 @@ class NewsCollector:
                 print(f"    ✅ 获取到 {len(articles)} 条新闻")
                 all_articles.extend(articles)
 
-        # 如果伊朗源没获取到，尝试备用源
+        # 如果伊朗源没获取到，尝试备用RSS源
         iranian_count = sum(1 for e in all_articles if any(s['type'] == 'iranian' for s in e['sources']))
         if iranian_count == 0:
-            print("⚠️  主伊朗源未获取到数据，尝试备用源...")
+            print("⚠️  主伊朗源未获取到数据，尝试备用RSS源...")
             for feed_url in RSS_FEEDS.get("iranian_backup", []):
                 source_name = feed_url.split('/')[2]
-                print(f"  - 尝试备用源 {source_name}")
+                print(f"  - 尝试备用RSS源 {source_name}")
                 articles = self.fetch_rss(feed_url, "iranian", source_name)
                 print(f"    ✅ 获取到 {len(articles)} 条新闻")
                 all_articles.extend(articles)
@@ -360,6 +363,10 @@ class NewsCollector:
                 print(f"  - 抓取 {site['name']} ({site['url']})")
                 articles = self.scrape_website(site['url'], site['name'], site.get('selector'))
                 all_articles.extend(articles)
+        
+        # Telegram 频道（未来实现）
+        # telegram_articles = self.fetch_telegram()
+        # all_articles.extend(telegram_articles)
         
         # Telegram 频道（未来实现）
         # telegram_articles = self.fetch_telegram()
