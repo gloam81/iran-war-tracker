@@ -84,12 +84,16 @@ class NewsCollector:
             headers = {'User-Agent': 'Mozilla/5.0 (compatible; IranWarTracker/1.0)'}
             feed = feedparser.parse(url, agent='IranWarTracker/1.0', request_headers=headers)
             
-            for entry in feed.entries[:10]:  # 限制数量，避免太多
+            for entry in feed.entries[:15]:  # 限制数量，避免太多
                 if entry.link in self.seen_urls:
                     continue
 
                 title = entry.title
                 summary = self.clean_html(entry.summary if hasattr(entry, 'summary') else entry.title)
+                
+                # 过滤：只保留与伊朗/中东相关的新闻
+                if not self.is_relevant(title + " " + summary):
+                    continue
                 
                 # 翻译成中文
                 title_zh = self.translate_text(title)
@@ -186,14 +190,33 @@ class NewsCollector:
     def categorize(self, text: str) -> str:
         """根据内容分类事件"""
         text_lower = text.lower()
-        if any(word in text_lower for word in ['attack', 'missile', 'military', 'strike', 'bomb']):
+        # 军事相关关键词
+        if any(word in text_lower for word in ['attack', 'missile', 'military', 'strike', 'bomb', 'war', 'conflict', 'iran', 'israel', 'houthi', 'hezbollah', 'gaza']):
             return 'military'
-        elif any(word in text_lower for word in ['protest', 'government', 'minister', 'election']):
+        # 政治相关关键词
+        elif any(word in text_lower for word in ['protest', 'government', 'minister', 'election', 'parliament', 'president', ' supreme leader', 'political']):
             return 'political'
-        elif any(word in text_lower for word in ['un', 'talks', 'diplomat', 'agreement', 'peace']):
+        # 外交相关关键词
+        elif any(word in text_lower for word in ['un', 'talks', 'diplomat', 'agreement', 'peace', 'negotiation', 'sanction', 'foreign ministry']):
             return 'diplomatic'
+        # 人道相关关键词
+        elif any(word in text_lower for word in ['humanitarian', 'refugee', 'civilian', 'casualty', 'aid', 'medical', 'food shortage']):
+            return 'humanitarian'
         else:
             return 'political'  # 默认
+
+    def is_relevant(self, text: str) -> bool:
+        """判断新闻是否与伊朗/中东冲突相关"""
+        text_lower = text.lower()
+        # 必须包含至少一个关键词
+        keywords = [
+            'iran', 'israel', 'middle east', 'persian', 'gulf', 'tehran',
+            ' Baghdad', 'dubai', 'riyadh', 'ankara', 'damascus', 'beirut',
+            'gaza', 'palestine', 'hamas', 'hezbollah', 'houthi', 'iraq',
+            'syria', 'lebanon', 'jordan', 'saudi', 'uae', 'qatar', 'bahrain',
+            'kuwait', 'oman', 'yemen', 'afghanistan', 'pakistan'
+        ]
+        return any(keyword in text_lower for keyword in keywords)
 
     def extract_location(self, text: str) -> Dict:
         """尝试提取地理位置"""
