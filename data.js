@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T11:30:00.791885Z
+// 自动生成的数据 - 更新时间: 2026-03-14T11:48:28.139936Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T11:30:00.791821Z",
+    "lastUpdate": "2026-03-14T11:48:28.139851Z",
     "totalEvents": 26,
     "sources": {
       "international": 26,
@@ -12,6 +12,62 @@ const siteData = {
     }
   },
   "events": [
+    {
+      "id": "evt_0ae4fa02",
+      "title": "沙尘暴袭击加沙，影响流离失所的巴勒斯坦人",
+      "summary": "沙尘暴袭击加沙，影响流离失所的巴勒斯坦人",
+      "date": "2026-03-14T11:31:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/sandstorm-hits-gaza-impacting-displaced-palestinians?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/sandstorm-hits-gaza-impacting-displaced-palestinians?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Sandstorm hits Gaza, impacting displaced Palestinians"
+      }
+    },
+    {
+      "id": "evt_72cb9066",
+      "title": "美国-以色列袭击德黑兰后，一家人从废墟中撤离",
+      "summary": "视频显示，在美以空袭袭击德赫拉居民区后，救援队从废墟下救出家人",
+      "date": "2026-03-14T11:21:20Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Family pulled from the rubble after US-Israeli strikes on Tehran"
+      }
+    },
     {
       "id": "evt_b1af9e8f",
       "title": "宣传战线上的战斗愈演愈烈",
@@ -262,62 +318,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation"
-      }
-    },
-    {
-      "id": "evt_b5d44ed7",
-      "title": "美国袭击伊朗哈格岛上的军事基地，该岛拥有巨大的石油设施",
-      "summary": "德黑兰威胁说，如果岛上的石油结构受到攻击，将把与美国有关的石油设施减少到“一堆灰烬”。",
-      "date": "2026-03-14T06:42:25Z",
-      "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US attacks military sites on Iran’s Kharg island, home to vast oil facility"
-      }
-    },
-    {
-      "id": "evt_9fe29dc2",
-      "title": "伊朗战争：美国-以色列袭击的第15天发生了什么？",
-      "summary": "美国袭击了伊朗的哈格岛，因为它警告说，如果德黑兰扰乱通过霍尔木兹海峡的航运，油田可能是下一个。",
-      "date": "2026-03-14T05:45:46Z",
-      "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war: What is happening on day 15 of US-Israel attacks?"
       }
     },
     {
