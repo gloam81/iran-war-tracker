@@ -1,8 +1,8 @@
-// 自动生成的数据 - 初始化版本
+// 自动生成的数据 - 更新时间: 2026-03-14
 const siteData = {
     "metadata": {
         "title": "伊朗战争追踪",
-        "lastUpdate": "2025-03-14T15:15:00.000Z",
+        "lastUpdate": "2026-03-14T08:11:00.000Z",
         "totalEvents": 4,
         "sources": {
             "international": 3,
