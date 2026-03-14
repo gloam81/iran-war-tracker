@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T11:48:28.139936Z
+// 自动生成的数据 - 更新时间: 2026-03-14T12:14:50.836581Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T11:48:28.139851Z",
-    "totalEvents": 26,
+    "lastUpdate": "2026-03-14T12:14:50.836519Z",
+    "totalEvents": 25,
     "sources": {
-      "international": 26,
+      "international": 25,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -290,34 +290,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US Embassy in Baghdad, Iraq attacked with missile that hits helipad"
-      }
-    },
-    {
-      "id": "evt_35cbdc3b",
-      "title": "由于战争蹂躏国家，以色列在黎巴嫩南部的袭击中杀死了12名医务人员",
-      "summary": "以色列的袭击与它在加沙造成的类似屠杀相呼应，杀害了值班的医生、护理人员和护士。",
-      "date": "2026-03-14T06:58:20Z",
-      "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/14/israel-kills-12-medics-in-attack-in-southern-lebanon-as-war-drags-on?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel kills 12 medics in attack in southern Lebanon as war ravages nation"
       }
     },
     {
