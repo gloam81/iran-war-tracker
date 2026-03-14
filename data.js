@@ -1,17 +1,73 @@
-// 自动生成的数据 - 更新时间: 2026-03-14T14:32:42.290556Z
+// 自动生成的数据 - 更新时间: 2026-03-14T15:15:01.954535Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-14T14:32:42.290466Z",
-    "totalEvents": 25,
+    "lastUpdate": "2026-03-14T15:15:01.954453Z",
+    "totalEvents": 26,
     "sources": {
-      "international": 25,
+      "international": 26,
       "iranian": 0,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
+    {
+      "id": "evt_98464e09",
+      "title": "梵蒂冈特使在神父在炮击中丧生后访问黎巴嫩教堂",
+      "summary": "一名神父在以色列袭击中丧生后，梵蒂冈驻黎巴嫩特使访问了Qlayaa。",
+      "date": "2026-03-14T14:55:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Vatican envoy visits Lebanese church after priest killed in shelling"
+      }
+    },
+    {
+      "id": "evt_249b66e1",
+      "title": "也门饥荒迫在眉睫，需要采取紧急行动",
+      "summary": "即使该国面临多年来最糟糕的前景，我们仍然可以避免饥饿。",
+      "date": "2026-03-14T14:44:56Z",
+      "url": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/opinions/2026/3/14/hunger-is-looming-over-yemen-urgent-action-is-needed?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hunger is looming over Yemen, urgent action is needed"
+      }
+    },
     {
       "id": "evt_c6fae2c8",
       "title": "为什么伊朗的哈格岛很重要？",
@@ -346,34 +402,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran"
-      }
-    },
-    {
-      "id": "evt_3eec8708",
-      "title": "据报以色列袭击后，黎巴嫩南部公寓有四人死亡",
-      "summary": "据报以色列袭击后，黎巴嫩南部公寓有四人死亡",
-      "date": "2026-03-14T09:50:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Four killed in southern Lebanon apartment after reported Israeli attack"
       }
     },
     {

@@ -203,18 +203,10 @@ class NewsCollector:
                 'Referer': 'https://www.google.com/',
                 'DNT': '1',
             }
-            # 针对慢速网站增加延时
-            delay = 2 if any(x in url for x in ['tasnim', 'isna', 'khabaronline', 'farsnews', 'presstv']) else 1
-            time.sleep(delay)
+            # 增加延时，避免请求过快
+            time.sleep(1)
             
-            try:
-                response = requests.get(url, headers=headers, timeout=20)
-            except requests.exceptions.RequestException as e:
-                print(f"  ⚠️  请求失败 {source_name}: {str(e)[:60]}")
-                # 重试一次
-                time.sleep(3)
-                response = requests.get(url, headers=headers, timeout=25)
-            
+            response = requests.get(url, headers=headers, timeout=15)
             if response.status_code != 200:
                 print(f"  ⚠️  抓取失败 {source_name}: HTTP {response.status_code}")
                 return []
@@ -228,28 +220,28 @@ class NewsCollector:
                 return self._parse_tehrantimes(html, url, source_name)
             elif 'mehrnews.com' in url:
                 return self._parse_mehrnews(html, url, source_name)
-            elif 'presstv.ir' in url:
-                return self._parse_presstv(html, url, source_name)
+            elif 'tasnimnews.com' in url:
+                return self._parse_tasnim(html, url, source_name)
             else:
-                # 通用抓取（对于tasnim, isna, khabaronline, farsnews, entekhab）
-                max_links = 50 if any(x in url for x in ['tasnim', 'isna', 'khabaronline', 'farsnews']) else 30
-                return self._parse_generic(html, url, source_name, max_links=max_links)
+                # 通用抓取（原来的逻辑）
+                return self._parse_generic(html, url, source_name)
             
         except Exception as e:
             print(f"  ⚠️  抓取异常 {source_name}: {str(e)[:80]}")
             return []
     
     def _parse_irna(self, html: str, base_url: str, source_name: str) -> List[Dict]:
-        """解析 IRNA 网站 - 更宽松的抓取"""
+        """解析 IRNA 网站"""
         articles = []
+        # IRNA 的新闻链接通常在 <a> 标签中，包含 /news/ 或类似路径
         links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
         articles_found = 0
         
         for href, title in links:
-            # 更宽松的过滤：只排除明显的非新闻链接
-            if any(skip in href.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#', '/page/', '.php?']):
+            if any(skip in href.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#', '/page/']):
                 continue
-            # 不再强制要求 /news/ 或 /story/，IRNA 首页链接可能直接是文章
+            if '/news/' not in href and '/story/' not in href:
+                continue
             if href.startswith('/'):
                 href = urljoin(base_url, href)
             if not href.startswith('http'):
@@ -257,7 +249,7 @@ class NewsCollector:
             if href in self.seen_urls:
                 continue
             title = title.strip()
-            if len(title) < 8 or len(title) > 250:  # 允许短标题
+            if len(title) < 10 or len(title) > 200:
                 continue
             
             title_zh = self.translate_text(title)
@@ -413,47 +405,6 @@ class NewsCollector:
         print(f"    ✅ 通用抓取到 {articles_found} 条新闻")
         return articles
 
-    def _parse_presstv(self, html: str, base_url: str, source_name: str) -> List[Dict]:
-        """解析 PressTV - 专用解析器"""
-        articles = []
-        links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
-        articles_found = 0
-        
-        for href, title in links:
-            if any(skip in href.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#', '/page/']):
-                continue
-            if not any(pattern in href for pattern in ['/news/', '/article/', '/2026/', '/2025/', '/2024/']):
-                continue
-            if href.startswith('/'):
-                href = urljoin(base_url, href)
-            if not href.startswith('http'):
-                continue
-            if href in self.seen_urls:
-                continue
-            title = title.strip()
-            if len(title) < 8 or len(title) > 250:
-                continue
-            
-            title_zh = self.translate_text(title)
-            article = {
-                "id": self.generate_id(href),
-                "title": title_zh,
-                "summary": title_zh,
-                "date": datetime.utcnow().isoformat() + "Z",
-                "url": href,
-                "sources": [{"type": "iranian", "name": source_name, "url": base_url}],
-                "category": self.categorize(title),
-                "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
-                "languages": ["zh", "fa"],
-                "originalTexts": {"fa": title}
-            }
-            articles.append(article)
-            self.seen_urls.add(href)
-            articles_found += 1
-            
-        print(f"    ✅ PressTV 抓取到 {articles_found} 条新闻")
-        return articles
-
     def generate_id(self, url: str) -> str:
         """从 URL 生成唯一 ID"""
         import hashlib
@@ -587,8 +538,8 @@ class NewsCollector:
         # 按日期排序
         all_articles.sort(key=lambda x: x['date'], reverse=True)
 
-        # 限制总数（最近 200 条）
-        result = all_articles[:200]
+        # 限制总数（最近 100 条）
+        result = all_articles[:100]
         print(f"📊 总共收集到 {len(result)} 条事件")
         return result
 
