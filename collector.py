@@ -28,8 +28,13 @@ RSS_FEEDS = {
         "https://www.aljazeera.com/xml/rss/all.xml"
     ],
     "iranian": [
-        "https://www.irna.ir/rss",
-        "https://www.tehrantimes.com/rss"
+        "https://www.irna.ir/rss",  # 伊朗官方通讯社
+        "https://www.tehrantimes.com/rss"  # 德黑兰时报
+    ],
+    # 备用伊朗源（如果上面两个失效）
+    "iranian_backup": [
+        "https://www.presstv.ir/rss",  #  PressTV
+        "https://www.hamshahrionline.ir/rss"  #  Hamshahri
     ]
 }
 
@@ -252,6 +257,17 @@ class NewsCollector:
                 source_name = feed_url.split('/')[2]
                 print(f"  - 读取 {source_name} ({source_type})")
                 articles = self.fetch_rss(feed_url, source_type, source_name)
+                print(f"    ✅ 获取到 {len(articles)} 条新闻")
+                all_articles.extend(articles)
+
+        # 如果伊朗源没获取到，尝试备用源
+        iranian_count = sum(1 for e in all_articles if any(s['type'] == 'iranian' for s in e['sources']))
+        if iranian_count == 0:
+            print("⚠️  主伊朗源未获取到数据，尝试备用源...")
+            for feed_url in RSS_FEEDS.get("iranian_backup", []):
+                source_name = feed_url.split('/')[2]
+                print(f"  - 尝试备用源 {source_name}")
+                articles = self.fetch_rss(feed_url, "iranian", source_name)
                 print(f"    ✅ 获取到 {len(articles)} 条新闻")
                 all_articles.extend(articles)
 
