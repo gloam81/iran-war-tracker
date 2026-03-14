@@ -14,28 +14,46 @@ import os
 import sys
 import hashlib
 import time
+from urllib.parse import urljoin
 
 # 配置
 OUTPUT_DIR = "."
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "data.js")
 
-# RSS 源列表 - 恢复为多源
+# RSS 源列表
 RSS_FEEDS = {
     "international": [
         "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-        "https://www.reuters.com/pf/api/v3/content/fetch/articles-by-section-alias-or-id",
-        "https://apnews.com/hub/apf-topnews/rss",
-        "https://www.aljazeera.com/xml/rss/all.xml"
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        # "https://www.reuters.com/pf/api/v3/content/fetch/articles-by-section-alias-or-id",  # 格式特殊
+        # "https://apnews.com/hub/apf-topnews/rss",  # 可能被屏蔽
     ],
     "iranian": [
-        "https://www.irna.ir/rss",  # 伊朗官方通讯社
-        "https://www.tehrantimes.com/rss"  # 德黑兰时报
+        "https://www.irna.ir/rss",
+        "https://www.tehrantimes.com/rss",
+        "https://www.tasnimnews.com/rss",
+        "https://www.mehrnews.com/rss",
+        "https://www.isna.ir/rss",
+        "https://www.presstv.ir/rss",  # PressTV
+        # "https://www.hamshahrionline.ir/rss",  #  Hamshahri（可能无效）
     ],
-    # 备用伊朗源（如果上面两个失效）
-    "iranian_backup": [
-        "https://www.presstv.ir/rss",  #  PressTV
-        "https://www.hamshahrionline.ir/rss"  #  Hamshahri
-    ]
+    # 备用伊朗源（网页抓取）
+    "iranian_scrape": [
+        {"url": "https://www.irna.ir/", "name": "IRNA", "selector": "article"},
+        {"url": "https://www.tehrantimes.com/", "name": "Tehran Times", "selector": ".article"},
+        {"url": "https://www.tasnimnews.com/", "name": "Tasnim", "selector": "article"},
+        {"url": "https://www.mehrnews.com/", "name": "Mehr", "selector": ".news-list"},
+    ],
+    # Telegram 频道（通过 RSS 聚合，待配置）
+    "telegram": [
+        # 示例：需要替换为实际的 RSS 链接
+        # "https://rss.app/convert/telegram-channel-to-rss?channel=...
+    ],
+    # GDELT 事件源（API）
+    "gdelt": {
+        "enabled": False,  # 默认关闭
+        "api_url": "https://api.gdeltproject.org/api/v2/events/search"
+    }
 }
 
 # 新闻 API（需要注册免费 key）
@@ -167,11 +185,74 @@ class NewsCollector:
                 print(f"⚠️  NewsAPI 请求失败 {keyword}: {str(e)[:100]}")
         return articles
 
-    def fetch_gdelt(self) -> List[Dict]:
-        """获取 GDELT 事件数据（简化版）"""
-        # 这里可以集成 GDELT API
-        # 暂时返回空
-        return []
+    def scrape_website(self, url: str, source_name: str, selector: str = None) -> List[Dict]:
+        """从网站抓取新闻（当RSS失败时）"""
+        articles = []
+        try:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                'Accept-Language': 'en-US,en;q=0.5',
+                'Accept-Encoding': 'gzip, deflate',
+                'Connection': 'keep-alive',
+            }
+            response = requests.get(url, headers=headers, timeout=10)
+            if response.status_code != 200:
+                print(f"  ⚠️  抓取失败 {source_name}: HTTP {response.status_code}")
+                return []
+            
+            # 简单的 HTML 解析（提取链接和标题）
+            html = response.text
+            
+            # 尝试提取新闻链接（多种模式）
+            # 模式1: <a href="...">标题</a>
+            links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
+            articles_found = 0
+            
+            for href, title in links[:20]:
+                # 过滤非新闻链接
+                if any(skip in href.lower() or skip in title.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#']):
+                    continue
+                
+                # 补全相对URL
+                if href.startswith('/'):
+                    href = urljoin(url, href)
+                if not href.startswith('http'):
+                    continue
+                    
+                if href in self.seen_urls:
+                    continue
+                    
+                # 简单的去重和长度检查
+                title = title.strip()
+                if len(title) < 10 or len(title) > 200:
+                    continue
+                    
+                # 翻译
+                title_zh = self.translate_text(title)
+                
+                article = {
+                    "id": self.generate_id(href),
+                    "title": title_zh,
+                    "summary": title_zh,  # 抓取的通常没有摘要
+                    "date": datetime.utcnow().isoformat() + "Z",
+                    "url": href,
+                    "sources": [{"type": "iranian", "name": source_name, "url": url}],
+                    "category": self.categorize(title),
+                    "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
+                    "languages": ["zh", "fa"],  # 假设是波斯语源
+                    "originalTexts": {"fa": title}
+                }
+                articles.append(article)
+                self.seen_urls.add(href)
+                articles_found += 1
+                
+            print(f"    ✅ 抓取到 {articles_found} 条新闻")
+            return articles
+            
+        except Exception as e:
+            print(f"  ⚠️  抓取异常 {source_name}: {str(e)[:80]}")
+            return []
 
     def generate_id(self, url: str) -> str:
         """从 URL 生成唯一 ID"""
@@ -250,9 +331,12 @@ class NewsCollector:
 
         print("🔍 开始收集新闻数据...")
         
-        # RSS 收集
+        # RSS 收集（只处理字符串类型的源）
         print("📡 正在从 RSS 源获取新闻...")
         for source_type, feeds in RSS_FEEDS.items():
+            # 跳过非RSS配置（如iranian_scrape, telegram, gdelt）
+            if source_type in ['iranian_scrape', 'telegram', 'gdelt']:
+                continue
             for feed_url in feeds:
                 source_name = feed_url.split('/')[2]
                 print(f"  - 读取 {source_name} ({source_type})")
@@ -260,16 +344,33 @@ class NewsCollector:
                 print(f"    ✅ 获取到 {len(articles)} 条新闻")
                 all_articles.extend(articles)
 
-        # 如果伊朗源没获取到，尝试备用源
+        # 如果伊朗源没获取到，尝试备用RSS源
         iranian_count = sum(1 for e in all_articles if any(s['type'] == 'iranian' for s in e['sources']))
         if iranian_count == 0:
-            print("⚠️  主伊朗源未获取到数据，尝试备用源...")
+            print("⚠️  主伊朗源未获取到数据，尝试备用RSS源...")
             for feed_url in RSS_FEEDS.get("iranian_backup", []):
                 source_name = feed_url.split('/')[2]
-                print(f"  - 尝试备用源 {source_name}")
+                print(f"  - 尝试备用RSS源 {source_name}")
                 articles = self.fetch_rss(feed_url, "iranian", source_name)
                 print(f"    ✅ 获取到 {len(articles)} 条新闻")
                 all_articles.extend(articles)
+        
+        # 如果还是没伊朗源，尝试网页抓取
+        iranian_count = sum(1 for e in all_articles if any(s['type'] == 'iranian' for s in e['sources']))
+        if iranian_count == 0:
+            print("⚠️  RSS 伊朗源全部失败，尝试网页抓取...")
+            for site in RSS_FEEDS.get("iranian_scrape", []):
+                print(f"  - 抓取 {site['name']} ({site['url']})")
+                articles = self.scrape_website(site['url'], site['name'], site.get('selector'))
+                all_articles.extend(articles)
+        
+        # Telegram 频道（未来实现）
+        # telegram_articles = self.fetch_telegram()
+        # all_articles.extend(telegram_articles)
+        
+        # Telegram 频道（未来实现）
+        # telegram_articles = self.fetch_telegram()
+        # all_articles.extend(telegram_articles)
 
         # NewsAPI 收集
         print("📰 正在从 NewsAPI 获取新闻...")
