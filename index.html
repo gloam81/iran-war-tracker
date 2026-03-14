@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>伊朗战争追踪 | Iran War Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🇮🇷 伊朗战争追踪</h1>
+            <p class="subtitle">多视角 · 每日更新 · 自动翻译</p>
+            <div class="last-update" id="lastUpdate">最后更新: 加载中...</div>
+        </div>
+    </header>
+
+    <nav class="tabs">
+        <button class="tab-btn active" data-tab="map">🗺️ 地图</button>
+        <button class="tab-btn" data-tab="timeline">⏱️ 时间线</button>
+        <button class="tab-btn" data-tab="news">📰 新闻</button>
+        <button class="tab-btn" data-tab="sources">📊 来源统计</button>
+    </nav>
+
+    <main class="container">
+        <!-- 地图视图 -->
+        <section id="map" class="tab-content active">
+            <div id="map-container"></div>
+            <div class="legend">
+                <h3>图例</h3>
+                <div class="legend-item"><span class="dot" style="background: #e74c3c;"></span> 冲突事件</div>
+                <div class="legend-item"><span class="dot" style="background: #3498db;"></span> 军事行动</div>
+                <div class="legend-item"><span class="dot" style="background: #f39c12;"></span> 政治发展</div>
+                <div class="legend-item"><span class="dot" style="background: #27ae60;"></span> 外交反应</div>
+            </div>
+        </section>
+
+        <!-- 时间线视图 -->
+        <section id="timeline" class="tab-content">
+            <div class="timeline-filters">
+                <button class="filter-btn active" data-filter="all">全部</button>
+                <button class="filter-btn" data-filter="military">军事</button>
+                <button class="filter-btn" data-filter="political">政治</button>
+                <button class="filter-btn" data-filter="diplomatic">外交</button>
+                <button class="filter-btn" data-filter="humanitarian">人道</button>
+            </div>
+            <div class="timeline" id="timelineContainer"></div>
+        </section>
+
+        <!-- 新闻视图 -->
+        <section id="news" class="tab-content">
+            <div class="news-filters">
+                <select id="sourceFilter">
+                    <option value="all">所有来源</option>
+                    <option value="international">國際媒體</option>
+                    <option value="iranian">伊朗媒體</option>
+                    <option value="social">社交媒體</option>
+                    <option value="osm">開源情報</option>
+                </select>
+                <select id="languageFilter">
+                    <option value="all">所有語言</option>
+                    <option value="en">英文</option>
+                    <option value="fa">波斯文</option>
+                    <option value="ar">阿拉伯文</option>
+                </select>
+            </div>
+            <div class="news-grid" id="newsContainer"></div>
+        </section>
+
+        <!-- 来源统计 -->
+        <section id="sources" class="tab-content">
+            <div class="stats-grid" id="statsContainer"></div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>数据来源：公开信息 | 本站内容仅供参考，不代表作者立场</p>
+            <p>© 2025-2026 Iran War Tracker | MIT License</p>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
