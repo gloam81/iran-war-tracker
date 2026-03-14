@@ -27,14 +27,17 @@ jobs:
       env:
         NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
       run: |
+        echo "🔍 开始收集新闻..."
         python collector.py
+      # 增加超时时间到 15 分钟
+      timeout-minutes: 15
 
     - name: Commit and push changes
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add data.js
-        git diff --cached --quiet || git commit -m "📰 每日新闻更新 $(date -u +'%Y-%m-%d')"
+        git diff --cached --quiet || git commit -m "📰 每日新闻更新 $(date -u +'%Y-%m-%d') [skip ci]"
         git push
 
     - name: Deploy to GitHub Pages

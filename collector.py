@@ -17,17 +17,15 @@ import sys
 OUTPUT_DIR = "."
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "data.js")
 
-# RSS 源列表
+# RSS 源列表 - 只保留最稳定、响应最快的源
 RSS_FEEDS = {
     "international": [
+        # BBC - 通常很稳定
         "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-        "https://www.reuters.com/pf/api/v3/content/fetch/articles-by-section-alias-or-id",
-        "https://apnews.com/hub/apf-topnews/rss",
-        "https://www.aljazeera.com/xml/rss/all.xml"
     ],
     "iranian": [
+        # IRNA - 伊朗官方通讯社
         "https://www.irna.ir/rss",
-        "https://www.tehrantimes.com/rss"
     ]
 }
 
