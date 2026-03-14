@@ -39,10 +39,15 @@ RSS_FEEDS = {
     ],
     # 备用伊朗源（网页抓取）
     "iranian_scrape": [
-        {"url": "https://www.irna.ir/", "name": "IRNA", "selector": "article"},
-        {"url": "https://www.tehrantimes.com/", "name": "Tehran Times", "selector": ".article"},
-        {"url": "https://www.tasnimnews.com/", "name": "Tasnim", "selector": "article"},
-        {"url": "https://www.mehrnews.com/", "name": "Mehr", "selector": ".news-list"},
+        {"url": "https://www.irna.ir/", "name": "IRNA"},
+        {"url": "https://www.tehrantimes.com/", "name": "Tehran Times"},
+        {"url": "https://www.tasnimnews.com/", "name": "Tasnim"},
+        {"url": "https://www.mehrnews.com/", "name": "Mehr"},
+        {"url": "https://www.isna.ir/", "name": "ISNA"},
+        {"url": "https://www.presstv.ir/", "name": "PressTV"},
+        {"url": "https://www.khabaronline.ir/", "name": "KhabarOnline"},
+        {"url": "https://www.farsnews.com/", "name": "FarsNews"},
+        {"url": "https://www.entekhab.ir/", "name": "Entekhab"},
     ],
     # Telegram 频道（通过 RSS 聚合，待配置）
     "telegram": [
@@ -195,64 +200,210 @@ class NewsCollector:
                 'Accept-Language': 'en-US,en;q=0.5',
                 'Accept-Encoding': 'gzip, deflate',
                 'Connection': 'keep-alive',
+                'Referer': 'https://www.google.com/',
+                'DNT': '1',
             }
-            response = requests.get(url, headers=headers, timeout=10)
+            # 增加延时，避免请求过快
+            time.sleep(1)
+            
+            response = requests.get(url, headers=headers, timeout=15)
             if response.status_code != 200:
                 print(f"  ⚠️  抓取失败 {source_name}: HTTP {response.status_code}")
                 return []
             
-            # 简单的 HTML 解析（提取链接和标题）
             html = response.text
             
-            # 尝试提取新闻链接（多种模式）
-            # 模式1: <a href="...">标题</a>
-            links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
-            articles_found = 0
-            
-            for href, title in links[:20]:
-                # 过滤非新闻链接
-                if any(skip in href.lower() or skip in title.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#']):
-                    continue
-                
-                # 补全相对URL
-                if href.startswith('/'):
-                    href = urljoin(url, href)
-                if not href.startswith('http'):
-                    continue
-                    
-                if href in self.seen_urls:
-                    continue
-                    
-                # 简单的去重和长度检查
-                title = title.strip()
-                if len(title) < 10 or len(title) > 200:
-                    continue
-                    
-                # 翻译
-                title_zh = self.translate_text(title)
-                
-                article = {
-                    "id": self.generate_id(href),
-                    "title": title_zh,
-                    "summary": title_zh,  # 抓取的通常没有摘要
-                    "date": datetime.utcnow().isoformat() + "Z",
-                    "url": href,
-                    "sources": [{"type": "iranian", "name": source_name, "url": url}],
-                    "category": self.categorize(title),
-                    "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
-                    "languages": ["zh", "fa"],  # 假设是波斯语源
-                    "originalTexts": {"fa": title}
-                }
-                articles.append(article)
-                self.seen_urls.add(href)
-                articles_found += 1
-                
-            print(f"    ✅ 抓取到 {articles_found} 条新闻")
-            return articles
+            # 针对不同网站使用不同的抓取策略
+            if 'irna.ir' in url:
+                return self._parse_irna(html, url, source_name)
+            elif 'tehrantimes.com' in url:
+                return self._parse_tehrantimes(html, url, source_name)
+            elif 'mehrnews.com' in url:
+                return self._parse_mehrnews(html, url, source_name)
+            elif 'tasnimnews.com' in url:
+                return self._parse_tasnim(html, url, source_name)
+            else:
+                # 通用抓取（原来的逻辑）
+                return self._parse_generic(html, url, source_name)
             
         except Exception as e:
             print(f"  ⚠️  抓取异常 {source_name}: {str(e)[:80]}")
             return []
+    
+    def _parse_irna(self, html: str, base_url: str, source_name: str) -> List[Dict]:
+        """解析 IRNA 网站"""
+        articles = []
+        # IRNA 的新闻链接通常在 <a> 标签中，包含 /news/ 或类似路径
+        links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
+        articles_found = 0
+        
+        for href, title in links:
+            if any(skip in href.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#', '/page/']):
+                continue
+            if '/news/' not in href and '/story/' not in href:
+                continue
+            if href.startswith('/'):
+                href = urljoin(base_url, href)
+            if not href.startswith('http'):
+                continue
+            if href in self.seen_urls:
+                continue
+            title = title.strip()
+            if len(title) < 10 or len(title) > 200:
+                continue
+            
+            title_zh = self.translate_text(title)
+            article = {
+                "id": self.generate_id(href),
+                "title": title_zh,
+                "summary": title_zh,
+                "date": datetime.utcnow().isoformat() + "Z",
+                "url": href,
+                "sources": [{"type": "iranian", "name": source_name, "url": base_url}],
+                "category": self.categorize(title),
+                "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
+                "languages": ["zh", "fa"],
+                "originalTexts": {"fa": title}
+            }
+            articles.append(article)
+            self.seen_urls.add(href)
+            articles_found += 1
+            
+        print(f"    ✅ IRNA 抓取到 {articles_found} 条新闻")
+        return articles
+    
+    def _parse_tehrantimes(self, html: str, base_url: str, source_name: str) -> List[Dict]:
+        """解析 Tehran Times"""
+        articles = []
+        # 尝试多种选择器
+        patterns = [
+            r'<a[^>]+href="([^"]+)"[^>]*class="[^"]*article[^"]*"[^>]*>([^<]+)</a>',
+            r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>',
+        ]
+        links = []
+        for pattern in patterns:
+            links.extend(re.findall(pattern, html, re.IGNORECASE))
+        
+        articles_found = 0
+        for href, title in links[:20]:
+            if any(skip in href.lower() for skip in ['/login', '/register', '/category/', '/tag/', '/author/', 'javascript:', '#']):
+                continue
+            if href.startswith('/'):
+                href = urljoin(base_url, href)
+            if not href.startswith('http'):
+                continue
+            if href in self.seen_urls:
+                continue
+            title = title.strip()
+            if len(title) < 10:
+                continue
+            
+            title_zh = self.translate_text(title)
+            article = {
+                "id": self.generate_id(href),
+                "title": title_zh,
+                "summary": title_zh,
+                "date": datetime.utcnow().isoformat() + "Z",
+                "url": href,
+                "sources": [{"type": "iranian", "name": source_name, "url": base_url}],
+                "category": self.categorize(title),
+                "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
+                "languages": ["zh", "fa"],
+                "originalTexts": {"fa": title}
+            }
+            articles.append(article)
+            self.seen_urls.add(href)
+            articles_found += 1
+            
+        print(f"    ✅ Tehran Times 抓取到 {articles_found} 条新闻")
+        return articles
+    
+    def _parse_mehrnews(self, html: str, base_url: str, source_name: str) -> List[Dict]:
+        """解析 Mehr News"""
+        articles = []
+        # Mehr News 链接模式
+        links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
+        articles_found = 0
+        
+        for href, title in links:
+            if any(skip in href.lower() for skip in ['/login', '/register', '/advert', 'javascript:', '#']):
+                continue
+            if '/news/' not in href and '/story/' not in href:
+                continue
+            if href.startswith('/'):
+                href = urljoin(base_url, href)
+            if not href.startswith('http'):
+                continue
+            if href in self.seen_urls:
+                continue
+            title = title.strip()
+            if len(title) < 10:
+                continue
+            
+            title_zh = self.translate_text(title)
+            article = {
+                "id": self.generate_id(href),
+                "title": title_zh,
+                "summary": title_zh,
+                "date": datetime.utcnow().isoformat() + "Z",
+                "url": href,
+                "sources": [{"type": "iranian", "name": source_name, "url": base_url}],
+                "category": self.categorize(title),
+                "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
+                "languages": ["zh", "fa"],
+                "originalTexts": {"fa": title}
+            }
+            articles.append(article)
+            self.seen_urls.add(href)
+            articles_found += 1
+            
+        print(f"    ✅ Mehr News 抓取到 {articles_found} 条新闻")
+        return articles
+    
+    def _parse_tasnim(self, html: str, base_url: str, source_name: str) -> List[Dict]:
+        """解析 Tasnim News - 带重试和不同策略"""
+        articles = []
+        # Tasnim 可能需要更特殊的处理，先尝试通用方法
+        return self._parse_generic(html, base_url, source_name)
+    
+    def _parse_generic(self, html: str, base_url: str, source_name: str) -> List[Dict]:
+        """通用 HTML 解析"""
+        articles = []
+        links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>([^<]+)</a>', html)
+        articles_found = 0
+        
+        for href, title in links[:30]:
+            if any(skip in href.lower() for skip in ['/login', '/register', '/advert', '/contact', 'javascript:', '#']):
+                continue
+            if href.startswith('/'):
+                href = urljoin(base_url, href)
+            if not href.startswith('http'):
+                continue
+            if href in self.seen_urls:
+                continue
+            title = title.strip()
+            if len(title) < 10 or len(title) > 200:
+                continue
+            
+            title_zh = self.translate_text(title)
+            article = {
+                "id": self.generate_id(href),
+                "title": title_zh,
+                "summary": title_zh,
+                "date": datetime.utcnow().isoformat() + "Z",
+                "url": href,
+                "sources": [{"type": "iranian", "name": source_name, "url": base_url}],
+                "category": self.categorize(title),
+                "location": {"lat": 32.0, "lng": 53.0, "name": "伊朗/中东"},
+                "languages": ["zh", "fa"],
+                "originalTexts": {"fa": title}
+            }
+            articles.append(article)
+            self.seen_urls.add(href)
+            articles_found += 1
+            
+        print(f"    ✅ 通用抓取到 {articles_found} 条新闻")
+        return articles
 
     def generate_id(self, url: str) -> str:
         """从 URL 生成唯一 ID"""
