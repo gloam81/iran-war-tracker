@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-16T06:02:42.943220Z
+// 自动生成的数据 - 更新时间: 2026-03-17T05:16:35.177942Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-16T06:02:42.943145Z",
-    "totalEvents": 24,
+    "lastUpdate": "2026-03-17T05:16:35.177874Z",
+    "totalEvents": 23,
     "sources": {
-      "international": 24,
+      "international": 23,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_0c6a8f66",
-      "title": "在伦敦举行大规模抗议美国-以色列对伊朗战争的抗议活动",
-      "summary": "成千上万的示威者走上伦敦街头，反对美国-以色列对伊朗、黎巴嫩和加沙的侵略。",
-      "date": "2026-03-16T04:02:11Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss",
+      "id": "evt_bc23ee29",
+      "title": "由于伊朗战争扰乱了航运，南非水果出口面临延迟",
+      "summary": "随着美国-以色列对伊朗的战争进入第四周，南非的水果出口商面临着越来越多的损失和干扰。",
+      "date": "2026-03-17T04:20:32Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Large protest held in London against US-Israeli war on Iran"
+        "en": "South African fruit exports face delays as Iran war disrupts shipping"
       }
     },
     {
-      "id": "evt_db19f6fd",
-      "title": "2026年奥斯卡颁奖典礼上的明星呼吁结束加沙和伊朗的战争",
-      "summary": "演员和电影制作人在洛杉矶举行的2026年奥斯卡颁奖典礼上发言，反对美以对伊朗的战争和种族灭绝。",
-      "date": "2026-03-16T03:48:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss",
+      "id": "evt_2d2f0020",
+      "title": "美国众议院民主党高层抨击特朗普“鲁莽的选择战争”",
+      "summary": "民主党领袖哈基姆·杰弗里斯（ Hakeem Jeffries ）批评唐纳德·特朗普（ Donald Trump ）称之为对伊朗的“鲁莽的选择",
+      "date": "2026-03-17T03:27:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Stars at Oscars 2026 call for end to war in Gaza and Iran"
-      }
-    },
-    {
-      "id": "evt_0e6484d4",
-      "title": "无人机袭击后迪拜机场发生火灾",
-      "summary": "据阿联酋当局称，录像显示，一架无人机点燃油箱后，迪拜国际机场附近发生了火灾。",
-      "date": "2026-03-16T02:29:42Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Fire erupts at Dubai airport following drone attack"
+        "en": "Top Democrat in US House slams Trump’s ‘reckless war of choice’"
       }
     },
     {
-      "id": "evt_e30c9c1a",
-      "title": "美以空袭伊朗哈马丹市",
-      "summary": "镜头显示，美国和以色列对伊朗哈马丹的袭击产生了巨大的烟雾。",
-      "date": "2026-03-16T01:26:27Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss",
+      "id": "evt_0e7ea17a",
+      "title": "在伊朗战争期间，以色列的政策在伊利诺伊州的美国选举中显得很重要",
+      "summary": "亲以色列团体向芝加哥地区的民主党初选投入了数百万美元，因为对美国盟友的支持创下历史新低。",
+      "date": "2026-03-17T03:22:17Z",
+      "url": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +93,244 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US-Israeli strike pounds city of Hamadan, Iran"
+        "en": "Israel policy looms large over US elections in Illinois amid Iran war"
       }
     },
     {
-      "id": "evt_ee642d20",
-      "title": "伊朗战争现场：特朗普要求北约盟国提供帮助；迪拜火力控制",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，德黑兰从未寻求与美国停火，并准备进行长期战争。",
-      "date": "2026-03-16T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss",
+      "id": "evt_50dbeb86",
+      "title": "伊朗称社交媒体上没有赢得战争",
+      "summary": "伊朗中央总部发言人表示，战争是在战场上决定的，而不是在社交媒体上。",
+      "date": "2026-03-17T02:24:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says wars are not won on social media"
+      }
+    },
+    {
+      "id": "evt_b5e59e2f",
+      "title": "试图以武力打开霍尔木兹海峡将“几乎是自杀”",
+      "summary": "安德烈亚斯·克里格（ Andreas Krieg ）表示，美国计划向海湾部署2500名海军陆战队员，不太可能重新开放霍尔木兹海峡。",
+      "date": "2026-03-17T01:52:09Z",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/17/attempts-to-open-strait-of-hormuz-by-force-would-be-almost-suicidal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/17/attempts-to-open-strait-of-hormuz-by-force-would-be-almost-suicidal?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Attempts to open Strait of Hormuz by force would be ‘almost suicidal’"
+      }
+    },
+    {
+      "id": "evt_4a29e623",
+      "title": "阿富汗指责巴基斯坦空袭戒毒中心",
+      "summary": "阿富汗官员说，巴基斯坦的一次空袭在一个戒毒中心造成数百人死亡。",
+      "date": "2026-03-17T01:35:36Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/afghanistan-accuses-pakistan-of-air-strike-on-drug-rehab-centre?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/afghanistan-accuses-pakistan-of-air-strike-on-drug-rehab-centre?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Afghanistan accuses Pakistan of air strike on drug rehab centre"
+      }
+    },
+    {
+      "id": "evt_99f970fe",
+      "title": "伊朗战争现场：特朗普斥责盟友不加入霍尔木兹海峡任务",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）批评盟国不愿承诺为海湾石油出口开辟关键航道。",
+      "date": "2026-03-17T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission"
+      }
+    },
+    {
+      "id": "evt_117c3a6b",
+      "title": "亲巴勒斯坦抗议者Leqaa Kordia从美国移民拘留中获释",
+      "summary": "这名33岁的哥伦比亚大学抗议者在移民拘留中心被关押了一年。",
+      "date": "2026-03-16T23:39:13Z",
+      "url": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pro-Palestine protester Leqaa Kordia freed from US immigration detention"
+      }
+    },
+    {
+      "id": "evt_05cf9836",
+      "title": "“我母亲最后一次大喊大叫” ： 12岁的巴勒斯坦男孩描述了以色列军队如何在车内杀害了他的家人",
+      "summary": "Khaled Bani Odeh的父母和两个兄弟在被占领的约旦河西岸开车回家时被枪杀。",
+      "date": "2026-03-16T17:57:45Z",
+      "url": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car"
+      }
+    },
+    {
+      "id": "evt_75c6a016",
+      "title": "伊朗袭击阿联酋主要石油港口和迪拜机场",
+      "summary": "在霍尔木兹海峡被封锁时，富查伊拉港在帮助保持全球供应方面发挥着至关重要的作用。",
+      "date": "2026-03-16T12:43:32Z",
+      "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran hits key UAE oil port and Dubai airport"
+      }
+    },
+    {
+      "id": "evt_8e912616",
+      "title": "谁想从伊朗战争中得到什么？",
+      "summary": "大多数人，虽然不是所有人，都希望这场战争尽快结束。但条件是什么呢？",
+      "date": "2026-03-16T11:00:03Z",
+      "url": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who wants what from the Iran war?"
+      }
+    },
+    {
+      "id": "evt_d1faa898",
+      "title": "德黑兰居民告诉英国广播公司，伊朗采取措施防止反建制抗议活动",
+      "summary": "居民描述了首都周围的新安全检查站，他们说人们在那里被拦截和搜查。",
+      "date": "2026-03-16T04:43:43Z",
+      "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump demands help from NATO allies; Dubai fire contained"
+        "en": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC"
       }
     },
     {
-      "id": "evt_64640b00",
-      "title": "特朗普高级顾问表示，到目前为止，伊朗战争的价格为120亿美元（ $ ）",
-      "summary": "随着战争成本的螺旋上升，美国总统政府的压力越来越大，该任务的最终结果仍然不明朗。",
-      "date": "2026-03-15T23:34:06Z",
-      "url": "https://www.aljazeera.com/news/2026/3/15/top-trump-advisor-says-iran-war-price-tag-at-approximately-12bn-so-far?traffic_source=rss",
+      "id": "evt_bf2d17f4",
+      "title": "伊朗人对战争的了解",
+      "summary": "伊朗国家媒体对战争的报道包括敌人伤亡的膨胀和旨在美化伊朗的数字操纵。",
+      "date": "2026-03-16T00:05:01Z",
+      "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/15/top-trump-advisor-says-iran-war-price-tag-at-approximately-12bn-so-far?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,91 +373,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Top Trump adviser says Iran war price tag at $12bn so far"
-      }
-    },
-    {
-      "id": "evt_0833fd4d",
-      "title": "特朗普敦促各国护送船只通过霍尔木兹海峡时反应平静",
-      "summary": "美国总统呼吁盟军海军部队之际，伊朗革命卫队说， “让他派遣他的船只”。",
-      "date": "2026-03-15T23:30:39Z",
-      "url": "https://www.aljazeera.com/news/2026/3/15/muted-response-as-trump-urges-nations-to-escort-ships-through-hormuz-strait?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/15/muted-response-as-trump-urges-nations-to-escort-ships-through-hormuz-strait?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Muted response as Trump urges nations to escort ships through Hormuz Strait"
-      }
-    },
-    {
-      "id": "evt_43861033",
-      "title": "以色列袭击在加沙造成13人死亡，其中包括2名儿童和1名孕妇",
-      "summary": "与此同时，超过2万名患者等待撤离，因为拉法过境点将于周三部分重新开放。",
-      "date": "2026-03-15T23:26:52Z",
-      "url": "https://www.aljazeera.com/news/2026/3/15/israeli-attacks-kill-12-in-gaza-including-2-children-and-a-pregnant-woman?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/15/israeli-attacks-kill-12-in-gaza-including-2-children-and-a-pregnant-woman?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli attacks kill 13 in Gaza, including 2 children and a pregnant woman"
-      }
-    },
-    {
-      "id": "evt_773d29f4",
-      "title": "伊朗战争对中国有何影响？",
-      "summary": "美国-以色列对伊朗的战争肆虐，中国表示不应该发生这种情况。",
-      "date": "2026-03-15T23:18:31Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/3/15/whats-the-impact-of-the-iran-war-on-china?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/3/15/whats-the-impact-of-the-iran-war-on-china?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What’s the impact of the Iran war on China?"
+        "en": "What Iranians are being told about the war"
       }
     },
     {
@@ -293,34 +405,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_6a0a5b86",
-      "title": "伊朗人如何逃避互联网封锁以联系海外家人",
-      "summary": "伊朗人正在寻找精通技术的方法来克服政权对电话和互联网连接的限制。",
-      "date": "2026-03-15T18:09:20Z",
-      "url": "https://www.bbc.com/news/articles/ckgl58y5943o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgl58y5943o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Iranians are evading internet blocks to contact family abroad"
-      }
-    },
-    {
       "id": "evt_4f00ae4e",
       "title": "以色列军队在被占领的约旦河西岸杀害巴勒斯坦夫妇及其两名子女",
       "summary": "巴勒斯坦卫生部表示， 5岁的穆罕默德和7岁的奥斯曼与父母一起被杀害。",
@@ -349,34 +433,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_3fb558f0",
-      "title": "美国和以色列为什么要进攻伊朗，战争会持续多久？",
-      "summary": "自2月28日美国和以色列对伊朗发动广泛罢工以来，冲突已经蔓延到整个中东地区。",
-      "date": "2026-03-15T09:03:32Z",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why did US and Israel attack Iran and how long could the war last?"
-      }
-    },
-    {
       "id": "evt_10bddd1a",
       "title": "美国列举了6名在伊拉克加油飞机坠毁中丧生的机组人员",
       "summary": "这架飞机周四在伊拉克西部坠毁时正在执行战斗任务，这是美国对伊朗正在进行的行动的一部分。",
@@ -402,6 +458,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US names six crew killed in refuelling plane crash in Iraq"
+      }
+    },
+    {
+      "id": "evt_ecdc3fdc",
+      "title": "以色列对黎巴嫩发动空袭，以色列国防军以真主党为目标，造成家属死亡，英国广播公司访问了这一地区",
+      "summary": "一位亲戚告诉英国广播公司，遇难者是平民，而不是真主党特工，但以色列国防军表示，他们的目标是“恐怖主义基础设施”。",
+      "date": "2026-03-14T22:55:40Z",
+      "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah"
       }
     },
     {
@@ -489,90 +573,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_99ddb013",
-      "title": "迪拜的光泽形象是否受到威胁？不是每个人都这么认为",
-      "summary": "这座城市一直被外籍人士、游客和有影响力的人士视为安全的避风港，但现在正在进行测试。",
-      "date": "2026-03-14T00:02:29Z",
-      "url": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Is Dubai's glossy image under threat? Not everyone thinks so"
-      }
-    },
-    {
-      "id": "evt_fb0c8142",
-      "title": "在无人机射击下，流亡的库尔德人等待与伊朗政权对抗",
-      "summary": "一群驻扎在伊拉克的战斗人员表示，他们“准备回家” ，因为他们面临来自德黑兰的无人机袭击。",
-      "date": "2026-03-13T22:02:39Z",
-      "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Under drone fire, exiled Kurds wait to confront Iranian regime"
-      }
-    },
-    {
-      "id": "evt_c1b15b8f",
-      "title": "伊朗人对新任最高领导人的首次讲话作出反应",
-      "summary": "在莫塔巴·哈梅内伊（ Mojtaba Khamenei ）通过国家电视台的节目主持人发表第一次演讲后，伊朗人质疑谁是真正的负责人。",
-      "date": "2026-03-13T15:53:48Z",
-      "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranians react to new supreme leader's first address"
-      }
-    },
-    {
       "id": "evt_d3d0d977",
       "title": "在美国鱼雷袭击中丧生的84名伊朗水手的尸体将被遣返",
       "summary": "3月4日，伊朗军舰“Iris Dena”号在斯里兰卡附近被一艘美国潜艇击沉。",
@@ -598,34 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated"
-      }
-    },
-    {
-      "id": "evt_377cf64c",
-      "title": "“船上没有藏身之处” ：水手们滞留在伊朗附近",
-      "summary": "无人机、巡航导弹和战斗机已经成为许多滞留在海湾船只上的水手的常见景象。",
-      "date": "2026-03-13T01:47:54Z",
-      "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'There's no hiding place on a ship': The sailors stranded near Iran"
       }
     },
     {
