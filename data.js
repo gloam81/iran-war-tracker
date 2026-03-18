@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-17T05:16:35.177942Z
+// 自动生成的数据 - 更新时间: 2026-03-18T05:22:31.765182Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-17T05:16:35.177874Z",
-    "totalEvents": 23,
+    "lastUpdate": "2026-03-18T05:22:31.765109Z",
+    "totalEvents": 25,
     "sources": {
-      "international": 23,
+      "international": 25,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,16 +13,156 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_bc23ee29",
-      "title": "由于伊朗战争扰乱了航运，南非水果出口面临延迟",
-      "summary": "随着美国-以色列对伊朗的战争进入第四周，南非的水果出口商面临着越来越多的损失和干扰。",
-      "date": "2026-03-17T04:20:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss",
+      "id": "evt_87cf9373",
+      "title": "特朗普证实，由于对伊朗的战争肆虐，与中国习近平的会晤被推迟",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）推迟了对北京的访问，同时也寻求中国的帮助，以重新开放霍尔木兹海峡。",
+      "date": "2026-03-18T04:43:27Z",
+      "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages"
+      }
+    },
+    {
+      "id": "evt_3cb11a37",
+      "title": "Araghchi ：尽管有针对性的领导人，伊朗的制度仍然有效",
+      "summary": "在高级官员遇害后，伊朗外交部长正在反击。",
+      "date": "2026-03-18T04:15:39Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Araghchi: Iran’s system holds despite targeted leaders"
+      }
+    },
+    {
+      "id": "evt_6bf1757e",
+      "title": "“这是美国的战争” ：伊朗外交部长Araghchi",
+      "summary": "伊朗外交部长指责美国造成地区局势升级，并表示华盛顿应对所有后果负责。",
+      "date": "2026-03-18T04:08:20Z",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘This is America’s war’: Iran’s Foreign Minister Araghchi"
+      }
+    },
+    {
+      "id": "evt_b0e18744",
+      "title": "杀害拉里贾尼不会破坏伊朗政治制度的稳定：部长",
+      "summary": "伊朗外交部长阿拉格奇表示，美以暗杀不会推翻德黑兰的“强大政治结构”。",
+      "date": "2026-03-18T03:58:12Z",
+      "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Killing of Larijani will not destabilise Iranian political system: Minister"
+      }
+    },
+    {
+      "id": "evt_b161e646",
+      "title": "美国驻巴格达大使馆附近遭无人机袭击",
+      "summary": "据称由与伊朗结盟的团体发射的无人机群后，巴格达绿区发生了火灾。",
+      "date": "2026-03-18T03:26:02Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/drone-attacks-hit-near-us-embassy-in-baghdad?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/drone-attacks-hit-near-us-embassy-in-baghdad?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Drone attacks hit near US embassy in Baghdad"
+      }
+    },
+    {
+      "id": "evt_5f04f883",
+      "title": "专家讨论杀害伊朗高级官员阿里· L的“以色列战略”",
+      "summary": "罗斯·哈里森（ Ross Harrison ）加入了一个小组，讨论美国和以色列谋杀伊朗高级领导人的目标。",
+      "date": "2026-03-18T02:57:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "South African fruit exports face delays as Iran war disrupts shipping"
+        "en": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L"
       }
     },
     {
-      "id": "evt_2d2f0020",
-      "title": "美国众议院民主党高层抨击特朗普“鲁莽的选择战争”",
-      "summary": "民主党领袖哈基姆·杰弗里斯（ Hakeem Jeffries ）批评唐纳德·特朗普（ Donald Trump ）称之为对伊朗的“鲁莽的选择",
-      "date": "2026-03-17T03:27:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss",
+      "id": "evt_9ce84507",
+      "title": "“我们将很快与古巴做点什么，”特朗普说",
+      "summary": "在对伊朗发动战争的同时，美国总统和他的国务卿要求改变古巴的领导层。",
+      "date": "2026-03-18T02:46:48Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +205,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Top Democrat in US House slams Trump’s ‘reckless war of choice’"
+        "en": "‘We’ll be doing something with Cuba very soon’, Trump says"
       }
     },
     {
-      "id": "evt_0e7ea17a",
-      "title": "在伊朗战争期间，以色列的政策在伊利诺伊州的美国选举中显得很重要",
-      "summary": "亲以色列团体向芝加哥地区的民主党初选投入了数百万美元，因为对美国盟友的支持创下历史新低。",
-      "date": "2026-03-17T03:22:17Z",
-      "url": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss",
+      "id": "evt_b258c651",
+      "title": "数据显示，伊朗允许更多船只通过霍尔木兹海峡",
+      "summary": "海事情报公司表示，最近几天，通过霍尔木兹海峡的船只数量几乎翻了一番。",
+      "date": "2026-03-18T02:22:54Z",
+      "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/17/israel-policy-looms-large-over-us-elections-in-illinois-amid-iran-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran allowing more ships through Strait of Hormuz, data suggest"
+      }
+    },
+    {
+      "id": "evt_3d95bcbb",
+      "title": "乌克兰派出201名军事专家在海湾地区对抗伊朗无人机",
+      "summary": "乌克兰总统泽伦斯基说，莫斯科、德黑兰“仇恨兄弟” ；声称伊朗的无人机“含有俄罗斯部件”。",
+      "date": "2026-03-18T01:58:55Z",
+      "url": "https://www.aljazeera.com/news/2026/3/18/over-200-ukrainian-military-experts-in-gulf-region-to-counter-irans-drones?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/18/over-200-ukrainian-military-experts-in-gulf-region-to-counter-irans-drones?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ukraine sends 201 military experts to counter Iranian drones in the Gulf"
+      }
+    },
+    {
+      "id": "evt_ae200670",
+      "title": "乔·肯特（ Joe Kent ）是谁？他为什么辞去特朗普的反恐负责人职务？",
+      "summary": "肯特是离开特朗普政府的最高级别官员，因为美国总统决定对伊朗发动战争。",
+      "date": "2026-03-18T01:04:24Z",
+      "url": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?"
+      }
+    },
+    {
+      "id": "evt_9913e95c",
+      "title": "拉里贾尼在被杀前对美国和以色列的警告",
+      "summary": "伊朗国家安全委员会已故秘书阿里·拉里贾尼（ Ali Larijani ）警告美国和以色列，杀害领导人将加强伊朗。",
+      "date": "2026-03-18T00:52:29Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +317,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel policy looms large over US elections in Illinois amid Iran war"
+        "en": "Larijani’s warning to US, Israel before his killing"
       }
     },
     {
-      "id": "evt_50dbeb86",
-      "title": "伊朗称社交媒体上没有赢得战争",
-      "summary": "伊朗中央总部发言人表示，战争是在战场上决定的，而不是在社交媒体上。",
-      "date": "2026-03-17T02:24:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss",
+      "id": "evt_73743214",
+      "title": "以色列称在黎巴嫩开展的“有限”地面行动",
+      "summary": "部队正在瞄准黎巴嫩南部的“真主党据点” ，据报道，周一的罢工造成9人死亡。",
+      "date": "2026-03-17T05:03:13Z",
+      "url": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel says 'limited' ground operations under way in Lebanon"
+      }
+    },
+    {
+      "id": "evt_4af44549",
+      "title": "美国天然气价格飙升加深了特朗普对伊朗的政治风险",
+      "summary": "迅速解决战争的可能性似乎与日俱减，总统的政治风险只会越来越大。",
+      "date": "2026-03-17T00:24:01Z",
+      "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,48 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran says wars are not won on social media"
+        "en": "Surge in US gas prices deepens political peril for Trump over Iran"
       }
     },
     {
-      "id": "evt_b5e59e2f",
-      "title": "试图以武力打开霍尔木兹海峡将“几乎是自杀”",
-      "summary": "安德烈亚斯·克里格（ Andreas Krieg ）表示，美国计划向海湾部署2500名海军陆战队员，不太可能重新开放霍尔木兹海峡。",
-      "date": "2026-03-17T01:52:09Z",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/17/attempts-to-open-strait-of-hormuz-by-force-would-be-almost-suicidal?traffic_source=rss",
+      "id": "evt_f19acfee",
+      "title": "两人被控在加拿大杀害反伊朗政权活动人士",
+      "summary": "警方表示，动机仍在调查中，但指出三人在社交媒体上存在争议。",
+      "date": "2026-03-16T18:48:59Z",
+      "url": "https://www.bbc.com/news/articles/c7952qyqwz4o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/17/attempts-to-open-strait-of-hormuz-by-force-would-be-almost-suicidal?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Attempts to open Strait of Hormuz by force would be ‘almost suicidal’"
-      }
-    },
-    {
-      "id": "evt_4a29e623",
-      "title": "阿富汗指责巴基斯坦空袭戒毒中心",
-      "summary": "阿富汗官员说，巴基斯坦的一次空袭在一个戒毒中心造成数百人死亡。",
-      "date": "2026-03-17T01:35:36Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/afghanistan-accuses-pakistan-of-air-strike-on-drug-rehab-centre?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/afghanistan-accuses-pakistan-of-air-strike-on-drug-rehab-centre?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c7952qyqwz4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,63 +401,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Afghanistan accuses Pakistan of air strike on drug rehab centre"
-      }
-    },
-    {
-      "id": "evt_99f970fe",
-      "title": "伊朗战争现场：特朗普斥责盟友不加入霍尔木兹海峡任务",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）批评盟国不愿承诺为海湾石油出口开辟关键航道。",
-      "date": "2026-03-17T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump scolds allies for not joining Strait of Hormuz mission"
-      }
-    },
-    {
-      "id": "evt_117c3a6b",
-      "title": "亲巴勒斯坦抗议者Leqaa Kordia从美国移民拘留中获释",
-      "summary": "这名33岁的哥伦比亚大学抗议者在移民拘留中心被关押了一年。",
-      "date": "2026-03-16T23:39:13Z",
-      "url": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/16/pro-palestine-protester-leqaa-kordia-freed-from-us-immigration-detention?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pro-Palestine protester Leqaa Kordia freed from US immigration detention"
+        "en": "Two charged in death of anti-Iranian regime activist in Canada"
       }
     },
     {
@@ -262,6 +430,62 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car"
+      }
+    },
+    {
+      "id": "evt_a2a38cdb",
+      "title": "谨慎的盟友表明，特朗普的伊朗危机没有快速解决办法",
+      "summary": "欧洲领导人对帮助特朗普保护霍尔木兹海峡犹豫不决，但他们知道，在伊朗战争中不采取行动并不是一种真正的选择。",
+      "date": "2026-03-16T17:34:13Z",
+      "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Wary allies show there's no quick fix to Trump's Iran crisis"
+      }
+    },
+    {
+      "id": "evt_8f691be0",
+      "title": "伊朗足球运动员说“一切都会好起来的” ，因为她与澳大利亚队一起训练",
+      "summary": "几名球员在担心球队在国内会受到影响后获得了澳大利亚签证。",
+      "date": "2026-03-16T13:40:22Z",
+      "url": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clyxwgll758o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian footballer says 'everything will be fine' as she trains with Australian team"
       }
     },
     {
@@ -486,174 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah"
-      }
-    },
-    {
-      "id": "evt_c18dc1e1",
-      "title": "为什么美国要瞄准伊朗的哈格岛？",
-      "summary": "这个小岛是伊朗能源基础设施中最重要的部分之一。",
-      "date": "2026-03-14T13:42:48Z",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why has the US targeted Iran's Kharg Island?"
-      }
-    },
-    {
-      "id": "evt_9c3786b9",
-      "title": "哈马斯敦促主要盟友伊朗停止对海湾国家的袭击",
-      "summary": "巴勒斯坦组织还申明德黑兰有权保护自己免受美国和以色列的“侵略”。",
-      "date": "2026-03-14T13:34:17Z",
-      "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hamas urges key ally Iran to halt attacks on Gulf states"
-      }
-    },
-    {
-      "id": "evt_bad92ca4",
-      "title": "据报道，越来越多的美国海军陆战队和军舰被转移到中东",
-      "summary": "一名官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司（ CBS ） ，增援部队将来自一个通常驻扎在日本的两栖部队。",
-      "date": "2026-03-14T13:27:32Z",
-      "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "More US Marines and warships being moved to Middle East, reports say"
-      }
-    },
-    {
-      "id": "evt_d3d0d977",
-      "title": "在美国鱼雷袭击中丧生的84名伊朗水手的尸体将被遣返",
-      "summary": "3月4日，伊朗军舰“Iris Dena”号在斯里兰卡附近被一艘美国潜艇击沉。",
-      "date": "2026-03-13T10:43:21Z",
-      "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated"
-      }
-    },
-    {
-      "id": "evt_9dd84897",
-      "title": "阿联酋部长告诉BBC伊朗必须停止对海湾地区的袭击",
-      "summary": "阿联酋表示，自战争开始以来，已有1800多架无人机和导弹投射到该国。",
-      "date": "2026-03-12T20:20:50Z",
-      "url": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Emirati minister tells BBC Iran must end strikes on Gulf"
-      }
-    },
-    {
-      "id": "evt_494fe0d9",
-      "title": "“指着扳机” ：敦促伊朗人采取行动的致命警告",
-      "summary": "伊朗警察局长警告说，他的部队将把“应敌人要求”走上街头的任何人视为敌人。",
-      "date": "2026-03-12T10:07:43Z",
-      "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action"
       }
     }
   ]
