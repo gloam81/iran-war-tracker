@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-03-18T05:22:31.765182Z
+// 自动生成的数据 - 更新时间: 2026-03-19T05:18:26.534460Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-18T05:22:31.765109Z",
+    "lastUpdate": "2026-03-19T05:18:26.534388Z",
     "totalEvents": 25,
     "sources": {
       "international": 25,
@@ -13,156 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_87cf9373",
-      "title": "特朗普证实，由于对伊朗的战争肆虐，与中国习近平的会晤被推迟",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）推迟了对北京的访问，同时也寻求中国的帮助，以重新开放霍尔木兹海峡。",
-      "date": "2026-03-18T04:43:27Z",
-      "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss",
+      "id": "evt_a83f93f4",
+      "title": "本-格维尔参观绞刑架博物馆，威胁判处死刑",
+      "summary": "以色列国家安全部长在绞刑架前拍摄了自己，威胁要判处死刑。",
+      "date": "2026-03-19T04:48:37Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/ben-gvir-visits-gallows-museum-threatens-the-death-penalty?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages"
-      }
-    },
-    {
-      "id": "evt_3cb11a37",
-      "title": "Araghchi ：尽管有针对性的领导人，伊朗的制度仍然有效",
-      "summary": "在高级官员遇害后，伊朗外交部长正在反击。",
-      "date": "2026-03-18T04:15:39Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Araghchi: Iran’s system holds despite targeted leaders"
-      }
-    },
-    {
-      "id": "evt_6bf1757e",
-      "title": "“这是美国的战争” ：伊朗外交部长Araghchi",
-      "summary": "伊朗外交部长指责美国造成地区局势升级，并表示华盛顿应对所有后果负责。",
-      "date": "2026-03-18T04:08:20Z",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘This is America’s war’: Iran’s Foreign Minister Araghchi"
-      }
-    },
-    {
-      "id": "evt_b0e18744",
-      "title": "杀害拉里贾尼不会破坏伊朗政治制度的稳定：部长",
-      "summary": "伊朗外交部长阿拉格奇表示，美以暗杀不会推翻德黑兰的“强大政治结构”。",
-      "date": "2026-03-18T03:58:12Z",
-      "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/18/killing-of-larijani-will-not-destabilise-iranian-political-system-minister?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Killing of Larijani will not destabilise Iranian political system: Minister"
-      }
-    },
-    {
-      "id": "evt_b161e646",
-      "title": "美国驻巴格达大使馆附近遭无人机袭击",
-      "summary": "据称由与伊朗结盟的团体发射的无人机群后，巴格达绿区发生了火灾。",
-      "date": "2026-03-18T03:26:02Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/drone-attacks-hit-near-us-embassy-in-baghdad?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/drone-attacks-hit-near-us-embassy-in-baghdad?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Drone attacks hit near US embassy in Baghdad"
-      }
-    },
-    {
-      "id": "evt_5f04f883",
-      "title": "专家讨论杀害伊朗高级官员阿里· L的“以色列战略”",
-      "summary": "罗斯·哈里森（ Ross Harrison ）加入了一个小组，讨论美国和以色列谋杀伊朗高级领导人的目标。",
-      "date": "2026-03-18T02:57:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/experts-discuss-israeli-strategy-in-killing-of-senior-iran-official-ali-l?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/ben-gvir-visits-gallows-museum-threatens-the-death-penalty?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Experts discuss ‘Israeli strategy’ in killing of senior Iran official Ali L"
+        "en": "Ben-Gvir visits gallows museum, threatens the death penalty"
       }
     },
     {
-      "id": "evt_9ce84507",
-      "title": "“我们将很快与古巴做点什么，”特朗普说",
-      "summary": "在对伊朗发动战争的同时，美国总统和他的国务卿要求改变古巴的领导层。",
-      "date": "2026-03-18T02:46:48Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss",
+      "id": "evt_b9c4e71c",
+      "title": "对海湾合作委员会的攻击显示“IRGC不认为，他们只是按下按钮”",
+      "summary": "沙特政治分析人士哈立德·巴塔菲（ Khaled Batarfi ）表示，伊朗对海湾合作委员会的攻击是非理性的，会引发愤怒。",
+      "date": "2026-03-19T04:48:11Z",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/19/attacks-on-gcc-show-irgc-dont-think-they-just-push-a-button?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/well-be-doing-something-with-cuba-very-soon-trump-says?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/19/attacks-on-gcc-show-irgc-dont-think-they-just-push-a-button?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,104 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘We’ll be doing something with Cuba very soon’, Trump says"
+        "en": "Attacks on GCC show ‘IRGC don’t think, they just push a button’"
       }
     },
     {
-      "id": "evt_b258c651",
-      "title": "数据显示，伊朗允许更多船只通过霍尔木兹海峡",
-      "summary": "海事情报公司表示，最近几天，通过霍尔木兹海峡的船只数量几乎翻了一番。",
-      "date": "2026-03-18T02:22:54Z",
-      "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss",
+      "id": "evt_9eca653b",
+      "title": "伊朗卡塔尔能源设施遭袭后，亚洲股市下跌",
+      "summary": "随着以色列和伊朗对关键能源基础设施的袭击加剧了对全球能源供应的担忧，股市暴跌。",
+      "date": "2026-03-19T04:46:51Z",
+      "url": "https://www.aljazeera.com/economy/2026/3/19/asias-stock-markets-dive-after-attacks-on-energy-facilities-in-qatar-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/3/18/iran-allowing-more-ships-through-strait-of-hormuz-data-shows?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran allowing more ships through Strait of Hormuz, data suggest"
-      }
-    },
-    {
-      "id": "evt_3d95bcbb",
-      "title": "乌克兰派出201名军事专家在海湾地区对抗伊朗无人机",
-      "summary": "乌克兰总统泽伦斯基说，莫斯科、德黑兰“仇恨兄弟” ；声称伊朗的无人机“含有俄罗斯部件”。",
-      "date": "2026-03-18T01:58:55Z",
-      "url": "https://www.aljazeera.com/news/2026/3/18/over-200-ukrainian-military-experts-in-gulf-region-to-counter-irans-drones?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/18/over-200-ukrainian-military-experts-in-gulf-region-to-counter-irans-drones?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ukraine sends 201 military experts to counter Iranian drones in the Gulf"
-      }
-    },
-    {
-      "id": "evt_ae200670",
-      "title": "乔·肯特（ Joe Kent ）是谁？他为什么辞去特朗普的反恐负责人职务？",
-      "summary": "肯特是离开特朗普政府的最高级别官员，因为美国总统决定对伊朗发动战争。",
-      "date": "2026-03-18T01:04:24Z",
-      "url": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/18/who-is-joe-kent-and-why-did-he-resign-as-trumps-counterterrorism-chief?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Who is Joe Kent, and why did he resign as Trump’s counterterrorism chief?"
-      }
-    },
-    {
-      "id": "evt_9913e95c",
-      "title": "拉里贾尼在被杀前对美国和以色列的警告",
-      "summary": "伊朗国家安全委员会已故秘书阿里·拉里贾尼（ Ali Larijani ）警告美国和以色列，杀害领导人将加强伊朗。",
-      "date": "2026-03-18T00:52:29Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/larijanis-warning-to-us-israel-before-his-killing?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/3/19/asias-stock-markets-dive-after-attacks-on-energy-facilities-in-qatar-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -317,7 +93,343 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Larijani’s warning to US, Israel before his killing"
+        "en": "Asia’s stock markets dive after attacks on energy facilities in Qatar, Iran"
+      }
+    },
+    {
+      "id": "evt_dcae75f1",
+      "title": "德黑兰救援人员从废墟中救出幸存者",
+      "summary": "伊朗红新月会发布的视频显示，紧急服务救援德黑兰美以空袭的幸存者。",
+      "date": "2026-03-19T04:44:48Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/tehran-rescue-workers-pull-survivors-from-rubble?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/tehran-rescue-workers-pull-survivors-from-rubble?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tehran rescue workers pull survivors from rubble"
+      }
+    },
+    {
+      "id": "evt_3bd3b83b",
+      "title": "三名巴勒斯坦妇女在约旦河西岸的伊朗导弹袭击中丧生",
+      "summary": "在导弹或可能是集束炸弹的碎片击中希伯伦附近的一家美容院时，妇女死亡， 13人受伤。",
+      "date": "2026-03-19T03:58:49Z",
+      "url": "https://www.aljazeera.com/news/2026/3/19/three-palestinian-women-killed-during-iranian-missile-attack-in-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/19/three-palestinian-women-killed-during-iranian-missile-attack-in-west-bank?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Three Palestinian women killed during Iranian missile attack in West Bank"
+      }
+    },
+    {
+      "id": "evt_20822eea",
+      "title": "“美国有计划吗？以色列有一个计划。美国知道吗？”",
+      "summary": "丹尼尔·利维（ Daniel Levy ）表示，美以对伊朗的战争是鲁莽的，为了以色列的利益而伤害盟友。",
+      "date": "2026-03-19T02:57:54Z",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/19/does-america-have-a-plan-israel-has-a-plan-does-america-know?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/19/does-america-have-a-plan-israel-has-a-plan-does-america-know?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Does America have a plan? Israel has a plan. Does America know?’"
+      }
+    },
+    {
+      "id": "evt_03f227ef",
+      "title": "三名妇女在被占领的约旦河西岸导弹袭击中丧",
+      "summary": "被占领的约旦河西岸美发沙龙中的三名妇女成为美以战争中首批巴勒斯坦人死亡的人。",
+      "date": "2026-03-19T02:19:28Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Three women killed in occupied West Bank missile attack"
+      }
+    },
+    {
+      "id": "evt_e3c6fae8",
+      "title": "沙特财长警告伊朗，在袭击中对海湾地区的耐心不是“无限的”",
+      "summary": "外交部长警告伊朗，该地区的邻国拥有应对袭击的“重要”能力。",
+      "date": "2026-03-19T02:11:25Z",
+      "url": "https://www.aljazeera.com/news/2026/3/19/saudi-fm-warns-iran-that-patience-in-gulf-not-unlimited-amid-attacks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/19/saudi-fm-warns-iran-that-patience-in-gulf-not-unlimited-amid-attacks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Saudi FM warns Iran that patience in Gulf not ‘unlimited’ amid attacks"
+      }
+    },
+    {
+      "id": "evt_05117001",
+      "title": "伊朗战争现场：卡塔尔，沙特能源站遭到袭击；利雅得表示信任消失",
+      "summary": "在以色列袭击伊朗北部的南帕尔斯气田和海军资产后，伊朗对海湾能源进行了打击。",
+      "date": "2026-03-19T00:30:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone"
+      }
+    },
+    {
+      "id": "evt_8ca6adc2",
+      "title": "卡塔尔在液化天然气设施罢工后驱逐伊朗随从",
+      "summary": "在伊朗导弹对拉斯拉凡造成“广泛破坏”后，卡塔尔正在驱逐伊朗的军事和安全人员。",
+      "date": "2026-03-19T00:20:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qatar expels Iranian attaches after LNG facility strike"
+      }
+    },
+    {
+      "id": "evt_09b7eb77",
+      "title": "为在巴基斯坦喀布尔医院罢工中丧生的阿富汗人举行葬礼",
+      "summary": "阿富汗人正在埋葬巴基斯坦空袭喀布尔毒品康复中心的受害者。",
+      "date": "2026-03-19T00:14:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/funerals-held-for-afghans-killed-in-pakistani-strike-on-kabul-hospital?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/funerals-held-for-afghans-killed-in-pakistani-strike-on-kabul-hospital?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Funerals held for Afghans killed in Pakistani strike on Kabul hospital"
+      }
+    },
+    {
+      "id": "evt_854732a9",
+      "title": "以色列摧毁黎巴嫩南部的河桥",
+      "summary": "卫生部表示，自3月2日以来，已有968人死亡，其中包括100多名儿童。",
+      "date": "2026-03-18T19:40:15Z",
+      "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel destroys river bridges in southern Lebanon"
+      }
+    },
+    {
+      "id": "evt_6e4fd2f6",
+      "title": "伊朗情报部长埃斯梅尔·哈提卜在空袭中丧生",
+      "summary": "以色列表示已杀害哈提卜，伊朗总统马苏德·佩泽什基安周三证实了哈提卜的死亡。",
+      "date": "2026-03-18T17:05:46Z",
+      "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's intelligence minister Esmail Khatib killed in air strike"
+      }
+    },
+    {
+      "id": "evt_c4af9369",
+      "title": "“很难阻止” ：英国广播公司访问伊朗对以色列的集束炸弹袭击现场",
+      "summary": "一枚炸弹飞入他们在以色列中部的公寓并爆炸后，一对老夫妇被炸死。",
+      "date": "2026-03-18T16:04:29Z",
+      "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel"
+      }
+    },
+    {
+      "id": "evt_313fde49",
+      "title": "为什么霍尔木兹海峡在伊朗战争中如此重要",
+      "summary": "伊朗表示，它将“纵火”试图通过世界上最重要的石油过境点的船只。",
+      "date": "2026-03-18T13:54:46Z",
+      "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why the Strait of Hormuz matters so much in the Iran war"
       }
     },
     {
@@ -374,34 +486,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Surge in US gas prices deepens political peril for Trump over Iran"
-      }
-    },
-    {
-      "id": "evt_f19acfee",
-      "title": "两人被控在加拿大杀害反伊朗政权活动人士",
-      "summary": "警方表示，动机仍在调查中，但指出三人在社交媒体上存在争议。",
-      "date": "2026-03-16T18:48:59Z",
-      "url": "https://www.bbc.com/news/articles/c7952qyqwz4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c7952qyqwz4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Two charged in death of anti-Iranian regime activist in Canada"
       }
     },
     {
@@ -626,90 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran captain latest footballer to drop asylum bid, Iranian state media says"
-      }
-    },
-    {
-      "id": "evt_4f00ae4e",
-      "title": "以色列军队在被占领的约旦河西岸杀害巴勒斯坦夫妇及其两名子女",
-      "summary": "巴勒斯坦卫生部表示， 5岁的穆罕默德和7岁的奥斯曼与父母一起被杀害。",
-      "date": "2026-03-15T10:38:22Z",
-      "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank"
-      }
-    },
-    {
-      "id": "evt_10bddd1a",
-      "title": "美国列举了6名在伊拉克加油飞机坠毁中丧生的机组人员",
-      "summary": "这架飞机周四在伊拉克西部坠毁时正在执行战斗任务，这是美国对伊朗正在进行的行动的一部分。",
-      "date": "2026-03-15T08:08:30Z",
-      "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US names six crew killed in refuelling plane crash in Iraq"
-      }
-    },
-    {
-      "id": "evt_ecdc3fdc",
-      "title": "以色列对黎巴嫩发动空袭，以色列国防军以真主党为目标，造成家属死亡，英国广播公司访问了这一地区",
-      "summary": "一位亲戚告诉英国广播公司，遇难者是平民，而不是真主党特工，但以色列国防军表示，他们的目标是“恐怖主义基础设施”。",
-      "date": "2026-03-14T22:55:40Z",
-      "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah"
       }
     }
   ]
