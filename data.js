@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-29T05:56:07.040045Z
+// 自动生成的数据 - 更新时间: 2026-03-30T06:20:51.605218Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-29T05:56:07.039974Z",
-    "totalEvents": 26,
+    "lastUpdate": "2026-03-30T06:20:51.605137Z",
+    "totalEvents": 24,
     "sources": {
-      "international": 26,
+      "international": 24,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_c02a6fdd",
-      "title": "在伊朗战争的阴影下，被占领的约旦河西岸发生了什么",
-      "summary": "自以色列与伊朗开战以来，被占领的约旦河西岸的定居者暴力事件激增。",
-      "date": "2026-03-29T04:34:31Z",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
+      "id": "evt_87b68d1b",
+      "title": "“我们正在杀死他们，兄弟” ：以色列人正确的伊朗在线流媒体",
+      "summary": "伊朗音乐家感谢以色列年轻女性通过美以空袭“拯救”伊朗。",
+      "date": "2026-03-30T05:54:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/were-killing-them-bro-israelis-correct-iranian-online-streamer?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/were-killing-them-bro-israelis-correct-iranian-online-streamer?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What happens in the occupied West Bank under the shadow of the Iran war"
+        "en": "‘We’re killing them, bro’: Israelis correct Iranian online streamer"
       }
     },
     {
-      "id": "evt_22dad8e3",
-      "title": "随着对伊朗的战争进入第二个月，也门的胡塞武装开辟了新的战线",
-      "summary": "也门集团承诺对以色列发动更多袭击，因为人们越来越担心不断恶化的冲突将失控。",
-      "date": "2026-03-29T00:59:21Z",
-      "url": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
+      "id": "evt_32b9cc74",
+      "title": "特朗普称伊朗的“政权更迭”正如他所描述的“大量石油”",
+      "summary": "美国总统唐纳德·特朗普表示，美以战争实际上带来了“政权更迭”。",
+      "date": "2026-03-30T05:20:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "As war on Iran enters second month, Yemen’s Houthis open new front"
+        "en": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’"
       }
     },
     {
-      "id": "evt_6a11706e",
-      "title": "伊朗战争现场：德黑兰警告美国，以色列大学；胡塞武装发射导弹",
-      "summary": "反战抗议者在特拉维夫和美国城市集会，因为伊朗布什尔省的一个四口之家遭到袭击。",
-      "date": "2026-03-29T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss",
+      "id": "evt_d2f4cacf",
+      "title": "Fakhar Zaman被控在PSL中被巴基斯坦董事会篡改球",
+      "summary": "巴基斯坦超级联赛对扎曼的球篡改指控感到震惊，据称这起事件发生在周日。",
+      "date": "2026-03-30T04:54:26Z",
+      "url": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -93,104 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran warns US, Israeli universities; Houthis fire missiles"
+        "en": "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL"
       }
     },
     {
-      "id": "evt_2442a458",
-      "title": "美以对伊战争第一个月的关键时刻",
-      "summary": "在美国和以色列对伊朗发动罢工一个月后，中东冲突升级。",
-      "date": "2026-03-28T22:50:55Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss",
+      "id": "evt_7341b49b",
+      "title": "国际原子能机构表示，伊朗的孔达卜重水反应堆不再运行",
+      "summary": "联合国核监督机构表示，伊朗的孔达卜重水生产厂已不再运营。",
+      "date": "2026-03-30T02:13:21Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iaea-says-irans-khondab-heavy-water-reactor-no-longer-operational?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Key moments in first month of US-Israeli war on Iran"
-      }
-    },
-    {
-      "id": "evt_ac4270e7",
-      "title": "伊拉克空袭造成三名PMF战斗机和两名警察死亡",
-      "summary": "伊拉克在战争中变成了“不断扩大的战场” ，这场战争始于2月28日美国-以色列对伊朗的袭击。",
-      "date": "2026-03-28T22:32:05Z",
-      "url": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Air strikes in Iraq kill three PMF fighters, two police"
-      }
-    },
-    {
-      "id": "evt_d7402323",
-      "title": "礼萨·巴列维承诺在2026年CPAC会议上“让伊朗再次伟大”",
-      "summary": "伊朗反对派领导人呼吁特朗普政府在美国和以色列对伊朗发动战争时“坚持到底”。",
-      "date": "2026-03-28T22:05:31Z",
-      "url": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference"
-      }
-    },
-    {
-      "id": "evt_c840cd4d",
-      "title": "巴基斯坦与伊朗达成协议，派遣20艘船只通过霍尔木兹海峡",
-      "summary": "随着世界关注更广泛突破的迹象，伊斯兰堡的外交努力取得了成果。",
-      "date": "2026-03-28T21:56:30Z",
-      "url": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iaea-says-irans-khondab-heavy-water-reactor-no-longer-operational?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,14 +121,182 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz"
+        "en": "IAEA says Iran’s Khondab heavy water reactor no longer operational"
+      }
+    },
+    {
+      "id": "evt_30655acd",
+      "title": "伊朗学者描述美国-以色列对伊朗大学的袭击",
+      "summary": "Doutaghi表示，这次袭击反映了更广泛的模式，并引发了对“合法报复”的定义问题。",
+      "date": "2026-03-30T01:24:55Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian academic describes US-Israeli attacks on Iran’s universities"
+      }
+    },
+    {
+      "id": "evt_b8da5058",
+      "title": "内塔尼亚胡下令以色列进一步入侵黎巴嫩",
+      "summary": "以色列总理内塔尼亚胡下令军队扩大对黎巴嫩南部的入侵。",
+      "date": "2026-03-30T01:09:32Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu orders deeper Israeli invasion into Lebanon"
+      }
+    },
+    {
+      "id": "evt_1bc004ad",
+      "title": "油价飙升至每桶116 $ ，因伊朗指责美国准备入侵",
+      "summary": "随着世界面临数十年来最大的能源危机，原油价格继续攀升。",
+      "date": "2026-03-30T00:53:36Z",
+      "url": "https://www.aljazeera.com/economy/2026/3/30/oil-rises-above-116-a-barrel-as-iran-accuses-us-of-preparing-invasion?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/3/30/oil-rises-above-116-a-barrel-as-iran-accuses-us-of-preparing-invasion?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil tops $116 a barrel as Iran accuses US of preparing invasion"
+      }
+    },
+    {
+      "id": "evt_8eab084f",
+      "title": "伊朗袭击破坏科威特电力和海水淡化厂，造成工人死亡",
+      "summary": "科威特当局表示，印度工人在袭击中丧生，这也对建筑物造成了“重大物质损失”。",
+      "date": "2026-03-30T00:52:55Z",
+      "url": "https://www.aljazeera.com/news/2026/3/30/iranian-attack-damages-kuwait-power-and-desalination-plant-kills-worker?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/3/30/iranian-attack-damages-kuwait-power-and-desalination-plant-kills-worker?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian attack damages Kuwait power and desalination plant, kills worker"
+      }
+    },
+    {
+      "id": "evt_59e9e1f8",
+      "title": "伊朗战争现场：特朗普表示希望夺取伊朗石油；科威特核电站被击中",
+      "summary": "科威特说，随着海湾地区的袭击持续不断，一名印度工人在伊朗的袭击中丧生。",
+      "date": "2026-03-30T00:00:44Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit"
+      }
+    },
+    {
+      "id": "evt_3eaa2a1b",
+      "title": "胡塞武装的参与将如何影响这场战争？",
+      "summary": "也门集团向以色列发射导弹，以支持伊朗。",
+      "date": "2026-03-29T22:46:09Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How will the Houthis’ involvement shape the war?"
       }
     },
     {
       "id": "evt_1ef96840",
       "title": "广播公司称，三名黎巴嫩记者在以色列罢工中丧生",
       "summary": "以色列军方证实，它杀死了真主党附属Al Manar电视台的Ali Shoeib。",
-      "date": "2026-03-28T21:50:40Z",
+      "date": "2026-03-29T07:51:04Z",
       "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -234,34 +318,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Three Lebanese journalists killed in Israeli strike, say broadcasters"
-      }
-    },
-    {
-      "id": "evt_35a5c513",
-      "title": "科威特机场遭伊朗无人机空袭",
-      "summary": "在怀疑伊朗无人机袭击造成损害后，科威特国际机场周六冒出浓浓的黑烟。",
-      "date": "2026-03-28T20:58:37Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Kuwait airport hit by Iranian drone strikes"
       }
     },
     {
@@ -290,90 +346,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran-backed Houthis join war with attack against Israel"
-      }
-    },
-    {
-      "id": "evt_ac42c515",
-      "title": "乌克兰的无人机专业知识能否服务于海湾国家？",
-      "summary": "随着伊朗战争升级，海湾国家寻求新的防务伙伴关系。",
-      "date": "2026-03-28T20:50:59Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Could Ukraine’s drone expertise serve Gulf countries?"
-      }
-    },
-    {
-      "id": "evt_851d850e",
-      "title": "巴勒斯坦行动支持者因伦敦大都会警察局撤销政策而被捕",
-      "summary": "逮捕发生在武力宣布掉头后几天，称尽管高等法院做出了裁决，但“恐怖”禁令仍然存在。",
-      "date": "2026-03-28T20:09:35Z",
-      "url": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestine Action supporters arrested as London’s Met Police reverse policy"
-      }
-    },
-    {
-      "id": "evt_85c1c869",
-      "title": "导弹袭击以色列南部城市埃拉特",
-      "summary": "以色列社交媒体帖子显示以色列埃拉特市发生罢工。",
-      "date": "2026-03-28T19:59:31Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/missiles-hit-southern-israeli-city-of-eilat?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Missiles hit southern Israeli city of Eilat"
       }
     },
     {
@@ -430,34 +402,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike"
-      }
-    },
-    {
-      "id": "evt_de36ed1a",
-      "title": "随着战争的肆虐，伊朗政客推动退出核武器条约",
-      "summary": "虽然美以袭击袭击了关键基础设施，但强硬派要求退出《核不扩散条约》。",
-      "date": "2026-03-28T17:48:55Z",
-      "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "As war rages, Iranian politicians push for exit from nuclear weapons treaty"
       }
     },
     {
@@ -542,6 +486,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises"
+      }
+    },
+    {
+      "id": "evt_3fb558f0",
+      "title": "美国和以色列为什么要进攻伊朗，战争会持续多久？",
+      "summary": "自2月28日美国和以色列对伊朗发动罢工以来，冲突已经蔓延到整个中东地区。",
+      "date": "2026-03-27T15:11:31Z",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why did US and Israel attack Iran and how long could the war last?"
       }
     },
     {
@@ -685,16 +657,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_56b5a7b9",
-      "title": "以色列称已杀死负责监督霍尔木兹海峡封锁的伊朗海军总司令",
-      "summary": "以色列国防部长说，其他一些“海军高级指挥官”也被杀害。伊朗尚未置评。",
-      "date": "2026-03-26T15:26:36Z",
-      "url": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss",
+      "id": "evt_157aa0f4",
+      "title": "一位忠诚的药剂师和一位思乡的博客作者--伊朗平民在战争中丧生",
+      "summary": "随着美国-以色列对伊朗的战争继续进行，平民伤亡正在迅速增加。",
+      "date": "2026-03-23T18:31:26Z",
+      "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -709,35 +681,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel says it has killed Iran's navy chief overseeing Strait of Hormuz blockade"
-      }
-    },
-    {
-      "id": "evt_995d0590",
-      "title": "特朗普的伊朗战略是同时追求两个匝道",
-      "summary": "白宫坚称总统在口述事件，但即使是一些共和党人也对他的战争目标感到沮丧。",
-      "date": "2026-03-26T02:00:53Z",
-      "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump's Iran strategy is to pursue two off-ramps at once"
+        "en": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war"
       }
     }
   ]
