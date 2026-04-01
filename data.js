@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-03-31T05:58:45.019431Z
+// 自动生成的数据 - 更新时间: 2026-04-01T06:15:00.340205Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-03-31T05:58:45.019326Z",
-    "totalEvents": 27,
+    "lastUpdate": "2026-04-01T06:15:00.340132Z",
+    "totalEvents": 23,
     "sources": {
-      "international": 27,
+      "international": 23,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,107 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_e7bb8218",
-      "title": "加沙儿童在玩耍时重现葬礼队伍",
-      "summary": "一群儿童在加沙的一个流离失所者营地一起玩耍时，与他们的娃娃重演了一场葬礼。",
-      "date": "2026-03-31T04:41:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/children-in-gaza-reenact-a-funeral-procession-during-play?traffic_source=rss",
+      "id": "evt_87d809e9",
+      "title": "伊拉克以2比1击败玻利维亚，获得2026年世界杯参赛资格",
+      "summary": "阿里·哈马迪（ Ali Al-Hamadi ）和艾门·侯赛因（ Aymen Hussein ）的目标使伊拉克自1986年以来首次参加国际足联",
+      "date": "2026-04-01T05:17:37Z",
+      "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/children-in-gaza-reenact-a-funeral-procession-during-play?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Children in Gaza reenact a funeral procession during play"
-      }
-    },
-    {
-      "id": "evt_dde22211",
-      "title": "西班牙对卷入伊朗战争的美国战机关闭领空",
-      "summary": "西班牙又迈出了一步，拒绝美国-以色列对伊朗的战争，拒绝美国战机使用其领空。",
-      "date": "2026-03-31T04:40:16Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Spain closes airspace to US warplanes involved in war on Iran"
-      }
-    },
-    {
-      "id": "evt_72d734ee",
-      "title": "对以色列针对巴勒斯坦人的死刑法律的愤怒和谴责",
-      "summary": "在以色列将对巴勒斯坦人的死刑合法化之后，愤怒和广泛谴责一直存在。",
-      "date": "2026-03-31T04:30:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Outrage and condemnation over Israel’s death penalty law for Palestinians"
-      }
-    },
-    {
-      "id": "evt_bf4bb945",
-      "title": "英国亲巴勒斯坦活动人士获保释数周后被捕",
-      "summary": "英国亲巴勒斯坦活动家Qesser Zuhrah在上个月被保释后因恐怖主义指控被捕。",
-      "date": "2026-03-31T04:11:28Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss"
         }
       ],
       "category": "political",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -121,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UK pro-Palestine activist arrested weeks after being released on bail"
+        "en": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026"
       }
     },
     {
-      "id": "evt_0db41ba9",
-      "title": "活动家Nerdeen Kiswani ： “我感到比以往任何时候都更加受到威胁”",
-      "summary": "在联邦调查局挫败暗杀阴谋几天后，活动家内尔丁·基斯瓦尼（ Nerdeen Kiswani ）表示，她将继续倡导巴勒斯坦。",
-      "date": "2026-03-31T03:35:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/activist-nerdeen-kiswani-i-feel-more-threatened-than-ever?traffic_source=rss",
+      "id": "evt_bc285387",
+      "title": "居民检查埃尔比勒机场附近的无人机损坏情况",
+      "summary": "居住在伊拉克北部埃尔比勒国际机场附近的居民说，坠落的无人机碎片已经损坏了财产。",
+      "date": "2026-04-01T04:54:19Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/activist-nerdeen-kiswani-i-feel-more-threatened-than-ever?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss"
         }
       ],
       "category": "political",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -149,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Activist Nerdeen Kiswani: ‘I feel more threatened than ever before’"
+        "en": "Residents inspect drone damage near Erbil airport"
       }
     },
     {
-      "id": "evt_ad64ef54",
-      "title": "五角大楼否认Hegseth的经纪人在伊朗战争前寻求投资",
-      "summary": "美国国防部要求撤回指控经纪人为Hegseth寻求数百万美元投资的报道。",
-      "date": "2026-03-31T02:32:29Z",
-      "url": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss",
+      "id": "evt_d83de70c",
+      "title": "全球抗议活动谴责以色列针对巴勒斯坦人的新死刑法",
+      "summary": "抗议者谴责以色列的新法案，该法案将死刑定为对一些巴勒斯坦人的默认惩罚。",
+      "date": "2026-04-01T02:51:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pentagon denies that Hegseth’s broker sought investment before Iran war"
-      }
-    },
-    {
-      "id": "evt_b0273ce7",
-      "title": "美国-以色列对伊朗城市伊斯法罕的激烈袭击造成纵火",
-      "summary": "目击者捕获了美国和以色列对伊朗人口230万的城市伊斯法罕的激烈袭击。",
-      "date": "2026-03-31T01:25:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/intense-us-israeli-attacks-on-iranian-city-of-isfahan-cause-column-of-fire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,48 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire"
+        "en": "Global protests condemning Israel’s new death penalty law for Palestinians"
       }
     },
     {
-      "id": "evt_74ffaa48",
-      "title": "半岛电视台对马可·卢比奥关于美国对伊朗战争的完整采访",
-      "summary": "美国国务卿马可·卢比奥（ Marco Rubio ）在一次独家采访中表示，伊朗战争目标将在“几周内”实现。",
-      "date": "2026-03-31T00:02:35Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/al-jazeeras-full-interview-with-marco-rubio-on-us-war-on-iran?traffic_source=rss",
+      "id": "evt_16b9559d",
+      "title": "Al-Sharaa表示，除非受到攻击，否则叙利亚将不与伊朗开战",
+      "summary": "“14年的战争对叙利亚来说已经足够了” ：艾哈迈德·沙拉说，叙利亚将继续置身于美以对伊朗的战争之外。",
+      "date": "2026-04-01T02:07:14Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/al-jazeeras-full-interview-with-marco-rubio-on-us-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Al Jazeera’s full interview with Marco Rubio on US war on Iran"
-      }
-    },
-    {
-      "id": "evt_0a12e8b8",
-      "title": "伊朗战争现场：科威特油轮在迪拜港被击中； 3名联合国士兵丧生",
-      "summary": "沙特、卡塔尔和约旦领导人会晤之际，伊朗继续对美以袭击海湾国家进行报复。",
-      "date": "2026-03-31T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live-kuwaiti-oil-tanker-hit-in-dubai-port-3-un-troops-killed?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/3/31/iran-war-live-kuwaiti-oil-tanker-hit-in-dubai-port-3-un-troops-killed?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -261,20 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Kuwaiti oil tanker hit in Dubai port; 3 UN soldiers killed"
+        "en": "Al-Sharaa says Syria to stay out of war on Iran unless attacked"
       }
     },
     {
-      "id": "evt_678454f7",
-      "title": "美国对以色列关闭耶路撒冷圣地表示关切",
-      "summary": "白宫表示，美国对以色列关闭耶路撒冷圣地表示担忧。",
-      "date": "2026-03-30T23:21:37Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-raises-concern-over-israels-closure-of-jerusalem-holy-sites?traffic_source=rss",
+      "id": "evt_cc5dca6a",
+      "title": "紧急救援人员搜寻以色列空袭贝鲁特的受害者",
+      "summary": "在以色列空袭Jnah街区后，紧急救援人员在贝鲁特的废墟中搜寻。",
+      "date": "2026-04-01T00:56:38Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/us-raises-concern-over-israels-closure-of-jerusalem-holy-sites?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -289,20 +149,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US raises concern over Israel’s closure of Jerusalem holy sites"
+        "en": "Emergency workers search for victims of Israeli airstrikes on Beirut"
       }
     },
     {
-      "id": "evt_5e39f845",
-      "title": "伊朗外交部拒绝美国的停火要求",
-      "summary": "伊朗外交部发言人表示，美国提出的停火条件“过度、不切实际、不合理”。",
-      "date": "2026-03-30T23:12:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss",
+      "id": "evt_56eac916",
+      "title": "“仅适用于巴勒斯坦人的死亡法”",
+      "summary": "抗议者要求英国首相凯尔·斯塔默采取行动，而不仅仅是谴责以色列对巴勒斯坦人的死刑法。",
+      "date": "2026-04-01T00:56:02Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/irans-foreign-ministry-rejects-us-ceasefire-demands?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘A law of death that only applies to Palestinians’"
+      }
+    },
+    {
+      "id": "evt_c74f1f9f",
+      "title": "特朗普告诉盟友“获取自己的石油” ，称伊朗战争可能在2-3周内结束",
+      "summary": "在国内汽油价格飙升的压力下，美国总统表示，结束对伊朗的战争不需要任何协议。",
+      "date": "2026-04-01T00:14:19Z",
+      "url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -317,20 +205,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s foreign ministry rejects US ceasefire demands"
+        "en": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks"
       }
     },
     {
-      "id": "evt_615c012a",
-      "title": "马可·卢比奥接受半岛电视台采访的关键时刻",
-      "summary": "美国国务卿马可·卢比奥（ Marco Rubio ）专门与半岛电视台的哈希姆·阿赫尔巴拉（ Hashem Ahelbarra ）谈到了对伊朗的战争。",
-      "date": "2026-03-30T22:33:49Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss",
+      "id": "evt_0013ccde",
+      "title": "伊朗战争现场：特朗普称冲突将在2-3周内结束；科威特机场遭袭",
+      "summary": "美国-以色列的罢工继续在伊朗各地进行，打击了伊斯法罕和法罗沙的制药公司和钢铁厂。",
+      "date": "2026-04-01T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/key-moments-from-marco-rubios-interview-with-al-jazeera?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump says conflict to end in 2-3 weeks; Kuwait airport hit"
+      }
+    },
+    {
+      "id": "evt_af7f697f",
+      "title": "“你不再是我的妹妹” -随着战争分裂伊朗家庭，争吵爆发",
+      "summary": "伊朗人将愤怒的场面和紧张的关系描述为战争的裂痕。",
+      "date": "2026-03-31T23:25:19Z",
+      "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -345,7 +261,147 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Key moments from Marco Rubio’s interview with Al Jazeera"
+        "en": "'You're no longer my sister' - rows erupt as war divides Iranian families"
+      }
+    },
+    {
+      "id": "evt_06bb20a3",
+      "title": "初步报告发现，在黎巴嫩，维和人员死于路边爆炸",
+      "summary": "两名印度尼西亚国民的死亡是在另一名联合国维和人员（也是印度尼西亚人）在黎巴嫩被杀不到一天后发生的。",
+      "date": "2026-03-31T22:07:26Z",
+      "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds"
+      }
+    },
+    {
+      "id": "evt_86020339",
+      "title": "美国记者雪莉·基特尔森在巴格达被绑架",
+      "summary": "美国国务院表示，绑架她的嫌疑人与伊朗支持的民兵组织卡塔卜真主党有联系。",
+      "date": "2026-03-31T21:08:35Z",
+      "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US journalist Shelly Kittleson kidnapped in Baghdad"
+      }
+    },
+    {
+      "id": "evt_ae0e2334",
+      "title": "以色列表示，在与真主党的战争结束后，它将保持对黎巴嫩南部部分地区的控制",
+      "summary": "国防部长以色列·卡茨（ Israel Katz ）还表示，以色列边境附近的黎巴嫩村庄的房屋将被拆除。",
+      "date": "2026-03-31T18:57:25Z",
+      "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends"
+      }
+    },
+    {
+      "id": "evt_ed30f03e",
+      "title": "根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑",
+      "summary": "周一通过的新法律受到极右翼和安全部长伊塔马尔·本-格维尔（ Itamar Ben-Gvir ）的严厉推动。",
+      "date": "2026-03-31T17:30:05Z",
+      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinians convicted of lethal attacks face death penalty under new Israeli law"
+      }
+    },
+    {
+      "id": "evt_5f312d45",
+      "title": "报告和目击者称，伊朗在战争中使用儿童担任安全角色",
+      "summary": "据报道，一名11岁的儿童在德黑兰的一个检查站驻守时在一次空袭中丧生。",
+      "date": "2026-03-31T12:56:45Z",
+      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran using children in security roles in war, reports and witnesses say"
       }
     },
     {
@@ -377,34 +433,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_ed30f03e",
-      "title": "根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑",
-      "summary": "周一通过的新法律受到极右翼和安全部长伊塔马尔·本-格维尔（ Itamar Ben-Gvir ）的严厉推动。",
-      "date": "2026-03-30T21:11:37Z",
-      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians convicted of deadly attacks face death penalty under new Israeli law"
-      }
-    },
-    {
       "id": "evt_ee75bdea",
       "title": "Merz说，大多数在德国的叙利亚难民预计将在三年内返回家园",
       "summary": "梅尔茨政府对难民和移民采取了更强硬的立场，因为反移民AfD党的支持率越来越高。",
@@ -430,34 +458,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Most Syrian refugees in Germany expected to return home in three years, Merz says"
-      }
-    },
-    {
-      "id": "evt_0f878272",
-      "title": "两名印尼维和人员在黎巴嫩爆炸中丧生",
-      "summary": "联黎部队表示，这是过去24小时内发生的第二起致命事件，此前以色列扩大了对真主党的行动。",
-      "date": "2026-03-30T19:14:12Z",
-      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Two Indonesian UN peacekeepers killed in explosion in Lebanon"
       }
     },
     {
@@ -601,62 +601,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_65d80142",
-      "title": "随着人们的注意力转向伊朗，加沙和平疑虑加深",
-      "summary": "随着世界关注伊朗战争，加沙接下来会发生什么越来越不确定。",
-      "date": "2026-03-28T06:00:37Z",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gaza peace doubts deepen as attention shifts to Iran"
-      }
-    },
-    {
-      "id": "evt_d3b5fd1a",
-      "title": "“我的女儿在瓦砾下” ：德黑兰内部罢工的平民死亡人数上升",
-      "summary": "自美国和以色列对伊朗发动罢工一个月后，德黑兰居民告诉英国广播公司，他们的生活受到了严重破坏。",
-      "date": "2026-03-27T21:30:12Z",
-      "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises"
-      }
-    },
-    {
       "id": "evt_4c6aa68f",
       "title": "联合国人权事务主管呼吁美国结束对伊朗学校罢工的调查",
       "summary": "Volker Türk说，这次罢工造成至少168人死亡，其中大多数是儿童， “引起了内心的恐惧”。",
@@ -685,34 +629,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_b7d397e7",
-      "title": "特朗普暂停攻击伊朗能源是为了外交还是为了升级？",
-      "summary": "英国广播公司的詹姆斯·兰代尔（ James Landale ）写道，美国总统对截止日期的承诺是不确定的，但他将其用于某种目的。",
-      "date": "2026-03-27T13:17:22Z",
-      "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?"
-      }
-    },
-    {
       "id": "evt_916fb131",
       "title": "巴勒斯坦男子因西岸定居者暴力事件死亡人数攀升而丧生",
       "summary": "穆罕默德·马利（ Mohammad al-Malhi ）是自与伊朗的战争开始以来第七位在暴力事件中被定居者杀害的巴勒斯坦人。",
@@ -738,34 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Palestinian man killed as death toll from West Bank settler violence climbs"
-      }
-    },
-    {
-      "id": "evt_8b7ffcc6",
-      "title": "乌克兰与沙特阿拉伯签署提供无人机专业知识的协议",
-      "summary": "沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）说，这个海湾王国面临着来自伊朗的同类袭击，而基辅一直在抵制这种袭击。",
-      "date": "2026-03-27T10:15:27Z",
-      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ukraine signs deal with Saudi Arabia offering drone expertise"
       }
     }
   ]
