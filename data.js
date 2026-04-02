@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-01T06:15:00.340205Z
+// 自动生成的数据 - 更新时间: 2026-04-02T05:52:55.073106Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-01T06:15:00.340132Z",
-    "totalEvents": 23,
+    "lastUpdate": "2026-04-02T05:52:55.073044Z",
+    "totalEvents": 22,
     "sources": {
-      "international": 23,
+      "international": 22,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,184 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_87d809e9",
-      "title": "伊拉克以2比1击败玻利维亚，获得2026年世界杯参赛资格",
-      "summary": "阿里·哈马迪（ Ali Al-Hamadi ）和艾门·侯赛因（ Aymen Hussein ）的目标使伊拉克自1986年以来首次参加国际足联",
-      "date": "2026-04-01T05:17:37Z",
-      "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss",
+      "id": "evt_c216517d",
+      "title": "特朗普关于伊朗战争的黄金时段演讲：关键要点",
+      "summary": "美国总统表示，华盛顿“非常接近”实现目标，因为他承诺将轰炸伊朗进入“石器时代”。",
+      "date": "2026-04-02T05:15:10Z",
+      "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026"
-      }
-    },
-    {
-      "id": "evt_bc285387",
-      "title": "居民检查埃尔比勒机场附近的无人机损坏情况",
-      "summary": "居住在伊拉克北部埃尔比勒国际机场附近的居民说，坠落的无人机碎片已经损坏了财产。",
-      "date": "2026-04-01T04:54:19Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Residents inspect drone damage near Erbil airport"
-      }
-    },
-    {
-      "id": "evt_d83de70c",
-      "title": "全球抗议活动谴责以色列针对巴勒斯坦人的新死刑法",
-      "summary": "抗议者谴责以色列的新法案，该法案将死刑定为对一些巴勒斯坦人的默认惩罚。",
-      "date": "2026-04-01T02:51:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Global protests condemning Israel’s new death penalty law for Palestinians"
-      }
-    },
-    {
-      "id": "evt_16b9559d",
-      "title": "Al-Sharaa表示，除非受到攻击，否则叙利亚将不与伊朗开战",
-      "summary": "“14年的战争对叙利亚来说已经足够了” ：艾哈迈德·沙拉说，叙利亚将继续置身于美以对伊朗的战争之外。",
-      "date": "2026-04-01T02:07:14Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Al-Sharaa says Syria to stay out of war on Iran unless attacked"
-      }
-    },
-    {
-      "id": "evt_cc5dca6a",
-      "title": "紧急救援人员搜寻以色列空袭贝鲁特的受害者",
-      "summary": "在以色列空袭Jnah街区后，紧急救援人员在贝鲁特的废墟中搜寻。",
-      "date": "2026-04-01T00:56:38Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Emergency workers search for victims of Israeli airstrikes on Beirut"
-      }
-    },
-    {
-      "id": "evt_56eac916",
-      "title": "“仅适用于巴勒斯坦人的死亡法”",
-      "summary": "抗议者要求英国首相凯尔·斯塔默采取行动，而不仅仅是谴责以色列对巴勒斯坦人的死刑法。",
-      "date": "2026-04-01T00:56:02Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/a-law-of-death-that-only-applies-to?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘A law of death that only applies to Palestinians’"
-      }
-    },
-    {
-      "id": "evt_c74f1f9f",
-      "title": "特朗普告诉盟友“获取自己的石油” ，称伊朗战争可能在2-3周内结束",
-      "summary": "在国内汽油价格飙升的压力下，美国总统表示，结束对伊朗的战争不需要任何协议。",
-      "date": "2026-04-01T00:14:19Z",
-      "url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/1/trump-tells-allies-get-your-own-oil-says-iran-war-could-end-in-2-3-weeks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,20 +37,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump tells allies ‘get your own oil’, says Iran war could end in 2-3 weeks"
+        "en": "Trump’s primetime speech on Iran war: Key takeaways"
       }
     },
     {
-      "id": "evt_0013ccde",
-      "title": "伊朗战争现场：特朗普称冲突将在2-3周内结束；科威特机场遭袭",
-      "summary": "美国-以色列的罢工继续在伊朗各地进行，打击了伊斯法罕和法罗沙的制药公司和钢铁厂。",
-      "date": "2026-04-01T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss",
+      "id": "evt_ecdfed77",
+      "title": "特朗普关于伊朗的国家演讲“令人尴尬，不连贯”",
+      "summary": "美国前高级海军军官哈伦·乌尔曼（ Harlan Ullman ）抨击了特朗普总统向全国发表的讲话。",
+      "date": "2026-04-02T05:01:23Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/1/iran-live-trump-says-no-deal-needed-to-end-war-isfahan-steel-plants-hit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump’s national address on Iran ’embarrassing, incoherent’"
+      }
+    },
+    {
+      "id": "evt_1fd7a474",
+      "title": "特朗普声称在短短32天内在伊朗取得“成功” ，而不是美国的长期战争",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，伊朗是“中东的霸凌者” ，但“不再是威胁”。",
+      "date": "2026-04-02T05:00:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars"
+      }
+    },
+    {
+      "id": "evt_013643f2",
+      "title": "特朗普威胁要让伊朗“回到石器时代”",
+      "summary": "特朗普总统表示，美国将通过猛烈打击将伊朗“带回他们所属的石器时代”。",
+      "date": "2026-04-02T04:57:14Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump threatens to bring Iran ‘back to the Stone Ages’"
+      }
+    },
+    {
+      "id": "evt_5f5576d0",
+      "title": "特朗普敦促无法获得燃料的国家“参与”对伊朗的战争",
+      "summary": "美国总统唐纳德·特朗普表示，依赖霍尔木兹海峡石油的国家应该积累一些迟来的勇气。",
+      "date": "2026-04-02T04:54:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel"
+      }
+    },
+    {
+      "id": "evt_c1fee82a",
+      "title": "伊朗战争现场：特朗普声称目标接近完成，誓言“完成工作”",
+      "summary": "伊朗否认寻求停火，并继续反击，因为美以袭击在全国各地造成伤亡和破坏。",
+      "date": "2026-04-02T00:00:30Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,7 +177,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says conflict to end in 2-3 weeks; Kuwait airport hit"
+        "en": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’"
+      }
+    },
+    {
+      "id": "evt_3f37c63e",
+      "title": "美国参议员说，美国宇航局的登月任务与美国对伊朗的战争形成了“对比”",
+      "summary": "宇航员登上了美国宇航局的猎户座太空舱，为50多年来的首次载人登月任务做准备。",
+      "date": "2026-04-01T21:20:21Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator"
       }
     },
     {
