@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-04-02T05:52:55.073106Z
+// 自动生成的数据 - 更新时间: 2026-04-03T05:53:24.415530Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-02T05:52:55.073044Z",
+    "lastUpdate": "2026-04-03T05:53:24.415450Z",
     "totalEvents": 22,
     "sources": {
       "international": 22,
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_c216517d",
-      "title": "特朗普关于伊朗战争的黄金时段演讲：关键要点",
-      "summary": "美国总统表示，华盛顿“非常接近”实现目标，因为他承诺将轰炸伊朗进入“石器时代”。",
-      "date": "2026-04-02T05:15:10Z",
-      "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss",
+      "id": "evt_cf62fe02",
+      "title": "伊朗战争现场：特朗普警告对基础设施的攻击“甚至还没有开始”",
+      "summary": "在美国对伊朗最大的桥梁发动袭击后，特朗普加大了威胁力度，因为德黑兰在该地区发动了袭击。",
+      "date": "2026-04-03T05:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’"
+      }
+    },
+    {
+      "id": "evt_29d9b42b",
+      "title": "对伊朗的战争如何将巴基斯坦的液化天然气过剩变成迫在眉睫的短缺",
+      "summary": "随着地区冲突升级，液化天然气供应崩溃，巴基斯坦应对天然气短缺危机。",
+      "date": "2026-04-03T04:55:17Z",
+      "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump’s primetime speech on Iran war: Key takeaways"
+        "en": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage"
       }
     },
     {
-      "id": "evt_ecdfed77",
-      "title": "特朗普关于伊朗的国家演讲“令人尴尬，不连贯”",
-      "summary": "美国前高级海军军官哈伦·乌尔曼（ Harlan Ullman ）抨击了特朗普总统向全国发表的讲话。",
-      "date": "2026-04-02T05:01:23Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss",
+      "id": "evt_17e328b9",
+      "title": "伊朗誓言在美国对卡拉杰桥梁发动致命袭击后进行报复",
+      "summary": "伊朗官员表示，该国最大的桥梁将“建得更坚固” ，但美国的地位不会恢复。",
+      "date": "2026-04-03T02:11:32Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,104 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump’s national address on Iran ’embarrassing, incoherent’"
+        "en": "Iran vows retaliation after deadly US strike on bridge in Karaj"
       }
     },
     {
-      "id": "evt_1fd7a474",
-      "title": "特朗普声称在短短32天内在伊朗取得“成功” ，而不是美国的长期战争",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，伊朗是“中东的霸凌者” ，但“不再是威胁”。",
-      "date": "2026-04-02T05:00:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss",
+      "id": "evt_8bc60916",
+      "title": "9岁男孩讲述在黎巴嫩造成全家人死亡的空袭",
+      "summary": "卡里姆·哈吉·侯赛因（ Karim Al-Haj Hussein ）在以色列对黎巴嫩巴勒贝克（ Baalbek ）家园的袭击中",
+      "date": "2026-04-02T21:22:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars"
-      }
-    },
-    {
-      "id": "evt_013643f2",
-      "title": "特朗普威胁要让伊朗“回到石器时代”",
-      "summary": "特朗普总统表示，美国将通过猛烈打击将伊朗“带回他们所属的石器时代”。",
-      "date": "2026-04-02T04:57:14Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump threatens to bring Iran ‘back to the Stone Ages’"
-      }
-    },
-    {
-      "id": "evt_5f5576d0",
-      "title": "特朗普敦促无法获得燃料的国家“参与”对伊朗的战争",
-      "summary": "美国总统唐纳德·特朗普表示，依赖霍尔木兹海峡石油的国家应该积累一些迟来的勇气。",
-      "date": "2026-04-02T04:54:53Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel"
-      }
-    },
-    {
-      "id": "evt_c1fee82a",
-      "title": "伊朗战争现场：特朗普声称目标接近完成，誓言“完成工作”",
-      "summary": "伊朗否认寻求停火，并继续反击，因为美以袭击在全国各地造成伤亡和破坏。",
-      "date": "2026-04-02T00:00:30Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +121,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’"
+        "en": "9-year-old boy recounts airstrike in Lebanon that killed whole family"
       }
     },
     {
-      "id": "evt_3f37c63e",
-      "title": "美国参议员说，美国宇航局的登月任务与美国对伊朗的战争形成了“对比”",
-      "summary": "宇航员登上了美国宇航局的猎户座太空舱，为50多年来的首次载人登月任务做准备。",
-      "date": "2026-04-01T21:20:21Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss",
+      "id": "evt_495cfc83",
+      "title": "随着伊朗战争的拖延，石油冲击引发全球价格飙升",
+      "summary": "随着霍尔木兹海峡的中断推高价格，美以战争对伊朗的燃料冲击正在全球范围内蔓延。",
+      "date": "2026-04-02T21:04:35Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/nasa-moon-mission-a-contrast-to-us-war-on-iran-says-us-senator?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil shock triggers global price spikes as Iran war drags on"
+      }
+    },
+    {
+      "id": "evt_bd1b6721",
+      "title": "伊朗称军队已准备好击退美以袭击",
+      "summary": "伊朗表示，它准备反击任何美以袭击，并坚称其军事能力保持不变。",
+      "date": "2026-04-02T20:54:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says army forces are ready to repel US-Israeli attacks"
+      }
+    },
+    {
+      "id": "evt_9b9e62b8",
+      "title": "随着战争的拖延，美国重申特朗普对与伊朗的外交持开放态度",
+      "summary": "美国国务院指责伊朗袭击民用地点，因为特朗普分享了摧毁伊朗桥梁的镜头。",
+      "date": "2026-04-02T20:24:20Z",
+      "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,7 +205,287 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "NASA moon mission a ‘contrast’ to US war on Iran, says US senator"
+        "en": "As war drags on, US reiterates Trump open to diplomacy with Iran"
+      }
+    },
+    {
+      "id": "evt_d9908d6d",
+      "title": "英国及其盟友讨论制裁措施以阻止伊朗封锁霍尔木兹海峡",
+      "summary": "Yvette Cooper表示，需要采取协调一致的外交和经济措施来重新开放航道。",
+      "date": "2026-04-02T17:15:56Z",
+      "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_95e36e20",
+      "title": "公司表示，伊朗两家最大的钢铁厂因空袭而关闭",
+      "summary": "伊朗称，这次罢工是以色列上周与美国协调发起的，可能对伊朗经济造成重大损害。",
+      "date": "2026-04-02T17:01:08Z",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's two largest steel plants shut down due to air strikes, companies say"
+      }
+    },
+    {
+      "id": "evt_eec73467",
+      "title": "“我已经好几天没睡觉了” ：伊朗人描述了一个月的战争后日益加剧的绝望",
+      "summary": "来自伊朗各地的普通人描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。",
+      "date": "2026-04-02T16:09:24Z",
+      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'I haven't slept for days': Iranians describe mounting desperation after a month of war"
+      }
+    },
+    {
+      "id": "evt_9380f1f8",
+      "title": "家人说，伊朗诺贝尔奖获得者在监狱中疑似心脏病发作",
+      "summary": "Narges Mohammadi的兄弟说，他担心她的生命处于迫在眉睫的危险之中，她需要被转移到医院。",
+      "date": "2026-04-02T16:00:58Z",
+      "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian Nobel laureate suffered suspected heart attack in prison, family says"
+      }
+    },
+    {
+      "id": "evt_d8ebdb45",
+      "title": "伊朗对生存的关注意味着同样的政权仍然牢固存在",
+      "summary": "英国广播公司波斯语编辑阿米尔·阿齐米（ Amir Azimi ）写道，尽管特朗普声称要更迭政权，但德黑兰仍然表现",
+      "date": "2026-04-02T13:45:09Z",
+      "url": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's focus on survival means same regime still firmly in place"
+      }
+    },
+    {
+      "id": "evt_43071f63",
+      "title": "“严肃......不要每天说话” ：马克龙批评特朗普对伊朗战争的态度",
+      "summary": "这些言论显然是对这位美国领导人在美以对伊朗战争问题上有时自相矛盾的立场的抨击。",
+      "date": "2026-04-02T13:41:27Z",
+      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war"
+      }
+    },
+    {
+      "id": "evt_0fa9a539",
+      "title": "特朗普表示，伊朗战争目标在对国家的讲话中“接近完成”",
+      "summary": "美国总统关于与伊朗冲突的首次电视讲话几乎没有平息不安的市场。",
+      "date": "2026-04-02T11:33:18Z",
+      "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says Iran war objectives 'nearing completion' in address to nation"
+      }
+    },
+    {
+      "id": "evt_d8f4636e",
+      "title": "特朗普试图平息对伊朗战争的紧张情绪，但关键问题仍未得到解答",
+      "summary": "英国广播公司的加里·奥多诺霍（ Gary O'Donoghue ）写道，美国总统的黄金时段讲话中有一些明显的遗漏。",
+      "date": "2026-04-02T03:22:51Z",
+      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war"
+      }
+    },
+    {
+      "id": "evt_216eb062",
+      "title": "仅凭军事力量可能很难赢得以色列与伊朗的永久战争",
+      "summary": "与伊朗的战争尚未以其总理所建议的方式解决以色列的任何地区冲突。",
+      "date": "2026-04-01T19:23:52Z",
+      "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel's perpetual war with Iran may be hard to win with military might alone"
+      }
+    },
+    {
+      "id": "evt_9daecba1",
+      "title": "以色列加大对黎巴嫩的攻击力度，袭击真主党无法控制的地区",
+      "summary": "随着以色列宣布打算控制黎巴嫩南部的大片地区，袭击仍在继续。",
+      "date": "2026-04-01T10:33:35Z",
+      "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control"
       }
     },
     {
@@ -321,34 +601,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_ed30f03e",
-      "title": "根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑",
-      "summary": "周一通过的新法律受到极右翼和安全部长伊塔马尔·本-格维尔（ Itamar Ben-Gvir ）的严厉推动。",
-      "date": "2026-03-31T17:30:05Z",
-      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians convicted of lethal attacks face death penalty under new Israeli law"
-      }
-    },
-    {
       "id": "evt_5f312d45",
       "title": "报告和目击者称，伊朗在战争中使用儿童担任安全角色",
       "summary": "据报道，一名11岁的儿童在德黑兰的一个检查站驻守时在一次空袭中丧生。",
@@ -374,258 +626,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran using children in security roles in war, reports and witnesses say"
-      }
-    },
-    {
-      "id": "evt_2291dd3b",
-      "title": "两年后，加沙母亲与被疏散的女儿团聚",
-      "summary": "这名女孩是战争开始时在加沙激烈战斗中被疏散的至少八名早产新生儿中的一员。",
-      "date": "2026-03-30T21:12:29Z",
-      "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gazan mother reunited with evacuated daughter after two years"
-      }
-    },
-    {
-      "id": "evt_ee75bdea",
-      "title": "Merz说，大多数在德国的叙利亚难民预计将在三年内返回家园",
-      "summary": "梅尔茨政府对难民和移民采取了更强硬的立场，因为反移民AfD党的支持率越来越高。",
-      "date": "2026-03-30T20:07:17Z",
-      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Most Syrian refugees in Germany expected to return home in three years, Merz says"
-      }
-    },
-    {
-      "id": "evt_f9f4e4b2",
-      "title": "美国如何试图夺取伊朗的哈格岛",
-      "summary": "唐纳德·特朗普（ Donald Trump ）表示，他可以派遣军队控制伊朗的主要石油出口码头。",
-      "date": "2026-03-30T14:54:47Z",
-      "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How the US could try to seize Iran's Kharg Island"
-      }
-    },
-    {
-      "id": "evt_db133c88",
-      "title": "警方拦截入境后，拉丁族长将可以进入耶路撒冷圣地",
-      "summary": "以色列总理说，红衣主教皮尔巴蒂斯塔·皮扎巴拉（ Pierbattista Pizzaballa ）被要求不要进入教堂，因为担心伊朗的罢工。",
-      "date": "2026-03-30T13:30:32Z",
-      "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry"
-      }
-    },
-    {
-      "id": "evt_1ef96840",
-      "title": "广播公司称，三名黎巴嫩记者在以色列罢工中丧生",
-      "summary": "以色列军方证实杀害了Ali Shoeib和Mohamed Ftouni ，声称他们也属于真主党的军事部门。",
-      "date": "2026-03-30T09:09:08Z",
-      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Three Lebanese journalists killed in Israeli strike, say broadcasters"
-      }
-    },
-    {
-      "id": "evt_bbda342b",
-      "title": "胡塞武装对红海航运的潜在威胁可能进一步损害全球经济",
-      "summary": "塞巴斯蒂安·亚瑟（ Sebastian Usher ）写道，伊朗支持的团体可能会使第二条关键水道陷入停滞。",
-      "date": "2026-03-28T19:08:30Z",
-      "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Potential Houthi threat to Red Sea shipping could further damage global economy"
-      }
-    },
-    {
-      "id": "evt_d5149e4d",
-      "title": "黎巴嫩家庭埋葬在以色列罢工中丧生的11岁儿童时，眼泪和蔑视",
-      "summary": "星期六， Jawad Younes和他的叔叔Ragheb在他们的家庭大院前一天被击中后被安息。",
-      "date": "2026-03-28T19:02:40Z",
-      "url": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike"
-      }
-    },
-    {
-      "id": "evt_4c6aa68f",
-      "title": "联合国人权事务主管呼吁美国结束对伊朗学校罢工的调查",
-      "summary": "Volker Türk说，这次罢工造成至少168人死亡，其中大多数是儿童， “引起了内心的恐惧”。",
-      "date": "2026-03-27T13:25:57Z",
-      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN human rights chief calls on US to conclude probe into Iran school strike"
-      }
-    },
-    {
-      "id": "evt_916fb131",
-      "title": "巴勒斯坦男子因西岸定居者暴力事件死亡人数攀升而丧生",
-      "summary": "穆罕默德·马利（ Mohammad al-Malhi ）是自与伊朗的战争开始以来第七位在暴力事件中被定居者杀害的巴勒斯坦人。",
-      "date": "2026-03-27T12:30:10Z",
-      "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian man killed as death toll from West Bank settler violence climbs"
       }
     }
   ]
