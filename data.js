@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-03T05:53:24.415530Z
+// 自动生成的数据 - 更新时间: 2026-04-04T05:16:35.101014Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-03T05:53:24.415450Z",
-    "totalEvents": 22,
+    "lastUpdate": "2026-04-04T05:16:35.100949Z",
+    "totalEvents": 21,
     "sources": {
-      "international": 22,
+      "international": 21,
       "iranian": 0,
       "social": 0,
       "osm": 0
@@ -13,16 +13,100 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_cf62fe02",
-      "title": "伊朗战争现场：特朗普警告对基础设施的攻击“甚至还没有开始”",
-      "summary": "在美国对伊朗最大的桥梁发动袭击后，特朗普加大了威胁力度，因为德黑兰在该地区发动了袭击。",
-      "date": "2026-04-03T05:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+      "id": "evt_1039b908",
+      "title": "伊朗战争：美以袭击的第36天发生了什么？",
+      "summary": "伊朗声称对击落两架美国战机负责，目前正在寻找失踪的船员。",
+      "date": "2026-04-04T03:51:08Z",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war: What is happening on day 36 of US-Israeli attacks?"
+      }
+    },
+    {
+      "id": "evt_e52edbfc",
+      "title": "伊朗导弹袭击以色列中部居民区",
+      "summary": "据以色列媒体报道，伊朗导弹袭击对以色列中部的居民区造成了破坏。",
+      "date": "2026-04-04T02:53:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian missile attack hits residential areas in central Israel"
+      }
+    },
+    {
+      "id": "evt_d3f476e3",
+      "title": "加沙的巴勒斯坦基督徒纪念耶稣受难日",
+      "summary": "在脆弱的停火期间，加沙的巴勒斯坦基督徒在圣家族教堂庆祝耶稣受难日。",
+      "date": "2026-04-04T00:30:08Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian Christians in Gaza mark Good Friday"
+      }
+    },
+    {
+      "id": "evt_c651b760",
+      "title": "伊朗战争现场：德黑兰击落2架美国战机；以色列轰炸黎巴嫩桥梁",
+      "summary": "伊朗军方在德黑兰举行的庆祝活动表示，罢工表明其部队仍然具有战斗能力。",
+      "date": "2026-04-04T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,76 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’"
+        "en": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges"
       }
     },
     {
-      "id": "evt_29d9b42b",
-      "title": "对伊朗的战争如何将巴基斯坦的液化天然气过剩变成迫在眉睫的短缺",
-      "summary": "随着地区冲突升级，液化天然气供应崩溃，巴基斯坦应对天然气短缺危机。",
-      "date": "2026-04-03T04:55:17Z",
-      "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss",
+      "id": "evt_69e810b7",
+      "title": "黎巴嫩基督徒在以色列袭击下守耶稣受难日",
+      "summary": "黎巴嫩各地的基督徒庆祝耶稣受难日，在以色列罢工和撤离命令持续的时候祈祷和平。",
+      "date": "2026-04-03T21:05:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage"
-      }
-    },
-    {
-      "id": "evt_17e328b9",
-      "title": "伊朗誓言在美国对卡拉杰桥梁发动致命袭击后进行报复",
-      "summary": "伊朗官员表示，该国最大的桥梁将“建得更坚固” ，但美国的地位不会恢复。",
-      "date": "2026-04-03T02:11:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran vows retaliation after deadly US strike on bridge in Karaj"
-      }
-    },
-    {
-      "id": "evt_8bc60916",
-      "title": "9岁男孩讲述在黎巴嫩造成全家人死亡的空袭",
-      "summary": "卡里姆·哈吉·侯赛因（ Karim Al-Haj Hussein ）在以色列对黎巴嫩巴勒贝克（ Baalbek ）家园的袭击中",
-      "date": "2026-04-02T21:22:53Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,76 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "9-year-old boy recounts airstrike in Lebanon that killed whole family"
+        "en": "Christians in Lebanon observe Good Friday under Israeli attacks"
       }
     },
     {
-      "id": "evt_495cfc83",
-      "title": "随着伊朗战争的拖延，石油冲击引发全球价格飙升",
-      "summary": "随着霍尔木兹海峡的中断推高价格，美以战争对伊朗的燃料冲击正在全球范围内蔓延。",
-      "date": "2026-04-02T21:04:35Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss",
+      "id": "evt_883b1d10",
+      "title": "是否会使用武力重新开放霍尔木兹海峡？",
+      "summary": "一些国家威胁要对伊朗封锁水道采取行动。",
+      "date": "2026-04-03T20:55:03Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil shock triggers global price spikes as Iran war drags on"
-      }
-    },
-    {
-      "id": "evt_bd1b6721",
-      "title": "伊朗称军队已准备好击退美以袭击",
-      "summary": "伊朗表示，它准备反击任何美以袭击，并坚称其军事能力保持不变。",
-      "date": "2026-04-02T20:54:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says army forces are ready to repel US-Israeli attacks"
-      }
-    },
-    {
-      "id": "evt_9b9e62b8",
-      "title": "随着战争的拖延，美国重申特朗普对与伊朗的外交持开放态度",
-      "summary": "美国国务院指责伊朗袭击民用地点，因为特朗普分享了摧毁伊朗桥梁的镜头。",
-      "date": "2026-04-02T20:24:20Z",
-      "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,7 +177,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "As war drags on, US reiterates Trump open to diplomacy with Iran"
+        "en": "Will force be used to reopen Strait of Hormuz?"
+      }
+    },
+    {
+      "id": "evt_f1147638",
+      "title": "伊朗桥梁袭击的幸存者回忆起美以袭击的恐怖",
+      "summary": "以色列-美国袭击伊朗最大公路桥的幸存者在导弹袭击时谈到了他们的恐怖。",
+      "date": "2026-04-03T20:37:44Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Survivors of Iran bridge attack recall terror of US-Israeli strike"
+      }
+    },
+    {
+      "id": "evt_fc581045",
+      "title": "美国以安全风险升级为由警告其公民离开黎巴嫩",
+      "summary": "该公告关注了最近的军事发展，包括据报道一架美国喷气式飞机被击落，以及以色列对贝鲁特部分地区的袭击。",
+      "date": "2026-04-03T20:06:47Z",
+      "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US warns its citizens to leave Lebanon citing escalating security risks"
+      }
+    },
+    {
+      "id": "evt_58a817da",
+      "title": "专家质疑美国对拉默德致命的伊朗体育馆罢工的说法",
+      "summary": "六名武器专家质疑美国的说法，即视频证据表明伊朗导弹可能击中了大厅。",
+      "date": "2026-04-03T13:16:33Z",
+      "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Experts dispute US account of deadly Iran sports hall strike in Lamerd"
+      }
+    },
+    {
+      "id": "evt_9ea8eac0",
+      "title": "国际法专家指称伊朗战争中存在违法行为",
+      "summary": "白宫表示，它通过消除短期和长期威胁，使整个地区更加安全。",
+      "date": "2026-04-03T11:53:40Z",
+      "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "International law experts allege violations in Iran war"
+      }
+    },
+    {
+      "id": "evt_367c5041",
+      "title": "伊朗战争什么时候结束？追踪特朗普政府的时间表",
+      "summary": "专家表示，许多美国总统都提出了冲突的时间表，但随后却改变了估计。",
+      "date": "2026-04-03T11:28:34Z",
+      "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "When will the Iran war end? Tracing the Trump administration's timelines"
+      }
+    },
+    {
+      "id": "evt_caa73574",
+      "title": "“这让我感到担忧” ：伊朗人担心美国袭击卡拉杰桥后会发生什么",
+      "summary": "特朗普总统警告伊朗，如果伊朗领导人不同意他的结束战争的条件，伊朗将对桥梁和发电厂进行罢工。",
+      "date": "2026-04-03T10:35:55Z",
+      "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge"
       }
     },
     {
@@ -405,62 +545,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d8f4636e",
-      "title": "特朗普试图平息对伊朗战争的紧张情绪，但关键问题仍未得到解答",
-      "summary": "英国广播公司的加里·奥多诺霍（ Gary O'Donoghue ）写道，美国总统的黄金时段讲话中有一些明显的遗漏。",
-      "date": "2026-04-02T03:22:51Z",
-      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war"
-      }
-    },
-    {
-      "id": "evt_216eb062",
-      "title": "仅凭军事力量可能很难赢得以色列与伊朗的永久战争",
-      "summary": "与伊朗的战争尚未以其总理所建议的方式解决以色列的任何地区冲突。",
-      "date": "2026-04-01T19:23:52Z",
-      "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel's perpetual war with Iran may be hard to win with military might alone"
-      }
-    },
-    {
       "id": "evt_9daecba1",
       "title": "以色列加大对黎巴嫩的攻击力度，袭击真主党无法控制的地区",
       "summary": "随着以色列宣布打算控制黎巴嫩南部的大片地区，袭击仍在继续。",
@@ -489,90 +573,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_af7f697f",
-      "title": "“你不再是我的妹妹” -随着战争分裂伊朗家庭，争吵爆发",
-      "summary": "伊朗人将愤怒的场面和紧张的关系描述为战争的裂痕。",
-      "date": "2026-03-31T23:25:19Z",
-      "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'You're no longer my sister' - rows erupt as war divides Iranian families"
-      }
-    },
-    {
-      "id": "evt_06bb20a3",
-      "title": "初步报告发现，在黎巴嫩，维和人员死于路边爆炸",
-      "summary": "两名印度尼西亚国民的死亡是在另一名联合国维和人员（也是印度尼西亚人）在黎巴嫩被杀不到一天后发生的。",
-      "date": "2026-03-31T22:07:26Z",
-      "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds"
-      }
-    },
-    {
-      "id": "evt_86020339",
-      "title": "美国记者雪莉·基特尔森在巴格达被绑架",
-      "summary": "美国国务院表示，绑架她的嫌疑人与伊朗支持的民兵组织卡塔卜真主党有联系。",
-      "date": "2026-03-31T21:08:35Z",
-      "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US journalist Shelly Kittleson kidnapped in Baghdad"
-      }
-    },
-    {
       "id": "evt_ae0e2334",
       "title": "以色列表示，在与真主党的战争结束后，它将保持对黎巴嫩南部部分地区的控制",
       "summary": "国防部长以色列·卡茨（ Israel Katz ）还表示，以色列边境附近的黎巴嫩村庄的房屋将被拆除。",
@@ -598,34 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends"
-      }
-    },
-    {
-      "id": "evt_5f312d45",
-      "title": "报告和目击者称，伊朗在战争中使用儿童担任安全角色",
-      "summary": "据报道，一名11岁的儿童在德黑兰的一个检查站驻守时在一次空袭中丧生。",
-      "date": "2026-03-31T12:56:45Z",
-      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran using children in security roles in war, reports and witnesses say"
       }
     }
   ]
