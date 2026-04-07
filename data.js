@@ -1,28 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-04-06T06:20:23.731350Z
+// 自动生成的数据 - 更新时间: 2026-04-07T05:59:55.689080Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-06T06:20:23.731284Z",
-    "totalEvents": 25,
+    "lastUpdate": "2026-04-07T05:59:55.689016Z",
+    "totalEvents": 38,
     "sources": {
       "international": 25,
-      "iranian": 0,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_018136be",
-      "title": "霍尔木兹海峡的新区域秩序",
-      "summary": "海湾合作委员会和伊朗可以为霍尔木兹海峡提出新的安全架构，为特朗普提供出入口。",
-      "date": "2026-04-06T05:40:17Z",
-      "url": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss",
+      "id": "evt_23b3a705",
+      "title": "特朗普威胁袭击伊朗发电厂",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）在社交媒体上的一篇粗俗帖子中表示， “周二将是发电厂日”。",
+      "date": "2026-04-07T04:33:45Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,7 +37,511 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "A new regional order for the Strait of Hormuz"
+        "en": "Trump’s threat to strike Iran’s power plants looms"
+      }
+    },
+    {
+      "id": "evt_46d71197",
+      "title": "“鉴于美国和以色列的记录，为什么伊朗会同意停火？”",
+      "summary": "政治分析人士特里塔·帕西（ Trita Parsi ）表示，没有人会对伊朗拒绝美国停火协议的想法感到惊讶。",
+      "date": "2026-04-07T04:11:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’"
+      }
+    },
+    {
+      "id": "evt_88c844ee",
+      "title": "“他们想制造裂痕” ：以色列的袭击加深了黎巴嫩的裂痕",
+      "summary": "由于以色列不断升级的轰炸和地面入侵加剧了流离失所危机，黎巴嫩日益分裂。",
+      "date": "2026-04-07T02:03:34Z",
+      "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures"
+      }
+    },
+    {
+      "id": "evt_8e107fde",
+      "title": "伊朗战争现场：随着霍尔木兹交易截止日期的临近，特朗普警告袭击事件",
+      "summary": "国防部长皮特·赫格塞特（ Pete Hegseth ）表示，美军对伊朗的打击比战争开始以来的任何一天都要多。",
+      "date": "2026-04-07T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears"
+      }
+    },
+    {
+      "id": "evt_8e8819d0",
+      "title": "如何在伊朗偏远地区营救美国飞行员",
+      "summary": "将他从敌对领土的地面上救出的行动非常复杂，涉及多个美国政府机构。",
+      "date": "2026-04-06T21:31:24Z",
+      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How rescue of US airman in remote part of Iran unfolded"
+      }
+    },
+    {
+      "id": "evt_a893028b",
+      "title": "特朗普表示，在伊朗战争期间，美国可能会收取霍尔木兹海峡通行费",
+      "summary": "美国总统表示，作为战争的“赢家” ，华盛顿有一个在战略航道上收费的“概念”。",
+      "date": "2026-04-06T21:26:20Z",
+      "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US could charge for Strait of Hormuz passage amid Iran war"
+      }
+    },
+    {
+      "id": "evt_071906ef",
+      "title": "为什么伊朗的布什尔核电站受到攻击？",
+      "summary": "世卫组织警告说，如果发生放射性释放，将面临“灾难性”风险。",
+      "date": "2026-04-06T21:10:03Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why is Iran’s Bushehr nuclear power plant being attacked?"
+      }
+    },
+    {
+      "id": "evt_03d1faf5",
+      "title": "抗议者涌入美国驻特拉维夫大使馆，要求结束战争",
+      "summary": "抗议者聚集在美国驻特拉维夫大使馆外，呼吁结束与伊朗和黎巴嫩的战争。",
+      "date": "2026-04-06T21:05:52Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Protesters swarm US embassy in Tel Aviv, demanding end of wars"
+      }
+    },
+    {
+      "id": "evt_9b56353e",
+      "title": "以色列士兵在袭击希伯伦期间向巴勒斯坦青年发射催泪瓦斯",
+      "summary": "以色列军队袭击了希伯伦的穆斯林青年协会，向巴勒斯坦人发射了催泪瓦斯。",
+      "date": "2026-04-06T21:02:01Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron"
+      }
+    },
+    {
+      "id": "evt_27821b6f",
+      "title": "以色列空袭在加沙学校附近造成至少10名巴勒斯坦人死亡",
+      "summary": "据报道，无人机向Maghazi难民营附近的一个地区发射了导弹。",
+      "date": "2026-04-06T20:34:47Z",
+      "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli air strike kills at least 10 Palestinians near Gaza school"
+      }
+    },
+    {
+      "id": "evt_a4bd2801",
+      "title": "黎巴嫩真主党和也门胡塞武装与伊朗一道打击以色列",
+      "summary": "也门的胡塞武装说，他们与支持者伊朗和黎巴嫩真主党一起袭击了以色列。",
+      "date": "2026-04-06T20:22:06Z",
+      "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel"
+      }
+    },
+    {
+      "id": "evt_7b54bec2",
+      "title": "特朗普声称伊朗人乞求美国继续轰炸伊朗",
+      "summary": "唐纳德特朗普声称美国“无数次拦截”伊朗人请求继续轰炸。",
+      "date": "2026-04-06T20:05:05Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump claims Iranians begging US to keep bombing Iran"
+      }
+    },
+    {
+      "id": "evt_163d3160",
+      "title": "当地消息人士称，在以色列的罢工和哈马斯与民兵在加沙的冲突中有10人丧生",
+      "summary": "据报道，以色列罢工的目标是哈马斯安全人员，此前他们在Maghazi营地附近与以色列支持的民兵发生冲突。",
+      "date": "2026-04-06T19:11:20Z",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say"
+      }
+    },
+    {
+      "id": "evt_a67ea5a6",
+      "title": "“我们正在更深地沉没” ：随着特朗普的最后期限临近，伊朗人支持基础设施罢工",
+      "summary": "普通伊朗人对美国总统威胁摧毁伊朗的发电厂和桥梁作出回应，除非它打开霍尔木兹海峡。",
+      "date": "2026-04-06T15:40:35Z",
+      "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears"
+      }
+    },
+    {
+      "id": "evt_7eb9c106",
+      "title": "13人在犹太复国主义美国对德黑兰郊区的袭击中殉难",
+      "summary": "",
+      "date": "2026-04-06T15:08:02Z",
+      "url": "https://www.tehrantimes.com/news/525230/13-martyred-in-Zionist-American-attack-on-Tehran-suburb",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525230/13-martyred-in-Zionist-American-attack-on-Tehran-suburb"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "13 martyred in Zionist-American attack on Tehran suburb"
+      }
+    },
+    {
+      "id": "evt_ef21daf6",
+      "title": "Shirmohammadi在三亚海滩运动会上举着伊朗国旗",
+      "summary": "德黑兰--2026年沙滩亚运会伊朗代表团团长阿拉什·法哈迪安（ Arash Farhadian ）宣布选择迈赫迪·希尔莫哈马迪（ Mehdi Shirmohammadi ）作为该国三亚体育队的旗手。伊朗将与一个由99名成员组成的代表团一起参加10个学科的奥运会。",
+      "date": "2026-04-06T13:31:17Z",
+      "url": "https://www.tehrantimes.com/news/525228/Shirmohammadi-to-carry-Iran-s-flag-at-Sanya-Beach-Games",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525228/Shirmohammadi-to-carry-Iran-s-flag-at-Sanya-Beach-Games"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shirmohammadi to carry Iran’s flag at Sanya Beach Games"
+      }
+    },
+    {
+      "id": "evt_a83837fe",
+      "title": "贸易部长宣布全天候管理以供应货物，控制市场",
+      "summary": "TEHRAN -工业，矿业和贸易部长表示，该部的中央总部是在战争的最初几个小时内成立的，并补充说： “该部的经理，代表和工作人员全天候都在他们的工作场所，一刻也没有离开现场。”",
+      "date": "2026-04-06T08:40:45Z",
+      "url": "https://www.tehrantimes.com/news/525226/Trade-minister-announces-round-the-clock-management-to-supply",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525226/Trade-minister-announces-round-the-clock-management-to-supply"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trade minister announces round-the-clock management to supply goods, control market"
+      }
+    },
+    {
+      "id": "evt_696e0e3f",
+      "title": "为自由区创业者设计的支持套餐",
+      "summary": "TEHRAN -伊朗自由区高级理事会秘书强调在战争条件下支持企业家，并强调在自由区为他们设计和制定一揽子支持计划。",
+      "date": "2026-04-06T08:30:22Z",
+      "url": "https://www.tehrantimes.com/news/525225/Support-packages-being-designed-for-entrepreneurs-in-free-zones",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525225/Support-packages-being-designed-for-entrepreneurs-in-free-zones"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Support packages being designed for entrepreneurs in free zones"
+      }
+    },
+    {
+      "id": "evt_0f5024e2",
+      "title": "全球经济面临风险：美国-以色列对伊朗战争的代价",
+      "summary": "TEHRAN -随着美以联盟和伊朗之间的紧张局势升级，经济学家警告说，全球经济将受到地震般的冲击。",
+      "date": "2026-04-06T08:23:13Z",
+      "url": "https://www.tehrantimes.com/news/525224/Global-economy-at-risk-The-price-of-a-US-Israeli-war-on-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525224/Global-economy-at-risk-The-price-of-a-US-Israeli-war-on-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Global economy at risk: The price of a US-Israeli war on Iran"
       }
     },
     {
@@ -69,34 +573,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_3dc82fed",
-      "title": "在伊朗战争的影响下，越南的零工工人因燃料成本上涨而受到猛烈抨击",
-      "summary": "在伊朗封锁霍尔木兹海峡期间，这个东南亚国家的柴油价格翻了一番多。",
-      "date": "2026-04-06T01:14:00Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war"
-      }
-    },
-    {
       "id": "evt_65f05be0",
       "title": "特朗普在获救后宣布胜利，但美国在伊朗的行动仍面临威胁",
       "summary": "此次救援可能会影响特朗普对夺取哈格岛或夺取浓缩铀场地的地面行动的看法。",
@@ -125,16 +601,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d5519030",
-      "title": "伊朗战争现场：德黑兰拒绝特朗普的霍尔木兹最后期限； 2人在海法遇害",
-      "summary": "伊朗官员驳斥了特朗普的最后通牒，谴责最新的威胁是“煽动战争罪”。",
-      "date": "2026-04-06T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
+      "id": "evt_aac79cbe",
+      "title": "石化革命：伊朗37%的产量跃升",
+      "summary": "TEHRAN -根据制定的战略计划，通过实施66个新项目和完成45个半成品项目，到1412年（ 2033-2034年） ，伊朗石化行业的产能将跃升37%。",
+      "date": "2026-04-05T22:08:00Z",
+      "url": "https://www.tehrantimes.com/news/525227/Petrochemical-revolution-Iran-s-37-production-jump-on-horizon",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525227/Petrochemical-revolution-Iran-s-37-production-jump-on-horizon"
         }
       ],
       "category": "military",
@@ -149,27 +625,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa"
+        "en": "Petrochemical revolution: Iran's 37% production jump on horizon"
       }
     },
     {
-      "id": "evt_0cded9fd",
-      "title": "“我们处于战场的边缘” ： BBC报道霍尔木兹海峡附近",
-      "summary": "英国广播公司的奥拉·格林（ Orla Guerin ）前往伊朗已经扼杀的关键水道的边缘。",
-      "date": "2026-04-05T21:30:19Z",
-      "url": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
+      "id": "evt_083f5a04",
+      "title": "伊朗外长与埃及、巴基斯坦和奥地利外长举行会谈",
+      "summary": "TEHRAN-伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）周六晚些时候分别与埃及、巴基斯坦和奥地利的外交部长通话，讨论美国-以色列对伊朗正在进行的军事行动及其地区影响。",
+      "date": "2026-04-05T20:41:04Z",
+      "url": "https://www.tehrantimes.com/news/525223/Iran-s-FM-holds-Talks-with-his-counterparts-from-Egypt-Pakistan",
       "sources": [
         {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525223/Iran-s-FM-holds-Talks-with-his-counterparts-from-Egypt-Pakistan"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -177,27 +653,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz"
+        "en": "Iran’s FM holds Talks with his counterparts from Egypt, Pakistan, and Austria"
       }
     },
     {
-      "id": "evt_8e8819d0",
-      "title": "如何在伊朗偏远地区营救美国飞行员",
-      "summary": "将他从敌对领土的地面上救出的行动非常复杂，涉及多个美国政府机构。",
-      "date": "2026-04-05T21:19:02Z",
-      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_808c2cef",
+      "title": "真主党袭击犹太复国主义政权军舰",
+      "summary": "德黑兰--黎巴嫩真主党宣布，其战斗人员瞄准了犹太复国主义政权的军舰，重申了该运动的强大韧性。",
+      "date": "2026-04-05T20:38:25Z",
+      "url": "https://www.tehrantimes.com/news/525222/Hezbollah-attacks-Zionist-regime-warship",
       "sources": [
         {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525222/Hezbollah-attacks-Zionist-regime-warship"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -205,55 +681,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How rescue of US airman in remote part of Iran unfolded"
+        "en": "Hezbollah attacks Zionist regime warship"
       }
     },
     {
-      "id": "evt_e5fd6cc1",
-      "title": "Zelenskyy说，乌克兰和叙利亚在安全方面进行合作",
-      "summary": "乌克兰总统弗拉基米尔·泽连斯基（ Volodymyr Zelenskyy ）在访问大马士革期间表示，两国同意共同努力。",
-      "date": "2026-04-05T20:48:27Z",
-      "url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
+      "id": "evt_d24813d8",
+      "title": "自称是伊朗人的朋友正在毁掉他们的生活",
+      "summary": "德黑兰--自2月28日以来，内塔尼亚胡政权和特朗普政府对伊朗发动了一场非法、无端的战争，他们一个接一个地犯下了战争罪，并威胁要采取更多行动。",
+      "date": "2026-04-05T20:36:29Z",
+      "url": "https://www.tehrantimes.com/news/525221/Self-proclaimed-friends-of-Iranians-are-ruining-their-life",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ukraine and Syria to cooperate on security, Zelenskyy says"
-      }
-    },
-    {
-      "id": "evt_e2099105",
-      "title": "加沙的人道主义危机是否被忽视？",
-      "summary": "在美国-以色列对伊朗的战争中，加沙局势恶化。",
-      "date": "2026-04-05T20:16:16Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525221/Self-proclaimed-friends-of-Iranians-are-ruining-their-life"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -261,27 +709,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Has the humanitarian crisis in Gaza been ignored?"
+        "en": "Self-proclaimed friends of Iranians are ruining their life"
       }
     },
     {
-      "id": "evt_ae8e22f5",
-      "title": "哈马斯武装派系称解除武装要求不可接受",
-      "summary": "发言人阿布·奥贝达（ Abu Obeida ）表示，要求该组织解除武装等同于企图继续以色列的种族灭绝。",
-      "date": "2026-04-05T20:09:24Z",
-      "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
+      "id": "evt_9754e593",
+      "title": "随着美以战争机器的衰落，全球群众与伊朗站在一起",
+      "summary": "德黑兰--在4月4日和5日的周末，全世界一致反对美以侵略伊朗伊斯兰共和国的行动。",
+      "date": "2026-04-05T20:33:27Z",
+      "url": "https://www.tehrantimes.com/news/525220/Global-masses-stand-with-Iran-as-US-Israeli-war-machine-falters",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525220/Global-masses-stand-with-Iran-as-US-Israeli-war-machine-falters"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -289,27 +737,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hamas armed wing says disarmament demands not acceptable"
+        "en": "Global masses stand with Iran as US-Israeli war machine falters"
       }
     },
     {
-      "id": "evt_86758d69",
-      "title": "以色列空袭袭击加沙市人群",
-      "summary": "在以色列空袭袭击加沙市人群后，几名巴勒斯坦人被送往医院，伤势严重。",
-      "date": "2026-04-05T20:09:18Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
+      "id": "evt_a771ad43",
+      "title": "口水战：西方媒体如何扭曲伊朗冲突",
+      "summary": "TEHRAN -美以联盟对伊朗的战争不仅造成了深刻的地缘政治危机，而且再次表明，在战争期间，媒体的叙述在塑造全球舆论方面可以像导弹和无人机一样具有影响力。",
+      "date": "2026-04-05T20:29:33Z",
+      "url": "https://www.tehrantimes.com/news/525219/War-of-words-how-western-media-distort-the-Iran-conflict",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525219/War-of-words-how-western-media-distort-the-Iran-conflict"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -317,27 +765,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli air strike hits crowd in Gaza City"
+        "en": "War of words: how western media distort the Iran conflict"
       }
     },
     {
-      "id": "evt_ea016ed3",
-      "title": "哈马斯武装部队拒绝解除武装，而以色列继续发动袭击",
-      "summary": "哈马斯武装部队表示，在以色列全面实施第一阶段停火之前，它不会讨论解除武装问题。",
-      "date": "2026-04-05T20:03:50Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
+      "id": "evt_78363bfb",
+      "title": "导致战争的语言",
+      "summary": "TEHRAN -当一个国家几十年来被描绘成危险、不可信赖和本质上具有威胁性的国家时，攻击的阴谋变得更容易接受。目前与伊朗的战争反映了这种动态，多年来，西方主流媒体一再将其描述为不安全的潜在威胁！",
+      "date": "2026-04-05T20:14:45Z",
+      "url": "https://www.tehrantimes.com/news/525217/The-language-that-led-to-war",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525217/The-language-that-led-to-war"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -345,27 +793,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hamas armed wing rejects disarmament while Israel continues attacks"
+        "en": "The language that led to war"
       }
     },
     {
-      "id": "evt_581ba3ec",
-      "title": "特朗普在充满咒骂的社交媒体帖子中威胁伊朗",
-      "summary": "唐纳德·特朗普（ Donald Trump ）在重新开放霍尔木兹海峡（ Strait of Hormuz ）的截止日期之前，对伊朗领导人发动了一场粗俗的在线长篇大论。",
-      "date": "2026-04-05T19:07:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/trump-threatens-iran-in-expletive-filled-social-media-post?traffic_source=rss",
+      "id": "evt_3a1ad3ac",
+      "title": "伊朗55座图书馆被敌方罢工损坏",
+      "summary": "TEHRAN -伊朗公共图书馆基金会秘书长宣布，敌方已对55家图书馆造成损害，其中两家已被完全摧毁。",
+      "date": "2026-04-05T20:06:59Z",
+      "url": "https://www.tehrantimes.com/news/525216/55-libraries-damaged-by-enemy-strikes-in-Iran",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/trump-threatens-iran-in-expletive-filled-social-media-post?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525216/55-libraries-damaged-by-enemy-strikes-in-Iran"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -373,63 +821,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump threatens Iran in expletive-filled social media post"
-      }
-    },
-    {
-      "id": "evt_9084d5c4",
-      "title": "以色列在袭击伊朗和黎巴嫩的同时继续对加沙发动致命袭击",
-      "summary": "以色列在袭击伊朗和黎巴嫩的同时继续袭击加沙，周日造成至少4名巴勒斯坦人死亡。",
-      "date": "2026-04-05T18:36:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon"
-      }
-    },
-    {
-      "id": "evt_e77f5050",
-      "title": "随着伊朗战时互联网关闭打破严峻纪录，挫折感加剧",
-      "summary": "自1月以来，伊朗近乎完全的互联网中断影响了就业和企业。",
-      "date": "2026-04-05T18:29:52Z",
-      "url": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Frustration grows as Iran’s wartime internet shutdown breaks grim record"
+        "en": "55 libraries damaged by enemy strikes in Iran"
       }
     },
     {
@@ -626,34 +1018,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ros Atkins on…the cost of the Iran war"
-      }
-    },
-    {
-      "id": "evt_eec73467",
-      "title": "“我已经好几天没睡觉了” ：伊朗人描述了一个月的战争后日益加剧的绝望",
-      "summary": "来自伊朗各地的普通人描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。",
-      "date": "2026-04-02T16:09:24Z",
-      "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'I haven't slept for days': Iranians describe mounting desperation after a month of war"
       }
     },
     {
