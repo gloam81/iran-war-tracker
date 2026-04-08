@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-07T05:59:55.689080Z
+// 自动生成的数据 - 更新时间: 2026-04-08T06:03:38.842366Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-07T05:59:55.689016Z",
-    "totalEvents": 38,
+    "lastUpdate": "2026-04-08T06:03:38.842301Z",
+    "totalEvents": 39,
     "sources": {
-      "international": 25,
+      "international": 26,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_23b3a705",
-      "title": "特朗普威胁袭击伊朗发电厂",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）在社交媒体上的一篇粗俗帖子中表示， “周二将是发电厂日”。",
-      "date": "2026-04-07T04:33:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss",
+      "id": "evt_6dc7a571",
+      "title": "美国停火允许就伊朗的“可行” 10点计划进行谈判",
+      "summary": "唐纳德·特朗普宣布为期两周的停火，为就伊朗的10点计划进行谈判铺平了道路。",
+      "date": "2026-04-08T05:04:37Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump’s threat to strike Iran’s power plants looms"
+        "en": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan"
       }
     },
     {
-      "id": "evt_46d71197",
-      "title": "“鉴于美国和以色列的记录，为什么伊朗会同意停火？”",
-      "summary": "政治分析人士特里塔·帕西（ Trita Parsi ）表示，没有人会对伊朗拒绝美国停火协议的想法感到惊讶。",
-      "date": "2026-04-07T04:11:17Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss",
+      "id": "evt_ee8987ad",
+      "title": "美国政界人士对特朗普的伊朗停火作出谨慎、宽慰的反应",
+      "summary": "共和党鹰派人士对与德黑兰的谈判表示怀疑，因为民主党人欢迎休战并呼吁问责。",
+      "date": "2026-04-08T04:34:31Z",
+      "url": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -65,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’"
+        "en": "US politicians react to Trump’s Iran ceasefire with caution, relief"
       }
     },
     {
-      "id": "evt_88c844ee",
-      "title": "“他们想制造裂痕” ：以色列的袭击加深了黎巴嫩的裂痕",
-      "summary": "由于以色列不断升级的轰炸和地面入侵加剧了流离失所危机，黎巴嫩日益分裂。",
-      "date": "2026-04-07T02:03:34Z",
-      "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss",
+      "id": "evt_6469dc70",
+      "title": "伊朗人纪念Minab学校罢工的受害者",
+      "summary": "伊朗人纪念了美国袭击米纳布一所女子学校的受害者，该学校造成168人死亡。",
+      "date": "2026-04-08T04:29:15Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures"
-      }
-    },
-    {
-      "id": "evt_8e107fde",
-      "title": "伊朗战争现场：随着霍尔木兹交易截止日期的临近，特朗普警告袭击事件",
-      "summary": "国防部长皮特·赫格塞特（ Pete Hegseth ）表示，美军对伊朗的打击比战争开始以来的任何一天都要多。",
-      "date": "2026-04-07T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,7 +93,427 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears"
+        "en": "Iranians commemorate victims of Minab school strike"
+      }
+    },
+    {
+      "id": "evt_56b6bf8b",
+      "title": "世界欢迎美伊停火，敦促中东实现持久和平",
+      "summary": "各国敦促全面承诺实现为期两周的停火，赞扬巴基斯坦在促成停火方面发挥的作用。",
+      "date": "2026-04-08T04:23:34Z",
+      "url": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East"
+      }
+    },
+    {
+      "id": "evt_faaf3995",
+      "title": "内塔尼亚胡称美伊停火“不包括黎巴嫩”",
+      "summary": "以色列总理欢迎美国决定暂停对伊朗的袭击，但表示休战不适用于黎巴嫩。",
+      "date": "2026-04-08T03:17:42Z",
+      "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’"
+      }
+    },
+    {
+      "id": "evt_01259f6b",
+      "title": "伊拉克人庆祝美伊停火，两周停战开始",
+      "summary": "在伊朗和美国宣布为期两周的停火之后，伊拉克爆发了庆祝活动。",
+      "date": "2026-04-08T01:55:02Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins"
+      }
+    },
+    {
+      "id": "evt_dee79504",
+      "title": "气候活动家Greta Thunberg抨击特朗普对伊朗的威胁",
+      "summary": "民意调查发现，美国的年轻人对外国干预和对伊朗的战争更持怀疑态度。",
+      "date": "2026-04-08T01:53:03Z",
+      "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Climate activist Greta Thunberg slams Trump’s threats against Iran"
+      }
+    },
+    {
+      "id": "evt_83c030b2",
+      "title": "官员说，美国记者雪莉·基特尔森在伊拉克被绑架后获释",
+      "summary": "美国官员表示，他们现在正在“努力支持她安全离开伊拉克”。",
+      "date": "2026-04-08T01:44:26Z",
+      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say"
+      }
+    },
+    {
+      "id": "evt_9a0a7f60",
+      "title": "随着特朗普宣布为期两周的伊朗停火，油价下跌，股市飙升",
+      "summary": "投资者对可能恢复通过霍尔木兹海峡的石油和天然气流量表示欢迎。",
+      "date": "2026-04-08T01:29:54Z",
+      "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire"
+      }
+    },
+    {
+      "id": "evt_fe7df87b",
+      "title": "伊朗表示将于周五在巴基斯坦伊斯兰堡开始与美国会谈",
+      "summary": "德黑兰表示，谈判将基于其10点提案，该提案要求控制霍尔木兹海峡。",
+      "date": "2026-04-08T01:06:46Z",
+      "url": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday"
+      }
+    },
+    {
+      "id": "evt_e3e2e586",
+      "title": "伊朗同意开放霍尔木兹海峡让美国停火两周",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示， “如果停止对伊朗的袭击” ，那么伊朗将同意美国的停火。",
+      "date": "2026-04-08T01:00:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran agrees to open Strait of Hormuz for two-week US ceasefire"
+      }
+    },
+    {
+      "id": "evt_4e4dda87",
+      "title": "白宫确认暂停对伊朗罢工两周",
+      "summary": "白宫证实，美国已同意在两周内暂停对伊朗的所有轰炸和军事袭击。",
+      "date": "2026-04-08T00:06:56Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "White House confirms two-week suspension of strikes on Iran"
+      }
+    },
+    {
+      "id": "evt_579bc4ea",
+      "title": "如果霍尔木兹海峡开放，特朗普同意暂停对伊朗的袭击",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，他已同意将威胁的攻击伊朗的最后期限延长两周。",
+      "date": "2026-04-07T23:25:46Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens"
+      }
+    },
+    {
+      "id": "evt_bdb8a007",
+      "title": "法国夫妇在入狱三年多后离开伊朗",
+      "summary": "法国总统说，塞西尔·科勒（ Cecile Kohler ）和雅克·巴黎（ Jacques Paris ）被允许离开法国后正在回家的路上。",
+      "date": "2026-04-07T19:18:08Z",
+      "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "French couple leave Iran after more than three years in jail"
+      }
+    },
+    {
+      "id": "evt_2c3aa04f",
+      "title": "一名枪手在以色列驻伊斯坦布尔领事馆开枪时被打死，两人受伤",
+      "summary": "目前没有以色列外交官在土耳其，伊斯坦布尔领事馆在过去两年半里一直空着。",
+      "date": "2026-04-07T14:51:07Z",
+      "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul"
+      }
+    },
+    {
+      "id": "evt_9122b04f",
+      "title": "在以色列军队杀害承包商后，世卫组织暂停加沙医疗后送",
+      "summary": "以色列军方表示，部队向巴勒斯坦人驾驶的车辆开火，因为他们认为这构成了“直接威胁”。",
+      "date": "2026-04-07T13:55:19Z",
+      "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops"
+      }
+    },
+    {
+      "id": "evt_79d3a995",
+      "title": "随着特朗普的伊朗截止日期临近，几乎没有突破的迹象",
+      "summary": "随着周二伊朗开放霍尔木兹海峡截止日期的最后几个小时的临近，美国总统处于微妙的政治地位。",
+      "date": "2026-04-06T23:04:23Z",
+      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Little sign of breakthrough as Trump's Iran deadline nears"
+      }
+    },
+    {
+      "id": "evt_3c9ed932",
+      "title": "特朗普威胁说，如果在截止日期前没有达成协议，他将在“一夜之间”拿下伊朗",
+      "summary": "美国总统希望德黑兰在周二截止日期之前重新开放霍尔木兹海峡，这是一条重要的全球能源路线。",
+      "date": "2026-04-06T21:55:50Z",
+      "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump threatens to take out Iran in 'one night' if no deal before deadline"
       }
     },
     {
@@ -150,202 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "How rescue of US airman in remote part of Iran unfolded"
-      }
-    },
-    {
-      "id": "evt_a893028b",
-      "title": "特朗普表示，在伊朗战争期间，美国可能会收取霍尔木兹海峡通行费",
-      "summary": "美国总统表示，作为战争的“赢家” ，华盛顿有一个在战略航道上收费的“概念”。",
-      "date": "2026-04-06T21:26:20Z",
-      "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says US could charge for Strait of Hormuz passage amid Iran war"
-      }
-    },
-    {
-      "id": "evt_071906ef",
-      "title": "为什么伊朗的布什尔核电站受到攻击？",
-      "summary": "世卫组织警告说，如果发生放射性释放，将面临“灾难性”风险。",
-      "date": "2026-04-06T21:10:03Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why is Iran’s Bushehr nuclear power plant being attacked?"
-      }
-    },
-    {
-      "id": "evt_03d1faf5",
-      "title": "抗议者涌入美国驻特拉维夫大使馆，要求结束战争",
-      "summary": "抗议者聚集在美国驻特拉维夫大使馆外，呼吁结束与伊朗和黎巴嫩的战争。",
-      "date": "2026-04-06T21:05:52Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Protesters swarm US embassy in Tel Aviv, demanding end of wars"
-      }
-    },
-    {
-      "id": "evt_9b56353e",
-      "title": "以色列士兵在袭击希伯伦期间向巴勒斯坦青年发射催泪瓦斯",
-      "summary": "以色列军队袭击了希伯伦的穆斯林青年协会，向巴勒斯坦人发射了催泪瓦斯。",
-      "date": "2026-04-06T21:02:01Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron"
-      }
-    },
-    {
-      "id": "evt_27821b6f",
-      "title": "以色列空袭在加沙学校附近造成至少10名巴勒斯坦人死亡",
-      "summary": "据报道，无人机向Maghazi难民营附近的一个地区发射了导弹。",
-      "date": "2026-04-06T20:34:47Z",
-      "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli air strike kills at least 10 Palestinians near Gaza school"
-      }
-    },
-    {
-      "id": "evt_a4bd2801",
-      "title": "黎巴嫩真主党和也门胡塞武装与伊朗一道打击以色列",
-      "summary": "也门的胡塞武装说，他们与支持者伊朗和黎巴嫩真主党一起袭击了以色列。",
-      "date": "2026-04-06T20:22:06Z",
-      "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel"
-      }
-    },
-    {
-      "id": "evt_7b54bec2",
-      "title": "特朗普声称伊朗人乞求美国继续轰炸伊朗",
-      "summary": "唐纳德特朗普声称美国“无数次拦截”伊朗人请求继续轰炸。",
-      "date": "2026-04-06T20:05:05Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump claims Iranians begging US to keep bombing Iran"
       }
     },
     {
@@ -881,34 +1077,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_58a817da",
-      "title": "专家质疑美国对拉默德致命的伊朗体育馆罢工的说法",
-      "summary": "六名武器专家质疑美国的说法，即视频证据表明伊朗导弹可能击中了大厅。",
-      "date": "2026-04-03T13:16:33Z",
-      "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Experts dispute US account of deadly Iran sports hall strike in Lamerd"
-      }
-    },
-    {
       "id": "evt_9ea8eac0",
       "title": "国际法专家指称伊朗战争中存在违法行为",
       "summary": "白宫表示，它通过消除短期和长期威胁，使整个地区更加安全。",
@@ -934,146 +1102,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "International law experts allege violations in Iran war"
-      }
-    },
-    {
-      "id": "evt_367c5041",
-      "title": "伊朗战争什么时候结束？追踪特朗普政府的时间表",
-      "summary": "专家表示，许多美国总统都提出了冲突的时间表，但随后却改变了估计。",
-      "date": "2026-04-03T11:28:34Z",
-      "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "When will the Iran war end? Tracing the Trump administration's timelines"
-      }
-    },
-    {
-      "id": "evt_caa73574",
-      "title": "“这让我感到担忧” ：伊朗人担心美国袭击卡拉杰桥后会发生什么",
-      "summary": "特朗普总统警告伊朗，如果伊朗领导人不同意他的结束战争的条件，伊朗将对桥梁和发电厂进行罢工。",
-      "date": "2026-04-03T10:35:55Z",
-      "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge"
-      }
-    },
-    {
-      "id": "evt_c5d63461",
-      "title": "罗斯·阿特金斯谈伊朗战争的代价",
-      "summary": "英国广播公司的分析编辑罗斯·阿特金斯（ Ros Atkins ）仔细研究了美国继续与伊朗开战的成本。",
-      "date": "2026-04-02T18:29:14Z",
-      "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ros Atkins on…the cost of the Iran war"
-      }
-    },
-    {
-      "id": "evt_d8ebdb45",
-      "title": "伊朗对生存的关注意味着同样的政权仍然牢固存在",
-      "summary": "英国广播公司波斯语编辑阿米尔·阿齐米（ Amir Azimi ）写道，尽管特朗普声称要更迭政权，但德黑兰仍然表现",
-      "date": "2026-04-02T13:45:09Z",
-      "url": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran's focus on survival means same regime still firmly in place"
-      }
-    },
-    {
-      "id": "evt_d8f4636e",
-      "title": "特朗普试图平息对伊朗战争的紧张情绪，但关键问题仍未得到解答",
-      "summary": "英国广播公司的加里·奥多诺霍（ Gary O'Donoghue ）写道，美国总统的黄金时段讲话中有一些明显的遗漏。",
-      "date": "2026-04-02T03:22:51Z",
-      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war"
       }
     }
   ]
