@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-09T06:01:15.694608Z
+// 自动生成的数据 - 更新时间: 2026-04-10T06:19:39.104892Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-09T06:01:15.694538Z",
-    "totalEvents": 41,
+    "lastUpdate": "2026-04-10T06:19:39.104825Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 28,
+      "international": 24,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_c07c821e",
-      "title": "特朗普在会见吕特后猛烈抨击北约，再次威胁格陵兰",
-      "summary": "美国总统会见北约主席，对成员国未能支持对伊朗的战争表示失望。",
-      "date": "2026-04-09T04:46:54Z",
-      "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
+      "id": "evt_42f7c7fb",
+      "title": "巴勒斯坦记者描述在以色列监狱中失去假眼",
+      "summary": "巴勒斯坦记者穆阿斯·阿马恩（ Muath Amarne ）说，他的假眼在以色列拘留期间因感染而脱落。",
+      "date": "2026-04-10T05:00:51Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian journalist describes losing prosthetic eye in Israeli prison"
+      }
+    },
+    {
+      "id": "evt_c17c29bd",
+      "title": "科威特指责伊朗发动无人机袭击，伊朗否认对此负责",
+      "summary": "科威特指责“伊朗及其代理人”在周四晚上发动了无人机袭击，而伊朗则否认对此负责。",
+      "date": "2026-04-10T04:57:40Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat"
+        "en": "Kuwait blames Iran for drone strike, Iran denies responsibility"
       }
     },
     {
-      "id": "evt_f2f59b14",
-      "title": "13岁女孩捕捉到以色列轰炸贝鲁特的可怕时刻",
-      "summary": "一位13岁的女孩在Snapchat上捕捉到了以色列开始攻击贝鲁特的那一刻。",
-      "date": "2026-04-09T03:27:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss",
+      "id": "evt_10f703ae",
+      "title": "英国首相凯尔·斯塔默访问海湾地区以加强“脆弱的”美伊停火",
+      "summary": "当英国首相凯尔·斯塔默（ Keir Starmer ）作为海湾之旅的一部分抵达多哈时，他讨论了确保美伊停火的努力。",
+      "date": "2026-04-10T03:13:44Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -65,104 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "13-year-old girl captures terrifying moment Israel bombed Beirut"
+        "en": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire"
       }
     },
     {
-      "id": "evt_524d2a3a",
-      "title": "土耳其车队谴责美国和以色列的“无法无天的侵略”",
-      "summary": "数百辆汽车驶过伊斯坦布尔，谴责美国和以色列的“无法无天的侵略”。",
-      "date": "2026-04-09T02:26:35Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss",
+      "id": "evt_034a2edb",
+      "title": "尽管美伊停火，霍尔木兹海峡的航运仍处于停滞状态",
+      "summary": "华盛顿和德黑兰互相指责对方不遵守停火协议。",
+      "date": "2026-04-10T02:47:13Z",
+      "url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel"
-      }
-    },
-    {
-      "id": "evt_9efdeb38",
-      "title": "以色列驻伦敦大使馆外的抗议者谴责对黎巴嫩的袭击",
-      "summary": "抗议者封锁了以色列驻伦敦大使馆外的道路，谴责以色列对黎巴嫩的暴力袭击。",
-      "date": "2026-04-09T01:23:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Protesters outside Israeli embassy in London condemn assault on Lebanon"
-      }
-    },
-    {
-      "id": "evt_8ff79a3d",
-      "title": "美国副总统万斯表示，黎巴嫩不是美伊停火协议的一部分",
-      "summary": "美国副总统万斯表示，黎巴嫩不是美伊停火协议的一部分。",
-      "date": "2026-04-09T00:36:44Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire"
-      }
-    },
-    {
-      "id": "evt_5ae63a59",
-      "title": "伊朗战争现场：特朗普威胁如果德黑兰不遵守协议将采取行动",
-      "summary": "联合国人权事务主管沃尔克·特克（ Volker Turk ）将以色列对黎巴嫩的袭击描述为“可怕的” ，这是在停火后不久发生的。",
-      "date": "2026-04-09T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump threatens action if Tehran fails to comply with deal"
+        "en": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire"
       }
     },
     {
-      "id": "evt_449d5c14",
-      "title": "“必须克制以色列，美伊停火才能维持”",
-      "summary": "美国前反恐部长乔·肯特（ Joe Kent ）警告说，以色列可能会“破坏”美伊停火。",
-      "date": "2026-04-08T23:39:52Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss",
+      "id": "evt_a211d093",
+      "title": "特朗普表示，伊朗对霍尔木兹海峡的处理“不是我们达成的协议”",
+      "summary": "美国总统指责伊朗在水道方面“做得非常糟糕” ，因为以色列和黎巴嫩开始和平谈判。",
+      "date": "2026-04-10T02:10:44Z",
+      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,23 +149,79 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Israel must be restrained for US-Iran ceasefire to hold’"
+        "en": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'"
       }
     },
     {
-      "id": "evt_3799e18c",
-      "title": "因提供与马修·佩里死亡有关的药物而被判处15年徒刑的女性",
-      "summary": "提供最终导致佩里于2023年死亡的剂量的毒贩对五项重罪毒品罪名表示认罪。",
-      "date": "2026-04-08T22:49:22Z",
-      "url": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss",
+      "id": "evt_d67557c5",
+      "title": "伊朗战争现场：以色列对黎巴嫩的袭击威胁到美伊停火谈判",
+      "summary": "伊朗议会议长穆罕默德·巴盖尔·加里巴夫（ Mohammad Bagher Ghalibaf ）警告说，在以色列对黎巴嫩的袭击中， “",
+      "date": "2026-04-10T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks"
+      }
+    },
+    {
+      "id": "evt_ff29ed68",
+      "title": "视频显示，在可疑无人机拦截中，埃尔比勒上空发生爆炸",
+      "summary": "视频显示伊拉克北部库尔德地区埃尔比勒上空发生爆炸。",
+      "date": "2026-04-09T23:50:16Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Video shows explosion over Erbil in suspected drone interception"
+      }
+    },
+    {
+      "id": "evt_d2f5f336",
+      "title": "伊朗最高领导人Mojtaba Khamenei表示“我们寻求赔偿，而不是战争”",
+      "summary": "伊朗国家电视台宣读了新任最高领袖莫伊塔巴·哈梅内伊（ Mojtaba Khamenei ）的致辞，称伊朗“不想要战争”。",
+      "date": "2026-04-09T23:16:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -233,7 +233,287 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Woman given 15 years for role supplying drugs linked to Matthew Perry death"
+        "en": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’"
+      }
+    },
+    {
+      "id": "evt_a661d5e4",
+      "title": "停火或不停火，中东的重组尚未完成",
+      "summary": "双方都有理由结束战争，但没有共同点。",
+      "date": "2026-04-09T23:01:47Z",
+      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done"
+      }
+    },
+    {
+      "id": "evt_62fadae3",
+      "title": "美伊停火：下一步的不确定性",
+      "summary": "两周的美国-伊朗停火暂停了战争； “谁赢了？”随着霍尔木兹、黎巴嫩的袭击，伊朗的能力持续存在。",
+      "date": "2026-04-09T22:48:25Z",
+      "url": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Iran ceasefire: Uncertainty over what’s next"
+      }
+    },
+    {
+      "id": "evt_a5d8340e",
+      "title": "贝鲁特医院努力应对以色列袭击造成的伤亡",
+      "summary": "医生警告说，由于重要物资供应不足，以色列的袭击摧毁了贝鲁特和周边地区，危机将恶化。",
+      "date": "2026-04-09T21:36:43Z",
+      "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks"
+      }
+    },
+    {
+      "id": "evt_e6f0ebc7",
+      "title": "黎巴嫩认为停火了-然后以色列发动了致命的闪电战",
+      "summary": "以色列表示，美国同意停止与伊朗的战争，但黎巴嫩没有包括在停火协议中。",
+      "date": "2026-04-09T17:16:08Z",
+      "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz"
+      }
+    },
+    {
+      "id": "evt_c6349403",
+      "title": "以色列罢工黎巴嫩“严重违反”停火，伊朗部长告诉英国广播公司",
+      "summary": "伊朗副外长表示，美国必须在“战争和停火”之间做出选择。",
+      "date": "2026-04-09T17:11:59Z",
+      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC"
+      }
+    },
+    {
+      "id": "evt_214eef54",
+      "title": "“无尽的恐惧” ：即使战斗停止，对伊朗儿童的伤害也将持续",
+      "summary": "英国广播公司已经能够从父母和那些试图帮助孩子应对战争带来的痛苦的人那里获得证词。",
+      "date": "2026-04-09T16:06:39Z",
+      "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure"
+      }
+    },
+    {
+      "id": "evt_06ad9bbf",
+      "title": "在脆弱的停火中，船只仍谨慎接近霍尔木兹海峡",
+      "summary": "根据BBC Verify的分析，自美国和伊朗达成停火协议以来，只有少数船只越过海峡。",
+      "date": "2026-04-09T13:58:43Z",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire"
+      }
+    },
+    {
+      "id": "evt_2e8c92b8",
+      "title": "美国是否已经实现了在伊朗的战争目标？",
+      "summary": "美国在战争开始时的主要目标是阻止伊朗获得核武器并使其核武库退化。",
+      "date": "2026-04-09T13:11:03Z",
+      "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Has US achieved its war objectives in Iran?"
+      }
+    },
+    {
+      "id": "evt_98a2f387",
+      "title": "半岛电视台谴责以色列在加沙罢工中杀害记者",
+      "summary": "以色列军方声称Mohammed Wishah是“哈马斯恐怖分子” -总部位于卡塔尔的网络此前否认了这一点。",
+      "date": "2026-04-09T11:39:56Z",
+      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza"
+      }
+    },
+    {
+      "id": "evt_b79e6d87",
+      "title": "英国广播公司在贝鲁特以色列空袭现场",
+      "summary": "据黎巴嫩卫生部称，至少有182人死亡， 890人受伤。",
+      "date": "2026-04-09T07:45:26Z",
+      "url": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BBC at the site of Israeli air strikes in Beirut"
       }
     },
     {
@@ -262,146 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled"
-      }
-    },
-    {
-      "id": "evt_ef7fb70f",
-      "title": "美国人质疑特朗普对伊朗战争的直觉",
-      "summary": "美国人在是否相信唐纳德·特朗普对伊朗冲突的本能驱动方法上存在分歧。",
-      "date": "2026-04-08T21:59:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Americans question Trump’s instinct on Iran war"
-      }
-    },
-    {
-      "id": "evt_ea0a2e5a",
-      "title": "JD Vance表示，伊朗让黎巴嫩问题谈判破裂将是“愚蠢的”",
-      "summary": "这位美国副总统表示，伊朗对黎巴嫩被纳入本周的停火存在“合理的误解”。",
-      "date": "2026-04-08T21:50:36Z",
-      "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon"
-      }
-    },
-    {
-      "id": "evt_4b7acc6d",
-      "title": "特朗普政府表示正在考虑在伊朗战争后撤出北约",
-      "summary": "美国总统猛烈抨击欧洲伙伴拒绝向伊朗战争提供军事力量。",
-      "date": "2026-04-08T21:47:23Z",
-      "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump administration signals it is mulling NATO withdrawal after Iran war"
-      }
-    },
-    {
-      "id": "evt_5faf7ca1",
-      "title": "马克龙欢迎美伊停火并敦促黎巴嫩加入",
-      "summary": "法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）对美伊停火表示欢迎，认为这是“非常好的消息”",
-      "date": "2026-04-08T21:39:14Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion"
-      }
-    },
-    {
-      "id": "evt_578d020e",
-      "title": "特朗普威胁对向伊朗供应武器的国家征收50%的关税",
-      "summary": "目前尚不清楚特朗普可以在何种法律权限下征收这一关税，分析师称其为“空洞的威胁”。",
-      "date": "2026-04-08T21:28:08Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump threatens 50% tariffs on countries that supply Iran with weapons"
       }
     },
     {
@@ -435,7 +575,7 @@ const siteData = {
     {
       "id": "evt_4e278b89",
       "title": "谈判代表面临着缩小竞争对手伊朗和平建议差距的艰巨任务",
-      "summary": "英国广播公司的外交记者写道，美国的15点计划和伊朗的10点计划是大相径庭的。",
+      "summary": "美国有一个结束战争的15点计划，伊朗提出了10项自己的建议。它们可以调和吗？",
       "date": "2026-04-08T20:26:48Z",
       "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -458,90 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Negotiators face huge task to close gaps in rival Iran peace proposals"
-      }
-    },
-    {
-      "id": "evt_34bf717e",
-      "title": "我们对美国和伊朗之间为期两周的停火协议的了解",
-      "summary": "在美国和以色列对伊朗发动协同攻击一个多月后，临时休战开始了。",
-      "date": "2026-04-08T20:25:49Z",
-      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What we know about the two-week ceasefire between the US and Iran"
-      }
-    },
-    {
-      "id": "evt_f6a3494b",
-      "title": "油价暴跌，美伊停火计划股价飙升",
-      "summary": "原油价格在有条件暂停后下跌了15% ，但仍远高于战前。",
-      "date": "2026-04-08T20:15:35Z",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil prices plunge and shares jump on US-Iran ceasefire plan"
-      }
-    },
-    {
-      "id": "evt_06ad9bbf",
-      "title": "伊朗霍尔木兹海峡警告增加了航运不确定性",
-      "summary": "根据BBC Verify的分析，自美国和伊朗达成停火协议以来，只有少数船只越过海峡。",
-      "date": "2026-04-08T17:21:31Z",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran Strait of Hormuz warning adds to shipping uncertainty"
       }
     },
     {
@@ -601,34 +657,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_dd437d83",
-      "title": "巴基斯坦如何帮助确保美国和伊朗之间脆弱的停火",
-      "summary": "英国广播公司（ BBC ）的卡罗琳·戴维斯（ Caroline Davies ）写道，巴基斯坦与伊朗有着历史性的关系，但协议远",
-      "date": "2026-04-08T05:03:31Z",
-      "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Pakistan helped secure a fragile ceasefire between the US and Iran"
-      }
-    },
-    {
       "id": "evt_38eae003",
       "title": "伊朗停火协议为特朗普提供了摆脱战争的途径-但代价高昂",
       "summary": "与伊朗达成为期两周停火的道路可能从根本上改变了世界其他国家对美国的看法。",
@@ -654,146 +682,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran ceasefire deal gives Trump a way out of war - but at a high cost"
-      }
-    },
-    {
-      "id": "evt_83c030b2",
-      "title": "官员说，美国记者雪莉·基特尔森在伊拉克被绑架后获释",
-      "summary": "美国官员表示，他们现在正在“努力支持她安全离开伊拉克”。",
-      "date": "2026-04-08T01:44:26Z",
-      "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say"
-      }
-    },
-    {
-      "id": "evt_4e29f188",
-      "title": "特朗普谴责伊朗“文明将消亡”的威胁",
-      "summary": "联合国秘书长表示，他对此类言论“深感不安” ，因为美国总统加大了对伊朗的压力，要求其同意达成结束战争的协议。",
-      "date": "2026-04-07T21:56:02Z",
-      "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump condemned over threat that Iran's 'civilisation will die'"
-      }
-    },
-    {
-      "id": "evt_bdb8a007",
-      "title": "法国夫妇在入狱三年多后离开伊朗",
-      "summary": "法国总统说，塞西尔·科勒（ Cecile Kohler ）和雅克·巴黎（ Jacques Paris ）被允许离开法国后正在回家的路上。",
-      "date": "2026-04-07T19:18:08Z",
-      "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "French couple leave Iran after more than three years in jail"
-      }
-    },
-    {
-      "id": "evt_2c3aa04f",
-      "title": "一名枪手在以色列驻伊斯坦布尔领事馆开枪时被打死，两人受伤",
-      "summary": "目前没有以色列外交官在土耳其，伊斯坦布尔领事馆在过去两年半里一直空着。",
-      "date": "2026-04-07T14:51:07Z",
-      "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul"
-      }
-    },
-    {
-      "id": "evt_9122b04f",
-      "title": "在以色列军队杀害承包商后，世卫组织暂停加沙医疗后送",
-      "summary": "以色列军方表示，部队向巴勒斯坦人驾驶的车辆开火，因为他们认为这构成了“直接威胁”。",
-      "date": "2026-04-07T13:55:19Z",
-      "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops"
       }
     },
     {
