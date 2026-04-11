@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-04-10T06:19:39.104892Z
+// 自动生成的数据 - 更新时间: 2026-04-11T05:19:23.550044Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-10T06:19:39.104825Z",
+    "lastUpdate": "2026-04-11T05:19:23.549977Z",
     "totalEvents": 37,
     "sources": {
       "international": 24,
@@ -13,16 +13,128 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_42f7c7fb",
-      "title": "巴勒斯坦记者描述在以色列监狱中失去假眼",
-      "summary": "巴勒斯坦记者穆阿斯·阿马恩（ Muath Amarne ）说，他的假眼在以色列拘留期间因感染而脱落。",
-      "date": "2026-04-10T05:00:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss",
+      "id": "evt_742f631a",
+      "title": "伊朗战争：美伊冲突的第43天发生了什么？",
+      "summary": "伊朗高级官员抵达伊斯兰堡，与美国进行停火谈判。",
+      "date": "2026-04-11T04:49:17Z",
+      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war: What is happening on day 43 of the US-Iran conflict?"
+      }
+    },
+    {
+      "id": "evt_ad759904",
+      "title": "巴基斯坦大使在美伊会谈前夕对半岛电视台发表讲话",
+      "summary": "巴基斯坦驻美国大使表示，数周的紧张外交努力导致了各方的共同承诺。",
+      "date": "2026-04-11T04:15:59Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks"
+      }
+    },
+    {
+      "id": "evt_575e32c9",
+      "title": "巴基斯坦总理称美伊会谈“成败”",
+      "summary": "巴基斯坦总理谢赫巴兹·谢里夫（ Shehbaz Sharif ）将即将在伊斯兰堡举行的美伊会谈描述为“成败”。",
+      "date": "2026-04-11T04:02:42Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan’s prime minister calls US-Iran talks ‘make or break’"
+      }
+    },
+    {
+      "id": "evt_36e39d9f",
+      "title": "特朗普表示，随着美国和伊朗开始谈判，霍尔木兹海峡将“很快”重新开放",
+      "summary": "特朗普表示，华盛顿不会接受伊朗在关键水道上强加事实上的收费站系统。",
+      "date": "2026-04-11T03:06:18Z",
+      "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks"
+      }
+    },
+    {
+      "id": "evt_937aabda",
+      "title": "伊朗战争现场：美国谈判代表将抵达巴基斯坦进行停火谈判",
+      "summary": "黎巴嫩卫生部表示，自3月2日以来，在以色列袭击中丧生的人数增加到1,953人，受伤人数为6,303人。",
+      "date": "2026-04-11T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +149,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinian journalist describes losing prosthetic eye in Israeli prison"
+        "en": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks"
       }
     },
     {
-      "id": "evt_c17c29bd",
-      "title": "科威特指责伊朗发动无人机袭击，伊朗否认对此负责",
-      "summary": "科威特指责“伊朗及其代理人”在周四晚上发动了无人机袭击，而伊朗则否认对此负责。",
-      "date": "2026-04-10T04:57:40Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss",
+      "id": "evt_26e7369e",
+      "title": "以色列对政府大楼的袭击造成黎巴嫩军官死亡",
+      "summary": "以色列对黎巴嫩南部纳巴提耶（ Nabatieh ）一座政府大楼的空袭造成至少13人死亡。",
+      "date": "2026-04-10T23:55:38Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli strike on government building kills Lebanese officers"
+      }
+    },
+    {
+      "id": "evt_2d8cfd89",
+      "title": "历史性的万斯-加利巴夫会谈必须弥合深刻的不信任",
+      "summary": "面对面的会谈将标志着自1979年伊斯兰革命以来伊朗和美国之间的最高级别接触。",
+      "date": "2026-04-10T23:46:49Z",
+      "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -65,20 +205,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Kuwait blames Iran for drone strike, Iran denies responsibility"
+        "en": "Historic Vance-Ghalibaf talks must bridge deep distrust"
       }
     },
     {
-      "id": "evt_10f703ae",
-      "title": "英国首相凯尔·斯塔默访问海湾地区以加强“脆弱的”美伊停火",
-      "summary": "当英国首相凯尔·斯塔默（ Keir Starmer ）作为海湾之旅的一部分抵达多哈时，他讨论了确保美伊停火的努力。",
-      "date": "2026-04-10T03:13:44Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss",
+      "id": "evt_cc595bdc",
+      "title": "真主党火箭弹袭击损坏了1500年历史的以色列教堂",
+      "summary": "真主党向以色列北部发射了一连串火箭弹，炸毁了纳哈里亚一座有1500年历史的拜占庭教堂。",
+      "date": "2026-04-10T22:58:09Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hezbollah rocket attack damages 1,500-year-old Israeli church"
+      }
+    },
+    {
+      "id": "evt_cec6c7d0",
+      "title": "黎巴嫩和以色列官员将于周二在美国会面",
+      "summary": "黎巴嫩一名高级官员早些时候告诉英国广播公司，只有在停火的情况下，黎巴嫩才会参加会谈。",
+      "date": "2026-04-10T22:43:03Z",
+      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon and Israel officials to meet in US on Tuesday"
+      }
+    },
+    {
+      "id": "evt_4cbe160b",
+      "title": "伊朗代表团抵达伊斯兰堡与美国会谈",
+      "summary": "伊朗高级代表团已抵达伊斯兰堡，与美国官员会谈。",
+      "date": "2026-04-10T21:59:21Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,27 +289,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire"
+        "en": "Iranian delegation arrives in Islamabad for talks with US"
       }
     },
     {
-      "id": "evt_034a2edb",
-      "title": "尽管美伊停火，霍尔木兹海峡的航运仍处于停滞状态",
-      "summary": "华盛顿和德黑兰互相指责对方不遵守停火协议。",
-      "date": "2026-04-10T02:47:13Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss",
+      "id": "evt_8a69f145",
+      "title": "伊斯兰堡在美伊谈判之前被封锁",
+      "summary": "随着美国和伊朗代表团的到来，伊斯兰堡已经部署了1万多名军事和警察人员。",
+      "date": "2026-04-10T21:58:14Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -121,7 +317,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire"
+        "en": "Islamabad on lockdown ahead of US-Iran talks"
+      }
+    },
+    {
+      "id": "evt_c4b54f49",
+      "title": "在以色列定居者袭击被占领的约旦河西岸村庄期间，巴勒斯坦人",
+      "summary": "这起杀戮事件发生之际，前安全部门负责人警告说， “政府支持的犹太恐怖主义”已经失控。",
+      "date": "2026-04-10T17:08:27Z",
+      "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian shot dead during Israeli settler attack on occupied West Bank village"
+      }
+    },
+    {
+      "id": "evt_06ad9bbf",
+      "title": "有多少船只正在穿越霍尔木兹海峡？",
+      "summary": "根据BBC Verify的分析，自美国和伊朗达成停火协议以来，只有少数船只越过海峡。",
+      "date": "2026-04-10T16:08:19Z",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How many ships are crossing the Strait of Hormuz?"
       }
     },
     {
@@ -153,90 +405,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d67557c5",
-      "title": "伊朗战争现场：以色列对黎巴嫩的袭击威胁到美伊停火谈判",
-      "summary": "伊朗议会议长穆罕默德·巴盖尔·加里巴夫（ Mohammad Bagher Ghalibaf ）警告说，在以色列对黎巴嫩的袭击中， “",
-      "date": "2026-04-10T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks"
-      }
-    },
-    {
-      "id": "evt_ff29ed68",
-      "title": "视频显示，在可疑无人机拦截中，埃尔比勒上空发生爆炸",
-      "summary": "视频显示伊拉克北部库尔德地区埃尔比勒上空发生爆炸。",
-      "date": "2026-04-09T23:50:16Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Video shows explosion over Erbil in suspected drone interception"
-      }
-    },
-    {
-      "id": "evt_d2f5f336",
-      "title": "伊朗最高领导人Mojtaba Khamenei表示“我们寻求赔偿，而不是战争”",
-      "summary": "伊朗国家电视台宣读了新任最高领袖莫伊塔巴·哈梅内伊（ Mojtaba Khamenei ）的致辞，称伊朗“不想要战争”。",
-      "date": "2026-04-09T23:16:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’"
-      }
-    },
-    {
       "id": "evt_a661d5e4",
       "title": "停火或不停火，中东的重组尚未完成",
       "summary": "双方都有理由结束战争，但没有共同点。",
@@ -262,62 +430,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done"
-      }
-    },
-    {
-      "id": "evt_62fadae3",
-      "title": "美伊停火：下一步的不确定性",
-      "summary": "两周的美国-伊朗停火暂停了战争； “谁赢了？”随着霍尔木兹、黎巴嫩的袭击，伊朗的能力持续存在。",
-      "date": "2026-04-09T22:48:25Z",
-      "url": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Iran ceasefire: Uncertainty over what’s next"
-      }
-    },
-    {
-      "id": "evt_a5d8340e",
-      "title": "贝鲁特医院努力应对以色列袭击造成的伤亡",
-      "summary": "医生警告说，由于重要物资供应不足，以色列的袭击摧毁了贝鲁特和周边地区，危机将恶化。",
-      "date": "2026-04-09T21:36:43Z",
-      "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks"
       }
     },
     {
@@ -405,34 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_06ad9bbf",
-      "title": "在脆弱的停火中，船只仍谨慎接近霍尔木兹海峡",
-      "summary": "根据BBC Verify的分析，自美国和伊朗达成停火协议以来，只有少数船只越过海峡。",
-      "date": "2026-04-09T13:58:43Z",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire"
-      }
-    },
-    {
       "id": "evt_2e8c92b8",
       "title": "美国是否已经实现了在伊朗的战争目标？",
       "summary": "美国在战争开始时的主要目标是阻止伊朗获得核武器并使其核武库退化。",
@@ -517,34 +601,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_bcd58167",
-      "title": "以色列支持美伊停火，但内塔尼亚胡的战争目标仍未实现",
-      "summary": "与美国和伊朗的胜利声明相反，以色列总理对停火的反应一直保持沉默。",
-      "date": "2026-04-08T22:09:26Z",
-      "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled"
-      }
-    },
-    {
       "id": "evt_66607e4a",
       "title": "在以色列大规模罢工中，黎巴嫩各地至少有182人丧生",
       "summary": "美国和伊朗宣布停火数小时后，贝鲁特南部郊区、黎巴嫩南部和贝卡谷地东部遭到袭击。",
@@ -601,34 +657,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_45e6cef9",
-      "title": "为什么与美国的停火协议让伊朗的强硬派感到不安",
-      "summary": "英国广播公司新闻波斯语的卡斯拉·纳吉（ Kasra Naji ）写道，为期两周的停火协议开辟了与美国直接谈判的前景，但激怒了伊朗的强硬派。",
-      "date": "2026-04-08T17:16:37Z",
-      "url": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why ceasefire deal with US has unsettled Iran's hardliners"
-      }
-    },
-    {
       "id": "evt_5d0cf140",
       "title": "鲍恩：停火意味着平民的喘息，但停火可能不会持续很长时间",
       "summary": "国际编辑杰里米·鲍恩（ Jeremy Bowen ）写道，无论能否达成持久和平协议，战争及其后果正在重塑中东。",
@@ -654,34 +682,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Bowen: Ceasefire means respite for civilians, but it might not last long"
-      }
-    },
-    {
-      "id": "evt_38eae003",
-      "title": "伊朗停火协议为特朗普提供了摆脱战争的途径-但代价高昂",
-      "summary": "与伊朗达成为期两周停火的道路可能从根本上改变了世界其他国家对美国的看法。",
-      "date": "2026-04-08T03:30:55Z",
-      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran ceasefire deal gives Trump a way out of war - but at a high cost"
       }
     },
     {
