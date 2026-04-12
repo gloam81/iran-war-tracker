@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-11T05:19:23.550044Z
+// 自动生成的数据 - 更新时间: 2026-04-12T06:12:02.537572Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-11T05:19:23.549977Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-04-12T06:12:02.537503Z",
+    "totalEvents": 41,
     "sources": {
-      "international": 24,
+      "international": 28,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_742f631a",
-      "title": "伊朗战争：美伊冲突的第43天发生了什么？",
-      "summary": "伊朗高级官员抵达伊斯兰堡，与美国进行停火谈判。",
-      "date": "2026-04-11T04:49:17Z",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+      "id": "evt_092a4745",
+      "title": "巴基斯坦敦促美国和伊朗在会谈结束后维持停火",
+      "summary": "巴基斯坦外交部长伊沙克·达尔（ Ishaq Dar ）坚持认为，美国和伊朗必须维护其停火协议。",
+      "date": "2026-04-12T05:25:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war: What is happening on day 43 of the US-Iran conflict?"
+        "en": "Pakistan urges US and Iran to uphold ceasefire after talks end"
       }
     },
     {
-      "id": "evt_ad759904",
-      "title": "巴基斯坦大使在美伊会谈前夕对半岛电视台发表讲话",
-      "summary": "巴基斯坦驻美国大使表示，数周的紧张外交努力导致了各方的共同承诺。",
-      "date": "2026-04-11T04:15:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "id": "evt_3d5bcabf",
+      "title": "在巴基斯坦举行马拉松式会谈后，美国和伊朗未能达成和平协议",
+      "summary": "副总统万斯表示，伊朗选择不接受美国的条款，而伊朗表示，它不希望在第一次会议上达成协议。",
+      "date": "2026-04-12T05:19:04Z",
+      "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks"
+        "en": "US and Iran fail to reach peace deal after marathon talks in Pakistan"
       }
     },
     {
-      "id": "evt_575e32c9",
-      "title": "巴基斯坦总理称美伊会谈“成败”",
-      "summary": "巴基斯坦总理谢赫巴兹·谢里夫（ Shehbaz Sharif ）将即将在伊斯兰堡举行的美伊会谈描述为“成败”。",
-      "date": "2026-04-11T04:02:42Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss",
+      "id": "evt_696a5b7d",
+      "title": "在脆弱的美伊停火中，油轮离开霍尔木兹海峡",
+      "summary": "航运数据显示，在全球能源紧缩的情况下，三艘超级油轮装满了石油出口水道。",
+      "date": "2026-04-12T05:00:33Z",
+      "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pakistan’s prime minister calls US-Iran talks ‘make or break’"
+        "en": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire"
       }
     },
     {
-      "id": "evt_36e39d9f",
-      "title": "特朗普表示，随着美国和伊朗开始谈判，霍尔木兹海峡将“很快”重新开放",
-      "summary": "特朗普表示，华盛顿不会接受伊朗在关键水道上强加事实上的收费站系统。",
-      "date": "2026-04-11T03:06:18Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "id": "evt_adfd6d59",
+      "title": "为什么美伊谈判在巴基斯坦没有达成协议就结束了？",
+      "summary": "尽管多年来首次举行了高层会谈，但美国和伊朗未能就结束战争的条款达成协议。",
+      "date": "2026-04-12T04:47:32Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +121,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks"
+        "en": "Why did US-Iran talks end without an agreement in Pakistan?"
       }
     },
     {
-      "id": "evt_937aabda",
-      "title": "伊朗战争现场：美国谈判代表将抵达巴基斯坦进行停火谈判",
-      "summary": "黎巴嫩卫生部表示，自3月2日以来，在以色列袭击中丧生的人数增加到1,953人，受伤人数为6,303人。",
-      "date": "2026-04-11T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+      "id": "evt_9e4e86e2",
+      "title": "观看JD Vance在美伊谈判未达成协议结束后的完整讲话",
+      "summary": "美国副总统万斯（ JD Vance ）即将离开巴基斯坦，称德黑兰选择不接受他们的“最终和最佳报价”。",
+      "date": "2026-04-12T03:32:04Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Watch JD Vance’s full remarks after US-Iran talks end without deal"
+      }
+    },
+    {
+      "id": "evt_de570d76",
+      "title": "美国代表团在没有达成伊朗协议的情况下离开巴基斯坦",
+      "summary": "美国副总统万斯表示，美国代表团未能与伊朗达成协议。",
+      "date": "2026-04-12T03:28:05Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US delegation leaves Pakistan without reaching Iran deal"
+      }
+    },
+    {
+      "id": "evt_13d1aea7",
+      "title": "联合国海事负责人表示，伊朗不得在霍尔木兹海峡收取通行费",
+      "summary": "国际海事组织负责人在接受半岛电视台采访时表示，世界应该拒绝水路收费。",
+      "date": "2026-04-12T03:20:23Z",
+      "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says"
+      }
+    },
+    {
+      "id": "evt_b0cce295",
+      "title": "内塔尼亚胡在中东地图旁边： “我们勒死了他们，还有更多事情要做”",
+      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）站在地图旁，描述了六个国家如何想要扼杀我们。",
+      "date": "2026-04-12T02:09:28Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks"
+        "en": "Netanyahu next to Middle East map: ‘We strangled them and have more to do’"
       }
     },
     {
-      "id": "evt_26e7369e",
-      "title": "以色列对政府大楼的袭击造成黎巴嫩军官死亡",
-      "summary": "以色列对黎巴嫩南部纳巴提耶（ Nabatieh ）一座政府大楼的空袭造成至少13人死亡。",
-      "date": "2026-04-10T23:55:38Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss",
+      "id": "evt_4ef47006",
+      "title": "巴勒斯坦人对以色列批准在被占领的约旦河西岸建立定居点感到震惊",
+      "summary": "以色列在被占领的约旦河西岸批准了34个新定居点，巴勒斯坦人害怕他们会失去自己的土地。",
+      "date": "2026-04-12T00:44:43Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israeli-strike-on-government-building-kills-lebanese-officers?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,7 +261,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli strike on government building kills Lebanese officers"
+        "en": "Palestinians appalled as Israel approves settlements in occupied West Bank"
+      }
+    },
+    {
+      "id": "evt_1ca086d6",
+      "title": "以色列谴责西班牙外交官引爆内塔尼亚胡肖像",
+      "summary": "以色列表示，它已谴责西班牙驻特拉维夫的最高外交官炸毁其总理的肖像。",
+      "date": "2026-04-12T00:08:28Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy"
+      }
+    },
+    {
+      "id": "evt_51dcf468",
+      "title": "伊朗战争现场：万斯说没有达成协议，美国提出了“最好的，最终的报价”",
+      "summary": "伊朗媒体称，美国正在寻找离开谈判的借口， “球在美国的法庭上”。",
+      "date": "2026-04-12T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Vance says no deal reached, US has made ‘best, final offer’"
+      }
+    },
+    {
+      "id": "evt_e1f62edb",
+      "title": "我们采访了为伊朗制作病毒式乐高风格人工智能视频的男子。专家说这是强有力的宣传",
+      "summary": "一位专家说， “Slopaganda”这个词太弱了，无法描述这种“高度复杂”的内容有多强大。",
+      "date": "2026-04-11T23:13:23Z",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda"
+      }
+    },
+    {
+      "id": "evt_f592ed18",
+      "title": "美国总统特朗普表示，无论伊朗谈判进展如何，美国都会“获胜”",
+      "summary": "美国总统唐纳德特朗普表示， “无论伊朗会谈发生什么，我们都会赢”。",
+      "date": "2026-04-11T22:09:46Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US President Trump says US ‘wins’ regardless of how Iran talks go"
+      }
+    },
+    {
+      "id": "evt_c6e82576",
+      "title": "“外交不是一个事件，它是一个过程，需要时间。”",
+      "summary": "巴基斯坦前外交官表示，美国和伊朗对伊斯兰堡会谈的期望应该是现实的。",
+      "date": "2026-04-11T20:55:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“Diplomacy is not an event, it’s a process, it takes time.”"
+      }
+    },
+    {
+      "id": "evt_ff4ca288",
+      "title": "卫星提供商在美国施压后限制伊朗图像的担忧",
+      "summary": "Planet Labs表示，它将无限期限制对伊朗和中东部分地区的报道。",
+      "date": "2026-04-11T05:40:51Z",
+      "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Concerns after satellite provider restricts Iran images following US pressure"
       }
     },
     {
@@ -209,34 +461,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_cc595bdc",
-      "title": "真主党火箭弹袭击损坏了1500年历史的以色列教堂",
-      "summary": "真主党向以色列北部发射了一连串火箭弹，炸毁了纳哈里亚一座有1500年历史的拜占庭教堂。",
-      "date": "2026-04-10T22:58:09Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hezbollah rocket attack damages 1,500-year-old Israeli church"
-      }
-    },
-    {
       "id": "evt_cec6c7d0",
       "title": "黎巴嫩和以色列官员将于周二在美国会面",
       "summary": "黎巴嫩一名高级官员早些时候告诉英国广播公司，只有在停火的情况下，黎巴嫩才会参加会谈。",
@@ -262,62 +486,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lebanon and Israel officials to meet in US on Tuesday"
-      }
-    },
-    {
-      "id": "evt_4cbe160b",
-      "title": "伊朗代表团抵达伊斯兰堡与美国会谈",
-      "summary": "伊朗高级代表团已抵达伊斯兰堡，与美国官员会谈。",
-      "date": "2026-04-10T21:59:21Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/iranian-delegation-arrives-in-islamabad-for-talks-with-us?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian delegation arrives in Islamabad for talks with US"
-      }
-    },
-    {
-      "id": "evt_8a69f145",
-      "title": "伊斯兰堡在美伊谈判之前被封锁",
-      "summary": "随着美国和伊朗代表团的到来，伊斯兰堡已经部署了1万多名军事和警察人员。",
-      "date": "2026-04-10T21:58:14Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Islamabad on lockdown ahead of US-Iran talks"
       }
     },
     {
@@ -545,34 +713,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_98a2f387",
-      "title": "半岛电视台谴责以色列在加沙罢工中杀害记者",
-      "summary": "以色列军方声称Mohammed Wishah是“哈马斯恐怖分子” -总部位于卡塔尔的网络此前否认了这一点。",
-      "date": "2026-04-09T11:39:56Z",
-      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza"
-      }
-    },
-    {
       "id": "evt_b79e6d87",
       "title": "英国广播公司在贝鲁特以色列空袭现场",
       "summary": "据黎巴嫩卫生部称，至少有182人死亡， 890人受伤。",
@@ -598,34 +738,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "BBC at the site of Israeli air strikes in Beirut"
-      }
-    },
-    {
-      "id": "evt_66607e4a",
-      "title": "在以色列大规模罢工中，黎巴嫩各地至少有182人丧生",
-      "summary": "美国和伊朗宣布停火数小时后，贝鲁特南部郊区、黎巴嫩南部和贝卡谷地东部遭到袭击。",
-      "date": "2026-04-08T20:54:59Z",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "At least 182 killed across Lebanon in large wave of Israeli strikes"
       }
     },
     {
