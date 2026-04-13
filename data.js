@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-12T06:12:02.537572Z
+// 自动生成的数据 - 更新时间: 2026-04-13T07:26:52.838354Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-12T06:12:02.537503Z",
-    "totalEvents": 41,
+    "lastUpdate": "2026-04-13T07:26:52.838285Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 28,
+      "international": 22,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,212 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_092a4745",
-      "title": "巴基斯坦敦促美国和伊朗在会谈结束后维持停火",
-      "summary": "巴基斯坦外交部长伊沙克·达尔（ Ishaq Dar ）坚持认为，美国和伊朗必须维护其停火协议。",
-      "date": "2026-04-12T05:25:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
+      "id": "evt_3fd065c5",
+      "title": "“对外交政策可怕” ：特朗普在和平呼吁后攻击教皇利奥",
+      "summary": "利奥去年成为第一位在美国出生的教皇，他已经成为美国-以色列对伊朗战争的直言不讳的批评者。",
+      "date": "2026-04-13T05:42:51Z",
+      "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pakistan urges US and Iran to uphold ceasefire after talks end"
-      }
-    },
-    {
-      "id": "evt_3d5bcabf",
-      "title": "在巴基斯坦举行马拉松式会谈后，美国和伊朗未能达成和平协议",
-      "summary": "副总统万斯表示，伊朗选择不接受美国的条款，而伊朗表示，它不希望在第一次会议上达成协议。",
-      "date": "2026-04-12T05:19:04Z",
-      "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran fail to reach peace deal after marathon talks in Pakistan"
-      }
-    },
-    {
-      "id": "evt_696a5b7d",
-      "title": "在脆弱的美伊停火中，油轮离开霍尔木兹海峡",
-      "summary": "航运数据显示，在全球能源紧缩的情况下，三艘超级油轮装满了石油出口水道。",
-      "date": "2026-04-12T05:00:33Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire"
-      }
-    },
-    {
-      "id": "evt_adfd6d59",
-      "title": "为什么美伊谈判在巴基斯坦没有达成协议就结束了？",
-      "summary": "尽管多年来首次举行了高层会谈，但美国和伊朗未能就结束战争的条款达成协议。",
-      "date": "2026-04-12T04:47:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why did US-Iran talks end without an agreement in Pakistan?"
-      }
-    },
-    {
-      "id": "evt_9e4e86e2",
-      "title": "观看JD Vance在美伊谈判未达成协议结束后的完整讲话",
-      "summary": "美国副总统万斯（ JD Vance ）即将离开巴基斯坦，称德黑兰选择不接受他们的“最终和最佳报价”。",
-      "date": "2026-04-12T03:32:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/watch-jd-vances-full-remarks-after-us-iran-talks-end-without-deal?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Watch JD Vance’s full remarks after US-Iran talks end without deal"
-      }
-    },
-    {
-      "id": "evt_de570d76",
-      "title": "美国代表团在没有达成伊朗协议的情况下离开巴基斯坦",
-      "summary": "美国副总统万斯表示，美国代表团未能与伊朗达成协议。",
-      "date": "2026-04-12T03:28:05Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/us-delegation-leaves-pakistan-without-reaching-iran-deal?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US delegation leaves Pakistan without reaching Iran deal"
-      }
-    },
-    {
-      "id": "evt_13d1aea7",
-      "title": "联合国海事负责人表示，伊朗不得在霍尔木兹海峡收取通行费",
-      "summary": "国际海事组织负责人在接受半岛电视台采访时表示，世界应该拒绝水路收费。",
-      "date": "2026-04-12T03:20:23Z",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says"
-      }
-    },
-    {
-      "id": "evt_b0cce295",
-      "title": "内塔尼亚胡在中东地图旁边： “我们勒死了他们，还有更多事情要做”",
-      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）站在地图旁，描述了六个国家如何想要扼杀我们。",
-      "date": "2026-04-12T02:09:28Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,76 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu next to Middle East map: ‘We strangled them and have more to do’"
+        "en": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal"
       }
     },
     {
-      "id": "evt_4ef47006",
-      "title": "巴勒斯坦人对以色列批准在被占领的约旦河西岸建立定居点感到震惊",
-      "summary": "以色列在被占领的约旦河西岸批准了34个新定居点，巴勒斯坦人害怕他们会失去自己的土地。",
-      "date": "2026-04-12T00:44:43Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss",
+      "id": "evt_4c50e268",
+      "title": "美国宣布封锁伊朗后油价飙升至每桶103 $",
+      "summary": "由于海上封锁威胁给金融市场注入了新的动荡，亚洲股市下跌。",
+      "date": "2026-04-13T01:30:59Z",
+      "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians appalled as Israel approves settlements in occupied West Bank"
-      }
-    },
-    {
-      "id": "evt_1ca086d6",
-      "title": "以色列谴责西班牙外交官引爆内塔尼亚胡肖像",
-      "summary": "以色列表示，它已谴责西班牙驻特拉维夫的最高外交官炸毁其总理的肖像。",
-      "date": "2026-04-12T00:08:28Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy"
-      }
-    },
-    {
-      "id": "evt_51dcf468",
-      "title": "伊朗战争现场：万斯说没有达成协议，美国提出了“最好的，最终的报价”",
-      "summary": "伊朗媒体称，美国正在寻找离开谈判的借口， “球在美国的法庭上”。",
-      "date": "2026-04-12T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -317,7 +65,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Vance says no deal reached, US has made ‘best, final offer’"
+        "en": "Oil prices surge past $103 a barrel after US announces blockade of Iran"
+      }
+    },
+    {
+      "id": "evt_e448ae86",
+      "title": "美国军方威胁从周一开始封锁所有伊朗港口",
+      "summary": "美国中央司令部表示，船只仍然可以通过霍尔木兹海峡往返非伊朗港口。",
+      "date": "2026-04-13T00:32:03Z",
+      "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US military threatens to blockade all Iranian ports starting on Monday"
+      }
+    },
+    {
+      "id": "evt_955a4049",
+      "title": "伊朗战争现场：美国军方表示将阻止伊朗在霍尔木兹的交通",
+      "summary": "CENTCOM表示，封锁将于格林尼治标准时间14:00开始，因为伊朗警告该泵的价格甚至更高。",
+      "date": "2026-04-13T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US military says it will block Iranian traffic in Hormuz"
+      }
+    },
+    {
+      "id": "evt_efdc1e18",
+      "title": "这些是以色列在一天之内在黎巴嫩杀害的人",
+      "summary": "在短短几分钟内，以色列于4月8日星期三在黎巴嫩各地杀害了350多人。",
+      "date": "2026-04-12T21:44:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "These are people Israel killed in Lebanon on a single day"
+      }
+    },
+    {
+      "id": "evt_29ea610c",
+      "title": "伊朗战争是否会对全球粮食安全构成持久风险？",
+      "summary": "联合国警告说，冲突后的影响可能会持续很长时间。",
+      "date": "2026-04-12T20:44:49Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Could the Iran war pose lasting risks to global food security?"
+      }
+    },
+    {
+      "id": "evt_7bd1aa94",
+      "title": "结束以色列对加沙围困的船队战役历史",
+      "summary": "一支70艘船舰队从西班牙启航，旨在打破以色列对加沙的海上封锁。",
+      "date": "2026-04-12T20:30:26Z",
+      "url": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "History of flotilla campaigns to end Israel’s siege of Gaza"
+      }
+    },
+    {
+      "id": "evt_8d391794",
+      "title": "在伊朗会谈动摇之后，最大的问题是接下来会发生什么？",
+      "summary": "英国广播公司的Lyse Doucet写道， 21个小时不足以结束伊朗和美国之间47年的敌对关系。",
+      "date": "2026-04-12T12:48:01Z",
+      "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "After Iran talks falter, the big question is what happens next?"
       }
     },
     {
@@ -346,62 +262,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda"
-      }
-    },
-    {
-      "id": "evt_f592ed18",
-      "title": "美国总统特朗普表示，无论伊朗谈判进展如何，美国都会“获胜”",
-      "summary": "美国总统唐纳德特朗普表示， “无论伊朗会谈发生什么，我们都会赢”。",
-      "date": "2026-04-11T22:09:46Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US President Trump says US ‘wins’ regardless of how Iran talks go"
-      }
-    },
-    {
-      "id": "evt_c6e82576",
-      "title": "“外交不是一个事件，它是一个过程，需要时间。”",
-      "summary": "巴基斯坦前外交官表示，美国和伊朗对伊斯兰堡会谈的期望应该是现实的。",
-      "date": "2026-04-11T20:55:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Diplomacy is not an event, it’s a process, it takes time.”"
       }
     },
     {
@@ -738,34 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "BBC at the site of Israeli air strikes in Beirut"
-      }
-    },
-    {
-      "id": "evt_4e278b89",
-      "title": "谈判代表面临着缩小竞争对手伊朗和平建议差距的艰巨任务",
-      "summary": "美国有一个结束战争的15点计划，伊朗提出了10项自己的建议。它们可以调和吗？",
-      "date": "2026-04-08T20:26:48Z",
-      "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Negotiators face huge task to close gaps in rival Iran peace proposals"
       }
     },
     {
