@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-04-13T07:26:52.838354Z
+// 自动生成的数据 - 更新时间: 2026-04-14T01:58:24.144476Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-13T07:26:52.838285Z",
+    "lastUpdate": "2026-04-14T01:58:24.144415Z",
     "totalEvents": 35,
     "sources": {
       "international": 22,
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_3fd065c5",
-      "title": "“对外交政策可怕” ：特朗普在和平呼吁后攻击教皇利奥",
-      "summary": "利奥去年成为第一位在美国出生的教皇，他已经成为美国-以色列对伊朗战争的直言不讳的批评者。",
-      "date": "2026-04-13T05:42:51Z",
-      "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss",
+      "id": "evt_954f04c8",
+      "title": "伊朗战争现场：特朗普表示，随着美国对霍尔木兹的封锁开始，德黑兰希望达成协议",
+      "summary": "伊朗指责美国实施海盗行为，数千人在德黑兰集会反对霍尔木兹海峡的封锁。",
+      "date": "2026-04-14T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins"
+      }
+    },
+    {
+      "id": "evt_3fa4947b",
+      "title": "真主党领导人敦促黎巴嫩政府退出以色列谈判",
+      "summary": "纳伊姆·卡西姆（ Naim Qassem ）表示，计划在华盛顿特区举行的会谈是迫使真主党放下武器的伎俩。",
+      "date": "2026-04-13T22:46:50Z",
+      "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,104 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal"
+        "en": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks"
       }
     },
     {
-      "id": "evt_4c50e268",
-      "title": "美国宣布封锁伊朗后油价飙升至每桶103 $",
-      "summary": "由于海上封锁威胁给金融市场注入了新的动荡，亚洲股市下跌。",
-      "date": "2026-04-13T01:30:59Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss",
+      "id": "evt_d211aaa1",
+      "title": "尽管特朗普暂停了《琼斯法案》，但能源价格仍",
+      "summary": "由于美国-以色列对伊朗的战争，过去一个月的运费增加了10 ％以上。",
+      "date": "2026-04-13T22:17:07Z",
+      "url": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil prices surge past $103 a barrel after US announces blockade of Iran"
-      }
-    },
-    {
-      "id": "evt_e448ae86",
-      "title": "美国军方威胁从周一开始封锁所有伊朗港口",
-      "summary": "美国中央司令部表示，船只仍然可以通过霍尔木兹海峡往返非伊朗港口。",
-      "date": "2026-04-13T00:32:03Z",
-      "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US military threatens to blockade all Iranian ports starting on Monday"
-      }
-    },
-    {
-      "id": "evt_955a4049",
-      "title": "伊朗战争现场：美国军方表示将阻止伊朗在霍尔木兹的交通",
-      "summary": "CENTCOM表示，封锁将于格林尼治标准时间14:00开始，因为伊朗警告该泵的价格甚至更高。",
-      "date": "2026-04-13T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US military says it will block Iranian traffic in Hormuz"
-      }
-    },
-    {
-      "id": "evt_efdc1e18",
-      "title": "这些是以色列在一天之内在黎巴嫩杀害的人",
-      "summary": "在短短几分钟内，以色列于4月8日星期三在黎巴嫩各地杀害了350多人。",
-      "date": "2026-04-12T21:44:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,48 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "These are people Israel killed in Lebanon on a single day"
+        "en": "Energy prices rise despite Jones Act suspension by Trump"
       }
     },
     {
-      "id": "evt_29ea610c",
-      "title": "伊朗战争是否会对全球粮食安全构成持久风险？",
-      "summary": "联合国警告说，冲突后的影响可能会持续很长时间。",
-      "date": "2026-04-12T20:44:49Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss",
+      "id": "evt_c2900a40",
+      "title": "联合国专家猛烈抨击对加沙避难所的袭击和约旦河西岸的被迫流离",
+      "summary": "小组详细介绍了以色列军队和定居者对加沙和约旦河西岸流离失所的巴勒斯坦人的暴力事件。",
+      "date": "2026-04-13T22:04:16Z",
+      "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Could the Iran war pose lasting risks to global food security?"
-      }
-    },
-    {
-      "id": "evt_7bd1aa94",
-      "title": "结束以色列对加沙围困的船队战役历史",
-      "summary": "一支70艘船舰队从西班牙启航，旨在打破以色列对加沙的海上封锁。",
-      "date": "2026-04-12T20:30:26Z",
-      "url": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/12/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,7 +121,203 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "History of flotilla campaigns to end Israel’s siege of Gaza"
+        "en": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank"
+      }
+    },
+    {
+      "id": "evt_88911548",
+      "title": "法国水泥巨头拉法基在叙利亚资助ISIL",
+      "summary": "水泥公司拉法基（ Lafarge ）及其八名前雇员在法国法院被判犯有为伊黎伊斯兰国（ ISIL ）提供资金的罪行。",
+      "date": "2026-04-13T21:35:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "French cement giant Lafarge guilty of financing ISIL in Syria"
+      }
+    },
+    {
+      "id": "evt_54116418",
+      "title": "以色列在单独的加沙罢工中杀害了三名巴勒斯坦人",
+      "summary": "据纳赛尔医院官员称，周一，两名巴勒斯坦人在加沙南部的单独罢工中丧生。",
+      "date": "2026-04-13T21:06:39Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel kills three Palestinians in separate Gaza strikes"
+      }
+    },
+    {
+      "id": "evt_c8449756",
+      "title": "伯尼·桑德斯发誓要推动决议阻止美国向以色列提供武器",
+      "summary": "法案不太可能在共和党控制的参议院获得通过，但它可能会考验民主党人对以色列支持的减弱。",
+      "date": "2026-04-13T20:28:48Z",
+      "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Bernie Sanders vows to push resolution to block US weapons to Israel"
+      }
+    },
+    {
+      "id": "evt_06ad9bbf",
+      "title": "有多少船只正在穿越霍尔木兹海峡？",
+      "summary": "在美国对伊朗港口实施军事封锁后，第一艘船已经越过霍尔木兹海峡。",
+      "date": "2026-04-13T16:37:57Z",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How many ships are crossing the Strait of Hormuz?"
+      }
+    },
+    {
+      "id": "evt_72e31d30",
+      "title": "法国水泥巨头在叙利亚资助伊斯兰国和其他激进组织",
+      "summary": "巴黎一家法院获悉，这家法国公司向圣战组织支付了650万美元，以保持其在饱受战争蹂躏的叙利亚的工厂运营。",
+      "date": "2026-04-13T14:15:50Z",
+      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "French cement giant guilty of financing IS and other militant groups in Syria"
+      }
+    },
+    {
+      "id": "evt_d8106e17",
+      "title": "随着会谈的临近，以色列加大了对黎巴嫩的打击力度，真主党的袭击仍在继续",
+      "summary": "自周五以来，黎巴嫩已有160多人被杀，尽管美伊停火，但以色列仍在继续打击真主党。",
+      "date": "2026-04-13T13:55:09Z",
+      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom"
+      }
+    },
+    {
+      "id": "evt_bfa2d534",
+      "title": "伊朗执行了数十年来最多的处决",
+      "summary": "一些组织警告说，在今年早些时候席卷伊朗的反政府抗议活动之后，可能会有更多人被处决。",
+      "date": "2026-04-13T12:53:00Z",
+      "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran carried out highest number of executions in decades"
       }
     },
     {
@@ -377,34 +489,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_06ad9bbf",
-      "title": "有多少船只正在穿越霍尔木兹海峡？",
-      "summary": "根据BBC Verify的分析，自美国和伊朗达成停火协议以来，只有少数船只越过海峡。",
-      "date": "2026-04-10T16:08:19Z",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How many ships are crossing the Strait of Hormuz?"
-      }
-    },
-    {
       "id": "evt_a211d093",
       "title": "特朗普表示，伊朗对霍尔木兹海峡的处理“不是我们达成的协议”",
       "summary": "美国总统指责伊朗在水道方面“做得非常糟糕” ，因为以色列和黎巴嫩开始和平谈判。",
@@ -489,34 +573,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_c6349403",
-      "title": "以色列罢工黎巴嫩“严重违反”停火，伊朗部长告诉英国广播公司",
-      "summary": "伊朗副外长表示，美国必须在“战争和停火”之间做出选择。",
-      "date": "2026-04-09T17:11:59Z",
-      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC"
-      }
-    },
-    {
       "id": "evt_214eef54",
       "title": "“无尽的恐惧” ：即使战斗停止，对伊朗儿童的伤害也将持续",
       "summary": "英国广播公司已经能够从父母和那些试图帮助孩子应对战争带来的痛苦的人那里获得证词。",
@@ -545,34 +601,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_2e8c92b8",
-      "title": "美国是否已经实现了在伊朗的战争目标？",
-      "summary": "美国在战争开始时的主要目标是阻止伊朗获得核武器并使其核武库退化。",
-      "date": "2026-04-09T13:11:03Z",
-      "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Has US achieved its war objectives in Iran?"
-      }
-    },
-    {
       "id": "evt_b79e6d87",
       "title": "英国广播公司在贝鲁特以色列空袭现场",
       "summary": "据黎巴嫩卫生部称，至少有182人死亡， 890人受伤。",
@@ -598,34 +626,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "BBC at the site of Israeli air strikes in Beirut"
-      }
-    },
-    {
-      "id": "evt_5d0cf140",
-      "title": "鲍恩：停火意味着平民的喘息，但停火可能不会持续很长时间",
-      "summary": "国际编辑杰里米·鲍恩（ Jeremy Bowen ）写道，无论能否达成持久和平协议，战争及其后果正在重塑中东。",
-      "date": "2026-04-08T17:05:54Z",
-      "url": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: Ceasefire means respite for civilians, but it might not last long"
       }
     },
     {
