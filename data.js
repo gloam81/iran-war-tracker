@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-15T01:54:33.448013Z
+// 自动生成的数据 - 更新时间: 2026-04-16T02:02:50.290490Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-15T01:54:33.447955Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-04-16T02:02:50.290431Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 21,
+      "international": 19,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_1f4df8e6",
-      "title": "以色列袭击加沙，造成11人死亡，其中包括两名儿童",
-      "summary": "在以色列最近对加沙北部的袭击中，一名3岁和一名14岁的儿童遇难。",
-      "date": "2026-04-15T01:16:20Z",
-      "url": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss",
+      "id": "evt_d5ec77ef",
+      "title": "伊朗战争现场：巴基斯坦推动新一轮美伊和平谈判",
+      "summary": "自3月2日以来，以色列对黎巴嫩的袭击造成至少2167人死亡， 7000多人受伤。",
+      "date": "2026-04-16T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli attacks kill 11, including two children, in day of strikes on Gaza"
+        "en": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations"
       }
     },
     {
-      "id": "evt_405c1160",
-      "title": "伊朗战争现场：特朗普说战争“接近结束” ，以色列磅黎巴嫩",
-      "summary": "美国总统表示，由于对伊朗港口的封锁仍在继续，第二轮会谈可能会在巴基斯坦举行。",
-      "date": "2026-04-15T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
+      "id": "evt_4c243261",
+      "title": "以色列轰炸黎巴嫩南部房屋",
+      "summary": "以色列军队轰炸了黎巴嫩南部宾特朱拜勒区的建筑物。",
+      "date": "2026-04-15T22:53:41Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,132 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says war ‘close to over’, Israel pounds Lebanon"
+        "en": "Israel bombs homes in southern Lebanon"
       }
     },
     {
-      "id": "evt_ab29d3e4",
-      "title": "在伊朗战争期间，以色列和黎巴嫩在华盛顿特区举行罕见的会谈",
-      "summary": "这次会晤标志着双方首次直接会谈，尽管美国官员表示需要更多时间。",
-      "date": "2026-04-14T23:08:43Z",
-      "url": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war"
-      }
-    },
-    {
-      "id": "evt_86544a95",
-      "title": "第五位女性指责前美国国会议员埃里克·斯沃尔韦尔（ Eric Swalwell ）性行为不端",
-      "summary": "民主党代表因多项性行为不端指控而辞去了国会席位。",
-      "date": "2026-04-14T21:49:03Z",
-      "url": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct"
-      }
-    },
-    {
-      "id": "evt_3ed909f9",
-      "title": "以色列袭击加沙难民营造成数人死亡",
-      "summary": "加沙的巴勒斯坦人记录了以色列袭击沙提难民营的受害者被送往医疗设施。",
-      "date": "2026-04-14T20:35:55Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli attack kills several people in Gaza refugee camp"
-      }
-    },
-    {
-      "id": "evt_56f7e477",
-      "title": "美国对伊朗的封锁将如何恶化能源危机",
-      "summary": "随着美国对伊朗港口的军事封锁现在生效，全球能源市场已经在做出反应。",
-      "date": "2026-04-14T20:10:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How US blockade on Iran will worsen energy crisis"
-      }
-    },
-    {
-      "id": "evt_06ad9bbf",
-      "title": "有多少船只正在穿越霍尔木兹海峡？",
-      "summary": "尽管美国开始海上封锁，但仍有四艘与伊朗有联系的船只越过霍尔木兹海峡，但其中两艘船似乎已经改变航向。",
-      "date": "2026-04-14T17:59:21Z",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_06e33159",
+      "title": "Lyse Doucet ：在脆弱的停火下，伊朗人怀疑美国是否可以达成协议",
+      "summary": "英国广播公司首席国际记者从伊朗报道，避免重新开战的外交努力正在加剧。",
+      "date": "2026-04-15T21:10:14Z",
+      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,7 +93,343 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How many ships are crossing the Strait of Hormuz?"
+        "en": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done"
+      }
+    },
+    {
+      "id": "evt_d1b26ae8",
+      "title": "欧盟与以色列的联盟能否很快改变？",
+      "summary": "一份欧盟请愿书有望启动对《欧盟-以色列结盟协议》的正式审查。",
+      "date": "2026-04-15T21:09:55Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Could the EU’s alliance with Israel soon change?"
+      }
+    },
+    {
+      "id": "evt_cf1f3b0b",
+      "title": "以色列任命首位驻索马里兰大使",
+      "summary": "该决定是在以色列成为第一个承认该领土的国家的几个月后做出的，此举受到了广泛谴责。",
+      "date": "2026-04-15T21:05:27Z",
+      "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel appoints first ambassador to Somaliland"
+      }
+    },
+    {
+      "id": "evt_c500484f",
+      "title": "官员说，以色列三击罢工在黎巴嫩杀死了三名医护人员",
+      "summary": "黎巴嫩政府谴责杀害医护人员的行为是“公然犯罪” ，其中一名医护人员在英国广播公司的一份报告中被报道。",
+      "date": "2026-04-15T18:48:34Z",
+      "url": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say"
+      }
+    },
+    {
+      "id": "evt_83ac7fcf",
+      "title": "家人说，著名的巴勒斯坦囚犯Marwan Barghouti在一个月内殴打了三次",
+      "summary": "以色列监狱管理局表示，关于Barghouti受到狱警人身暴力的指控是“虚假和毫无根据的”。",
+      "date": "2026-04-15T15:59:24Z",
+      "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says"
+      }
+    },
+    {
+      "id": "evt_f4f6659b",
+      "title": "以色列和真主党在美国举行以色列-黎巴嫩会谈后继续发动袭击",
+      "summary": "在罕见的直接谈判之后的第二天，以色列袭击了黎巴嫩南部，真主党向以色列发射了火箭弹。",
+      "date": "2026-04-15T14:15:50Z",
+      "url": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US"
+      }
+    },
+    {
+      "id": "evt_83d7d843",
+      "title": "斯里兰卡在美国鱼雷袭击后遣返238名滞留的伊朗船员",
+      "summary": "美国袭击伊朗船只Iris Dena的幸存者被送回家中，该船夺走了104人的生命。",
+      "date": "2026-04-15T10:00:41Z",
+      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack"
+      }
+    },
+    {
+      "id": "evt_21ac6486",
+      "title": "特朗普暗示，随着美国港口封锁的继续，伊朗谈判可能会在本周恢复",
+      "summary": "联合国秘书长表示，谈判“极有可能”重启。",
+      "date": "2026-04-15T04:04:15Z",
+      "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump hints Iran talks could resume this week as US port blockade continues"
+      }
+    },
+    {
+      "id": "evt_16217d9c",
+      "title": "与真主党一起探索前线的以色列城镇",
+      "summary": "英国广播公司的外国记者尼克·比克（ Nick Beake ）参观了梅图拉（ Metula ） ，这是一个以色列小镇，",
+      "date": "2026-04-14T21:14:04Z",
+      "url": "https://www.bbc.com/news/videos/cm2kk32npv5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/cm2kk32npv5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The Israeli town on the frontline with Hezbollah"
+      }
+    },
+    {
+      "id": "evt_64b3903f",
+      "title": "以色列和黎巴嫩自1993年以来首次举行直接会谈",
+      "summary": "美国的一份声明称，双方已同意在尚待确定的时间和地点启动直接谈判。",
+      "date": "2026-04-14T20:42:48Z",
+      "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel and Lebanon hold first direct talks since 1993"
+      }
+    },
+    {
+      "id": "evt_a68bfe51",
+      "title": "意大利暂停与以色列的防务协议",
+      "summary": "意大利总理表示， “鉴于目前的情况” ，每五年签署一次的协议将被暂停。",
+      "date": "2026-04-14T20:21:57Z",
+      "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Italy suspends defence agreement with Israel"
+      }
+    },
+    {
+      "id": "evt_c440d246",
+      "title": "监管机构称，在社交媒体发布帖子后，美国-科威特记者在科威特被拘留",
+      "summary": "保护记者委员会表示，据了解，艾哈迈德·谢哈布-埃尔丁（ Ahmed Shihab-Eldin ）面临着包括传播虚假信息在内的指控。",
+      "date": "2026-04-14T20:14:53Z",
+      "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Kuwaiti journalist detained in Kuwait after social media posts, watchdog says"
+      }
+    },
+    {
+      "id": "evt_bb9af563",
+      "title": "中国称美国封锁伊朗港口不负责任且危险",
+      "summary": "伊朗石油的最大买家中国表示，美国的海上封锁破坏了“已经脆弱的停火”。",
+      "date": "2026-04-14T14:18:04Z",
+      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US blockade of Iran ports irresponsible and dangerous, China says"
       }
     },
     {
@@ -265,90 +489,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_c6b2691f",
-      "title": "“他们到处都在罢工” --黎巴嫩的医护人员在以色列罢工后接受英国广播公司采访",
-      "summary": "英国广播公司中东记者雨果·巴切加（ Hugo Bachega ）与护理人员一起在纳巴提耶（ Nabatieh ）值班。纳巴提耶曾经是一个充满活力的城市，但现在已被遗弃。",
-      "date": "2026-04-13T21:29:23Z",
-      "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes"
-      }
-    },
-    {
-      "id": "evt_02f99b1a",
-      "title": "民意调查显示，以色列人厌倦战争，但大多数人反对伊朗停火",
-      "summary": "民意调查显示，绝大多数人不相信真主党或伊朗已被以色列和美国数周的袭击严重削弱。",
-      "date": "2026-04-13T19:20:08Z",
-      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israelis war-weary but most oppose Iran ceasefire, poll suggests"
-      }
-    },
-    {
-      "id": "evt_4f30a957",
-      "title": "美国对伊朗的封锁是一场赌博。它会起作用吗？",
-      "summary": "美国军方正在对封锁进行赌博，否认伊朗的重要贸易-但关于赌注是否会得到回报的问题仍然存在。",
-      "date": "2026-04-13T15:27:43Z",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The US blockade of Iran is a gamble. Will it work?"
-      }
-    },
-    {
       "id": "evt_72e31d30",
       "title": "法国水泥巨头在叙利亚资助伊斯兰国和其他激进组织",
       "summary": "巴黎一家法院获悉，这家法国公司向圣战组织支付了650万美元，以保持其在饱受战争蹂躏的叙利亚的工厂运营。",
@@ -377,34 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d8106e17",
-      "title": "随着会谈的临近，以色列加大了对黎巴嫩的打击力度，真主党的袭击仍在继续",
-      "summary": "自周五以来，黎巴嫩已有160多人被杀，尽管美伊停火，但以色列仍在继续打击真主党。",
-      "date": "2026-04-13T13:55:09Z",
-      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom"
-      }
-    },
-    {
       "id": "evt_bfa2d534",
       "title": "伊朗执行了数十年来最多的处决",
       "summary": "一些组织警告说，在今年早些时候席卷伊朗的反政府抗议活动之后，可能会有更多人被处决。",
@@ -430,174 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran carried out highest number of executions in decades"
-      }
-    },
-    {
-      "id": "evt_d60a1f23",
-      "title": "斯塔默表示英国不会加入特朗普对伊朗港口的封锁",
-      "summary": "随着重新开放关键航线的压力加大，英国扫雷舰和反无人机能力将继续在该地区运营。",
-      "date": "2026-04-13T10:09:48Z",
-      "url": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Starmer says UK will not join Trump's blockade of Iran's ports"
-      }
-    },
-    {
-      "id": "evt_04815490",
-      "title": "特朗普的封锁威胁增加了风险，使困境保持不变",
-      "summary": "这场冲突现在是对意志的考验--伊朗吸收罢工的能力与特朗普对战争代价的容忍度。",
-      "date": "2026-04-12T22:57:22Z",
-      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump's blockade threat raises risks and leaves predicaments unchanged"
-      }
-    },
-    {
-      "id": "evt_8d391794",
-      "title": "在伊朗会谈动摇之后，最大的问题是接下来会发生什么？",
-      "summary": "英国广播公司的Lyse Doucet写道， 21个小时不足以结束伊朗和美国之间47年的敌对关系。",
-      "date": "2026-04-12T12:48:01Z",
-      "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "After Iran talks falter, the big question is what happens next?"
-      }
-    },
-    {
-      "id": "evt_e1f62edb",
-      "title": "我们采访了为伊朗制作病毒式乐高风格人工智能视频的男子。专家说这是强有力的宣传",
-      "summary": "一位专家说， “Slopaganda”这个词太弱了，无法描述这种“高度复杂”的内容有多强大。",
-      "date": "2026-04-11T23:13:23Z",
-      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda"
-      }
-    },
-    {
-      "id": "evt_ff4ca288",
-      "title": "卫星提供商在美国施压后限制伊朗图像的担忧",
-      "summary": "Planet Labs表示，它将无限期限制对伊朗和中东部分地区的报道。",
-      "date": "2026-04-11T05:40:51Z",
-      "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Concerns after satellite provider restricts Iran images following US pressure"
-      }
-    },
-    {
-      "id": "evt_a661d5e4",
-      "title": "停火或不停火，中东的重组尚未完成",
-      "summary": "双方都有理由结束战争，但没有共同点。",
-      "date": "2026-04-09T23:01:47Z",
-      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done"
       }
     },
     {
