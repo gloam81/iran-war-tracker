@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-16T02:02:50.290490Z
+// 自动生成的数据 - 更新时间: 2026-04-17T01:58:49.511997Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-16T02:02:50.290431Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-04-17T01:58:49.511946Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 19,
+      "international": 22,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_d5ec77ef",
-      "title": "伊朗战争现场：巴基斯坦推动新一轮美伊和平谈判",
-      "summary": "自3月2日以来，以色列对黎巴嫩的袭击造成至少2167人死亡， 7000多人受伤。",
-      "date": "2026-04-16T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss",
+      "id": "evt_f9a7d241",
+      "title": "当人们开始返回黎巴嫩南部时，在路上举行庆祝活动",
+      "summary": "停火宣布后，人们在黎巴嫩南部的道路上庆祝开车回家。",
+      "date": "2026-04-17T01:07:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
       },
       "languages": [
         "zh",
@@ -37,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations"
+        "en": "Celebrations on the road as people begin returning to southern Lebanon"
       }
     },
     {
-      "id": "evt_4c243261",
-      "title": "以色列轰炸黎巴嫩南部房屋",
-      "summary": "以色列军队轰炸了黎巴嫩南部宾特朱拜勒区的建筑物。",
-      "date": "2026-04-15T22:53:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "id": "evt_dc58bdfc",
+      "title": "伊朗战争现场：特朗普称德黑兰协议接近达成，黎巴嫩停火开始",
+      "summary": "周四，随着为期10天的停火宣布，以色列对黎巴嫩的袭击造成的死亡人数达到2,196人。",
+      "date": "2026-04-17T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close"
+      }
+    },
+    {
+      "id": "evt_0d5015fa",
+      "title": "贝鲁特对信任以色列持谨慎态度的人们将维护黎巴嫩停火",
+      "summary": "黎巴嫩居民表示，他们对相信以色列将遵守特朗普宣布的停火协议持谨慎态度。",
+      "date": "2026-04-16T22:55:08Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +93,147 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel bombs homes in southern Lebanon"
+        "en": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire"
+      }
+    },
+    {
+      "id": "evt_850fde9d",
+      "title": "以色列和黎巴嫩为期10天的停火协议生效",
+      "summary": "以色列和黎巴嫩之间为期10天的停火协议已经生效。它始于当地时间午夜（格林威治标准时间21:00 ）。",
+      "date": "2026-04-16T22:42:36Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel and Lebanon’s 10-day ceasefire goes into effect"
+      }
+    },
+    {
+      "id": "evt_5f723329",
+      "title": "随着以色列和真主党之间的停火开始，流离失所的黎巴嫩人保持警惕",
+      "summary": "随着撤离人员在冒险返回饱受战争蹂躏的村庄之前等待停火条款的明确，紧张局势依然存在。",
+      "date": "2026-04-16T22:04:10Z",
+      "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins"
+      }
+    },
+    {
+      "id": "evt_ab205835",
+      "title": "黎巴嫩停火—它能维持吗？",
+      "summary": "在罕见的会谈之后，黎巴嫩停火引发了一个问题：接下来会发生什么？",
+      "date": "2026-04-16T20:58:40Z",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A ceasefire in Lebanon — will it hold?"
+      }
+    },
+    {
+      "id": "evt_6cd51e0a",
+      "title": "卡塔尔主办旨在使伊朗和平进程重回正轨的会谈",
+      "summary": "巴基斯坦总理周四抵达多哈，就结束战争的可能性进行中东地区会谈。",
+      "date": "2026-04-16T20:54:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qatar hosts talks aimed at putting Iran peace process back on track"
+      }
+    },
+    {
+      "id": "evt_d7a5d967",
+      "title": "卫星图像显示，随着黎巴嫩村庄被摧毁，以色列拆除的规模",
+      "summary": "BBC Verify的分析发现，自3月2日以来，已有1400多座建筑物被摧毁。",
+      "date": "2026-04-16T08:28:51Z",
+      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed"
       }
     },
     {
@@ -94,62 +262,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done"
-      }
-    },
-    {
-      "id": "evt_d1b26ae8",
-      "title": "欧盟与以色列的联盟能否很快改变？",
-      "summary": "一份欧盟请愿书有望启动对《欧盟-以色列结盟协议》的正式审查。",
-      "date": "2026-04-15T21:09:55Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Could the EU’s alliance with Israel soon change?"
-      }
-    },
-    {
-      "id": "evt_cf1f3b0b",
-      "title": "以色列任命首位驻索马里兰大使",
-      "summary": "该决定是在以色列成为第一个承认该领土的国家的几个月后做出的，此举受到了广泛谴责。",
-      "date": "2026-04-15T21:05:27Z",
-      "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel appoints first ambassador to Somaliland"
       }
     },
     {
@@ -234,6 +346,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US"
+      }
+    },
+    {
+      "id": "evt_06ad9bbf",
+      "title": "有多少船只正在穿越霍尔木兹海峡？",
+      "summary": "BBC Verify对船舶跟踪数据的分析显示，自美国周一开始封锁以来，已有15艘船只穿越霍尔木兹海峡，其中9艘与伊朗有联系。",
+      "date": "2026-04-15T13:12:52Z",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How many ships are crossing the Strait of Hormuz?"
       }
     },
     {
@@ -405,16 +545,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_bb9af563",
-      "title": "中国称美国封锁伊朗港口不负责任且危险",
-      "summary": "伊朗石油的最大买家中国表示，美国的海上封锁破坏了“已经脆弱的停火”。",
-      "date": "2026-04-14T14:18:04Z",
-      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_ff5a3ef6",
+      "title": "美国为什么以及如何封锁霍尔木兹海峡的伊朗港口？",
+      "summary": "唐纳德·特朗普说，美国正在封锁霍尔木兹海峡。这在实践中意味着什么？",
+      "date": "2026-04-14T17:10:52Z",
+      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -429,35 +569,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US blockade of Iran ports irresponsible and dangerous, China says"
-      }
-    },
-    {
-      "id": "evt_7cf1d4ad",
-      "title": "巴勒斯坦官员称哈马斯拒绝加沙解除武装计划",
-      "summary": "这位官员告诉英国广播公司，在以色列完全遵守其承诺之前，该武装团体不会推进谈判。",
-      "date": "2026-04-14T14:01:05Z",
-      "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hamas rejects Gaza disarmament plan, Palestinian official says"
+        "en": "Why and how is US blockading Iranian ports in Strait of Hormuz?"
       }
     },
     {
@@ -489,23 +601,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_72e31d30",
-      "title": "法国水泥巨头在叙利亚资助伊斯兰国和其他激进组织",
-      "summary": "巴黎一家法院获悉，这家法国公司向圣战组织支付了650万美元，以保持其在饱受战争蹂躏的叙利亚的工厂运营。",
-      "date": "2026-04-13T14:15:50Z",
-      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+      "id": "evt_02f99b1a",
+      "title": "民意调查显示，以色列人厌倦战争，但大多数人反对伊朗停火",
+      "summary": "民意调查显示，绝大多数人不相信真主党或伊朗已被以色列和美国数周的袭击严重削弱。",
+      "date": "2026-04-13T19:20:08Z",
+      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -513,35 +625,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "French cement giant guilty of financing IS and other militant groups in Syria"
-      }
-    },
-    {
-      "id": "evt_bfa2d534",
-      "title": "伊朗执行了数十年来最多的处决",
-      "summary": "一些组织警告说，在今年早些时候席卷伊朗的反政府抗议活动之后，可能会有更多人被处决。",
-      "date": "2026-04-13T12:53:00Z",
-      "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran carried out highest number of executions in decades"
+        "en": "Israelis war-weary but most oppose Iran ceasefire, poll suggests"
       }
     },
     {
