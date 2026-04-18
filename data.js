@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-17T01:58:49.511997Z
+// 自动生成的数据 - 更新时间: 2026-04-18T01:50:32.913646Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-17T01:58:49.511946Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-04-18T01:50:32.913586Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 22,
+      "international": 21,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,184 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_f9a7d241",
-      "title": "当人们开始返回黎巴嫩南部时，在路上举行庆祝活动",
-      "summary": "停火宣布后，人们在黎巴嫩南部的道路上庆祝开车回家。",
-      "date": "2026-04-17T01:07:10Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss",
+      "id": "evt_00eb43c5",
+      "title": "特朗普感谢海湾国家的“巨大”支持",
+      "summary": "唐纳德·特朗普在伊朗全面开放霍尔木兹海峡之际表示： “这将是世界伟大而辉煌的一天。”",
+      "date": "2026-04-18T00:54:38Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/celebrations-on-the-road-as-people-begin-returning-to-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Celebrations on the road as people begin returning to southern Lebanon"
-      }
-    },
-    {
-      "id": "evt_dc58bdfc",
-      "title": "伊朗战争现场：特朗普称德黑兰协议接近达成，黎巴嫩停火开始",
-      "summary": "周四，随着为期10天的停火宣布，以色列对黎巴嫩的袭击造成的死亡人数达到2,196人。",
-      "date": "2026-04-17T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close"
-      }
-    },
-    {
-      "id": "evt_0d5015fa",
-      "title": "贝鲁特对信任以色列持谨慎态度的人们将维护黎巴嫩停火",
-      "summary": "黎巴嫩居民表示，他们对相信以色列将遵守特朗普宣布的停火协议持谨慎态度。",
-      "date": "2026-04-16T22:55:08Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire"
-      }
-    },
-    {
-      "id": "evt_850fde9d",
-      "title": "以色列和黎巴嫩为期10天的停火协议生效",
-      "summary": "以色列和黎巴嫩之间为期10天的停火协议已经生效。它始于当地时间午夜（格林威治标准时间21:00 ）。",
-      "date": "2026-04-16T22:42:36Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Lebanon’s 10-day ceasefire goes into effect"
-      }
-    },
-    {
-      "id": "evt_5f723329",
-      "title": "随着以色列和真主党之间的停火开始，流离失所的黎巴嫩人保持警惕",
-      "summary": "随着撤离人员在冒险返回饱受战争蹂躏的村庄之前等待停火条款的明确，紧张局势依然存在。",
-      "date": "2026-04-16T22:04:10Z",
-      "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins"
-      }
-    },
-    {
-      "id": "evt_ab205835",
-      "title": "黎巴嫩停火—它能维持吗？",
-      "summary": "在罕见的会谈之后，黎巴嫩停火引发了一个问题：接下来会发生什么？",
-      "date": "2026-04-16T20:58:40Z",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A ceasefire in Lebanon — will it hold?"
-      }
-    },
-    {
-      "id": "evt_6cd51e0a",
-      "title": "卡塔尔主办旨在使伊朗和平进程重回正轨的会谈",
-      "summary": "巴基斯坦总理周四抵达多哈，就结束战争的可能性进行中东地区会谈。",
-      "date": "2026-04-16T20:54:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,7 +37,259 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qatar hosts talks aimed at putting Iran peace process back on track"
+        "en": "Trump thanks Gulf states for their ‘tremendous’ support"
+      }
+    },
+    {
+      "id": "evt_b9814b32",
+      "title": "伊朗战争现场：德黑兰称特朗普在和平谈判期间提出了“虚假”主张",
+      "summary": "数万人因以色列对黎巴嫩的袭击而被迫流离失所，他们利用停火的第一天返回家园。",
+      "date": "2026-04-18T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Tehran says Trump made ‘false’ claims, amid peace talks"
+      }
+    },
+    {
+      "id": "evt_b1884fe9",
+      "title": "伊朗拒绝特朗普关于交出核材料库存协议的主张",
+      "summary": "伊朗拒绝了唐纳德·特朗普的建议，即伊朗已同意交出其浓缩铀库存。",
+      "date": "2026-04-17T21:25:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles"
+      }
+    },
+    {
+      "id": "evt_f3501c72",
+      "title": "黎巴嫩总统表示，在以色列停火中，国家不再是棋子",
+      "summary": "约瑟夫·奥恩总统承诺努力维护黎巴嫩的主权和自由。",
+      "date": "2026-04-17T20:45:58Z",
+      "url": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon president says country is no longer a pawn amid Israel ceasefire"
+      }
+    },
+    {
+      "id": "evt_a08aef43",
+      "title": "黎巴嫩的停火能否维持？",
+      "summary": "黎巴嫩和以色列正在举行几十年来的首次直接会谈。",
+      "date": "2026-04-17T20:20:15Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Will the ceasefire in Lebanon hold?"
+      }
+    },
+    {
+      "id": "evt_aa634f27",
+      "title": "在黎巴嫩提尔与祖父团聚的流离失所家庭",
+      "summary": "一位祖父在黎巴嫩南部提尔与儿子和孙子团聚。",
+      "date": "2026-04-17T20:10:54Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Displaced family reunited with grandfather in Lebanon’s Tyre"
+      }
+    },
+    {
+      "id": "evt_92d6339e",
+      "title": "充满风险和机遇的时刻：两次停火如何促进美伊谈判",
+      "summary": "现在正在取得某种外交进展，但这是否足以防止重启战争？",
+      "date": "2026-04-17T19:59:30Z",
+      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks"
+      }
+    },
+    {
+      "id": "evt_f1c22586",
+      "title": "我们对以色列-黎巴嫩停火的了解",
+      "summary": "随着美国和伊朗之间的谈判继续进行，两国之间为期10天的停火协议现已生效，伊朗支持的真主党表示支持。",
+      "date": "2026-04-17T14:56:15Z",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What we know about the Israel-Lebanon ceasefire"
+      }
+    },
+    {
+      "id": "evt_c2f53d2b",
+      "title": "与以色列的停火给黎巴嫩带来了喘息的机会，但和平的障碍依然存在",
+      "summary": "黎巴嫩正在庆祝数周的战斗停止，但很难确保战斗持续下去。",
+      "date": "2026-04-17T14:31:51Z",
+      "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain"
+      }
+    },
+    {
+      "id": "evt_d1f5d0d0",
+      "title": "黎巴嫩寻求和平，但真主党需要首先被说服",
+      "summary": "黎巴嫩政府在对该组织的影响力有限的情况下进行了和平谈判。",
+      "date": "2026-04-17T13:37:14Z",
+      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon seeks peace, but Hezbollah needs to be convinced first"
       }
     },
     {
@@ -349,34 +433,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_06ad9bbf",
-      "title": "有多少船只正在穿越霍尔木兹海峡？",
-      "summary": "BBC Verify对船舶跟踪数据的分析显示，自美国周一开始封锁以来，已有15艘船只穿越霍尔木兹海峡，其中9艘与伊朗有联系。",
-      "date": "2026-04-15T13:12:52Z",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How many ships are crossing the Strait of Hormuz?"
-      }
-    },
-    {
       "id": "evt_83d7d843",
       "title": "斯里兰卡在美国鱼雷袭击后遣返238名滞留的伊朗船员",
       "summary": "美国袭击伊朗船只Iris Dena的幸存者被送回家中，该船夺走了104人的生命。",
@@ -461,90 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_64b3903f",
-      "title": "以色列和黎巴嫩自1993年以来首次举行直接会谈",
-      "summary": "美国的一份声明称，双方已同意在尚待确定的时间和地点启动直接谈判。",
-      "date": "2026-04-14T20:42:48Z",
-      "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Lebanon hold first direct talks since 1993"
-      }
-    },
-    {
-      "id": "evt_a68bfe51",
-      "title": "意大利暂停与以色列的防务协议",
-      "summary": "意大利总理表示， “鉴于目前的情况” ，每五年签署一次的协议将被暂停。",
-      "date": "2026-04-14T20:21:57Z",
-      "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Italy suspends defence agreement with Israel"
-      }
-    },
-    {
-      "id": "evt_c440d246",
-      "title": "监管机构称，在社交媒体发布帖子后，美国-科威特记者在科威特被拘留",
-      "summary": "保护记者委员会表示，据了解，艾哈迈德·谢哈布-埃尔丁（ Ahmed Shihab-Eldin ）面临着包括传播虚假信息在内的指控。",
-      "date": "2026-04-14T20:14:53Z",
-      "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Kuwaiti journalist detained in Kuwait after social media posts, watchdog says"
-      }
-    },
-    {
       "id": "evt_ff5a3ef6",
       "title": "美国为什么以及如何封锁霍尔木兹海峡的伊朗港口？",
       "summary": "唐纳德·特朗普说，美国正在封锁霍尔木兹海峡。这在实践中意味着什么？",
@@ -573,34 +545,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d1f5d0d0",
-      "title": "黎巴嫩寻求和平，但真主党需要首先被说服",
-      "summary": "黎巴嫩政府在对该组织的影响力有限的情况下进行了和平谈判。",
-      "date": "2026-04-13T23:26:46Z",
-      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon seeks peace, but Hezbollah needs to be convinced first"
-      }
-    },
-    {
       "id": "evt_02f99b1a",
       "title": "民意调查显示，以色列人厌倦战争，但大多数人反对伊朗停火",
       "summary": "民意调查显示，绝大多数人不相信真主党或伊朗已被以色列和美国数周的袭击严重削弱。",
@@ -626,6 +570,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israelis war-weary but most oppose Iran ceasefire, poll suggests"
+      }
+    },
+    {
+      "id": "evt_4f30a957",
+      "title": "美国对伊朗的封锁是一场赌博。它会起作用吗？",
+      "summary": "美国军方正在对封锁进行赌博，否认伊朗的重要贸易-但关于赌注是否会得到回报的问题仍然存在。",
+      "date": "2026-04-13T15:27:43Z",
+      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The US blockade of Iran is a gamble. Will it work?"
       }
     },
     {
