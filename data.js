@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-18T01:50:32.913646Z
+// 自动生成的数据 - 更新时间: 2026-04-19T02:02:57.868039Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-18T01:50:32.913586Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-04-19T02:02:57.867966Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 21,
+      "international": 20,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_00eb43c5",
-      "title": "特朗普感谢海湾国家的“巨大”支持",
-      "summary": "唐纳德·特朗普在伊朗全面开放霍尔木兹海峡之际表示： “这将是世界伟大而辉煌的一天。”",
-      "date": "2026-04-18T00:54:38Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
+      "id": "evt_b54de16f",
+      "title": "伊朗战争现场：德黑兰表示没有确定美国会谈的日期，霍尔木兹海峡关闭",
+      "summary": "伊斯兰革命卫队表示，在美国停止封锁伊朗港口之前，霍尔木兹海峡将继续关闭。",
+      "date": "2026-04-19T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump thanks Gulf states for their ‘tremendous’ support"
-      }
-    },
-    {
-      "id": "evt_b9814b32",
-      "title": "伊朗战争现场：德黑兰称特朗普在和平谈判期间提出了“虚假”主张",
-      "summary": "数万人因以色列对黎巴嫩的袭击而被迫流离失所，他们利用停火的第一天返回家园。",
-      "date": "2026-04-18T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran says Trump made ‘false’ claims, amid peace talks"
+        "en": "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed"
       }
     },
     {
-      "id": "evt_b1884fe9",
-      "title": "伊朗拒绝特朗普关于交出核材料库存协议的主张",
-      "summary": "伊朗拒绝了唐纳德·特朗普的建议，即伊朗已同意交出其浓缩铀库存。",
-      "date": "2026-04-17T21:25:26Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
+      "id": "evt_66e58442",
+      "title": "伊朗重申对霍尔木兹海峡的控制，特朗普警告不要“敲诈”",
+      "summary": "高级谈判代表穆罕默德·巴盖尔·加里巴夫（ Mohammad Bagher Ghalibaf ）表示，美国海军对伊朗港口的封锁是“一个笨拙而无知的决定”。",
+      "date": "2026-04-18T21:41:06Z",
+      "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles"
+        "en": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’"
       }
     },
     {
-      "id": "evt_f3501c72",
-      "title": "黎巴嫩总统表示，在以色列停火中，国家不再是棋子",
-      "summary": "约瑟夫·奥恩总统承诺努力维护黎巴嫩的主权和自由。",
-      "date": "2026-04-17T20:45:58Z",
-      "url": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
+      "id": "evt_60e775ad",
+      "title": "伊朗称，随着船只遭到袭击，霍尔木兹海峡再次关闭",
+      "summary": "伊朗将关闭归咎于美国的封锁，称这违反了两国之间达成的停火协议。",
+      "date": "2026-04-18T21:19:46Z",
+      "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Strait of Hormuz closed again, Iran says, as ships attacked"
+      }
+    },
+    {
+      "id": "evt_f3c8d9e7",
+      "title": "伊朗军方命令印度船只中止霍尔木兹海峡通道",
+      "summary": "视频显示，伊朗军方命令一艘印度船只中止通过霍尔木兹海峡。",
+      "date": "2026-04-18T21:06:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran military orders Indian ship to abort Strait of Hormuz passage"
+      }
+    },
+    {
+      "id": "evt_84eb2bd0",
+      "title": "以色列称在黎巴嫩建立了一条“黄线” ，就像在加沙一样",
+      "summary": "这是以色列在加沙使用类似措施后，首次在黎巴嫩提及这样的“黄线”。",
+      "date": "2026-04-18T21:03:33Z",
+      "url": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,27 +149,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Lebanon president says country is no longer a pawn amid Israel ceasefire"
+        "en": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza"
       }
     },
     {
-      "id": "evt_a08aef43",
-      "title": "黎巴嫩的停火能否维持？",
-      "summary": "黎巴嫩和以色列正在举行几十年来的首次直接会谈。",
-      "date": "2026-04-17T20:20:15Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss",
+      "id": "evt_378057e0",
+      "title": "马祖卡托谈伊朗战争的经济冲击：谁付出了代价？",
+      "summary": "Redi Tlhabi向经济学家Mariana Mazzucato讲述了伊朗战争的经济后果以及谁真正付出了代价。",
+      "date": "2026-04-18T19:29:42Z",
+      "url": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -149,23 +177,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Will the ceasefire in Lebanon hold?"
+        "en": "Mazzucato on the Iran war’s economic shock: Who pays the price?"
       }
     },
     {
-      "id": "evt_aa634f27",
-      "title": "在黎巴嫩提尔与祖父团聚的流离失所家庭",
-      "summary": "一位祖父在黎巴嫩南部提尔与儿子和孙子团聚。",
-      "date": "2026-04-17T20:10:54Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss",
+      "id": "evt_5b27b98f",
+      "title": "法国维和人员在黎巴嫩南部遇害",
+      "summary": "马克龙总统将袭击归咎于真主党。伊朗支持的武装团体否认与该事件有“任何联系”。",
+      "date": "2026-04-18T14:53:17Z",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/displaced-family-reunited-with-grandfather-in-lebanons-tyre?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
       "location": {
         "lat": 33.8938,
         "lng": 35.5018,
@@ -177,7 +205,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Displaced family reunited with grandfather in Lebanon’s Tyre"
+        "en": "French peacekeeper killed in southern Lebanon"
       }
     },
     {
@@ -461,34 +489,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_21ac6486",
-      "title": "特朗普暗示，随着美国港口封锁的继续，伊朗谈判可能会在本周恢复",
-      "summary": "联合国秘书长表示，谈判“极有可能”重启。",
-      "date": "2026-04-15T04:04:15Z",
-      "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump hints Iran talks could resume this week as US port blockade continues"
-      }
-    },
-    {
       "id": "evt_16217d9c",
       "title": "与真主党一起探索前线的以色列城镇",
       "summary": "英国广播公司的外国记者尼克·比克（ Nick Beake ）参观了梅图拉（ Metula ） ，这是一个以色列小镇，",
@@ -570,34 +570,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israelis war-weary but most oppose Iran ceasefire, poll suggests"
-      }
-    },
-    {
-      "id": "evt_4f30a957",
-      "title": "美国对伊朗的封锁是一场赌博。它会起作用吗？",
-      "summary": "美国军方正在对封锁进行赌博，否认伊朗的重要贸易-但关于赌注是否会得到回报的问题仍然存在。",
-      "date": "2026-04-13T15:27:43Z",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The US blockade of Iran is a gamble. Will it work?"
       }
     },
     {
