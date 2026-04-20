@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-19T02:02:57.868039Z
+// 自动生成的数据 - 更新时间: 2026-04-20T02:04:04.852580Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-19T02:02:57.867966Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-04-20T02:04:04.852516Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 20,
+      "international": 23,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_b54de16f",
-      "title": "伊朗战争现场：德黑兰表示没有确定美国会谈的日期，霍尔木兹海峡关闭",
-      "summary": "伊斯兰革命卫队表示，在美国停止封锁伊朗港口之前，霍尔木兹海峡将继续关闭。",
-      "date": "2026-04-19T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss",
+      "id": "evt_fcaea04d",
+      "title": "特朗普说，美国拦截并扣押悬挂伊朗国旗的货船",
+      "summary": "德黑兰发誓要很快对其所谓的“武装海盗行为”进行报复，此时美国正准备进行第二轮会谈。",
+      "date": "2026-04-20T01:38:17Z",
+      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed"
+        "en": "US intercepts and seizes Iranian-flagged cargo ship, Trump says"
       }
     },
     {
-      "id": "evt_66e58442",
-      "title": "伊朗重申对霍尔木兹海峡的控制，特朗普警告不要“敲诈”",
-      "summary": "高级谈判代表穆罕默德·巴盖尔·加里巴夫（ Mohammad Bagher Ghalibaf ）表示，美国海军对伊朗港口的封锁是“一个笨拙而无知的决定”。",
-      "date": "2026-04-18T21:41:06Z",
-      "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss",
+      "id": "evt_13996048",
+      "title": "伊朗战争现场：德黑兰在船只被扣押后猛烈抨击美国的“海盗行为” ，誓言作出回应",
+      "summary": "几小时前，美国总统唐纳德·特朗普（ Donald Trump ）宣布，他将派遣他的团队前往伊斯兰堡进行可能的会谈。",
+      "date": "2026-04-20T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -65,76 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’"
+        "en": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response"
       }
     },
     {
-      "id": "evt_60e775ad",
-      "title": "伊朗称，随着船只遭到袭击，霍尔木兹海峡再次关闭",
-      "summary": "伊朗将关闭归咎于美国的封锁，称这违反了两国之间达成的停火协议。",
-      "date": "2026-04-18T21:19:46Z",
-      "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Strait of Hormuz closed again, Iran says, as ships attacked"
-      }
-    },
-    {
-      "id": "evt_f3c8d9e7",
-      "title": "伊朗军方命令印度船只中止霍尔木兹海峡通道",
-      "summary": "视频显示，伊朗军方命令一艘印度船只中止通过霍尔木兹海峡。",
-      "date": "2026-04-18T21:06:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss",
+      "id": "evt_8ebe407e",
+      "title": "一张张照片显示以色列士兵在黎巴嫩砸碎耶稣雕像",
+      "summary": "社交媒体用户谴责西方对以色列士兵和定居者袭击宗教象征和遗址的沉默。",
+      "date": "2026-04-19T23:41:57Z",
+      "url": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/iran-military-orders-indian-ship-to-abort-strait-of-hormuz-passage?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran military orders Indian ship to abort Strait of Hormuz passage"
-      }
-    },
-    {
-      "id": "evt_84eb2bd0",
-      "title": "以色列称在黎巴嫩建立了一条“黄线” ，就像在加沙一样",
-      "summary": "这是以色列在加沙使用类似措施后，首次在黎巴嫩提及这样的“黄线”。",
-      "date": "2026-04-18T21:03:33Z",
-      "url": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza"
+        "en": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon"
       }
     },
     {
-      "id": "evt_378057e0",
-      "title": "马祖卡托谈伊朗战争的经济冲击：谁付出了代价？",
-      "summary": "Redi Tlhabi向经济学家Mariana Mazzucato讲述了伊朗战争的经济后果以及谁真正付出了代价。",
-      "date": "2026-04-18T19:29:42Z",
-      "url": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss",
+      "id": "evt_099a05bd",
+      "title": "美军袭击并扣押霍尔木兹海峡附近的伊朗船只Touska",
+      "summary": "美国中央司令部发布了一段视频，显示一艘导弹驱逐舰向一艘悬挂伊朗国旗的船只开火。",
+      "date": "2026-04-19T21:53:29Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,14 +121,182 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Mazzucato on the Iran war’s economic shock: Who pays the price?"
+        "en": "US forces attack and seize Iranian ship Touska near Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_498d07b1",
+      "title": "阿根廷的米莱支持美国和以色列在耶路撒冷对伊朗的战争",
+      "summary": "阿根廷总统在访问耶路撒冷期间重申与美国和以色列保持一致，支持他们对伊朗的战争",
+      "date": "2026-04-19T21:23:19Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit"
+      }
+    },
+    {
+      "id": "evt_5a44e3eb",
+      "title": "以色列北部的学校和商店因抗议黎巴嫩停火而关闭",
+      "summary": "由于居民抗议与黎巴嫩停火10天，以色列北部的商店和学校关闭。",
+      "date": "2026-04-19T21:21:51Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire"
+      }
+    },
+    {
+      "id": "evt_70e96328",
+      "title": "抗议者抗议柏林降雨呼吁结束全球战争",
+      "summary": "数百人在柏林抗议美国-以色列对伊朗的侵略，以及以色列对加沙和黎巴嫩的袭击。",
+      "date": "2026-04-19T21:01:15Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Protesters defy Berlin rain to call for end to global wars"
+      }
+    },
+    {
+      "id": "evt_ea9ae762",
+      "title": "特朗普称美国扣押了试图通过霍尔木兹附近封锁的伊朗船只",
+      "summary": "伊朗誓言进行报复，指责美国在袭击货船Touska后违反停火协议。",
+      "date": "2026-04-19T19:52:20Z",
+      "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US seized Iranian ship trying to get past blockade near Hormuz"
+      }
+    },
+    {
+      "id": "evt_a689b997",
+      "title": "以色列部长庆祝重建约旦河西岸的Sa-Nur定居点",
+      "summary": "萨努尔是定居者被驱逐二十年后政府批准的四个前西岸定居点之一。",
+      "date": "2026-04-19T19:13:55Z",
+      "url": "https://www.aljazeera.com/news/2026/4/19/israeli-ministers-celebrate-re-establishment-of-sa-nur-west-bank-settlement?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/19/israeli-ministers-celebrate-re-establishment-of-sa-nur-west-bank-settlement?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement"
+      }
+    },
+    {
+      "id": "evt_5963d3ff",
+      "title": "美国是否误判了伊朗？一位军事战略家给出了答案",
+      "summary": "战略家布莱恩·克拉克（ Bryan Clark ）研究了不断变化的战争目标、升级陷阱，以及伊朗现在对美国是否更危险。",
+      "date": "2026-04-19T19:06:46Z",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/19/did-the-us-misjudge-iran-a-military-strategist-answers-2?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Did the US misjudge Iran? A military strategist answers"
       }
     },
     {
       "id": "evt_5b27b98f",
       "title": "法国维和人员在黎巴嫩南部遇害",
       "summary": "马克龙总统将袭击归咎于真主党。伊朗支持的武装团体否认与该事件有“任何联系”。",
-      "date": "2026-04-18T14:53:17Z",
+      "date": "2026-04-19T11:39:47Z",
       "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -206,6 +318,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "French peacekeeper killed in southern Lebanon"
+      }
+    },
+    {
+      "id": "evt_58b65d2a",
+      "title": "当权者如何看待伊朗战争的影响",
+      "summary": "费萨尔·伊斯兰（ Faisal Islam ）与世界上一些最有权势的人谈论冲突和经济。",
+      "date": "2026-04-18T05:00:15Z",
+      "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What people in power think the impact of the Iran war will be"
       }
     },
     {
@@ -290,34 +430,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain"
-      }
-    },
-    {
-      "id": "evt_d1f5d0d0",
-      "title": "黎巴嫩寻求和平，但真主党需要首先被说服",
-      "summary": "黎巴嫩政府在对该组织的影响力有限的情况下进行了和平谈判。",
-      "date": "2026-04-17T13:37:14Z",
-      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon seeks peace, but Hezbollah needs to be convinced first"
       }
     },
     {
@@ -430,34 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says"
-      }
-    },
-    {
-      "id": "evt_f4f6659b",
-      "title": "以色列和真主党在美国举行以色列-黎巴嫩会谈后继续发动袭击",
-      "summary": "在罕见的直接谈判之后的第二天，以色列袭击了黎巴嫩南部，真主党向以色列发射了火箭弹。",
-      "date": "2026-04-15T14:15:50Z",
-      "url": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US"
       }
     },
     {
@@ -603,7 +687,7 @@ const siteData = {
     {
       "id": "evt_ef21daf6",
       "title": "Shirmohammadi在三亚海滩运动会上举着伊朗国旗",
-      "summary": "德黑兰--2026年沙滩亚运会伊朗代表团团长阿拉什·法哈迪安（ Arash Farhadian ）宣布选择迈赫迪·希尔莫哈马迪（ Mehdi Shirmohammadi ）作为该国三亚体育队的旗手。伊朗将与一个由99名成员组成的代表团一起参加10个学科的奥运会。",
+      "summary": "德黑兰--2026年沙滩亚运会伊朗代表团团长阿拉什·法哈迪安（ Arash Farhadian ）宣布选择迈赫迪·希尔莫哈马迪（ Mehdi Shirmohammadi ）作为三亚国家体育队的旗手。伊朗将与一个由99名成员组成的代表团一起参加10个学科的奥运会。",
       "date": "2026-04-06T13:31:17Z",
       "url": "https://www.tehrantimes.com/news/525228/Shirmohammadi-to-carry-Iran-s-flag-at-Sanya-Beach-Games",
       "sources": [
@@ -631,7 +715,7 @@ const siteData = {
     {
       "id": "evt_a83837fe",
       "title": "贸易部长宣布全天候管理以供应货物，控制市场",
-      "summary": "TEHRAN -工业，矿业和贸易部长表示，该部的中央总部是在战争的最初几个小时内成立的，并补充说： “该部的经理，代表和工作人员全天候都在他们的工作场所，一刻也没有离开现场。”",
+      "summary": "TEHRAN -工业，矿业和贸易部长表示，该部的中央总部是在战争的最初几个小时内成立的，并补充说： “该部的经理，代表和工作人员全天候都在他们的工作场所，没有离开现场片刻。”",
       "date": "2026-04-06T08:40:45Z",
       "url": "https://www.tehrantimes.com/news/525226/Trade-minister-announces-round-the-clock-management-to-supply",
       "sources": [
