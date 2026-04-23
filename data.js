@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-22T01:57:04.054993Z
+// 自动生成的数据 - 更新时间: 2026-04-23T02:01:07.609097Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-22T01:57:04.054929Z",
-    "totalEvents": 36,
+    "lastUpdate": "2026-04-23T02:01:07.609032Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 21,
+      "international": 19,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_a87711ed",
-      "title": "阿根廷的Milei为以色列国庆节唱歌并点燃火炬",
-      "summary": "阿根廷总统哈维尔·米莱（ Javier Milei ）在以色列第78届独立日庆祝活动中演唱并点燃了仪式火炬。",
-      "date": "2026-04-22T00:53:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss",
+      "id": "evt_cb047223",
+      "title": "伊朗发布伊斯兰革命卫队在霍尔木兹海峡扣押船只的视频",
+      "summary": "伊朗革命卫队发布了一段视频，显示其部队在霍尔木兹海峡扣押了一艘船只。",
+      "date": "2026-04-23T00:40:25Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Argentina’s Milei sings and lights torch for Israeli national day"
-      }
-    },
-    {
-      "id": "evt_0c0809f8",
-      "title": "特朗普延长停火并希望“统一提案”",
-      "summary": "在一篇社交媒体帖子中，特朗普总统宣布延长对伊朗战争的停火。",
-      "date": "2026-04-22T00:51:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump extends ceasefire and hopes for ‘unified proposal’"
+        "en": "Iran releases video of IRGC seizing ship in the Strait of Hormuz"
       }
     },
     {
-      "id": "evt_f4599131",
-      "title": "伊朗战争现场：特朗普称停火随着与德黑兰的谈判而延长",
-      "summary": "黎巴嫩灾害管理部门将以色列数周的袭击造成的死亡人数增加到2,454人，受伤人数为7,658人。",
-      "date": "2026-04-22T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss",
+      "id": "evt_959acfa8",
+      "title": "伊朗战争现场：以色列杀害黎巴嫩记者；德黑兰-美国谈判陷入僵局",
+      "summary": "周三，以色列对黎巴嫩的袭击造成至少5人死亡，其中包括黎巴嫩记者阿迈勒·哈利勒（ Amal Khalil",
+      "date": "2026-04-23T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo"
+        "en": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled"
       }
     },
     {
-      "id": "evt_8c89fc48",
-      "title": "尽管伊朗战争停火延长，特朗普仍然“陷入困境”",
-      "summary": "芭芭拉·斯拉文（ Barbara Slavin ）表示，特朗普决定延长与伊朗的停火是一种解脱，但外交解决方案还很遥远。",
-      "date": "2026-04-21T23:26:57Z",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss",
+      "id": "evt_4a882340",
+      "title": "美国财政部长贝森特表示，海湾，亚洲盟友要求互换额度",
+      "summary": "贝森特推翻了有关特朗普家族与阿联酋的财务关系正在推动提供掉期贷款的决定的指控。",
+      "date": "2026-04-22T22:26:23Z",
+      "url": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US Treasury Secretary Bessent says Gulf, Asian allies request swap lines"
+      }
+    },
+    {
+      "id": "evt_990c0af7",
+      "title": "埃尔多安说，土耳其正在努力恢复俄罗斯-乌克兰会谈",
+      "summary": "基辅要求安卡拉与俄罗斯举行领导人级会晤，土耳其总统会见了北约主席。",
+      "date": "2026-04-22T21:09:14Z",
+      "url": "https://www.aljazeera.com/news/2026/4/22/turkiye-making-efforts-to-revive-russia-ukraine-talks-says-erdogan?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/22/turkiye-making-efforts-to-revive-russia-ukraine-talks-says-erdogan?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Turkiye making efforts to revive Russia-Ukraine talks, says Erdogan"
+      }
+    },
+    {
+      "id": "evt_f33bb12c",
+      "title": "以色列军队在被定居者杀害的巴勒斯坦人的葬礼上发射催泪瓦斯",
+      "summary": "以色列部队袭击了被占领西岸一所学校中被定居者杀害的两名巴勒斯坦人的葬礼。",
+      "date": "2026-04-22T20:30:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers"
+      }
+    },
+    {
+      "id": "evt_6a4ec7d3",
+      "title": "约旦河西岸的性暴力成为恐吓巴勒斯坦人的工具",
+      "summary": "以色列士兵的系统性性暴力和骚扰，定居者迫使被占领的约旦河西岸的巴勒斯坦人流离失所。",
+      "date": "2026-04-22T19:59:22Z",
+      "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians"
+      }
+    },
+    {
+      "id": "evt_5d05995f",
+      "title": "伊朗表示，在船只遭到袭击后，它已在霍尔木兹海峡扣押了两艘船只",
+      "summary": "据英国海事机构周三报道，其中一艘货船被伊朗军队“严重损坏”。",
+      "date": "2026-04-22T18:32:47Z",
+      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,48 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension"
+        "en": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked"
       }
     },
     {
-      "id": "evt_6d29d185",
-      "title": "在美国校园压力下，亲巴勒斯坦的法律援助请求在2025年保持高位",
-      "summary": "法律援助组织表示，尽管特朗普政府采取了策略，但请求率显示亲巴勒斯坦的宣传仍然存在。",
-      "date": "2026-04-21T20:48:47Z",
-      "url": "https://www.aljazeera.com/news/2026/4/21/pro-palestine-legal-aid-requests-stay-high-in-2025-amid-us-campus-pressure?traffic_source=rss",
+      "id": "evt_8d7ee653",
+      "title": "报告称，阿联酋支持的哥伦比亚雇佣军向苏丹准军事部队提供支持",
+      "summary": "冲突洞察小组（ CIG ）表示，其研究还显示了阿联酋的参与程度。",
+      "date": "2026-04-22T04:01:50Z",
+      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/21/pro-palestine-legal-aid-requests-stay-high-in-2025-amid-us-campus-pressure?traffic_source=rss"
-        }
-      ],
-      "category": "humanitarian",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pro-Palestine legal aid requests stay high in 2025 amid US campus pressure"
-      }
-    },
-    {
-      "id": "evt_fe36e3c4",
-      "title": "在巴基斯坦可能举行会谈前夕，美国对伊朗实施更多制裁",
-      "summary": "特朗普政府因涉嫌与伊朗军火工业有联系而瞄准了14名个人和实体。",
-      "date": "2026-04-21T20:42:21Z",
-      "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US issues more Iran sanctions on eve of possible talks in Pakistan"
+        "en": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says"
       }
     },
     {
-      "id": "evt_7c7aa63d",
-      "title": "随着伊朗冲突威胁到喷气燃料短缺，欧盟关注选择",
-      "summary": "对霍尔木兹海峡的封锁引起了欧洲的担忧，欧洲严重依赖进口的喷气燃料。",
-      "date": "2026-04-21T20:33:13Z",
-      "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
+      "id": "evt_ffa70571",
+      "title": "特朗普在疯狂的外交日后为伊朗协议争取时间",
+      "summary": "这位美国总统的决定标志着他几周来第二次放弃了升级战争的威胁，赢得了更多的时间。",
+      "date": "2026-04-22T00:32:10Z",
+      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,27 +261,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "EU eyes options as Iran conflict threatens jet fuel shortages"
+        "en": "Trump buys time for Iran deal after frantic day of diplomacy"
       }
     },
     {
-      "id": "evt_e51d7cbf",
-      "title": "特朗普宣布延长伊朗停火，但表示封锁仍然存在",
-      "summary": "美国总统表示，在伊朗领导人“提出结束战争的统一建议”之前，袭击将被推迟。",
-      "date": "2026-04-21T20:22:17Z",
-      "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
+      "id": "evt_b80b10bc",
+      "title": "美伊停火协议延长带来“喘息空间”",
+      "summary": "英国广播公司首席国际记者Lyse Doucet在德黑兰报道，特朗普宣布延长与伊朗的停火协议。",
+      "date": "2026-04-21T22:17:52Z",
+      "url": "https://www.bbc.com/news/videos/cj604n1werpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/cj604n1werpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -233,13 +289,13 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump announces Iran ceasefire extension but says blockade remains"
+        "en": "Extension of US-Iran ceasefire gives 'breathing space'"
       }
     },
     {
       "id": "evt_e1a467a2",
       "title": "以色列士兵因在黎巴嫩破坏耶稣雕像而受到惩罚",
-      "summary": "以色列军方表示，两名士兵将被解除战斗任务，并被军事拘留30天。",
+      "summary": "以色列军方表示，两名士兵将被解除战斗任务，并接受30天的军事拘留。",
       "date": "2026-04-21T16:13:27Z",
       "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -799,7 +855,7 @@ const siteData = {
     {
       "id": "evt_fcaea04d",
       "title": "特朗普说，美国拦截并扣押悬挂伊朗国旗的货船",
-      "summary": "德黑兰发誓要很快对其所谓的“武装海盗行为”进行报复，此时美国正准备进行第二轮会谈。",
+      "summary": "德黑兰誓言不久将对其所谓的“武装海盗行为”进行报复，此时美国正准备进行第二轮会谈。",
       "date": "2026-04-20T01:38:17Z",
       "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -906,118 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "What people in power think the impact of the Iran war will be"
-      }
-    },
-    {
-      "id": "evt_92d6339e",
-      "title": "充满风险和机遇的时刻：两次停火如何促进美伊谈判",
-      "summary": "现在正在取得某种外交进展，但这是否足以防止重启战争？",
-      "date": "2026-04-17T19:59:30Z",
-      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks"
-      }
-    },
-    {
-      "id": "evt_f1c22586",
-      "title": "我们对以色列-黎巴嫩停火的了解",
-      "summary": "随着美国和伊朗之间的谈判继续进行，两国之间为期10天的停火协议现已生效，伊朗支持的真主党表示支持。",
-      "date": "2026-04-17T14:56:15Z",
-      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What we know about the Israel-Lebanon ceasefire"
-      }
-    },
-    {
-      "id": "evt_c2f53d2b",
-      "title": "与以色列的停火给黎巴嫩带来了喘息的机会，但和平的障碍依然存在",
-      "summary": "黎巴嫩正在庆祝数周的战斗停止，但很难确保战斗持续下去。",
-      "date": "2026-04-17T14:31:51Z",
-      "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain"
-      }
-    },
-    {
-      "id": "evt_d1f5d0d0",
-      "title": "黎巴嫩寻求和平，但真主党需要首先被说服",
-      "summary": "黎巴嫩政府在对该组织的影响力有限的情况下进行了和平谈判。",
-      "date": "2026-04-17T13:37:14Z",
-      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon seeks peace, but Hezbollah needs to be convinced first"
       }
     }
   ]
