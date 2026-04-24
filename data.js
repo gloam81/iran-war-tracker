@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-23T02:01:07.609097Z
+// 自动生成的数据 - 更新时间: 2026-04-24T02:00:59.868958Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-23T02:01:07.609032Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-04-24T02:00:59.868892Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 19,
+      "international": 20,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_cb047223",
-      "title": "伊朗发布伊斯兰革命卫队在霍尔木兹海峡扣押船只的视频",
-      "summary": "伊朗革命卫队发布了一段视频，显示其部队在霍尔木兹海峡扣押了一艘船只。",
-      "date": "2026-04-23T00:40:25Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
+      "id": "evt_d676635a",
+      "title": "伊朗战争现场：黎巴嫩停战延长；特朗普说时间不站在德黑兰一边",
+      "summary": "以色列对加沙正在进行的种族灭绝战争造成的死亡人数已达到72,568人，其中172,338人受伤：加沙卫生部。",
+      "date": "2026-04-24T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran releases video of IRGC seizing ship in the Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_959acfa8",
-      "title": "伊朗战争现场：以色列杀害黎巴嫩记者；德黑兰-美国谈判陷入僵局",
-      "summary": "周三，以色列对黎巴嫩的袭击造成至少5人死亡，其中包括黎巴嫩记者阿迈勒·哈利勒（ Amal Khalil",
-      "date": "2026-04-23T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled"
+        "en": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side"
       }
     },
     {
-      "id": "evt_4a882340",
-      "title": "美国财政部长贝森特表示，海湾，亚洲盟友要求互换额度",
-      "summary": "贝森特推翻了有关特朗普家族与阿联酋的财务关系正在推动提供掉期贷款的决定的指控。",
-      "date": "2026-04-22T22:26:23Z",
-      "url": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss",
+      "id": "evt_118cce46",
+      "title": "美国教授起诉大学在亲巴勒斯坦抗议活动中被捕",
+      "summary": "哲学教授诺埃尔·麦卡菲（ Noelle McAfee ）表示，大学未能保护学生和工作人员免受抗议活动的打击。",
+      "date": "2026-04-23T23:20:52Z",
+      "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -93,23 +65,51 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US Treasury Secretary Bessent says Gulf, Asian allies request swap lines"
+        "en": "US professors sue university over arrest during pro-Palestine protest"
       }
     },
     {
-      "id": "evt_990c0af7",
-      "title": "埃尔多安说，土耳其正在努力恢复俄罗斯-乌克兰会谈",
-      "summary": "基辅要求安卡拉与俄罗斯举行领导人级会晤，土耳其总统会见了北约主席。",
-      "date": "2026-04-22T21:09:14Z",
-      "url": "https://www.aljazeera.com/news/2026/4/22/turkiye-making-efforts-to-revive-russia-ukraine-talks-says-erdogan?traffic_source=rss",
+      "id": "evt_3f22d700",
+      "title": "为在以色列有针对性罢工中丧生的记者举行葬礼",
+      "summary": "哀悼者参加了Amal Khalil的葬礼， Amal Khalil是一名记者，在以色列对黎巴嫩南部的袭击中丧生。",
+      "date": "2026-04-23T21:11:59Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/22/turkiye-making-efforts-to-revive-russia-ukraine-talks-says-erdogan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Funeral held for journalist killed in targeted Israeli strike"
+      }
+    },
+    {
+      "id": "evt_9f4bfda5",
+      "title": "特朗普表示，他正在关闭霍尔木兹海峡，而不是伊朗",
+      "summary": "唐纳德·特朗普（ Donald Trump ）表示，他是关闭霍尔木兹海峡的人，而不是伊朗。",
+      "date": "2026-04-23T20:53:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -121,20 +121,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Turkiye making efforts to revive Russia-Ukraine talks, says Erdogan"
+        "en": "Trump says he is keeping Strait of Hormuz closed, not Iran"
       }
     },
     {
-      "id": "evt_f33bb12c",
-      "title": "以色列军队在被定居者杀害的巴勒斯坦人的葬礼上发射催泪瓦斯",
-      "summary": "以色列部队袭击了被占领西岸一所学校中被定居者杀害的两名巴勒斯坦人的葬礼。",
-      "date": "2026-04-22T20:30:10Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
+      "id": "evt_6832565d",
+      "title": "伊朗驳斥特朗普关于领导层分歧的说法，称国家是“一个灵魂”",
+      "summary": "几位伊朗官员分享了同样的信息，强调了他们所谓的“国家和政府的铁统一”。",
+      "date": "2026-04-23T20:26:13Z",
+      "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’"
+      }
+    },
+    {
+      "id": "evt_b18daad5",
+      "title": "特朗普的伊朗战争如何推动军事异议",
+      "summary": "从抗议到静悄悄的抵抗，美国军方内部对美国-以色列对伊朗战争的异议正在上升。",
+      "date": "2026-04-23T19:08:51Z",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +177,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers"
+        "en": "How Trump’s Iran war is driving military dissent"
       }
     },
     {
-      "id": "evt_6a4ec7d3",
-      "title": "约旦河西岸的性暴力成为恐吓巴勒斯坦人的工具",
-      "summary": "以色列士兵的系统性性暴力和骚扰，定居者迫使被占领的约旦河西岸的巴勒斯坦人流离失所。",
-      "date": "2026-04-22T19:59:22Z",
-      "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss",
+      "id": "evt_750fc515",
+      "title": "律师说，美国-科威特记者因社交媒体帖子而在科威特被无罪释放",
+      "summary": "据报道， Ahmed Shihab-Eldin在重新发布与伊朗战争有关的图像后面临指控，包括传播虚假信息。",
+      "date": "2026-04-23T15:11:03Z",
+      "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say"
+      }
+    },
+    {
+      "id": "evt_2ddc7ccb",
+      "title": "第一响应者说，以色列的罢工在加沙杀死了8名巴勒斯坦人",
+      "summary": "星期三晚上，北部城镇Beit Lahia的一座清真寺附近发生了一次罢工，造成三名儿童和两名成人死亡。",
+      "date": "2026-04-23T13:15:07Z",
+      "url": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,7 +233,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians"
+        "en": "Israeli strikes kill eight Palestinians in Gaza, first responders say"
+      }
+    },
+    {
+      "id": "evt_35f05a10",
+      "title": "黎巴嫩指责以色列瞄准在空袭中丧生的记者",
+      "summary": "在以色列国防军袭击红十字会车辆后，黎巴嫩总理指责以色列犯下战争罪，并阻止救援人员到达现场。",
+      "date": "2026-04-23T04:25:30Z",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon accuses Israel of targeting journalist killed in air strike"
+      }
+    },
+    {
+      "id": "evt_cdada2be",
+      "title": "伊朗称霍尔木兹海峡因违反停火而无法开放",
+      "summary": "伊朗首席谈判代表说，美国和以色列的“违规行为”使海峡无法开放。",
+      "date": "2026-04-23T01:09:19Z",
+      "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches"
+      }
+    },
+    {
+      "id": "evt_5a479fdb",
+      "title": "在霍尔木兹海峡追踪遭受攻击的船只",
+      "summary": "伊朗首席谈判代表表示，由于“公然违反”美伊停火， “不可能重新开放”海峡。",
+      "date": "2026-04-22T20:12:03Z",
+      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tracking ships under fire in the Strait of Hormuz"
       }
     },
     {
@@ -206,6 +346,62 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked"
+      }
+    },
+    {
+      "id": "evt_284e37ec",
+      "title": "在巴基斯坦推动谈判之际，美国和伊朗陷入封锁僵局",
+      "summary": "尽管特朗普延长了停火，但霍尔木兹海峡的情绪仍然可燃。",
+      "date": "2026-04-22T16:19:36Z",
+      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Iran in blockade standoff as Pakistan pushes for talks"
+      }
+    },
+    {
+      "id": "evt_5b62b0e7",
+      "title": "Lyse Doucet说，美国和伊朗“陷入了口水战”",
+      "summary": "美国周二晚间证实，副总统前往巴基斯坦进行第二轮和平谈判的行程已被取消。",
+      "date": "2026-04-22T08:37:50Z",
+      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Iran 'locked in war of words' says Lyse Doucet"
       }
     },
     {
@@ -262,62 +458,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump buys time for Iran deal after frantic day of diplomacy"
-      }
-    },
-    {
-      "id": "evt_b80b10bc",
-      "title": "美伊停火协议延长带来“喘息空间”",
-      "summary": "英国广播公司首席国际记者Lyse Doucet在德黑兰报道，特朗普宣布延长与伊朗的停火协议。",
-      "date": "2026-04-21T22:17:52Z",
-      "url": "https://www.bbc.com/news/videos/cj604n1werpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/cj604n1werpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Extension of US-Iran ceasefire gives 'breathing space'"
-      }
-    },
-    {
-      "id": "evt_e1a467a2",
-      "title": "以色列士兵因在黎巴嫩破坏耶稣雕像而受到惩罚",
-      "summary": "以色列军方表示，两名士兵将被解除战斗任务，并接受30天的军事拘留。",
-      "date": "2026-04-21T16:13:27Z",
-      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon"
       }
     },
     {
@@ -685,34 +825,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_c2c7f4aa",
-      "title": "弗朗西斯去世一年后， Popemobile儿童诊所尚未抵达加沙",
-      "summary": "已故教皇最后的愿望之一是将他的车辆用于加沙的儿童，但慈善机构仍在等待入境许可。",
-      "date": "2026-04-21T10:39:14Z",
-      "url": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Popemobile child clinic yet to reach Gaza one year after Francis's death"
-      }
-    },
-    {
       "id": "evt_d23d5a02",
       "title": "俄罗斯向黎巴嫩提供紧急人道主义援助",
       "summary": "",
@@ -797,34 +909,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_0c1e3186",
-      "title": "特朗普表示，在与伊朗达成协议之前，美国不会解除对霍尔木兹的封锁",
-      "summary": "这位美国总统是在不确定伊朗是否会参加本周在巴基斯坦举行的和平谈判之际发表上述言论的。",
-      "date": "2026-04-20T21:52:12Z",
-      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says US will not lift Hormuz blockade until deal made with Iran"
-      }
-    },
-    {
       "id": "evt_ff5a3ef6",
       "title": "美国为什么以及如何封锁霍尔木兹海峡的伊朗港口？",
       "summary": "唐纳德·特朗普说，美国正在封锁霍尔木兹海峡。这在实践中意味着什么？",
@@ -853,90 +937,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_fcaea04d",
-      "title": "特朗普说，美国拦截并扣押悬挂伊朗国旗的货船",
-      "summary": "德黑兰誓言不久将对其所谓的“武装海盗行为”进行报复，此时美国正准备进行第二轮会谈。",
-      "date": "2026-04-20T01:38:17Z",
-      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US intercepts and seizes Iranian-flagged cargo ship, Trump says"
-      }
-    },
-    {
-      "id": "evt_ccde1f01",
-      "title": "伊朗高级政治家告诉BBC ，德黑兰永远不会放弃对霍尔木兹海峡的控制",
-      "summary": "Lyse Doucet与Ebrahim Azizi交谈，他说伊朗“将决定通过关键航线的通行权”。",
-      "date": "2026-04-19T21:09:06Z",
-      "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC"
-      }
-    },
-    {
-      "id": "evt_5b27b98f",
-      "title": "法国维和人员在黎巴嫩南部遇害",
-      "summary": "马克龙总统将袭击归咎于真主党。伊朗支持的武装团体否认与该事件有“任何联系”。",
-      "date": "2026-04-19T11:39:47Z",
-      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "French peacekeeper killed in southern Lebanon"
-      }
-    },
-    {
       "id": "evt_58b65d2a",
       "title": "当权者如何看待伊朗战争的影响",
       "summary": "费萨尔·伊斯兰（ Faisal Islam ）与世界上一些最有权势的人谈论冲突和经济。",
@@ -962,6 +962,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "What people in power think the impact of the Iran war will be"
+      }
+    },
+    {
+      "id": "evt_92d6339e",
+      "title": "充满风险和机遇的时刻：两次停火如何促进美伊谈判",
+      "summary": "现在正在取得某种外交进展，但这是否足以防止重启战争？",
+      "date": "2026-04-17T19:59:30Z",
+      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks"
       }
     }
   ]
