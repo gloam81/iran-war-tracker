@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-24T02:00:59.868958Z
+// 自动生成的数据 - 更新时间: 2026-04-25T01:51:22.733035Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-24T02:00:59.868892Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-04-25T01:51:22.732980Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 20,
+      "international": 22,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_d676635a",
-      "title": "伊朗战争现场：黎巴嫩停战延长；特朗普说时间不站在德黑兰一边",
-      "summary": "以色列对加沙正在进行的种族灭绝战争造成的死亡人数已达到72,568人，其中172,338人受伤：加沙卫生部。",
-      "date": "2026-04-24T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+      "id": "evt_c9396418",
+      "title": "伊朗战争现场：德黑兰的伊斯兰堡调频电台；美国表示特使将前往会谈",
+      "summary": "以色列空袭、加沙地带的坦克炮击造成至少12名巴勒斯坦人死亡，其中包括6名警察。",
+      "date": "2026-04-25T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side"
+        "en": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks"
       }
     },
     {
-      "id": "evt_118cce46",
-      "title": "美国教授起诉大学在亲巴勒斯坦抗议活动中被捕",
-      "summary": "哲学教授诺埃尔·麦卡菲（ Noelle McAfee ）表示，大学未能保护学生和工作人员免受抗议活动的打击。",
-      "date": "2026-04-23T23:20:52Z",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss",
+      "id": "evt_51458ab0",
+      "title": "以色列在“停火”期间在加沙杀害了至少12名巴勒斯坦人",
+      "summary": "哈马斯表示，以色列的升级表明国际社会未能在加沙维持停火。",
+      "date": "2026-04-24T21:42:22Z",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US professors sue university over arrest during pro-Palestine protest"
-      }
-    },
-    {
-      "id": "evt_3f22d700",
-      "title": "为在以色列有针对性罢工中丧生的记者举行葬礼",
-      "summary": "哀悼者参加了Amal Khalil的葬礼， Amal Khalil是一名记者，在以色列对黎巴嫩南部的袭击中丧生。",
-      "date": "2026-04-23T21:11:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Funeral held for journalist killed in targeted Israeli strike"
+        "en": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’"
       }
     },
     {
-      "id": "evt_9f4bfda5",
-      "title": "特朗普表示，他正在关闭霍尔木兹海峡，而不是伊朗",
-      "summary": "唐纳德·特朗普（ Donald Trump ）表示，他是关闭霍尔木兹海峡的人，而不是伊朗。",
-      "date": "2026-04-23T20:53:26Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss",
+      "id": "evt_a0658787",
+      "title": "美国向巴基斯坦派遣特使，提高了与伊朗阿拉格奇会谈的希望",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇抵达伊斯兰堡，但德黑兰尚未承诺与美国代表团进行更多会谈。",
+      "date": "2026-04-24T20:54:28Z",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -121,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says he is keeping Strait of Hormuz closed, not Iran"
+        "en": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi"
       }
     },
     {
-      "id": "evt_6832565d",
-      "title": "伊朗驳斥特朗普关于领导层分歧的说法，称国家是“一个灵魂”",
-      "summary": "几位伊朗官员分享了同样的信息，强调了他们所谓的“国家和政府的铁统一”。",
-      "date": "2026-04-23T20:26:13Z",
-      "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss",
+      "id": "evt_d69fa756",
+      "title": "在加沙中部为300名新娘和新郎举行群众婚礼",
+      "summary": "在加沙的节日时刻，由慈善机构赞助，在Deir el-Balah为300名新娘和新郎举行大规模婚礼。",
+      "date": "2026-04-24T20:53:02Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
       },
       "languages": [
         "zh",
@@ -149,20 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’"
+        "en": "Mass wedding for 300 brides and grooms in central Gaza"
       }
     },
     {
-      "id": "evt_b18daad5",
-      "title": "特朗普的伊朗战争如何推动军事异议",
-      "summary": "从抗议到静悄悄的抵抗，美国军方内部对美国-以色列对伊朗战争的异议正在上升。",
-      "date": "2026-04-23T19:08:51Z",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
+      "id": "evt_f6fdaa2d",
+      "title": "尽管停火延长，以色列仍继续对黎巴嫩发动袭击",
+      "summary": "以色列军队在黎巴嫩南部宾特朱拜勒地区的交火中打死了六名真主党战士。",
+      "date": "2026-04-24T20:46:38Z",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,7 +149,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How Trump’s Iran war is driving military dissent"
+        "en": "Israel continues attacks on Lebanon despite extension of ceasefire"
+      }
+    },
+    {
+      "id": "evt_cc6d6837",
+      "title": "欧洲能否帮助中东解决对伊朗的战争？",
+      "summary": "半岛电视台的Rory Challands在塞浦路斯举行的欧盟峰会上的报道。",
+      "date": "2026-04-24T19:05:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Can Europe help the Middle East resolve the war on Iran?"
+      }
+    },
+    {
+      "id": "evt_f7a9e76e",
+      "title": "联合国警告，以色列对黎巴嫩的袭击可能违反国际法",
+      "summary": "联合国报告称，真主党对以色列的火箭袭击可能违反了国际人道主义法。",
+      "date": "2026-04-24T18:24:27Z",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli attacks on Lebanon may violate international law, UN warns"
+      }
+    },
+    {
+      "id": "evt_666621c2",
+      "title": "以色列警方在警官从头盖骨“切断巴勒斯坦国旗”后进行调查",
+      "summary": "这名英国以色列男子说，有人在他的基帕绣有以色列和巴勒斯坦国旗时冒犯了他，他被拘留了。",
+      "date": "2026-04-24T16:20:10Z",
+      "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap"
+      }
+    },
+    {
+      "id": "evt_e524b1f0",
+      "title": "以色列本雅明·内塔尼亚胡治疗早期前列腺癌",
+      "summary": "这位以色列总理说，他在切除恶性肿瘤后“身体状况良好”。",
+      "date": "2026-04-24T11:49:29Z",
+      "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer"
+      }
+    },
+    {
+      "id": "evt_ef841d9c",
+      "title": "叙利亚内战期间臭名昭著的Tadamon大屠杀的主要嫌疑人被捕",
+      "summary": "Amjad Youssef因2013年4月在大马士革地区大规模杀害蒙着眼睛的平民而被通缉。",
+      "date": "2026-04-24T10:41:32Z",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Key suspect in notorious Tadamon massacre during Syria civil war arrested"
+      }
+    },
+    {
+      "id": "evt_60da4225",
+      "title": "一对夫妇从卫星图像中发现被以色列摧毁的黎巴嫩房屋",
+      "summary": "Joe Elias在接到他的村庄被以色列军队摧毁的报道后联系了BBC Verify。",
+      "date": "2026-04-24T02:58:42Z",
+      "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Couple discovers Lebanon home destroyed by Israel from satellite image"
       }
     },
     {
@@ -405,34 +545,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_8d7ee653",
-      "title": "报告称，阿联酋支持的哥伦比亚雇佣军向苏丹准军事部队提供支持",
-      "summary": "冲突洞察小组（ CIG ）表示，其研究还显示了阿联酋的参与程度。",
-      "date": "2026-04-22T04:01:50Z",
-      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says"
-      }
-    },
-    {
       "id": "evt_ffa70571",
       "title": "特朗普在疯狂的外交日后为伊朗协议争取时间",
       "summary": "这位美国总统的决定标志着他几周来第二次放弃了升级战争的威胁，赢得了更多的时间。",
@@ -458,34 +570,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump buys time for Iran deal after frantic day of diplomacy"
-      }
-    },
-    {
-      "id": "evt_afdf1c88",
-      "title": "伊朗看到与美国和以色列的战争造成大规模裁员",
-      "summary": "制造商、零售商和数字行业正在感受到这种影响，同时警告说，如果战争恢复，情况可能会变得更糟。",
-      "date": "2026-04-21T16:05:51Z",
-      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran sees mass redundancies from war with US and Israel"
       }
     },
     {
@@ -938,7 +1022,7 @@ const siteData = {
     },
     {
       "id": "evt_58b65d2a",
-      "title": "当权者如何看待伊朗战争的影响",
+      "title": "当权者认为伊朗战争的影响是什么",
       "summary": "费萨尔·伊斯兰（ Faisal Islam ）与世界上一些最有权势的人谈论冲突和经济。",
       "date": "2026-04-18T05:00:15Z",
       "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
@@ -962,34 +1046,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "What people in power think the impact of the Iran war will be"
-      }
-    },
-    {
-      "id": "evt_92d6339e",
-      "title": "充满风险和机遇的时刻：两次停火如何促进美伊谈判",
-      "summary": "现在正在取得某种外交进展，但这是否足以防止重启战争？",
-      "date": "2026-04-17T19:59:30Z",
-      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks"
       }
     }
   ]
