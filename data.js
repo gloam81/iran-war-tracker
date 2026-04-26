@@ -1,896 +1,2566 @@
-// 自动生成的数据 - 更新时间: 2026-04-25T01:51:22.733035Z
+// 自动生成的数据 - 更新时间: 2026-04-26T02:09:53.068581Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-25T01:51:22.732980Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-04-26T02:09:53.068400Z",
+    "totalEvents": 100,
     "sources": {
-      "international": 22,
-      "iranian": 15,
+      "international": 6,
+      "iranian": 94,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_c9396418",
-      "title": "伊朗战争现场：德黑兰的伊斯兰堡调频电台；美国表示特使将前往会谈",
-      "summary": "以色列空袭、加沙地带的坦克炮击造成至少12名巴勒斯坦人死亡，其中包括6名警察。",
-      "date": "2026-04-25T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks"
-      }
-    },
-    {
-      "id": "evt_51458ab0",
-      "title": "以色列在“停火”期间在加沙杀害了至少12名巴勒斯坦人",
-      "summary": "哈马斯表示，以色列的升级表明国际社会未能在加沙维持停火。",
-      "date": "2026-04-24T21:42:22Z",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’"
-      }
-    },
-    {
-      "id": "evt_a0658787",
-      "title": "美国向巴基斯坦派遣特使，提高了与伊朗阿拉格奇会谈的希望",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇抵达伊斯兰堡，但德黑兰尚未承诺与美国代表团进行更多会谈。",
-      "date": "2026-04-24T20:54:28Z",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi"
-      }
-    },
-    {
-      "id": "evt_d69fa756",
-      "title": "在加沙中部为300名新娘和新郎举行群众婚礼",
-      "summary": "在加沙的节日时刻，由慈善机构赞助，在Deir el-Balah为300名新娘和新郎举行大规模婚礼。",
-      "date": "2026-04-24T20:53:02Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mass wedding for 300 brides and grooms in central Gaza"
-      }
-    },
-    {
-      "id": "evt_f6fdaa2d",
-      "title": "尽管停火延长，以色列仍继续对黎巴嫩发动袭击",
-      "summary": "以色列军队在黎巴嫩南部宾特朱拜勒地区的交火中打死了六名真主党战士。",
-      "date": "2026-04-24T20:46:38Z",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel continues attacks on Lebanon despite extension of ceasefire"
-      }
-    },
-    {
-      "id": "evt_cc6d6837",
-      "title": "欧洲能否帮助中东解决对伊朗的战争？",
-      "summary": "半岛电视台的Rory Challands在塞浦路斯举行的欧盟峰会上的报道。",
-      "date": "2026-04-24T19:05:10Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Can Europe help the Middle East resolve the war on Iran?"
-      }
-    },
-    {
-      "id": "evt_f7a9e76e",
-      "title": "联合国警告，以色列对黎巴嫩的袭击可能违反国际法",
-      "summary": "联合国报告称，真主党对以色列的火箭袭击可能违反了国际人道主义法。",
-      "date": "2026-04-24T18:24:27Z",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli attacks on Lebanon may violate international law, UN warns"
-      }
-    },
-    {
-      "id": "evt_666621c2",
-      "title": "以色列警方在警官从头盖骨“切断巴勒斯坦国旗”后进行调查",
-      "summary": "这名英国以色列男子说，有人在他的基帕绣有以色列和巴勒斯坦国旗时冒犯了他，他被拘留了。",
-      "date": "2026-04-24T16:20:10Z",
-      "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap"
-      }
-    },
-    {
-      "id": "evt_e524b1f0",
-      "title": "以色列本雅明·内塔尼亚胡治疗早期前列腺癌",
-      "summary": "这位以色列总理说，他在切除恶性肿瘤后“身体状况良好”。",
-      "date": "2026-04-24T11:49:29Z",
-      "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer"
-      }
-    },
-    {
-      "id": "evt_ef841d9c",
-      "title": "叙利亚内战期间臭名昭著的Tadamon大屠杀的主要嫌疑人被捕",
-      "summary": "Amjad Youssef因2013年4月在大马士革地区大规模杀害蒙着眼睛的平民而被通缉。",
-      "date": "2026-04-24T10:41:32Z",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Key suspect in notorious Tadamon massacre during Syria civil war arrested"
-      }
-    },
-    {
-      "id": "evt_60da4225",
-      "title": "一对夫妇从卫星图像中发现被以色列摧毁的黎巴嫩房屋",
-      "summary": "Joe Elias在接到他的村庄被以色列军队摧毁的报道后联系了BBC Verify。",
-      "date": "2026-04-24T02:58:42Z",
-      "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Couple discovers Lebanon home destroyed by Israel from satellite image"
-      }
-    },
-    {
-      "id": "evt_750fc515",
-      "title": "律师说，美国-科威特记者因社交媒体帖子而在科威特被无罪释放",
-      "summary": "据报道， Ahmed Shihab-Eldin在重新发布与伊朗战争有关的图像后面临指控，包括传播虚假信息。",
-      "date": "2026-04-23T15:11:03Z",
-      "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say"
-      }
-    },
-    {
-      "id": "evt_2ddc7ccb",
-      "title": "第一响应者说，以色列的罢工在加沙杀死了8名巴勒斯坦人",
-      "summary": "星期三晚上，北部城镇Beit Lahia的一座清真寺附近发生了一次罢工，造成三名儿童和两名成人死亡。",
-      "date": "2026-04-23T13:15:07Z",
-      "url": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes kill eight Palestinians in Gaza, first responders say"
-      }
-    },
-    {
-      "id": "evt_35f05a10",
-      "title": "黎巴嫩指责以色列瞄准在空袭中丧生的记者",
-      "summary": "在以色列国防军袭击红十字会车辆后，黎巴嫩总理指责以色列犯下战争罪，并阻止救援人员到达现场。",
-      "date": "2026-04-23T04:25:30Z",
-      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon accuses Israel of targeting journalist killed in air strike"
-      }
-    },
-    {
-      "id": "evt_cdada2be",
-      "title": "伊朗称霍尔木兹海峡因违反停火而无法开放",
-      "summary": "伊朗首席谈判代表说，美国和以色列的“违规行为”使海峡无法开放。",
-      "date": "2026-04-23T01:09:19Z",
-      "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches"
-      }
-    },
-    {
-      "id": "evt_5a479fdb",
-      "title": "在霍尔木兹海峡追踪遭受攻击的船只",
-      "summary": "伊朗首席谈判代表表示，由于“公然违反”美伊停火， “不可能重新开放”海峡。",
-      "date": "2026-04-22T20:12:03Z",
-      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tracking ships under fire in the Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_5d05995f",
-      "title": "伊朗表示，在船只遭到袭击后，它已在霍尔木兹海峡扣押了两艘船只",
-      "summary": "据英国海事机构周三报道，其中一艘货船被伊朗军队“严重损坏”。",
-      "date": "2026-04-22T18:32:47Z",
-      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked"
-      }
-    },
-    {
-      "id": "evt_284e37ec",
-      "title": "在巴基斯坦推动谈判之际，美国和伊朗陷入封锁僵局",
-      "summary": "尽管特朗普延长了停火，但霍尔木兹海峡的情绪仍然可燃。",
-      "date": "2026-04-22T16:19:36Z",
-      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran in blockade standoff as Pakistan pushes for talks"
-      }
-    },
-    {
-      "id": "evt_5b62b0e7",
-      "title": "Lyse Doucet说，美国和伊朗“陷入了口水战”",
-      "summary": "美国周二晚间证实，副总统前往巴基斯坦进行第二轮和平谈判的行程已被取消。",
-      "date": "2026-04-22T08:37:50Z",
-      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran 'locked in war of words' says Lyse Doucet"
-      }
-    },
-    {
-      "id": "evt_ffa70571",
-      "title": "特朗普在疯狂的外交日后为伊朗协议争取时间",
-      "summary": "这位美国总统的决定标志着他几周来第二次放弃了升级战争的威胁，赢得了更多的时间。",
-      "date": "2026-04-22T00:32:10Z",
-      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump buys time for Iran deal after frantic day of diplomacy"
-      }
-    },
-    {
-      "id": "evt_e29cb663",
-      "title": "使以色列对基督教的战争具体化的大锤",
-      "summary": "德黑兰--这张照片像是一次物理打击：一名身穿制服的以色列士兵站在距离边境六公里的马龙派基督教村庄德贝尔（ Debel ）的一所家庭住宅外，用大锤直接敲击十字架上的耶稣雕像的头部。",
-      "date": "2026-04-21T15:47:45Z",
-      "url": "https://www.tehrantimes.com/news/525663/The-sledgehammer-that-crystallized-Israel-s-war-on-Christianity",
+      "id": "evt_95990d8d",
+      "title": "آمریکای لاتین",
+      "summary": "آمریکای لاتین",
+      "date": "2026-04-26T02:09:53.067027Z",
+      "url": "https://www.entekhab.ir/fa/services/3/74",
       "sources": [
         {
           "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525663/The-sledgehammer-that-crystallized-Israel-s-war-on-Christianity"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The sledgehammer that crystallized Israel’s war on Christianity"
-      }
-    },
-    {
-      "id": "evt_82e3c51d",
-      "title": "伊拉克接近政府成立突破",
-      "summary": "德黑兰--随着政治派别在总统任命后加紧谈判，伊拉克朝着选择总理的方向迈进。",
-      "date": "2026-04-21T15:36:15Z",
-      "url": "https://www.tehrantimes.com/news/525662/Iraq-nears-government-formation-breakthrough",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525662/Iraq-nears-government-formation-breakthrough"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iraq nears government formation breakthrough"
-      }
-    },
-    {
-      "id": "evt_9cb7b4fe",
-      "title": "三亚2026 ：伊朗沙滩手球从高处开始",
-      "summary": "德黑兰-伊朗国家沙滩手球队在第六届亚洲沙滩运动会上以出色的表现发起了他们的运动，周二以2比0击败菲律宾队。",
-      "date": "2026-04-21T15:27:51Z",
-      "url": "https://www.tehrantimes.com/news/525661/Sanya-2026-Iran-beach-handball-start-on-high",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525661/Sanya-2026-Iran-beach-handball-start-on-high"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Sanya 2026: Iran beach handball start on high"
-      }
-    },
-    {
-      "id": "evt_61416fcf",
-      "title": "巴基斯坦和伊朗：两个兄弟国家",
-      "summary": "巴基斯坦感到非常荣幸的是，在这些最困难的情况下，伊朗信任巴基斯坦来阻止美国对伊朗伊斯兰共和国的战争。除了荣誉之外，这对巴基斯坦来说也是一次巨大的考验，必须热情地迈出每一步，因为各国都面临着历史上的困难时期。在此期间，无论谁支持他们，都会成为国家记忆的一部分。",
-      "date": "2026-04-21T15:26:29Z",
-      "url": "https://www.tehrantimes.com/news/525660/Pakistan-and-Iran-Two-brotherly-nations",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525660/Pakistan-and-Iran-Two-brotherly-nations"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pakistan and Iran: Two brotherly nations"
-      }
-    },
-    {
-      "id": "evt_a3557fe8",
-      "title": "伊朗谴责美国扣押Touska船只为“恐怖行为”",
-      "summary": "德黑兰--伊朗外交部周二发表措辞强硬的声明，谴责美国在阿曼海扣押一艘伊朗船只是“恐怖行为”。",
-      "date": "2026-04-21T14:16:49Z",
-      "url": "https://www.tehrantimes.com/news/525659/Iran-condemns-US-seizure-of-Touska-vessel-as-a-terrorist-act",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525659/Iran-condemns-US-seizure-of-Touska-vessel-as-a-terrorist-act"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran condemns US seizure of Touska vessel as “a terrorist act”"
-      }
-    },
-    {
-      "id": "evt_3305950c",
-      "title": "为正在进行的住房项目准备51,000公顷土地",
-      "summary": "TEHRAN -国家土地和住房组织总经理在解释该组织在土地准备领域的表现时宣布，将从该组织的资源中支付土地准备部门的承包商索赔。",
-      "date": "2026-04-21T12:05:53Z",
-      "url": "https://www.tehrantimes.com/news/525656/Preparation-of-51-000-hectares-of-land-for-housing-projects-underway",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525656/Preparation-of-51-000-hectares-of-land-for-housing-projects-underway"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Preparation of 51,000 hectares of land for housing projects underway"
-      }
-    },
-    {
-      "id": "evt_9ac6d4ff",
-      "title": "股市可能在10天内重新开放： SEO负责人",
-      "summary": "TEHRAN -证券交易组织（ SEO ）负责人宣布了股市在未来10至12天内重新开放的可能性，强调这将一次性完成，并且分阶段的方法不在议程上。",
-      "date": "2026-04-21T12:03:34Z",
-      "url": "https://www.tehrantimes.com/news/525655/Stock-market-likely-to-reopen-within-10-days-SEO-head",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525655/Stock-market-likely-to-reopen-within-10-days-SEO-head"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Stock market likely to reopen within 10 days: SEO head"
-      }
-    },
-    {
-      "id": "evt_d558006a",
-      "title": "伊朗与经济合作组织成员国的贸易在5年内增长82%",
-      "summary": "德黑兰--一位高级贸易官员本周宣布，在过去五年中，伊朗与经济合作组织（ ECO ）成员国的贸易增长了82% ，重申了伊朗在持续挑战的情况下加强区域经济联系的承诺。",
-      "date": "2026-04-21T12:00:57Z",
-      "url": "https://www.tehrantimes.com/news/525654/Iran-s-trade-with-ECO-members-rises-82-in-5-years",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525654/Iran-s-trade-with-ECO-members-rises-82-in-5-years"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s trade with ECO members rises 82% in 5 years"
-      }
-    },
-    {
-      "id": "evt_428dc7b1",
-      "title": "霍尔木兹海峡危机：迫在眉睫的粮食安全定时炸弹",
-      "summary": "TEHRAN -世界正在屏住呼吸。随着美国-以色列对伊朗战争的升级，战略性的霍尔木兹海峡（全球五分之一的石油通过的狭窄水道）实际上已被关闭。虽然眼前的危机是以油轮停驶和能源价格上涨来衡量的，但联合国警告说，真正的爆炸将是一颗“粮食安全定时炸弹” ，不仅在加油站，而且在世界各地的超市过道上都能感受到。",
-      "date": "2026-04-21T11:58:10Z",
-      "url": "https://www.tehrantimes.com/news/525653/Strait-of-Hormuz-crisis-A-looming-food-security-time-bomb",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525653/Strait-of-Hormuz-crisis-A-looming-food-security-time-bomb"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Strait of Hormuz crisis: A looming food security time bomb"
-      }
-    },
-    {
-      "id": "evt_48dff7de",
-      "title": "“Petro-Yuan” ：全球经济的无声地震",
-      "summary": "TEHRAN -在波斯湾地缘政治紧张局势升级和霍尔木兹海峡船舶交通中断的同时，媒体报道了中国决定与波斯湾国家签订基于人民币的石油合同，分析师将这一举动解释为对美元霸权的挑战和全球经济的无声地震。",
-      "date": "2026-04-21T11:55:24Z",
-      "url": "https://www.tehrantimes.com/news/525652/Petro-Yuan-A-silent-earthquake-in-global-economy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525652/Petro-Yuan-A-silent-earthquake-in-global-economy"
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
         }
       ],
       "category": "political",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
       },
       "languages": [
         "zh",
-        "en"
+        "fa"
       ],
       "originalTexts": {
-        "fa": null,
-        "en": "‘Petro-Yuan’: A silent earthquake in global economy"
+        "fa": "آمریکای لاتین"
       }
     },
     {
-      "id": "evt_01c64fec",
-      "title": "美国退伍军人反对对伊朗开战",
-      "summary": "",
-      "date": "2026-04-21T11:15:34Z",
-      "url": "https://www.tehrantimes.com/news/525651/American-Veterans-Oppose-War-On-Iran",
+      "id": "evt_77700aad",
+      "title": "آسیای مرکزی",
+      "summary": "آسیای مرکزی",
+      "date": "2026-04-26T02:09:52.144490Z",
+      "url": "https://www.entekhab.ir/fa/services/3/71",
       "sources": [
         {
           "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525651/American-Veterans-Oppose-War-On-Iran"
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "آسیای مرکزی"
+      }
+    },
+    {
+      "id": "evt_91309199",
+      "title": "سایر مناطق",
+      "summary": "سایر مناطق",
+      "date": "2026-04-26T02:09:51.156856Z",
+      "url": "https://www.entekhab.ir/fa/services/3/9",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "سایر مناطق"
+      }
+    },
+    {
+      "id": "evt_7dd60a2b",
+      "title": "آمریکا و اروپا",
+      "summary": "آمریکا و اروپا",
+      "date": "2026-04-26T02:09:50.215775Z",
+      "url": "https://www.entekhab.ir/fa/services/3/8",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "آمریکا و اروپا"
+      }
+    },
+    {
+      "id": "evt_72e2f5c7",
+      "title": "سیاست خارجی",
+      "summary": "سیاست خارجی",
+      "date": "2026-04-26T02:09:49.672426Z",
+      "url": "https://www.entekhab.ir/fa/services/2/2",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "سیاست خارجی"
+      }
+    },
+    {
+      "id": "evt_09fa8e20",
+      "title": "سیاست داخلی",
+      "summary": "سیاست داخلی",
+      "date": "2026-04-26T02:09:48.598141Z",
+      "url": "https://www.entekhab.ir/fa/services/2/1",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "سیاست داخلی"
+      }
+    },
+    {
+      "id": "evt_32257b81",
+      "title": "آغاز به کار «انتخاب» در پیام‌رسان «بله» و «روبیکا» (کلیک کنید)",
+      "summary": "آغاز به کار «انتخاب» در پیام‌رسان «بله» و «روبیکا» (کلیک کنید)",
+      "date": "2026-04-26T02:09:47.532407Z",
+      "url": "https://www.entekhab.ir/fa/amp/news/913949",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "آغاز به کار «انتخاب» در پیام‌رسان «بله» و «روبیکا» (کلیک کنید)"
+      }
+    },
+    {
+      "id": "evt_400b5298",
+      "title": "آغاز به کار کانال «انتخاب» در پیام‌رسان «بله» و «روبیکا»",
+      "summary": "آغاز به کار کانال «انتخاب» در پیام‌رسان «بله» و «روبیکا»",
+      "date": "2026-04-26T02:09:46.982276Z",
+      "url": "https://www.entekhab.ir/fa/news/913949/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85%E2%80%8C%D8%B1%D8%B3%D8%A7%D9%86-%D8%A8%D9%84%D9%87-%D9%88-%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "آغاز به کار کانال «انتخاب» در پیام‌رسان «بله» و «روبیکا»"
+      }
+    },
+    {
+      "id": "evt_c34fc0f0",
+      "title": "مجله الکترونیک",
+      "summary": "مجله الکترونیک",
+      "date": "2026-04-26T02:09:46.436485Z",
+      "url": "https://www.entekhab.ir/fa/newsletter",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "مجله الکترونیک"
+      }
+    },
+    {
+      "id": "evt_ea6d0f26",
+      "title": "اوقات شرعی",
+      "summary": "اوقات شرعی",
+      "date": "2026-04-26T02:09:45.300816Z",
+      "url": "https://www.entekhab.ir/fa/prayer",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Entekhab",
+          "url": "https://www.entekhab.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "اوقات شرعی"
+      }
+    },
+    {
+      "id": "evt_ffa0eb77",
+      "title": "بازار مالی",
+      "summary": "بازار مالی",
+      "date": "2026-04-26T02:09:40.145749Z",
+      "url": "https://www.khabaronline.ir/service/Economy/financial-market",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "KhabarOnline",
+          "url": "https://www.khabaronline.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "بازار مالی"
+      }
+    },
+    {
+      "id": "evt_b5871502",
+      "title": "اقتصاد سیاسی",
+      "summary": "اقتصاد سیاسی",
+      "date": "2026-04-26T02:09:39.210474Z",
+      "url": "https://www.khabaronline.ir/service/Economy/political-economy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "KhabarOnline",
+          "url": "https://www.khabaronline.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "اقتصاد سیاسی"
+      }
+    },
+    {
+      "id": "evt_96751714",
+      "title": "بازار قیمت ها",
+      "summary": "بازار قیمت ها",
+      "date": "2026-04-26T02:09:38.301889Z",
+      "url": "https://www.khabaronline.ir/service/Economy/buy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "KhabarOnline",
+          "url": "https://www.khabaronline.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "بازار قیمت ها"
+      }
+    },
+    {
+      "id": "evt_d91db3f0",
+      "title": "اقتصاد کلان",
+      "summary": "اقتصاد کلان",
+      "date": "2026-04-26T02:09:37.763235Z",
+      "url": "https://www.khabaronline.ir/service/Economy/macroeconomics",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "KhabarOnline",
+          "url": "https://www.khabaronline.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "اقتصاد کلان"
+      }
+    },
+    {
+      "id": "evt_3a90b253",
+      "title": "احزاب و شخصیت‌ها",
+      "summary": "احزاب و شخصیت‌ها",
+      "date": "2026-04-26T02:09:36.708624Z",
+      "url": "https://www.khabaronline.ir/service/Politics/parties",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "KhabarOnline",
+          "url": "https://www.khabaronline.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "احزاب و شخصیت‌ها"
+      }
+    },
+    {
+      "id": "evt_18684897",
+      "title": "تماس با ما",
+      "summary": "تماس با ما",
+      "date": "2026-04-26T02:09:36.068823Z",
+      "url": "https://www.khabaronline.ir/news/1940521/",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "KhabarOnline",
+          "url": "https://www.khabaronline.ir/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تماس با ما"
+      }
+    },
+    {
+      "id": "evt_ebe2584b",
+      "title": "تماس با ما",
+      "summary": "تماس با ما",
+      "date": "2026-04-26T02:09:21.343634Z",
+      "url": "https://www.mehrnews.com/news/2408727/",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تماس با ما"
+      }
+    },
+    {
+      "id": "evt_be4159b2",
+      "title": "اجتماع باشکوه مردم گناوه با حضور خادمان رضوی",
+      "summary": "اجتماع باشکوه مردم گناوه با حضور خادمان رضوی",
+      "date": "2026-04-26T02:09:20.796751Z",
+      "url": "https://www.mehrnews.com/news/6811327/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A8%D8%A7%D8%B4%DA%A9%D9%88%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%DA%AF%D9%86%D8%A7%D9%88%D9%87-%D8%A8%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AE%D8%A7%D8%AF%D9%85%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "اجتماع باشکوه مردم گناوه با حضور خادمان رضوی"
+      }
+    },
+    {
+      "id": "evt_c18c7e2c",
+      "title": "استقبال مردم ایرانشهر از کاروان خدام رضوی",
+      "summary": "استقبال مردم ایرانشهر از کاروان خدام رضوی",
+      "date": "2026-04-26T02:09:20.251837Z",
+      "url": "https://www.mehrnews.com/news/6811196/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86-%D8%AE%D8%AF%D8%A7%D9%85-%D8%B1%D8%B6%D9%88%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "استقبال مردم ایرانشهر از کاروان خدام رضوی"
+      }
+    },
+    {
+      "id": "evt_f0ddbd96",
+      "title": "اجتماع مردم زاهدان در پنجاه و ششمین شب از شهادت قائد امت",
+      "summary": "اجتماع مردم زاهدان در پنجاه و ششمین شب از شهادت قائد امت",
+      "date": "2026-04-26T02:09:19.719557Z",
+      "url": "https://www.mehrnews.com/news/6811341/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%B1%D8%AF%D9%85-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85%DB%8C%D9%86-%D8%B4%D8%A8-%D8%A7%D8%B2-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%85%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "اجتماع مردم زاهدان در پنجاه و ششمین شب از شهادت قائد امت"
+      }
+    },
+    {
+      "id": "evt_3ff1c0f4",
+      "title": "ندای الله اکبر دارالارشارد اردبیل در پنجاه و ششمین شب دفاع از ایران",
+      "summary": "ندای الله اکبر دارالارشارد اردبیل در پنجاه و ششمین شب دفاع از ایران",
+      "date": "2026-04-26T02:09:19.183487Z",
+      "url": "https://www.mehrnews.com/news/6811330/%D9%86%D8%AF%D8%A7%DB%8C-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%DA%A9%D8%A8%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%D9%84%D8%A7%D8%B1%D8%B4%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%AF%D8%B1-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85%DB%8C%D9%86-%D8%B4%D8%A8-%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D8%B2",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "ندای الله اکبر دارالارشارد اردبیل در پنجاه و ششمین شب دفاع از ایران"
+      }
+    },
+    {
+      "id": "evt_cea674e3",
+      "title": "حماسه پرشور مردمی در بیله سوار در شب پنجاه و ششم",
+      "summary": "حماسه پرشور مردمی در بیله سوار در شب پنجاه و ششم",
+      "date": "2026-04-26T02:09:18.628454Z",
+      "url": "https://www.mehrnews.com/news/6811338/%D8%AD%D9%85%D8%A7%D8%B3%D9%87-%D9%BE%D8%B1%D8%B4%D9%88%D8%B1-%D9%85%D8%B1%D8%AF%D9%85%DB%8C-%D8%AF%D8%B1-%D8%A8%DB%8C%D9%84%D9%87-%D8%B3%D9%88%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%B4%D8%A8-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حماسه پرشور مردمی در بیله سوار در شب پنجاه و ششم"
+      }
+    },
+    {
+      "id": "evt_88aa018b",
+      "title": "خروش پنجاه‌وششم مردم مشگین شهر در دفاع از ایران",
+      "summary": "خروش پنجاه‌وششم مردم مشگین شهر در دفاع از ایران",
+      "date": "2026-04-26T02:09:18.082791Z",
+      "url": "https://www.mehrnews.com/news/6811340/%D8%AE%D8%B1%D9%88%D8%B4-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88%D8%B4%D8%B4%D9%85-%D9%85%D8%B1%D8%AF%D9%85-%D9%85%D8%B4%DA%AF%DB%8C%D9%86-%D8%B4%D9%87%D8%B1-%D8%AF%D8%B1-%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "خروش پنجاه‌وششم مردم مشگین شهر در دفاع از ایران"
+      }
+    },
+    {
+      "id": "evt_77a7c6d4",
+      "title": "حماسه حضور پرشور مردم آشتیان درشب پنجاه و ششم بیعت با رهبر معظم انقلاب",
+      "summary": "حماسه حضور پرشور مردم آشتیان درشب پنجاه و ششم بیعت با رهبر معظم انقلاب",
+      "date": "2026-04-26T02:09:17.512893Z",
+      "url": "https://www.mehrnews.com/news/6811336/%D8%AD%D9%85%D8%A7%D8%B3%D9%87-%D8%AD%D8%B6%D9%88%D8%B1-%D9%BE%D8%B1%D8%B4%D9%88%D8%B1-%D9%85%D8%B1%D8%AF%D9%85-%D8%A2%D8%B4%D8%AA%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1%D8%B4%D8%A8-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85-%D8%A8%DB%8C%D8%B9%D8%AA-%D8%A8%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1-%D9%85%D8%B9%D8%B8%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حماسه حضور پرشور مردم آشتیان درشب پنجاه و ششم بیعت با رهبر معظم انقلاب"
+      }
+    },
+    {
+      "id": "evt_e0d44894",
+      "title": "شب پنجاه و ششم ایستادگی و استقامت مردم نراق در حمایت از ولایت فقیه",
+      "summary": "شب پنجاه و ششم ایستادگی و استقامت مردم نراق در حمایت از ولایت فقیه",
+      "date": "2026-04-26T02:09:16.972795Z",
+      "url": "https://www.mehrnews.com/news/6811343/%D8%B4%D8%A8-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%DA%AF%DB%8C-%D9%88-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D9%86%D8%B1%D8%A7%D9%82-%D8%AF%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%88%D9%84%D8%A7%DB%8C%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "شب پنجاه و ششم ایستادگی و استقامت مردم نراق در حمایت از ولایت فقیه"
+      }
+    },
+    {
+      "id": "evt_151cacc6",
+      "title": "میزبانی باشکوه خلخالی‌ها از پرچم رضوی",
+      "summary": "میزبانی باشکوه خلخالی‌ها از پرچم رضوی",
+      "date": "2026-04-26T02:09:16.424961Z",
+      "url": "https://www.mehrnews.com/news/6811344/%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B4%DA%A9%D9%88%D9%87-%D8%AE%D9%84%D8%AE%D8%A7%D9%84%DB%8C-%D9%87%D8%A7-%D8%A7%D8%B2-%D9%BE%D8%B1%DA%86%D9%85-%D8%B1%D8%B6%D9%88%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "میزبانی باشکوه خلخالی‌ها از پرچم رضوی"
+      }
+    },
+    {
+      "id": "evt_015b3f18",
+      "title": "حجت الاسلام تاج: وحدت در مسیر پرچم مقدس را حفظ کنیم",
+      "summary": "حجت الاسلام تاج: وحدت در مسیر پرچم مقدس را حفظ کنیم",
+      "date": "2026-04-26T02:09:15.873832Z",
+      "url": "https://www.mehrnews.com/news/6811346/%D8%AD%D8%AC%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%AA%D8%A7%D8%AC-%D9%88%D8%AD%D8%AF%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%BE%D8%B1%DA%86%D9%85-%D9%85%D9%82%D8%AF%D8%B3-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%DA%A9%D9%86%DB%8C%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حجت الاسلام تاج: وحدت در مسیر پرچم مقدس را حفظ کنیم"
+      }
+    },
+    {
+      "id": "evt_897fbb4d",
+      "title": "لبیک مردم انقلابی یزد به فرمان مقام معظم رهبری",
+      "summary": "لبیک مردم انقلابی یزد به فرمان مقام معظم رهبری",
+      "date": "2026-04-26T02:09:15.323006Z",
+      "url": "https://www.mehrnews.com/news/6811309/%D9%84%D8%A8%DB%8C%DA%A9-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C-%DB%8C%D8%B2%D8%AF-%D8%A8%D9%87-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D9%85-%D9%85%D8%B9%D8%B8%D9%85-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "لبیک مردم انقلابی یزد به فرمان مقام معظم رهبری"
+      }
+    },
+    {
+      "id": "evt_5b436f7a",
+      "title": "حضور پرشور مردم لنگرود در شب پنجاه و ششم",
+      "summary": "حضور پرشور مردم لنگرود در شب پنجاه و ششم",
+      "date": "2026-04-26T02:09:14.790099Z",
+      "url": "https://www.mehrnews.com/news/6811348/%D8%AD%D8%B6%D9%88%D8%B1-%D9%BE%D8%B1%D8%B4%D9%88%D8%B1-%D9%85%D8%B1%D8%AF%D9%85-%D9%84%D9%86%DA%AF%D8%B1%D9%88%D8%AF-%D8%AF%D8%B1-%D8%B4%D8%A8-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حضور پرشور مردم لنگرود در شب پنجاه و ششم"
+      }
+    },
+    {
+      "id": "evt_4c2f2aae",
+      "title": "تحریم‌کنندگان ایران دیگر حق عبور از تنگه هرمز را ندارند",
+      "summary": "تحریم‌کنندگان ایران دیگر حق عبور از تنگه هرمز را ندارند",
+      "date": "2026-04-26T02:09:14.241902Z",
+      "url": "https://www.mehrnews.com/news/6811350/%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AD%D9%82-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تحریم‌کنندگان ایران دیگر حق عبور از تنگه هرمز را ندارند"
+      }
+    },
+    {
+      "id": "evt_ca86040e",
+      "title": "حضور خادمان رضوی در اجتماع باشکوه مردم آزادشهر",
+      "summary": "حضور خادمان رضوی در اجتماع باشکوه مردم آزادشهر",
+      "date": "2026-04-26T02:09:13.709359Z",
+      "url": "https://www.mehrnews.com/news/6811349/%D8%AD%D8%B6%D9%88%D8%B1-%D8%AE%D8%A7%D8%AF%D9%85%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A8%D8%A7%D8%B4%DA%A9%D9%88%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حضور خادمان رضوی در اجتماع باشکوه مردم آزادشهر"
+      }
+    },
+    {
+      "id": "evt_e634075a",
+      "title": "گالیکش بیدار در شب پنجاه‌وششم؛ مردم پای آرمان‌ها ایستادند",
+      "summary": "گالیکش بیدار در شب پنجاه‌وششم؛ مردم پای آرمان‌ها ایستادند",
+      "date": "2026-04-26T02:09:13.159932Z",
+      "url": "https://www.mehrnews.com/news/6811331/%DA%AF%D8%A7%D9%84%DB%8C%DA%A9%D8%B4-%D8%A8%DB%8C%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%B4%D8%A8-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88%D8%B4%D8%B4%D9%85-%D9%85%D8%B1%D8%AF%D9%85-%D9%BE%D8%A7%DB%8C-%D8%A2%D8%B1%D9%85%D8%A7%D9%86-%D9%87%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%86%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "گالیکش بیدار در شب پنجاه‌وششم؛ مردم پای آرمان‌ها ایستادند"
+      }
+    },
+    {
+      "id": "evt_0969858d",
+      "title": "نوای اتحاد در کردکوی؛ موج پنجاه‌ و ششم تجمعات شبانه برگزار شد",
+      "summary": "نوای اتحاد در کردکوی؛ موج پنجاه‌ و ششم تجمعات شبانه برگزار شد",
+      "date": "2026-04-26T02:09:12.604523Z",
+      "url": "https://www.mehrnews.com/news/6811352/%D9%86%D9%88%D8%A7%DB%8C-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AF%DA%A9%D9%88%DB%8C-%D9%85%D9%88%D8%AC-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D8%B4%D8%B4%D9%85-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7%D8%AA-%D8%B4%D8%A8%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "نوای اتحاد در کردکوی؛ موج پنجاه‌ و ششم تجمعات شبانه برگزار شد"
+      }
+    },
+    {
+      "id": "evt_8a0212a7",
+      "title": "رنگ را پاک کردی؛ ننگ را چه می‌کنی؟",
+      "summary": "رنگ را پاک کردی؛ ننگ را چه می‌کنی؟",
+      "date": "2026-04-26T02:09:11.986939Z",
+      "url": "https://www.mehrnews.com/news/6810489/%D8%B1%D9%86%DA%AF-%D8%B1%D8%A7-%D9%BE%D8%A7%DA%A9-%DA%A9%D8%B1%D8%AF%DB%8C-%D9%86%D9%86%DA%AF-%D8%B1%D8%A7-%DA%86%D9%87-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "رنگ را پاک کردی؛ ننگ را چه می‌کنی؟"
+      }
+    },
+    {
+      "id": "evt_fd8109e4",
+      "title": "پیش‌بینی رهبر شهید در حال وقوع است",
+      "summary": "پیش‌بینی رهبر شهید در حال وقوع است",
+      "date": "2026-04-26T02:09:11.358437Z",
+      "url": "https://www.mehrnews.com/news/6810636/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D9%88%D9%82%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "پیش‌بینی رهبر شهید در حال وقوع است"
+      }
+    },
+    {
+      "id": "evt_57f7d4bd",
+      "title": "علت گسترش مالاریا در جنوب شرق ایران",
+      "summary": "علت گسترش مالاریا در جنوب شرق ایران",
+      "date": "2026-04-26T02:09:10.811209Z",
+      "url": "https://www.mehrnews.com/news/6810650/%D8%B9%D9%84%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D9%85%D8%A7%D9%84%D8%A7%D8%B1%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8-%D8%B4%D8%B1%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "علت گسترش مالاریا در جنوب شرق ایران"
+      }
+    },
+    {
+      "id": "evt_57ca0832",
+      "title": "دلیل شکست مذاکرات آمریکا با ایران از نظر اندیشکده‌های آمریکایی",
+      "summary": "دلیل شکست مذاکرات آمریکا با ایران از نظر اندیشکده‌های آمریکایی",
+      "date": "2026-04-26T02:09:10.262508Z",
+      "url": "https://www.mehrnews.com/news/6810752/%D8%AF%D9%84%DB%8C%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%86%D8%B8%D8%B1-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%DA%A9%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "دلیل شکست مذاکرات آمریکا با ایران از نظر اندیشکده‌های آمریکایی"
+      }
+    },
+    {
+      "id": "evt_f9fecd2f",
+      "title": "روایت هولناک سوختن پرستار در جنگ رمضان؛ تفکر فاشیستی داعش همچنان هست",
+      "summary": "روایت هولناک سوختن پرستار در جنگ رمضان؛ تفکر فاشیستی داعش همچنان هست",
+      "date": "2026-04-26T02:09:09.710747Z",
+      "url": "https://www.mehrnews.com/news/6810368/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D9%87%D9%88%D9%84%D9%86%D8%A7%DA%A9-%D8%B3%D9%88%D8%AE%D8%AA%D9%86-%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%AA%D9%81%DA%A9%D8%B1-%D9%81%D8%A7%D8%B4%DB%8C%D8%B3%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "روایت هولناک سوختن پرستار در جنگ رمضان؛ تفکر فاشیستی داعش همچنان هست"
+      }
+    },
+    {
+      "id": "evt_0b3847ef",
+      "title": "شکوهمندتر می‌شوی ای ایران",
+      "summary": "شکوهمندتر می‌شوی ای ایران",
+      "date": "2026-04-26T02:09:09.157280Z",
+      "url": "https://www.mehrnews.com/news/6810739/%D8%B4%DA%A9%D9%88%D9%87%D9%85%D9%86%D8%AF%D8%AA%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%DB%8C-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "شکوهمندتر می‌شوی ای ایران"
+      }
+    },
+    {
+      "id": "evt_662750a1",
+      "title": "تنگه هرمز و مدیریت استراتژیک ایران؛ رویکرد حقوقی و عملیاتی",
+      "summary": "تنگه هرمز و مدیریت استراتژیک ایران؛ رویکرد حقوقی و عملیاتی",
+      "date": "2026-04-26T02:09:08.620030Z",
+      "url": "https://www.mehrnews.com/news/6810737/%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%88-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D9%88%DB%8C%DA%A9%D8%B1%D8%AF-%D8%AD%D9%82%D9%88%D9%82%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تنگه هرمز و مدیریت استراتژیک ایران؛ رویکرد حقوقی و عملیاتی"
+      }
+    },
+    {
+      "id": "evt_e38830d5",
+      "title": "نقطه‌زنی رسانه‌ای ایران در «جنگ سوم تحمیلی»",
+      "summary": "نقطه‌زنی رسانه‌ای ایران در «جنگ سوم تحمیلی»",
+      "date": "2026-04-26T02:09:08.062909Z",
+      "url": "https://www.mehrnews.com/news/6811184/%D9%86%D9%82%D8%B7%D9%87-%D8%B2%D9%86%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%B3%D9%88%D9%85-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "نقطه‌زنی رسانه‌ای ایران در «جنگ سوم تحمیلی»"
+      }
+    },
+    {
+      "id": "evt_d51e183b",
+      "title": "شهباز شریف: درباره اوضاع منطقه با عراقچی گفتگو کردم",
+      "summary": "شهباز شریف: درباره اوضاع منطقه با عراقچی گفتگو کردم",
+      "date": "2026-04-26T02:09:07.522390Z",
+      "url": "https://www.mehrnews.com/news/6811031/%D8%B4%D9%87%D8%A8%D8%A7%D8%B2-%D8%B4%D8%B1%DB%8C%D9%81-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%88%D8%B6%D8%A7%D8%B9-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A8%D8%A7-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%DA%AF%D9%81%D8%AA%DA%AF%D9%88-%DA%A9%D8%B1%D8%AF%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "شهباز شریف: درباره اوضاع منطقه با عراقچی گفتگو کردم"
+      }
+    },
+    {
+      "id": "evt_d2c4bb15",
+      "title": "کسب‌وکار زنان از قطعی اینترنت خسارت دیده است+فیلم",
+      "summary": "کسب‌وکار زنان از قطعی اینترنت خسارت دیده است+فیلم",
+      "date": "2026-04-26T02:09:06.954413Z",
+      "url": "https://www.mehrnews.com/news/6811036/%DA%A9%D8%B3%D8%A8-%D9%88%DA%A9%D8%A7%D8%B1-%D8%B2%D9%86%D8%A7%D9%86-%D8%A7%D8%B2-%D9%82%D8%B7%D8%B9%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%AF%DB%8C%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "کسب‌وکار زنان از قطعی اینترنت خسارت دیده است+فیلم"
+      }
+    },
+    {
+      "id": "evt_571d05eb",
+      "title": "شهادت ۲۴۹۶ لبنانی در حملات رژیم صهیونیستی",
+      "summary": "شهادت ۲۴۹۶ لبنانی در حملات رژیم صهیونیستی",
+      "date": "2026-04-26T02:09:06.401706Z",
+      "url": "https://www.mehrnews.com/news/6811033/%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%DB%B2%DB%B4%DB%B9%DB%B6-%D9%84%D8%A8%D9%86%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "شهادت ۲۴۹۶ لبنانی در حملات رژیم صهیونیستی"
+      }
+    },
+    {
+      "id": "evt_1b65fd01",
+      "title": "پرواز جنگنده‌های انگلیس در واکنش به پهپادهای روسیه",
+      "summary": "پرواز جنگنده‌های انگلیس در واکنش به پهپادهای روسیه",
+      "date": "2026-04-26T02:09:05.852048Z",
+      "url": "https://www.mehrnews.com/news/6811042/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DB%B2-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%AF%D8%B1-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%87-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "پرواز جنگنده‌های انگلیس در واکنش به پهپادهای روسیه"
+      }
+    },
+    {
+      "id": "evt_eed86383",
+      "title": "فوتبال ایران در انتظار چراغ سبز آسیا/ تعیین نمایندگان پس از جام جهانی",
+      "summary": "فوتبال ایران در انتظار چراغ سبز آسیا/ تعیین نمایندگان پس از جام جهانی",
+      "date": "2026-04-26T02:09:05.314815Z",
+      "url": "https://www.mehrnews.com/news/6810899/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AC%D8%A7%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "فوتبال ایران در انتظار چراغ سبز آسیا/ تعیین نمایندگان پس از جام جهانی"
+      }
+    },
+    {
+      "id": "evt_9f2e2091",
+      "title": "طرح موضوع در نشست AFC؛",
+      "summary": "طرح موضوع در نشست AFC؛",
+      "date": "2026-04-26T02:09:04.664745Z",
+      "url": "https://www.mehrnews.com/news/6810899/فوتبال-ایران-در-انتظار-چراغ-سبز-آسیا-تعیین-نمایندگان-پس-از-جام",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "طرح موضوع در نشست AFC؛"
+      }
+    },
+    {
+      "id": "evt_fdc07aae",
+      "title": "نماینده کنگره آمریکا: ترامپ بدون راهبرد وارد جنگ با ایران شد",
+      "summary": "نماینده کنگره آمریکا: ترامپ بدون راهبرد وارد جنگ با ایران شد",
+      "date": "2026-04-26T02:09:04.010293Z",
+      "url": "https://www.mehrnews.com/news/6811055/%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%AF%D9%88%D9%86-%D9%87%DB%8C%DA%86-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF-%D9%85%D8%B4%D8%AE%D8%B5%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "نماینده کنگره آمریکا: ترامپ بدون راهبرد وارد جنگ با ایران شد"
+      }
+    },
+    {
+      "id": "evt_4e58763e",
+      "title": "زدن این گل، گل به خودی است!",
+      "summary": "زدن این گل، گل به خودی است!",
+      "date": "2026-04-26T02:09:03.459063Z",
+      "url": "https://www.mehrnews.com/news/6739121/%D8%B2%D8%AF%D9%86-%D8%A7%DB%8C%D9%86-%DA%AF%D9%84-%DA%AF%D9%84-%D8%A8%D9%87-%D8%AE%D9%88%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "زدن این گل، گل به خودی است!"
+      }
+    },
+    {
+      "id": "evt_e7f65886",
+      "title": "وزارت بهداشت: درمان مجروحان جنگ همچنان رایگان است",
+      "summary": "وزارت بهداشت: درمان مجروحان جنگ همچنان رایگان است",
+      "date": "2026-04-26T02:09:02.887569Z",
+      "url": "https://www.mehrnews.com/news/6811066/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%AC%D8%B1%D9%88%D8%AD%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "وزارت بهداشت: درمان مجروحان جنگ همچنان رایگان است"
+      }
+    },
+    {
+      "id": "evt_23a7fa66",
+      "title": "گزارش بلومبرگ از ادامه بارگیری نفتکش‌های ایران",
+      "summary": "گزارش بلومبرگ از ادامه بارگیری نفتکش‌های ایران",
+      "date": "2026-04-26T02:09:02.344013Z",
+      "url": "https://www.mehrnews.com/news/6811096/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D8%A7%D8%B2-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "گزارش بلومبرگ از ادامه بارگیری نفتکش‌های ایران"
+      }
+    },
+    {
+      "id": "evt_d70d7686",
+      "title": "تولید ۱.۵ میلیون تن گندم مورد نیاز صنایع",
+      "summary": "تولید ۱.۵ میلیون تن گندم مورد نیاز صنایع",
+      "date": "2026-04-26T02:09:01.792229Z",
+      "url": "https://www.mehrnews.com/news/6811053/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B1-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%86-%DA%AF%D9%86%D8%AF%D9%85-%D9%85%D9%88%D8%B1%D8%AF-%D9%86%DB%8C%D8%A7%D8%B2-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تولید ۱.۵ میلیون تن گندم مورد نیاز صنایع"
+      }
+    },
+    {
+      "id": "evt_1b682638",
+      "title": "حنظله هویت افسران ارشد «ماگلان» ارتش صهیونیست‌ها را فاش کرد+ تصاویر",
+      "summary": "حنظله هویت افسران ارشد «ماگلان» ارتش صهیونیست‌ها را فاش کرد+ تصاویر",
+      "date": "2026-04-26T02:09:01.115360Z",
+      "url": "https://www.mehrnews.com/news/6811125/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%AD%D9%86%D8%B8%D9%84%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%81%D8%B4%D8%A7%DB%8C-%D9%87%D9%88%DB%8C%D8%AA-%DB%B1%DB%B0%DB%B0-%D8%A7%D9%81%D8%B3%D8%B1-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%85%D8%A7%DA%AF%D9%84%D8%A7%D9%86-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D9%87%D8%A7",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حنظله هویت افسران ارشد «ماگلان» ارتش صهیونیست‌ها را فاش کرد+ تصاویر"
+      }
+    },
+    {
+      "id": "evt_7568a446",
+      "title": "خبرنگار آمریکایی: جنگنده اف-۵ ایران بزرگترین ارتش جهان را بمباران کرد",
+      "summary": "خبرنگار آمریکایی: جنگنده اف-۵ ایران بزرگترین ارتش جهان را بمباران کرد",
+      "date": "2026-04-26T02:09:00.479198Z",
+      "url": "https://www.mehrnews.com/news/6811152/%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D8%A7%D9%81-%DB%B5-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "خبرنگار آمریکایی: جنگنده اف-۵ ایران بزرگترین ارتش جهان را بمباران کرد"
+      }
+    },
+    {
+      "id": "evt_786ba356",
+      "title": "توافق شتاب‌زده با آمریکا به زیان تهران تمام می‌شود",
+      "summary": "توافق شتاب‌زده با آمریکا به زیان تهران تمام می‌شود",
+      "date": "2026-04-26T02:08:59.875763Z",
+      "url": "https://www.mehrnews.com/news/6810496/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B4%D8%AA%D8%A7%D8%A8-%D8%B2%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%B2%DB%8C%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%85%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "توافق شتاب‌زده با آمریکا به زیان تهران تمام می‌شود"
+      }
+    },
+    {
+      "id": "evt_f9346b8e",
+      "title": "شرق‌شناس روس در گفت‌وگو با مهر:",
+      "summary": "شرق‌شناس روس در گفت‌وگو با مهر:",
+      "date": "2026-04-26T02:08:59.328655Z",
+      "url": "https://www.mehrnews.com/news/6810496/توافق-شتاب-زده-با-آمریکا-به-زیان-تهران-تمام-می-شود",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "شرق‌شناس روس در گفت‌وگو با مهر:"
+      }
+    },
+    {
+      "id": "evt_6fc96f43",
+      "title": "جهش بیش از ۴۰۰ درصدی ارزش معاملات صندوق‌های زعفرانی در بورس",
+      "summary": "جهش بیش از ۴۰۰ درصدی ارزش معاملات صندوق‌های زعفرانی در بورس",
+      "date": "2026-04-26T02:08:58.780006Z",
+      "url": "https://www.mehrnews.com/news/6810610/%D8%AC%D9%87%D8%B4-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B4%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%A7%D8%B1%D8%B2%D8%B4-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "جهش بیش از ۴۰۰ درصدی ارزش معاملات صندوق‌های زعفرانی در بورس"
+      }
+    },
+    {
+      "id": "evt_e44e4448",
+      "title": "توافق آتش بس؟/ نتانیاهو دستور حملات شدید به لبنان را صادر کرد",
+      "summary": "توافق آتش بس؟/ نتانیاهو دستور حملات شدید به لبنان را صادر کرد",
+      "date": "2026-04-26T02:08:58.229179Z",
+      "url": "https://www.mehrnews.com/news/6811159/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A2%D8%AA%D8%B4-%D8%A8%D8%B3-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A8%D9%87-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%B1%D8%A7-%D8%B5%D8%A7%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "توافق آتش بس؟/ نتانیاهو دستور حملات شدید به لبنان را صادر کرد"
+      }
+    },
+    {
+      "id": "evt_e619a688",
+      "title": "زخمی شدن ۴۵ نظامی صهیونیست در جنوب لبنان",
+      "summary": "زخمی شدن ۴۵ نظامی صهیونیست در جنوب لبنان",
+      "date": "2026-04-26T02:08:57.689572Z",
+      "url": "https://www.mehrnews.com/news/6811186/%D8%B2%D8%AE%D9%85%DB%8C-%D8%B4%D8%AF%D9%86-%DB%B4%DB%B5-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "زخمی شدن ۴۵ نظامی صهیونیست در جنوب لبنان"
+      }
+    },
+    {
+      "id": "evt_0deb49a8",
+      "title": "بقائی: روابط ایران و عمان ممتاز و نمونه است",
+      "summary": "بقائی: روابط ایران و عمان ممتاز و نمونه است",
+      "date": "2026-04-26T02:08:57.139593Z",
+      "url": "https://www.mehrnews.com/news/6811202/%D8%A8%D9%82%D8%A7%D8%A6%DB%8C-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%B9%D9%85%D8%A7%D9%86-%D9%85%D9%85%D8%AA%D8%A7%D8%B2-%D9%88-%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%A7%D8%B3%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "بقائی: روابط ایران و عمان ممتاز و نمونه است"
+      }
+    },
+    {
+      "id": "evt_0fbb89a3",
+      "title": "حملات اف-۵ ایران خسارت‌های گسترده‌ای را به پایگاه‌های آمریکا وارد کرد",
+      "summary": "حملات اف-۵ ایران خسارت‌های گسترده‌ای را به پایگاه‌های آمریکا وارد کرد",
+      "date": "2026-04-26T02:08:56.588912Z",
+      "url": "https://www.mehrnews.com/news/6810964/%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%81-%DB%B5-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D9%87%D8%A7%DB%8C-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A7%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "حملات اف-۵ ایران خسارت‌های گسترده‌ای را به پایگاه‌های آمریکا وارد کرد"
+      }
+    },
+    {
+      "id": "evt_293e08ec",
+      "title": "ان بی سی نیوز فاش کرد؛",
+      "summary": "ان بی سی نیوز فاش کرد؛",
+      "date": "2026-04-26T02:08:55.907007Z",
+      "url": "https://www.mehrnews.com/news/6810964/حملات-اف-۵-ایران-خسارت-های-گسترده-ای-را-به-پایگاه-های-آمریکا",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "ان بی سی نیوز فاش کرد؛"
+      }
+    },
+    {
+      "id": "evt_f8461bb5",
+      "title": "پزشکیان: هیچ فشاری ایران را زمین‌گیر نخواهد کرد",
+      "summary": "پزشکیان: هیچ فشاری ایران را زمین‌گیر نخواهد کرد",
+      "date": "2026-04-26T02:08:55.359081Z",
+      "url": "https://www.mehrnews.com/news/6811239/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%87%DB%8C%DA%86-%D9%81%D8%B4%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%B2%D9%85%DB%8C%D9%86-%DA%AF%DB%8C%D8%B1-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DA%A9%D8%B1%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "پزشکیان: هیچ فشاری ایران را زمین‌گیر نخواهد کرد"
+      }
+    },
+    {
+      "id": "evt_8b18c50e",
+      "title": "هزینه‌های پنهان لوازم خانگی قدیمی؛ قاتلان خاموش برق در خانه‌های ایرانی",
+      "summary": "هزینه‌های پنهان لوازم خانگی قدیمی؛ قاتلان خاموش برق در خانه‌های ایرانی",
+      "date": "2026-04-26T02:08:54.819472Z",
+      "url": "https://www.mehrnews.com/news/6810879/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D9%86%D9%87%D8%A7%D9%86-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D9%82%D8%AF%DB%8C%D9%85%DB%8C-%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D9%86-%D8%AE%D8%A7%D9%85%D9%88%D8%B4-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "هزینه‌های پنهان لوازم خانگی قدیمی؛ قاتلان خاموش برق در خانه‌های ایرانی"
+      }
+    },
+    {
+      "id": "evt_f8a2fb28",
+      "title": "هشدار قرارگاه خاتم به آمریکا؛ دست از دزدی دریایی بردارید",
+      "summary": "هشدار قرارگاه خاتم به آمریکا؛ دست از دزدی دریایی بردارید",
+      "date": "2026-04-26T02:08:54.266506Z",
+      "url": "https://www.mehrnews.com/news/6810970/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D8%AE%D8%A7%D8%AA%D9%85-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B2-%D8%AF%D8%B2%D8%AF%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "هشدار قرارگاه خاتم به آمریکا؛ دست از دزدی دریایی بردارید"
+      }
+    },
+    {
+      "id": "evt_17f20528",
+      "title": "صحنه نبرد متوقف نشده؛ ترسیم آینده را در دست بگیریم",
+      "summary": "صحنه نبرد متوقف نشده؛ ترسیم آینده را در دست بگیریم",
+      "date": "2026-04-26T02:08:53.717979Z",
+      "url": "https://www.mehrnews.com/news/6811047/%D8%B5%D8%AD%D9%86%D9%87-%D9%86%D8%A8%D8%B1%D8%AF-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%86%D8%B4%D8%AF%D9%87-%D8%AA%D8%B1%D8%B3%DB%8C%D9%85-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA-%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D9%85",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "صحنه نبرد متوقف نشده؛ ترسیم آینده را در دست بگیریم"
+      }
+    },
+    {
+      "id": "evt_0794e8a7",
+      "title": "یادداشت مدیرمسئول؛",
+      "summary": "یادداشت مدیرمسئول؛",
+      "date": "2026-04-26T02:08:53.174815Z",
+      "url": "https://www.mehrnews.com/news/6811047/صحنه-نبرد-متوقف-نشده-ترسیم-آینده-را-در-دست-بگیریم",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "یادداشت مدیرمسئول؛"
+      }
+    },
+    {
+      "id": "evt_e7f415d2",
+      "title": "عراقچی: تلاش برادرانه پاکستان برای بازگشت صلح به منطقه ارزشمند است",
+      "summary": "عراقچی: تلاش برادرانه پاکستان برای بازگشت صلح به منطقه ارزشمند است",
+      "date": "2026-04-26T02:08:52.171793Z",
+      "url": "https://www.mehrnews.com/news/6811120/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B5%D9%84%D8%AD-%D8%A8%D9%87-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4%D9%85%D9%86%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "عراقچی: تلاش برادرانه پاکستان برای بازگشت صلح به منطقه ارزشمند است"
+      }
+    },
+    {
+      "id": "evt_803f7455",
+      "title": "بازتاب روزانه جنگ علیه ایران در رسانه‌های جهان",
+      "summary": "بازتاب روزانه جنگ علیه ایران در رسانه‌های جهان",
+      "date": "2026-04-26T02:08:51.618381Z",
+      "url": "https://www.mehrnews.com/news/6811140/%D8%A8%D8%A7%D8%B2%D8%AA%D8%A7%D8%A8-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "بازتاب روزانه جنگ علیه ایران در رسانه‌های جهان"
+      }
+    },
+    {
+      "id": "evt_9ec8cf3e",
+      "title": "پرونده «جنگ رمضان»/۳۲؛",
+      "summary": "پرونده «جنگ رمضان»/۳۲؛",
+      "date": "2026-04-26T02:08:51.064604Z",
+      "url": "https://www.mehrnews.com/news/6811140/بازتاب-روزانه-جنگ-علیه-ایران-در-رسانه-های-جهان",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "پرونده «جنگ رمضان»/۳۲؛"
+      }
+    },
+    {
+      "id": "evt_1defb0d6",
+      "title": "تظاهرات هزاران نفری در تل‌آویو علیه نتانیاهو",
+      "summary": "تظاهرات هزاران نفری در تل‌آویو علیه نتانیاهو",
+      "date": "2026-04-26T02:08:50.430714Z",
+      "url": "https://www.mehrnews.com/news/6811222/%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%87%D8%B2%D8%A7%D8%B1%D8%A7%D9%86-%D9%86%D9%81%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D8%B9%D9%84%DB%8C%D9%87-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تظاهرات هزاران نفری در تل‌آویو علیه نتانیاهو"
+      }
+    },
+    {
+      "id": "evt_55e20804",
+      "title": "گفتگوی عراقچی با وزرای خارجه مصر و ترکیه",
+      "summary": "گفتگوی عراقچی با وزرای خارجه مصر و ترکیه",
+      "date": "2026-04-26T02:08:49.887460Z",
+      "url": "https://www.mehrnews.com/news/6811294/%DA%A9%D9%81%D8%AA%DA%AF%D9%88%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7-%D9%88%D8%B2%D8%B1%D8%A7%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%85%D8%B5%D8%B1-%D9%88-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "گفتگوی عراقچی با وزرای خارجه مصر و ترکیه"
+      }
+    },
+    {
+      "id": "evt_d1cc9608",
+      "title": "تجاوز گشتی‌های ارتش اسرائیل به جنوب سوریه",
+      "summary": "تجاوز گشتی‌های ارتش اسرائیل به جنوب سوریه",
+      "date": "2026-04-26T02:08:49.338603Z",
+      "url": "https://www.mehrnews.com/news/6811351/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%DA%AF%D8%B4%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B3%D9%88%D8%B1%DB%8C%D9%87",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تجاوز گشتی‌های ارتش اسرائیل به جنوب سوریه"
+      }
+    },
+    {
+      "id": "evt_b5de1895",
+      "title": "نخست وزیر پاکستان از گفت وگوی سازنده با رئیس جمهوری ایران خبر داد",
+      "summary": "نخست وزیر پاکستان از گفت وگوی سازنده با رئیس جمهوری ایران خبر داد",
+      "date": "2026-04-26T02:08:48.669221Z",
+      "url": "https://www.mehrnews.com/news/6811233/%D9%86%D8%AE%D8%B3%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B2-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%B3%D8%A7%D8%B2%D9%86%D8%AF%D9%87-%D8%A8%D8%A7-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%A8%D8%B1",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "نخست وزیر پاکستان از گفت وگوی سازنده با رئیس جمهوری ایران خبر داد"
+      }
+    },
+    {
+      "id": "evt_0e6a3498",
+      "title": "سی‌ان ‌ان: اسرائیل چند روستا در لبنان را با خاک یکسان کرده است",
+      "summary": "سی‌ان ‌ان: اسرائیل چند روستا در لبنان را با خاک یکسان کرده است",
+      "date": "2026-04-26T02:08:48.129620Z",
+      "url": "https://www.mehrnews.com/news/6811353/%D8%B3%DB%8C-%D8%A7%D9%86-%D8%A7%D9%86-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%DA%86%D9%86%D8%AF-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%AE%D8%A7%DA%A9-%DB%8C%DA%A9%D8%B3%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "سی‌ان‌ان: اسرائیل چند روستا در لبنان را با خاک یکسان کرده است"
+      }
+    },
+    {
+      "id": "evt_4a178300",
+      "title": "نخستین واکنش ترامپ به تیراندازی در هتل هیلتون",
+      "summary": "نخستین واکنش ترامپ به تیراندازی در هتل هیلتون",
+      "date": "2026-04-26T02:08:47.588092Z",
+      "url": "https://www.mehrnews.com/news/6811357/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%87%D8%AA%D9%84-%D9%87%DB%8C%D9%84%D8%AA%D9%88%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "نخستین واکنش ترامپ به تیراندازی در هتل هیلتون"
+      }
+    },
+    {
+      "id": "evt_6ddd1af7",
+      "title": "شنیده شدن صدای فعالیت پدافند در آسمان کرمانشاه",
+      "summary": "شنیده شدن صدای فعالیت پدافند در آسمان کرمانشاه",
+      "date": "2026-04-26T02:08:46.936749Z",
+      "url": "https://www.mehrnews.com/news/6811297/%D8%B4%D9%86%DB%8C%D8%AF%D9%87-%D8%B4%D8%AF%D9%86-%D8%B5%D8%AF%D8%A7%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%AF%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "شنیده شدن صدای فعالیت پدافند در آسمان کرمانشاه"
+      }
+    },
+    {
+      "id": "evt_ef6eca18",
+      "title": "عراقچی از مسقط به اسلام آباد باز می‌گردد",
+      "summary": "عراقچی از مسقط به اسلام آباد باز می‌گردد",
+      "date": "2026-04-26T02:08:46.383688Z",
+      "url": "https://www.mehrnews.com/news/6811231/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B3%D9%82%D8%B7-%D8%A8%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B2-%D9%85%DB%8C-%DA%AF%D8%B1%D8%AF%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "عراقچی از مسقط به اسلام آباد باز می‌گردد"
+      }
+    },
+    {
+      "id": "evt_8ccbba64",
+      "title": "سپاه: هر تجاوز با پاسخی در سطح بازدارندگی راهبردی مواجه خواهد شد",
+      "summary": "سپاه: هر تجاوز با پاسخی در سطح بازدارندگی راهبردی مواجه خواهد شد",
+      "date": "2026-04-26T02:08:45.705298Z",
+      "url": "https://www.mehrnews.com/news/6811095/%D8%B3%D9%BE%D8%A7%D9%87-%D9%87%D8%B1-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B3%D8%AE%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%B7%D8%AD-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%DA%AF%DB%8C-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%DB%8C-%D9%85%D9%88%D8%A7%D8%AC%D9%87",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "سپاه: هر تجاوز با پاسخی در سطح بازدارندگی راهبردی مواجه خواهد شد"
+      }
+    },
+    {
+      "id": "evt_7c7f4d75",
+      "title": "تشدید حملات هوایی ارتش اسرائیل به جنوب لبنان",
+      "summary": "تشدید حملات هوایی ارتش اسرائیل به جنوب لبنان",
+      "date": "2026-04-26T02:08:45.111831Z",
+      "url": "https://www.mehrnews.com/news/6811264/%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "تشدید حملات هوایی ارتش اسرائیل به جنوب لبنان"
+      }
+    },
+    {
+      "id": "evt_7d6ce031",
+      "title": "پروازهای ایران به فرودگاه نجف از سر گرفته می شود",
+      "summary": "پروازهای ایران به فرودگاه نجف از سر گرفته می شود",
+      "date": "2026-04-26T02:08:44.570413Z",
+      "url": "https://www.mehrnews.com/news/6811271/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87-%D9%86%D8%AC%D9%81-%D8%A7%D8%B2-%D8%B3%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "پروازهای ایران به فرودگاه نجف از سر گرفته می شود"
+      }
+    },
+    {
+      "id": "evt_7d30d010",
+      "title": "جزئیات حج ۱۴۰۵‌؛ از انصرافی‌ها تا پیش بینی بازگشت زمینی از عراق",
+      "summary": "جزئیات حج ۱۴۰۵‌؛ از انصرافی‌ها تا پیش بینی بازگشت زمینی از عراق",
+      "date": "2026-04-26T02:08:44.027698Z",
+      "url": "https://www.mehrnews.com/news/6811284/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%AD%D8%AC-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A7%D8%B2-%D8%A7%D9%86%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D9%87%D8%A7-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B9%D8%B1%D8%A7%D9%82",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "جزئیات حج ۱۴۰۵‌؛ از انصرافی‌ها تا پیش بینی بازگشت زمینی از عراق"
+      }
+    },
+    {
+      "id": "evt_0843cebe",
+      "title": "خارج کردن ترامپ از ضیافت شام خبرنگاران کاخ سفید در پی تیراندازی",
+      "summary": "خارج کردن ترامپ از ضیافت شام خبرنگاران کاخ سفید در پی تیراندازی",
+      "date": "2026-04-26T02:08:43.395913Z",
+      "url": "https://www.mehrnews.com/news/6811355/%D8%AE%D8%A7%D8%B1%D8%AC-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D8%B6%DB%8C%D8%A7%D9%81%D8%AA-%D8%B4%D8%A7%D9%85-%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86-%DA%A9%D8%A7%D8%AE-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "خارج کردن ترامپ از ضیافت شام خبرنگاران کاخ سفید در پی تیراندازی"
+      }
+    },
+    {
+      "id": "evt_6d1e22b5",
+      "title": "پزشکیان: ایران تحت فشار، تهدید و محاصره وارد مذاکره تحمیلی نخواهد شد",
+      "summary": "پزشکیان: ایران تحت فشار، تهدید و محاصره وارد مذاکره تحمیلی نخواهد شد",
+      "date": "2026-04-26T02:08:42.788663Z",
+      "url": "https://www.mehrnews.com/news/6811285/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%AD%D8%AA-%D9%81%D8%B4%D8%A7%D8%B1-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%88-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D9%88%D8%A7%D8%B1%D8%AF-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D9%86%D8%AE%D9%88%D8%A7%D9%87%D8%AF",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Mehr",
+          "url": "https://www.mehrnews.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "پزشکیان: ایران تحت فشار، تهدید و محاصره وارد مذاکره تحمیلی نخواهد شد"
+      }
+    },
+    {
+      "id": "evt_38f84973",
+      "title": "Saied Reza Ameli博士",
+      "summary": "Saied Reza Ameli博士",
+      "date": "2026-04-26T02:08:39.285688Z",
+      "url": "https://www.tehrantimes.com/news/525599/Courageous-faith-versus-cowardly-blasphemy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "By Dr. Saied Reza Ameli"
+      }
+    },
+    {
+      "id": "evt_cd2546e6",
+      "title": "伊朗坚定不移，情境室审核备选方案",
+      "summary": "伊朗坚定不移，情境室审核备选方案",
+      "date": "2026-04-26T02:08:38.597231Z",
+      "url": "https://www.tehrantimes.com/news/525595/Iran-stands-firm-as-Situation-Room-reviews-options",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
         }
       ],
       "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
-        "name": "中东地区"
+        "name": "伊朗/中东"
       },
       "languages": [
         "zh",
-        "en"
+        "fa"
       ],
       "originalTexts": {
-        "fa": null,
-        "en": "American Veterans Oppose War On Iran"
+        "fa": "Iran stands firm as Situation Room reviews options"
       }
     },
     {
-      "id": "evt_fe4abdad",
-      "title": "伊朗被剥夺举办亚洲壁球锦标赛的权利",
-      "summary": "德黑兰--亚洲青少年壁球锦标赛（ Asian Junior Squash Championships ）原定于5月在伊朗举办，但由于战时情况持续，亚洲壁球联合会（ Asian Squash Confederation ）已将其主办职责重新分配给中国。",
-      "date": "2026-04-21T10:55:02Z",
-      "url": "https://www.tehrantimes.com/news/525650/Iran-stripped-of-right-to-host-Asian-Squash-Championships",
+      "id": "evt_bf401829",
+      "title": "卡利巴夫回答有关伊朗-美国在伊斯兰堡会谈的十个关键问题",
+      "summary": "卡利巴夫回答有关伊朗-美国在伊斯兰堡会谈的十个关键问题",
+      "date": "2026-04-26T02:08:37.770576Z",
+      "url": "https://www.tehrantimes.com/news/525593/Qalibaf-answers-ten-key-questions-on-Iran-US-talks-in-Islamabad",
       "sources": [
         {
           "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525650/Iran-stripped-of-right-to-host-Asian-Squash-Championships"
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Qalibaf answers ten key questions on Iran–US talks in Islamabad"
+      }
+    },
+    {
+      "id": "evt_1fa53bc4",
+      "title": "大赦国际： Minab学校罢工是美国绝对违反国际法的行为",
+      "summary": "大赦国际： Minab学校罢工是美国绝对违反国际法的行为",
+      "date": "2026-04-26T02:08:37.120813Z",
+      "url": "https://www.tehrantimes.com/news/524598/Amnesty-Minab-school-strike-an-absolute-violation-of-international",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Amnesty: Minab school strike an absolute violation of international law by the U.S."
+      }
+    },
+    {
+      "id": "evt_95a47b2c",
+      "title": "黑板上的鲜血：美国和以色列袭击伊朗学校，而西方则将目光移开",
+      "summary": "黑板上的鲜血：美国和以色列袭击伊朗学校，而西方则将目光移开",
+      "date": "2026-04-26T02:08:36.295454Z",
+      "url": "https://www.tehrantimes.com/news/524396/Blood-on-the-blackboard-U-S-and-Israel-strike-Iranian-school",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Blood on the blackboard: U.S. and Israel strike Iranian school as the West looks away"
+      }
+    },
+    {
+      "id": "evt_c1a4f3d0",
+      "title": "Makan ：在学校迷路",
+      "summary": "Makan ：在学校迷路",
+      "date": "2026-04-26T02:08:35.626629Z",
+      "url": "https://www.tehrantimes.com/news/525594/Makan-Lost-at-School",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Makan: Lost at School"
+      }
+    },
+    {
+      "id": "evt_b4640e10",
+      "title": "多媒体",
+      "summary": "多媒体",
+      "date": "2026-04-26T02:08:34.922904Z",
+      "url": "https://www.tehrantimes.com/service/multimedia",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Multimedia"
+      }
+    },
+    {
+      "id": "evt_d449b4cb",
+      "title": "国际标准",
+      "summary": "国际标准",
+      "date": "2026-04-26T02:08:34.438338Z",
+      "url": "https://www.tehrantimes.com/service/international",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "International"
+      }
+    },
+    {
+      "id": "evt_a6e55ffb",
+      "title": "联系我们",
+      "summary": "联系我们",
+      "date": "2026-04-26T02:08:33.899574Z",
+      "url": "https://www.tehrantimes.com/news/300001/contact-us",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Contact us"
+      }
+    },
+    {
+      "id": "evt_881d654f",
+      "title": "職責包括︰",
+      "summary": "職責包括︰",
+      "date": "2026-04-26T02:08:33.391788Z",
+      "url": "https://www.tehrantimes.com/subscription",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "Tehran Times",
+          "url": "https://www.tehrantimes.com/"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "伊朗/中东"
+      },
+      "languages": [
+        "zh",
+        "fa"
+      ],
+      "originalTexts": {
+        "fa": "Membership"
+      }
+    },
+    {
+      "id": "evt_7fa9b145",
+      "title": "伊朗战争现场：德黑兰拒绝围困谈判，特朗普取消特使之行",
+      "summary": "特朗普表示，由于伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）离开巴基斯坦，伊朗没有提出令人满意的提议。",
+      "date": "2026-04-26T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -905,104 +2575,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran stripped of right to host Asian Squash Championships"
+        "en": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip"
       }
     },
     {
-      "id": "evt_d23d5a02",
-      "title": "俄罗斯向黎巴嫩提供紧急人道主义援助",
-      "summary": "",
-      "date": "2026-04-21T09:39:12Z",
-      "url": "https://www.tehrantimes.com/news/525646/Russia-has-sent-urgent-humanitarian-aid-to-Lebanon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525646/Russia-has-sent-urgent-humanitarian-aid-to-Lebanon"
-        }
-      ],
-      "category": "humanitarian",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Russia has sent urgent humanitarian aid to Lebanon"
-      }
-    },
-    {
-      "id": "evt_08406f30",
-      "title": "部长：伊朗世界杯的存在无法保证",
-      "summary": "德黑兰--在一项可能显著改变伊朗足球格局的发展中，体育部长艾哈迈德·多尼亚马利（ Ahmad Donyamali ）宣布，伊朗国家足球队参加即将到来的世界杯可能并不确定。",
-      "date": "2026-04-21T09:06:37Z",
-      "url": "https://www.tehrantimes.com/news/525649/Minister-Iran-s-World-Cup-presence-not-guaranteed",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525649/Minister-Iran-s-World-Cup-presence-not-guaranteed"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Minister: Iran’s World Cup presence not guaranteed"
-      }
-    },
-    {
-      "id": "evt_c0c5f13e",
-      "title": "伊朗在挑战和不确定性中为2026年世界杯做准备",
-      "summary": "德黑兰--伊朗国家足球队已进入筹备2026年世界杯的决定性阶段，推出了一项由体育雄心和特殊情况塑造的强化训练计划。",
-      "date": "2026-04-21T08:04:59Z",
-      "url": "https://www.tehrantimes.com/news/525648/Iran-prepare-for-World-Cup-2026-amid-challenges-and-uncertainty",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525648/Iran-prepare-for-World-Cup-2026-amid-challenges-and-uncertainty"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran prepare for World Cup 2026 amid challenges and uncertainty"
-      }
-    },
-    {
-      "id": "evt_ff5a3ef6",
-      "title": "美国为什么以及如何封锁霍尔木兹海峡的伊朗港口？",
-      "summary": "唐纳德·特朗普说，美国正在封锁霍尔木兹海峡。这在实践中意味着什么？",
-      "date": "2026-04-20T06:46:03Z",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_8865a1c1",
+      "title": "特朗普取消美国特使前往巴基斯坦就伊朗战争进行谈判的行程",
+      "summary": "伊朗此前曾表示，没有计划与史蒂夫·维特科夫（ Steve Witkoff ）和贾里德·库什纳（ Jared Kushner ）率领的美国代表团直接",
+      "date": "2026-04-25T21:34:12Z",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -1017,20 +2603,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Why and how is US blockading Iranian ports in Strait of Hormuz?"
+        "en": "Trump cancels US envoys' trip to Pakistan for talks on Iran war"
       }
     },
     {
-      "id": "evt_58b65d2a",
-      "title": "当权者认为伊朗战争的影响是什么",
-      "summary": "费萨尔·伊斯兰（ Faisal Islam ）与世界上一些最有权势的人谈论冲突和经济。",
-      "date": "2026-04-18T05:00:15Z",
-      "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
+      "id": "evt_f41b2e68",
+      "title": "北约的裂痕有多严重？",
+      "summary": "特朗普对欧洲人拒绝加入伊朗战争感到愤怒。",
+      "date": "2026-04-25T20:55:54Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss",
       "sources": [
         {
           "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss"
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -1045,7 +2631,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What people in power think the impact of the Iran war will be"
+        "en": "How serious is the rift in NATO?"
+      }
+    },
+    {
+      "id": "evt_5ff4810a",
+      "title": "特朗普让伊朗当局承担责任，因为他们投射了强硬的立场",
+      "summary": "一些官员表示，在威胁和封锁的情况下，德黑兰甚至不得再就核问题进行谈判。",
+      "date": "2026-04-25T19:54:57Z",
+      "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump puts onus on Iran’s authorities as they project hardened stance"
+      }
+    },
+    {
+      "id": "evt_b88efa5f",
+      "title": "警方在柏林亲巴勒斯坦集会上逮捕示威者",
+      "summary": "在社交媒体上分享的视频片段显示，两名妇女在柏林的亲巴勒斯坦示威活动中被捕。",
+      "date": "2026-04-25T19:51:58Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Police arrest demonstrators at pro-Palestine rally in Berlin"
+      }
+    },
+    {
+      "id": "evt_354356aa",
+      "title": "抗议者描绘以色列部长本·格维尔在斯德哥尔摩浑身是血",
+      "summary": "活动人士周六在瑞典斯德哥尔摩组织了一场声援巴勒斯坦的抗议活动。",
+      "date": "2026-04-25T19:40:56Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm"
       }
     }
   ]
