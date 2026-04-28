@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-04-27T02:07:30.452618Z
+// 自动生成的数据 - 更新时间: 2026-04-28T02:13:46.205404Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-27T02:07:30.452549Z",
-    "totalEvents": 40,
+    "lastUpdate": "2026-04-28T02:13:46.205337Z",
+    "totalEvents": 38,
     "sources": {
-      "international": 25,
+      "international": 23,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,72 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_cd93e851",
-      "title": "伊朗战争现场：阿拉基会见普京；特朗普表示德黑兰可以呼吁进行谈判",
-      "summary": "伊朗外交部长前往俄罗斯，因为特朗普表示，伊朗领导人如果想要通话，可以打电话。",
-      "date": "2026-04-27T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss",
+      "id": "evt_e57707c8",
+      "title": "伊朗战争现场：特朗普审查和平计划；联合国呼吁霍尔木兹重新开放",
+      "summary": "联合国秘书长表示，美国和伊朗在霍尔木兹海峡的对峙有可能引发全球粮食紧急情况。",
+      "date": "2026-04-28T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks"
-      }
-    },
-    {
-      "id": "evt_d52e5049",
-      "title": "视频：以色列在加沙的“停火”违规行为呈上升趋势",
-      "summary": "以色列违反了所谓的加沙“停火” 2400多次。半岛电视台的Hala Al Shami解释说。",
-      "date": "2026-04-26T23:59:43Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Video: Israeli ‘ceasefire’ violations on the rise in Gaza"
-      }
-    },
-    {
-      "id": "evt_e8240e75",
-      "title": "伊朗外长离开巴基斯坦，前往俄罗斯进行更多会谈",
-      "summary": "伊朗外交部表示，阿巴斯·阿拉格奇（ Abbas Araghchi ）将在莫斯科与“高级官员”进行会谈。",
-      "date": "2026-04-26T20:47:44Z",
-      "url": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks"
+        "en": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen"
       }
     },
     {
-      "id": "evt_950300c0",
-      "title": "以色列定居者袭击希伯伦活动家的家，士兵看着",
-      "summary": "一名以色列定居者被拍到投掷石块并试图闯入巴勒斯坦活动家Issa Amro的家中。",
-      "date": "2026-04-26T20:27:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
+      "id": "evt_adde70f2",
+      "title": "以色列定居者袭击巴勒斯坦人并放火烧房",
+      "summary": "以色列定居者在被占领的约旦河西岸村庄Jalud放火焚烧巴勒斯坦人的住宅。",
+      "date": "2026-04-27T23:58:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/israeli-settlers-attack-palestinians-and-set-house-on-fire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/israeli-settlers-attack-palestinians-and-set-house-on-fire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,132 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli settler attacks Hebron activist’s home as soldier looks on"
+        "en": "Israeli settlers attack Palestinians and set house on fire"
       }
     },
     {
-      "id": "evt_0b2705d9",
-      "title": "前以色列总理贝内特，拉皮德联合起来在选举中挑战内塔尼亚胡",
-      "summary": "两位政客的联盟旨在联合反对现任总理本雅明·内塔尼亚胡的分裂反对派。",
-      "date": "2026-04-26T20:05:50Z",
-      "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
+      "id": "evt_24d34944",
+      "title": "巴林剥夺69人对伊朗支持的公民身份",
+      "summary": "人权组织将此举描述为“公然滥用权力”。",
+      "date": "2026-04-27T21:51:37Z",
+      "url": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections"
-      }
-    },
-    {
-      "id": "evt_ffe6b2de",
-      "title": "伊朗是否已经暴露了美国通过武力所能达到的极限？",
-      "summary": "政治学家瓦利·纳斯尔（ Vali Nasr ）认为，美国和以色列的军事选择“不足”。",
-      "date": "2026-04-26T19:55:35Z",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/26/has-iran-exposed-the-limits-of-what-us-can-achieve-by-force?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Has Iran exposed the limits of what US can achieve by force?"
-      }
-    },
-    {
-      "id": "evt_5359b85b",
-      "title": "以色列向黎巴嫩南部发出强制撤离令",
-      "summary": "真主党否认以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）关于其正在破坏以色列-黎巴嫩停火的指控。",
-      "date": "2026-04-26T19:09:56Z",
-      "url": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel issues forced evacuation orders for southern Lebanon in escalation"
-      }
-    },
-    {
-      "id": "evt_574f5120",
-      "title": "对阿萨德时代叙利亚官员的首次审判在大马士革开始",
-      "summary": "叙利亚开始对前阿萨德时代的官员进行首次公开审判，前安全局局长阿特夫·纳吉布（ Atef Najib ）出庭。",
-      "date": "2026-04-26T17:49:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "First trial of Assad-era Syrian official starts in Damascus"
-      }
-    },
-    {
-      "id": "evt_5f32ef18",
-      "title": "在战争不确定性期间，伊朗将经济重点转向必需品",
-      "summary": "政府正在部分扭转对基本项目的货币决定，并利用该国的主权基金。",
-      "date": "2026-04-26T17:00:10Z",
-      "url": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -261,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran shifts economic focus to essentials during war uncertainty"
+        "en": "Bahrain strips 69 people of citizenship over Iran support"
       }
     },
     {
-      "id": "evt_af71858d",
-      "title": "阿巴斯的支持者席卷巴勒斯坦选举，包括加沙的一些席位",
-      "summary": "由于种族灭绝的持续影响，加沙的选民投票率仍然很低。",
-      "date": "2026-04-26T16:50:27Z",
-      "url": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
+      "id": "evt_962f1710",
+      "title": "投票是否会对在以色列占领下的巴勒斯坦人产生影响？",
+      "summary": "巴勒斯坦权力机构的法塔赫党及其分支机构扫荡了理事会的投票。",
+      "date": "2026-04-27T21:07:36Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/27/will-vote-make-a-difference-to-palestinians-under-israeli-occupation?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/27/will-vote-make-a-difference-to-palestinians-under-israeli-occupation?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -289,7 +121,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza"
+        "en": "Will vote make a difference to Palestinians under Israeli occupation?"
+      }
+    },
+    {
+      "id": "evt_7b9e61d7",
+      "title": "谁在伊朗-美国会谈中占据主导地位？",
+      "summary": "美国和伊朗都声称在战争谈判中占据上风，但谁掌握着这张牌？",
+      "date": "2026-04-27T21:00:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who holds the cards in Iran-US talks?"
+      }
+    },
+    {
+      "id": "evt_edcdffb8",
+      "title": "伊朗外交部长在俄罗斯表示，美国已提出新一轮会谈",
+      "summary": "俄罗斯正在圣彼得堡接待伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ） ，就新一轮谈判的可能性进行谈判。",
+      "date": "2026-04-27T20:59:56Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran FM in Russia says US has offered new round of talks"
+      }
+    },
+    {
+      "id": "evt_c21894cb",
+      "title": "查尔斯国王和卡米拉王后抵达美国进行备受瞩目的国事访问",
+      "summary": "这位英国君主对美国的访问凸显了在伊朗冲突造成的紧张关系和紧张局势中共同的历史。",
+      "date": "2026-04-27T20:09:56Z",
+      "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "King Charles and Queen Camilla arrive for high-profile US state visit"
+      }
+    },
+    {
+      "id": "evt_ebf711c8",
+      "title": "真主党和以色列在黎巴嫩边境交换威胁和罢工",
+      "summary": "与伊朗有联系的组织重申蔑视；以色列国防部长威胁要“烧毁整个黎巴嫩”。",
+      "date": "2026-04-27T19:58:33Z",
+      "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hezbollah and Israel swap threats and strikes across Lebanon’s border"
+      }
+    },
+    {
+      "id": "evt_3c78b939",
+      "title": "在持续的停火中，以色列在黎巴嫩的罢工造成14人死亡",
+      "summary": "三天前，美国宣布在会谈后将停火延长三周。",
+      "date": "2026-04-26T22:02:45Z",
+      "url": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire"
+      }
+    },
+    {
+      "id": "evt_54b44d3e",
+      "title": "内塔尼亚胡命令军队“大力攻击”黎巴嫩真主党",
+      "summary": "以色列总理的指令发布之际，尽管停火延长了三周，但仍有六人在黎巴嫩的罢工中丧生。",
+      "date": "2026-04-26T00:34:21Z",
+      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon"
       }
     },
     {
@@ -346,6 +346,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Palestinians in West Bank and some in Gaza vote in local elections"
+      }
+    },
+    {
+      "id": "evt_32533984",
+      "title": "谁在伊朗做决定？",
+      "summary": "伊朗新任最高领导人应该有最终决定权，但实际情况要模糊得多。",
+      "date": "2026-04-24T16:38:51Z",
+      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who is making decisions in Iran?"
       }
     },
     {
@@ -461,6 +489,62 @@ const siteData = {
       }
     },
     {
+      "id": "evt_4f134fda",
+      "title": "特朗普表示以色列-黎巴嫩停火将延长三周",
+      "summary": "两国特使在华盛顿会面，因为脆弱的停火协议将于周日到期。",
+      "date": "2026-04-23T22:50:50Z",
+      "url": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says Israel-Lebanon ceasefire to be extended by three weeks"
+      }
+    },
+    {
+      "id": "evt_526ee13b",
+      "title": "特朗普威胁布雷船只，美国登上载有伊朗石油的船只",
+      "summary": "中央司令部表示，自对进出伊朗的船只实施封锁以来，已拦截了33艘船只。",
+      "date": "2026-04-23T20:45:51Z",
+      "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels"
+      }
+    },
+    {
       "id": "evt_750fc515",
       "title": "律师说，美国-科威特记者因社交媒体帖子而在科威特被无罪释放",
       "summary": "据报道， Ahmed Shihab-Eldin在重新发布与伊朗战争有关的图像后面临指控，包括传播虚假信息。",
@@ -570,146 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches"
-      }
-    },
-    {
-      "id": "evt_5a479fdb",
-      "title": "在霍尔木兹海峡追踪遭受攻击的船只",
-      "summary": "伊朗首席谈判代表表示，由于“公然违反”美伊停火， “不可能重新开放”海峡。",
-      "date": "2026-04-22T20:12:03Z",
-      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tracking ships under fire in the Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_5d05995f",
-      "title": "伊朗表示，在船只遭到袭击后，它已在霍尔木兹海峡扣押了两艘船只",
-      "summary": "据英国海事机构周三报道，其中一艘货船被伊朗军队“严重损坏”。",
-      "date": "2026-04-22T18:32:47Z",
-      "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked"
-      }
-    },
-    {
-      "id": "evt_284e37ec",
-      "title": "在巴基斯坦推动谈判之际，美国和伊朗陷入封锁僵局",
-      "summary": "尽管特朗普延长了停火，但霍尔木兹海峡的情绪仍然可燃。",
-      "date": "2026-04-22T16:19:36Z",
-      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran in blockade standoff as Pakistan pushes for talks"
-      }
-    },
-    {
-      "id": "evt_5b62b0e7",
-      "title": "Lyse Doucet说，美国和伊朗“陷入了口水战”",
-      "summary": "美国周二晚间证实，副总统前往巴基斯坦进行第二轮和平谈判的行程已被取消。",
-      "date": "2026-04-22T08:37:50Z",
-      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran 'locked in war of words' says Lyse Doucet"
-      }
-    },
-    {
-      "id": "evt_ffa70571",
-      "title": "特朗普在疯狂的外交日后为伊朗协议争取时间",
-      "summary": "这位美国总统的决定标志着他几周来第二次放弃了升级战争的威胁，赢得了更多的时间。",
-      "date": "2026-04-22T00:32:10Z",
-      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump buys time for Iran deal after frantic day of diplomacy"
       }
     },
     {
