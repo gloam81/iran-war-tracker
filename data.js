@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-04-30T02:15:12.245687Z
+// 自动生成的数据 - 更新时间: 2026-05-01T02:29:10.165912Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-04-30T02:15:12.245620Z",
+    "lastUpdate": "2026-05-01T02:29:10.165846Z",
     "totalEvents": 39,
     "sources": {
       "international": 24,
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_d4fb582b",
-      "title": "德黑兰亲政府集会要求结束美国的威胁",
-      "summary": "数百名伊朗人聚集在德黑兰，要求结束美国的威胁和对伊朗港口的持续封锁。",
-      "date": "2026-04-30T01:37:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss",
+      "id": "evt_dfd8bd5c",
+      "title": "伊朗战争现场：德黑兰称美国港口围困“不可容忍” ；特朗普考虑采取行动",
+      "summary": "据当地媒体报道，自3月2日以来，以色列对黎巴嫩的袭击造成至少2,586人死亡， 8,000多人受伤。",
+      "date": "2026-05-01T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pro-government rally in Tehran demands end to US threats"
+        "en": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action"
       }
     },
     {
-      "id": "evt_9f8ae36b",
-      "title": "数百名极端正统犹太人抗议以色列的征兵",
-      "summary": "数百名极端正统犹太人封锁了一条主要道路，作为抗议以色列强制兵役的一部分。",
-      "date": "2026-04-30T01:16:18Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss",
+      "id": "evt_71eefa01",
+      "title": "巴勒斯坦足协主席在国际足联大会上抨击以色列联合会副总裁",
+      "summary": "巴勒斯坦和以色列的代表在加拿大举行的国际足联大会上紧密联系在一起。",
+      "date": "2026-04-30T21:53:27Z",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,132 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft"
+        "en": "Palestine FA chief hits out at Israel federation VP at FIFA Congress"
       }
     },
     {
-      "id": "evt_82013bbf",
-      "title": "伊朗战争现场：特朗普敦促德黑兰放弃；加利巴夫嘲笑美国战略",
-      "summary": "随着油价飙升和霍尔木兹对峙的持续， Mohammad Bagher Ghalibaf嘲笑美国的经济压力运动。",
-      "date": "2026-04-30T00:00:20Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
+      "id": "evt_4920cd8b",
+      "title": "美国天然气价格达到每加仑4.30 $ ；特朗普称伊朗战争后价格将下跌",
+      "summary": "在霍尔木兹海峡封锁和伊朗外交僵局的背景下，美国的汽油价格在一周内上涨了近30美分。",
+      "date": "2026-04-30T21:31:00Z",
+      "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump urges Tehran to give up; Ghalibaf mocks US strategy"
-      }
-    },
-    {
-      "id": "evt_078ac215",
-      "title": "以色列已开始拦截前往加沙的全球萨穆德船队援助船",
-      "summary": "前往加沙的援助任务的组织者表示，他们的船只正被以色列军方快艇拦截。",
-      "date": "2026-04-29T21:59:08Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats"
-      }
-    },
-    {
-      "id": "evt_c8252bbc",
-      "title": "以色列军队在国际水域袭击Global Sumud船队船只",
-      "summary": "58艘船中有7艘在克里特岛附近被以色列抓获，因为船队旨在向被封锁的加沙提供援助。",
-      "date": "2026-04-29T21:46:23Z",
-      "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli forces raid Global Sumud Flotilla boats in international waters"
-      }
-    },
-    {
-      "id": "evt_68f31090",
-      "title": "阿联酋退出欧佩克",
-      "summary": "阿联酋宣布将于5月1日退出欧佩克。",
-      "date": "2026-04-29T21:30:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UAE quits OPEC"
-      }
-    },
-    {
-      "id": "evt_f87f9b8a",
-      "title": "特朗普：普京提出帮助解决伊朗核浓缩僵局",
-      "summary": "唐纳德·特朗普（ Donald Trump ）表示，弗拉基米尔·普京（ Vladimir Putin ）告诉他，他“愿意参与”解决伊朗核浓缩问题。",
-      "date": "2026-04-29T20:52:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,23 +93,79 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse"
+        "en": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war"
       }
     },
     {
-      "id": "evt_f33d914d",
-      "title": "阿联酋为何退出欧佩克？会产生什么影响？",
-      "summary": "阿拉伯联合酋长国的决定是在现代最严重的全球能源危机期间做出的。",
-      "date": "2026-04-29T20:51:25Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss",
+      "id": "evt_dc36043f",
+      "title": "巴勒斯坦人哀悼被以色列军队杀害的热爱足球的青少年",
+      "summary": "希伯伦的哀悼者将16岁的Ibrahim al-Khayatt安葬，他被以色列士兵击中胸部。",
+      "date": "2026-04-30T21:24:23Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinians mourn football loving teenager killed by Israeli army"
+      }
+    },
+    {
+      "id": "evt_ac8e4fc4",
+      "title": "无法辨认的巴勒斯坦记者从以色列监狱获释",
+      "summary": "巴勒斯坦记者阿里·萨穆迪（ Ali al-Samoudi ）从以色列监狱获释，体重严重减轻，有遭受酷刑的迹象",
+      "date": "2026-04-30T21:13:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinian-journalist-released-from-israeli-prison-unrecognisable?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinian-journalist-released-from-israeli-prison-unrecognisable?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian journalist released from Israeli prison unrecognisable"
+      }
+    },
+    {
+      "id": "evt_214f8149",
+      "title": "黑格塞斯在参议院委员会就伊朗战争作证：关键要点",
+      "summary": "五角大楼负责人在战争开始以来的首次公开国会听证会上与最高将领一起作证。",
+      "date": "2026-04-30T21:09:21Z",
+      "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -233,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Why is the UAE quitting OPEC – and what’s the impact?"
+        "en": "Hegseth testifies on Iran war before Senate committee: Key takeaways"
       }
     },
     {
-      "id": "evt_8b77ff52",
-      "title": "以色列移动Bnei Menashe的计划背后是什么？",
-      "summary": "根据2026年的政府计划，来自印度东北部的新一波Bnei Menashe社区已抵达以色列。",
-      "date": "2026-04-29T20:36:46Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss",
+      "id": "evt_a73c5315",
+      "title": "船队活动家：以色列的“野蛮袭击”不会阻止我们",
+      "summary": "活动人士奥马尔·阿斯兰（ Omer Aslan ）表示，以色列周三晚些时候拦截22艘船只不会阻止全球萨穆德船队。",
+      "date": "2026-04-30T21:05:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -261,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What’s behind Israel’s plan to move the Bnei Menashe?"
+        "en": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us"
       }
     },
     {
-      "id": "evt_2d0275d1",
-      "title": "乌克兰要求以色列扣押运载被俄罗斯“偷走”的谷物的船只",
-      "summary": "基辅要求以色列扣押该船及其货物，采集谷物样本，并向船员提问。",
-      "date": "2026-04-29T20:23:46Z",
-      "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss",
+      "id": "evt_eb378698",
+      "title": "以色列如何在黎巴嫩复制其加沙战术？",
+      "summary": "以色列对黎巴嫩平民目标的广泛攻击是加沙的一种反复战术。",
+      "date": "2026-04-30T20:49:18Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -289,7 +233,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia"
+        "en": "How is Israel replicating its Gaza tactics in Lebanon?"
+      }
+    },
+    {
+      "id": "evt_f0161ec1",
+      "title": "特朗普表示，在国际足联确认后，伊朗可以在美国参加世界杯",
+      "summary": "国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）表示，伊朗将参加世界杯比赛，并获得美国总统的同意。",
+      "date": "2026-04-30T20:48:59Z",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says Iran can play at World Cup in US after FIFA confirmation"
+      }
+    },
+    {
+      "id": "evt_22292485",
+      "title": "以色列在克里特岛附近拦截加沙船队并拘留175名活动人士",
+      "summary": "亲巴勒斯坦活动人士说， 22艘为加沙运送援助的船只在希腊岛附近的国际水域被非法拦截。",
+      "date": "2026-04-30T20:34:26Z",
+      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel intercepts Gaza flotilla near Crete and detains 175 activists"
+      }
+    },
+    {
+      "id": "evt_d04304bc",
+      "title": "无国界记者组织谴责“绑架”加沙援助船队上的三名记者",
+      "summary": "被拘留的记者包括半岛电视台记者Hafed Mribah和摄影师Mahmut Yavuz。",
+      "date": "2026-04-30T20:26:08Z",
+      "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla"
+      }
+    },
+    {
+      "id": "evt_a1349c15",
+      "title": "尽管停火，以色列仍对黎巴嫩南部发动致命袭击",
+      "summary": "据黎巴嫩卫生部称，至少有9人丧生，其中包括两名儿童。",
+      "date": "2026-04-30T20:14:48Z",
+      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Deadly Israeli strikes on southern Lebanon despite ceasefire"
       }
     },
     {
@@ -573,23 +629,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_2fca996b",
-      "title": "约旦河西岸的巴勒斯坦人和加沙的一些人在地方选举中投票",
-      "summary": "在被占领的约旦河西岸和一个加沙城市举行了地方选举，尽管哈马斯和其他团体没有参加。",
-      "date": "2026-04-25T17:01:55Z",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_32533984",
+      "title": "谁在伊朗做决定？",
+      "summary": "伊朗新任最高领导人应该有最终决定权，但实际情况要模糊得多。",
+      "date": "2026-04-24T16:38:51Z",
+      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -597,20 +653,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinians in West Bank and some in Gaza vote in local elections"
+        "en": "Who is making decisions in Iran?"
       }
     },
     {
-      "id": "evt_666621c2",
-      "title": "以色列警方在警官从头盖骨“切断巴勒斯坦国旗”后进行调查",
-      "summary": "这名英国以色列男子说，有人在他的基帕绣有以色列和巴勒斯坦国旗时冒犯了他，他被拘留了。",
-      "date": "2026-04-24T16:20:10Z",
-      "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_60da4225",
+      "title": "一对夫妇从卫星图像中发现被以色列摧毁的黎巴嫩房屋",
+      "summary": "Joe Elias在接到他的村庄被以色列军队摧毁的报道后联系了BBC Verify。",
+      "date": "2026-04-24T02:58:42Z",
+      "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -625,63 +681,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap"
-      }
-    },
-    {
-      "id": "evt_e524b1f0",
-      "title": "以色列本雅明·内塔尼亚胡治疗早期前列腺癌",
-      "summary": "这位以色列总理说，他在切除恶性肿瘤后“身体状况良好”。",
-      "date": "2026-04-24T11:49:29Z",
-      "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer"
-      }
-    },
-    {
-      "id": "evt_ef841d9c",
-      "title": "叙利亚内战期间臭名昭著的Tadamon大屠杀的主要嫌疑人被捕",
-      "summary": "Amjad Youssef因2013年4月在大马士革地区大规模杀害蒙着眼睛的平民而被通缉。",
-      "date": "2026-04-24T10:41:32Z",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Key suspect in notorious Tadamon massacre during Syria civil war arrested"
+        "en": "Couple discovers Lebanon home destroyed by Israel from satellite image"
       }
     },
     {
