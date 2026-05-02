@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-01T02:29:10.165912Z
+// 自动生成的数据 - 更新时间: 2026-05-02T02:05:58.845335Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-01T02:29:10.165846Z",
-    "totalEvents": 39,
+    "lastUpdate": "2026-05-02T02:05:58.845270Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 24,
+      "international": 22,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_dfd8bd5c",
-      "title": "伊朗战争现场：德黑兰称美国港口围困“不可容忍” ；特朗普考虑采取行动",
-      "summary": "据当地媒体报道，自3月2日以来，以色列对黎巴嫩的袭击造成至少2,586人死亡， 8,000多人受伤。",
-      "date": "2026-05-01T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+      "id": "evt_e4e7902b",
+      "title": "伊朗战争现场：特朗普表示不会“提前”结束战争，对德黑兰的提议不满意",
+      "summary": "白宫告诉国会，尽管美国在中东继续驻军，但伊朗的敌对行动已经“结束”。",
+      "date": "2026-05-02T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action"
+        "en": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer"
       }
     },
     {
-      "id": "evt_71eefa01",
-      "title": "巴勒斯坦足协主席在国际足联大会上抨击以色列联合会副总裁",
-      "summary": "巴勒斯坦和以色列的代表在加拿大举行的国际足联大会上紧密联系在一起。",
-      "date": "2026-04-30T21:53:27Z",
-      "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
+      "id": "evt_3187bd0d",
+      "title": "美国称将因伊朗战争争端从德国撤出5000名士兵",
+      "summary": "美国总统唐纳德·特朗普(Donald Trump)与欧洲盟友发生了争执，原因是他们不愿加大对伊朗战争的支持力度。",
+      "date": "2026-05-01T22:54:30Z",
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestine FA chief hits out at Israel federation VP at FIFA Congress"
-      }
-    },
-    {
-      "id": "evt_4920cd8b",
-      "title": "美国天然气价格达到每加仑4.30 $ ；特朗普称伊朗战争后价格将下跌",
-      "summary": "在霍尔木兹海峡封锁和伊朗外交僵局的背景下，美国的汽油价格在一周内上涨了近30美分。",
-      "date": "2026-04-30T21:31:00Z",
-      "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,76 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war"
+        "en": "US said to be withdrawing 5,000 troops from Germany over Iran war spat"
       }
     },
     {
-      "id": "evt_dc36043f",
-      "title": "巴勒斯坦人哀悼被以色列军队杀害的热爱足球的青少年",
-      "summary": "希伯伦的哀悼者将16岁的Ibrahim al-Khayatt安葬，他被以色列士兵击中胸部。",
-      "date": "2026-04-30T21:24:23Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss",
+      "id": "evt_ff90b3ca",
+      "title": "特朗普考虑选择“炸出”伊朗",
+      "summary": "美国总统唐纳德·特朗普表示，他对伊朗的最新和平建议“不满意”。",
+      "date": "2026-05-01T22:27:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians mourn football loving teenager killed by Israeli army"
-      }
-    },
-    {
-      "id": "evt_ac8e4fc4",
-      "title": "无法辨认的巴勒斯坦记者从以色列监狱获释",
-      "summary": "巴勒斯坦记者阿里·萨穆迪（ Ali al-Samoudi ）从以色列监狱获释，体重严重减轻，有遭受酷刑的迹象",
-      "date": "2026-04-30T21:13:18Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinian-journalist-released-from-israeli-prison-unrecognisable?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinian-journalist-released-from-israeli-prison-unrecognisable?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian journalist released from Israeli prison unrecognisable"
-      }
-    },
-    {
-      "id": "evt_214f8149",
-      "title": "黑格塞斯在参议院委员会就伊朗战争作证：关键要点",
-      "summary": "五角大楼负责人在战争开始以来的首次公开国会听证会上与最高将领一起作证。",
-      "date": "2026-04-30T21:09:21Z",
-      "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hegseth testifies on Iran war before Senate committee: Key takeaways"
+        "en": "Trump considering option to ‘blast the hell out of’ Iran"
       }
     },
     {
-      "id": "evt_a73c5315",
-      "title": "船队活动家：以色列的“野蛮袭击”不会阻止我们",
-      "summary": "活动人士奥马尔·阿斯兰（ Omer Aslan ）表示，以色列周三晚些时候拦截22艘船只不会阻止全球萨穆德船队。",
-      "date": "2026-04-30T21:05:11Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss",
+      "id": "evt_2d8e747d",
+      "title": "以色列最近对黎巴嫩的袭击造成至少12人死亡",
+      "summary": "以色列的罢工仍在继续，尽管停火仍在继续，但自3月2日以来已有2,600多人丧生。",
+      "date": "2026-05-01T21:10:15Z",
+      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,48 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us"
+        "en": "At least 12 killed in latest Israeli attacks on Lebanon"
       }
     },
     {
-      "id": "evt_eb378698",
-      "title": "以色列如何在黎巴嫩复制其加沙战术？",
-      "summary": "以色列对黎巴嫩平民目标的广泛攻击是加沙的一种反复战术。",
-      "date": "2026-04-30T20:49:18Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
+      "id": "evt_5c6fadca",
+      "title": "伊朗诺贝尔奖获得者Narges Mohammadi因健康状况恶化而住院",
+      "summary": "她的基金会已经宣布， Mohammadi已经两次失去知觉，并遭受了严重的心脏危机。",
+      "date": "2026-05-01T20:59:55Z",
+      "url": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How is Israel replicating its Gaza tactics in Lebanon?"
-      }
-    },
-    {
-      "id": "evt_f0161ec1",
-      "title": "特朗普表示，在国际足联确认后，伊朗可以在美国参加世界杯",
-      "summary": "国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）表示，伊朗将参加世界杯比赛，并获得美国总统的同意。",
-      "date": "2026-04-30T20:48:59Z",
-      "url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -261,20 +149,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says Iran can play at World Cup in US after FIFA confirmation"
+        "en": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates"
       }
     },
     {
-      "id": "evt_22292485",
-      "title": "以色列在克里特岛附近拦截加沙船队并拘留175名活动人士",
-      "summary": "亲巴勒斯坦活动人士说， 22艘为加沙运送援助的船只在希腊岛附近的国际水域被非法拦截。",
-      "date": "2026-04-30T20:34:26Z",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_3f604747",
+      "title": "巴勒斯坦足球老板在国际足联赛事中拒绝以色列握手",
+      "summary": "巴勒斯坦足协主席贾布里勒·拉朱布（ Jibril Rajoub ）解释了他拒绝与以色列足协代表握手的原因。",
+      "date": "2026-05-01T20:40:04Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian football boss refuses Israeli handshake at FIFA event"
+      }
+    },
+    {
+      "id": "evt_d8433675",
+      "title": "美国法官禁止特朗普终止也门国民的受保护地位",
+      "summary": "作为打击移民的一部分，特朗普政府试图取消对13个国家的临时保护。",
+      "date": "2026-05-01T20:05:24Z",
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US judge bars Trump from ending protected status for Yemeni nationals"
+      }
+    },
+    {
+      "id": "evt_f2e9799f",
+      "title": "特朗普表示，伊朗在最新的和平建议中寻求他“无法同意”的条款",
+      "summary": "特朗普表示，通过巴基斯坦发送的伊朗报价包含他不满意的条款。",
+      "date": "2026-05-01T18:46:50Z",
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal"
+      }
+    },
+    {
+      "id": "evt_9faf58af",
+      "title": "美国有线电视新闻网（ CNN ）透露，伊朗破坏了美国在中东的大部分军事基地",
+      "summary": "美国有线电视新闻网（ CNN ）的一项新调查显示，至少有16个美国军事基地在伊朗罢工中遭到破坏，占美国在中东的大部分阵地。",
+      "date": "2026-05-01T17:28:17Z",
+      "url": "https://www.tehrantimes.com/news/525984/Iran-has-damaged-majority-of-US-military-sites-in-Mideast-CNN",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525984/Iran-has-damaged-majority-of-US-military-sites-in-Mideast-CNN"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran has damaged majority of US military sites in Mideast, CNN reveals"
+      }
+    },
+    {
+      "id": "evt_ac3c3574",
+      "title": "修女在耶路撒冷袭击后，以色列警方逮捕了一名男子",
+      "summary": "在犹太极端分子对该市基督徒的骚扰增加之际，这位法国修女在显然无端的攻击中被推倒和踢倒。",
+      "date": "2026-05-01T17:03:11Z",
+      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -289,27 +289,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel intercepts Gaza flotilla near Crete and detains 175 activists"
+        "en": "Israeli police arrest man after nun attacked in Jerusalem"
       }
     },
     {
-      "id": "evt_d04304bc",
-      "title": "无国界记者组织谴责“绑架”加沙援助船队上的三名记者",
-      "summary": "被拘留的记者包括半岛电视台记者Hafed Mribah和摄影师Mahmut Yavuz。",
-      "date": "2026-04-30T20:26:08Z",
-      "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss",
+      "id": "evt_24e8e990",
+      "title": "人群聚集在波斯波利斯，纪念领导人访问法尔斯省周年",
+      "summary": "德黑兰--周五，大批人群聚集在波斯波利斯（ Persepolis ）和纳克什-罗斯塔姆（ Naqsh-e Rostam ）古迹，纪念殉难的伊斯兰共和国领导人阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）访问法尔斯省周年。",
+      "date": "2026-05-01T16:31:38Z",
+      "url": "https://www.tehrantimes.com/news/525981/Crowds-gather-at-Persepolis-to-mark-anniversary-of-Leader-s-visit",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525981/Crowds-gather-at-Persepolis-to-mark-anniversary-of-Leader-s-visit"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -317,14 +317,406 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla"
+        "en": "Crowds gather at Persepolis to mark anniversary of Leader’s visit to Fars province"
+      }
+    },
+    {
+      "id": "evt_4c31d653",
+      "title": "以色列公海海盗重返地中海",
+      "summary": "德黑兰— 4月30日凌晨，随着以色列海军对2026年春季Global Sumud任务实施暴力伏击，地中海成为另一起无耻的国际海盗行为的舞台。",
+      "date": "2026-05-01T16:31:32Z",
+      "url": "https://www.tehrantimes.com/news/525982/Israel-s-high-seas-piracy-returns-to-the-Mediterranean",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525982/Israel-s-high-seas-piracy-returns-to-the-Mediterranean"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel’s high-seas piracy returns to the Mediterranean"
+      }
+    },
+    {
+      "id": "evt_4e2cdbad",
+      "title": "历史不会忘记对人类道德的打击，伊斯兰哲学家谈到米纳布悲剧",
+      "summary": "德黑兰--伊朗伊斯兰共和国科学院伊斯兰研究主任批评各国对2月28日美以侵略伊朗凌晨在伊朗南部米纳布市一所学校屠杀167名学生和工作人员一事保持沉默。",
+      "date": "2026-05-01T16:03:41Z",
+      "url": "https://www.tehrantimes.com/news/525980/History-will-not-forget-the-blow-to-human-morality-Islamic-philosopher",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525980/History-will-not-forget-the-blow-to-human-morality-Islamic-philosopher"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "History will not forget the blow to human morality, Islamic philosopher says of the Minab tragedy"
+      }
+    },
+    {
+      "id": "evt_3802f42e",
+      "title": "伊朗纪念波斯湾国庆日，回忆起17世纪对葡萄牙军队的驱逐",
+      "summary": "德黑兰--伊朗于4月30日庆祝波斯湾国庆日，纪念1622年萨非王朝军队将葡萄牙军队驱逐出霍尔木兹海峡的重要时刻，这一事件在该国被广泛认为是恢复其南部水域主权的里程碑。",
+      "date": "2026-05-01T16:01:37Z",
+      "url": "https://www.tehrantimes.com/news/525976/Iran-marks-Persian-Gulf-National-Day-recalling-17th-century",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525976/Iran-marks-Persian-Gulf-National-Day-recalling-17th-century"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran marks Persian Gulf National Day, recalling 17th-century expulsion of Portuguese forces"
+      }
+    },
+    {
+      "id": "evt_dc899e81",
+      "title": "美国飞机在Dasht-e Mahyar坠毁现场登记为国家遗产",
+      "summary": "德黑兰--文化遗产部宣布，美国飞机在Dasht-e Mahyar地区被击落的地点已被正式列入伊朗国家神圣防御遗产名录。",
+      "date": "2026-05-01T16:01:00Z",
+      "url": "https://www.tehrantimes.com/news/525974/Crash-site-of-US-aircraft-in-Dasht-e-Mahyar-registered-as-national",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525974/Crash-site-of-US-aircraft-in-Dasht-e-Mahyar-registered-as-national"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Crash site of US aircraft in Dasht-e Mahyar registered as national heritage"
+      }
+    },
+    {
+      "id": "evt_7b84834c",
+      "title": "伊朗举行摩托车集会，抗议文化遗址遭到破坏",
+      "summary": "德黑兰--周四，伊朗发起了一场为期两天的摩托车集会，以抗议在最近的军事打击中对历史遗迹的破坏，参与者将聚集在Falak-ol-Aflak城堡，据报道，该城堡是一个具有里程碑意义的地标。",
+      "date": "2026-05-01T16:00:33Z",
+      "url": "https://www.tehrantimes.com/news/525979/Motorcycle-rally-held-in-Iran-to-protest-damage-to-cultural-heritage",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525979/Motorcycle-rally-held-in-Iran-to-protest-damage-to-cultural-heritage"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Motorcycle rally held in Iran to protest damage to cultural heritage sites"
+      }
+    },
+    {
+      "id": "evt_912739b4",
+      "title": "在黎巴嫩南部的侵略中，以色列的伤亡人数增加",
+      "summary": "德黑兰--随着真主党瞄准更多的以色列占领军（ IOF ） ，犹太复国主义政权升级了空袭，造成数十名黎巴嫩平民死亡。",
+      "date": "2026-05-01T15:17:27Z",
+      "url": "https://www.tehrantimes.com/news/525975/Israeli-casualties-mount-amid-south-Lebanon-aggression",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525975/Israeli-casualties-mount-amid-south-Lebanon-aggression"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli casualties mount amid south Lebanon aggression"
+      }
+    },
+    {
+      "id": "evt_64f9581d",
+      "title": "负责科学细节的副主席支持加强生物技术部门",
+      "summary": "德黑兰--负责科学、技术和知识型经济的副总统详细阐述了将有助于该国生物技术部门发展和卫生技术发展的措施。",
+      "date": "2026-05-01T12:59:06Z",
+      "url": "https://www.tehrantimes.com/news/525970/Vice-presidency-for-science-details-supports-to-bolster-bio-tech",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525970/Vice-presidency-for-science-details-supports-to-bolster-bio-tech"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Vice-presidency for science details supports to bolster bio-tech sector"
+      }
+    },
+    {
+      "id": "evt_c86711ff",
+      "title": "上海合作组织对伊朗数字基础设施遭受网络攻击表示担忧",
+      "summary": "德黑兰--上海合作组织（ SCO ）成员国对美国和以色列针对伊朗信息、通信和技术（ ICT ）基础设施的网络攻击深表关切。",
+      "date": "2026-05-01T12:34:28Z",
+      "url": "https://www.tehrantimes.com/news/525968/SCO-voices-concern-over-cyberattacks-on-Iran-s-digital-infrastructure",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525968/SCO-voices-concern-over-cyberattacks-on-Iran-s-digital-infrastructure"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "SCO voices concern over cyberattacks on Iran’s digital infrastructure"
+      }
+    },
+    {
+      "id": "evt_a8bb6ac1",
+      "title": "保护波斯湾是一项超越政治边界的共同责任",
+      "summary": "德黑兰--伊朗每年4月30日庆祝波斯湾国庆日，以提高人们对其宝贵环境特性和独特生物多样性的认识。",
+      "date": "2026-05-01T12:30:50Z",
+      "url": "https://www.tehrantimes.com/news/525966/Protecting-the-Persian-Gulf-is-a-shared-responsibility-that-transcends",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525966/Protecting-the-Persian-Gulf-is-a-shared-responsibility-that-transcends"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Protecting the Persian Gulf is a shared responsibility that transcends political boundaries"
+      }
+    },
+    {
+      "id": "evt_8915c008",
+      "title": "红十字国际委员会主席赞扬红十字国际委员会的努力和战争期间的勇气",
+      "summary": "德黑兰--红十字国际委员会（红十字委员会）主席埃格尔（ Mirjana Spoljaric Egger ）赞扬了伊朗红新月会在美国和以色列犹太复国主义政权最近对伊朗发动战争期间的努力、勇气和成就。",
+      "date": "2026-05-01T12:29:00Z",
+      "url": "https://www.tehrantimes.com/news/525964/ICRC-president-hails-IRCS-efforts-bravery-during-war",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525964/ICRC-president-hails-IRCS-efforts-bravery-during-war"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "ICRC president hails IRCS efforts, bravery during war"
+      }
+    },
+    {
+      "id": "evt_1aea978c",
+      "title": "2027年世界杯预选赛：伊朗篮球队比赛已确认",
+      "summary": "德黑兰-国际篮联宣布了伊朗国家队参加2027年国际篮联世界杯预选赛的时间表。",
+      "date": "2026-05-01T12:06:49Z",
+      "url": "https://www.tehrantimes.com/news/525962/2027-World-Cup-Qualifiers-Iran-basketball-team-fixtures-confirmed",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525962/2027-World-Cup-Qualifiers-Iran-basketball-team-fixtures-confirmed"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "2027 World Cup Qualifiers: Iran basketball team fixtures confirmed"
+      }
+    },
+    {
+      "id": "evt_9170eb19",
+      "title": "伊朗海滩足球队拥有优秀球员：阿里·纳德里",
+      "summary": "德黑兰–伊朗国家沙滩足球队主教练阿里·纳德里（ Ali Naderi ）赞扬了他的球员在亚洲沙滩运动会上取得胜利后的出色表现。",
+      "date": "2026-05-01T11:48:20Z",
+      "url": "https://www.tehrantimes.com/news/525961/Iran-beach-soccer-has-quality-players-Ali-Naderi",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525961/Iran-beach-soccer-has-quality-players-Ali-Naderi"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran beach soccer has quality players: Ali Naderi"
+      }
+    },
+    {
+      "id": "evt_513b6c76",
+      "title": "虾产量一年增长37%",
+      "summary": "TEHRAN-伊朗渔业组织虾类和苦咸水水产养殖办公室主任宣布，在伊朗过去的1404日历年（截至3月20日） ，虾产量增加了37%。",
+      "date": "2026-05-01T11:29:55Z",
+      "url": "https://www.tehrantimes.com/news/525956/Shrimp-production-rises-37-in-a-year",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/525956/Shrimp-production-rises-37-in-a-year"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shrimp production rises 37% in a year"
+      }
+    },
+    {
+      "id": "evt_db616eec",
+      "title": "在拦截加沙援助船队后，以色列释放了除两名活动家之外的所有希腊活动家",
+      "summary": "Global Sumud船队谴责拦截为“海盗” ，而以色列外交部则称该船队为“公关噱头”。",
+      "date": "2026-05-01T10:12:57Z",
+      "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla"
       }
     },
     {
       "id": "evt_a1349c15",
       "title": "尽管停火，以色列仍对黎巴嫩南部发动致命袭击",
-      "summary": "据黎巴嫩卫生部称，至少有9人丧生，其中包括两名儿童。",
-      "date": "2026-04-30T20:14:48Z",
+      "summary": "据黎巴嫩卫生部称，有17人丧生，其中包括两名儿童。",
+      "date": "2026-05-01T08:12:04Z",
       "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -346,6 +738,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Deadly Israeli strikes on southern Lebanon despite ceasefire"
+      }
+    },
+    {
+      "id": "evt_624b8efc",
+      "title": "英国夫妇在伊朗入狱： “我们可能会在这里待很长时间”",
+      "summary": "Lindsay和Craig Foreman去年在伊朗摩托车之旅中被捕后，面临10年监禁的现实。",
+      "date": "2026-05-01T05:04:08Z",
+      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "British couple jailed in Iran: 'We're likely to be here for a long time'"
       }
     },
     {
@@ -545,90 +965,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_3c78b939",
-      "title": "在持续的停火中，以色列在黎巴嫩的罢工造成14人死亡",
-      "summary": "三天前，美国宣布在会谈后将停火延长三周。",
-      "date": "2026-04-26T22:02:45Z",
-      "url": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire"
-      }
-    },
-    {
-      "id": "evt_54b44d3e",
-      "title": "内塔尼亚胡命令军队“大力攻击”黎巴嫩真主党",
-      "summary": "以色列总理的指令发布之际，尽管停火延长了三周，但仍有六人在黎巴嫩的罢工中丧生。",
-      "date": "2026-04-26T00:34:21Z",
-      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon"
-      }
-    },
-    {
-      "id": "evt_8865a1c1",
-      "title": "特朗普取消美国特使前往巴基斯坦就伊朗战争进行谈判的行程",
-      "summary": "伊朗此前曾表示，没有计划与史蒂夫·维特科夫（ Steve Witkoff ）和贾里德·库什纳（ Jared Kushner ）率领的美国代表团直接",
-      "date": "2026-04-25T21:34:12Z",
-      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump cancels US envoys' trip to Pakistan for talks on Iran war"
-      }
-    },
-    {
       "id": "evt_32533984",
       "title": "谁在伊朗做决定？",
       "summary": "伊朗新任最高领导人应该有最终决定权，但实际情况要模糊得多。",
@@ -657,6 +993,34 @@ const siteData = {
       }
     },
     {
+      "id": "evt_f1c22586",
+      "title": "我们对以色列-黎巴嫩停火的了解",
+      "summary": "在华盛顿举行会谈后，两国之间为期10天的停火协议延长了三周。",
+      "date": "2026-04-24T07:01:36Z",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What we know about the Israel-Lebanon ceasefire"
+      }
+    },
+    {
       "id": "evt_60da4225",
       "title": "一对夫妇从卫星图像中发现被以色列摧毁的黎巴嫩房屋",
       "summary": "Joe Elias在接到他的村庄被以色列军队摧毁的报道后联系了BBC Verify。",
@@ -682,426 +1046,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Couple discovers Lebanon home destroyed by Israel from satellite image"
-      }
-    },
-    {
-      "id": "evt_e29cb663",
-      "title": "使以色列对基督教的战争具体化的大锤",
-      "summary": "德黑兰--这张照片像是一次物理打击：一名身穿制服的以色列士兵站在距离边境六公里的马龙派基督教村庄德贝尔（ Debel ）的一所家庭住宅外，用大锤直接敲击十字架上的耶稣雕像的头部。",
-      "date": "2026-04-21T15:47:45Z",
-      "url": "https://www.tehrantimes.com/news/525663/The-sledgehammer-that-crystallized-Israel-s-war-on-Christianity",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525663/The-sledgehammer-that-crystallized-Israel-s-war-on-Christianity"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The sledgehammer that crystallized Israel’s war on Christianity"
-      }
-    },
-    {
-      "id": "evt_82e3c51d",
-      "title": "伊拉克接近政府成立突破",
-      "summary": "德黑兰--随着政治派别在总统任命后加紧谈判，伊拉克朝着选择总理的方向迈进。",
-      "date": "2026-04-21T15:36:15Z",
-      "url": "https://www.tehrantimes.com/news/525662/Iraq-nears-government-formation-breakthrough",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525662/Iraq-nears-government-formation-breakthrough"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iraq nears government formation breakthrough"
-      }
-    },
-    {
-      "id": "evt_9cb7b4fe",
-      "title": "三亚2026 ：伊朗沙滩手球从高处开始",
-      "summary": "德黑兰-伊朗国家沙滩手球队在第六届亚洲沙滩运动会上以出色的表现发起了他们的运动，周二以2比0击败菲律宾队。",
-      "date": "2026-04-21T15:27:51Z",
-      "url": "https://www.tehrantimes.com/news/525661/Sanya-2026-Iran-beach-handball-start-on-high",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525661/Sanya-2026-Iran-beach-handball-start-on-high"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Sanya 2026: Iran beach handball start on high"
-      }
-    },
-    {
-      "id": "evt_61416fcf",
-      "title": "巴基斯坦和伊朗：两个兄弟国家",
-      "summary": "巴基斯坦感到非常荣幸的是，在这些最困难的情况下，伊朗信任巴基斯坦来阻止美国对伊朗伊斯兰共和国的战争。除了荣誉之外，这对巴基斯坦来说也是一次巨大的考验，必须热情地迈出每一步，因为各国都面临着历史上的困难时期。在此期间，无论谁支持他们，都会成为国家记忆的一部分。",
-      "date": "2026-04-21T15:26:29Z",
-      "url": "https://www.tehrantimes.com/news/525660/Pakistan-and-Iran-Two-brotherly-nations",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525660/Pakistan-and-Iran-Two-brotherly-nations"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pakistan and Iran: Two brotherly nations"
-      }
-    },
-    {
-      "id": "evt_a3557fe8",
-      "title": "伊朗谴责美国扣押Touska船只为“恐怖行为”",
-      "summary": "德黑兰--伊朗外交部周二发表措辞强硬的声明，谴责美国在阿曼海扣押一艘伊朗船只是“恐怖行为”。",
-      "date": "2026-04-21T14:16:49Z",
-      "url": "https://www.tehrantimes.com/news/525659/Iran-condemns-US-seizure-of-Touska-vessel-as-a-terrorist-act",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525659/Iran-condemns-US-seizure-of-Touska-vessel-as-a-terrorist-act"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran condemns US seizure of Touska vessel as “a terrorist act”"
-      }
-    },
-    {
-      "id": "evt_3305950c",
-      "title": "为正在进行的住房项目准备51,000公顷土地",
-      "summary": "TEHRAN -国家土地和住房组织总经理在解释该组织在土地准备领域的表现时宣布，将从该组织的资源中支付土地准备部门的承包商索赔。",
-      "date": "2026-04-21T12:05:53Z",
-      "url": "https://www.tehrantimes.com/news/525656/Preparation-of-51-000-hectares-of-land-for-housing-projects-underway",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525656/Preparation-of-51-000-hectares-of-land-for-housing-projects-underway"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Preparation of 51,000 hectares of land for housing projects underway"
-      }
-    },
-    {
-      "id": "evt_9ac6d4ff",
-      "title": "股市可能在10天内重新开放： SEO负责人",
-      "summary": "TEHRAN -证券交易组织（ SEO ）负责人宣布了股市在未来10至12天内重新开放的可能性，强调这将一次性完成，并且分阶段的方法不在议程上。",
-      "date": "2026-04-21T12:03:34Z",
-      "url": "https://www.tehrantimes.com/news/525655/Stock-market-likely-to-reopen-within-10-days-SEO-head",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525655/Stock-market-likely-to-reopen-within-10-days-SEO-head"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Stock market likely to reopen within 10 days: SEO head"
-      }
-    },
-    {
-      "id": "evt_d558006a",
-      "title": "伊朗与经济合作组织成员国的贸易在5年内增长82%",
-      "summary": "德黑兰--一位高级贸易官员本周宣布，在过去五年中，伊朗与经济合作组织（ ECO ）成员国的贸易增长了82% ，重申了伊朗在持续挑战的情况下加强区域经济联系的承诺。",
-      "date": "2026-04-21T12:00:57Z",
-      "url": "https://www.tehrantimes.com/news/525654/Iran-s-trade-with-ECO-members-rises-82-in-5-years",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525654/Iran-s-trade-with-ECO-members-rises-82-in-5-years"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s trade with ECO members rises 82% in 5 years"
-      }
-    },
-    {
-      "id": "evt_428dc7b1",
-      "title": "霍尔木兹海峡危机：迫在眉睫的粮食安全定时炸弹",
-      "summary": "TEHRAN -世界正在屏住呼吸。随着美国-以色列对伊朗战争的升级，战略性的霍尔木兹海峡（全球五分之一的石油通过的狭窄水道）实际上已被关闭。虽然眼前的危机是以油轮停驶和能源价格上涨来衡量的，但联合国警告说，真正的爆炸将是一颗“粮食安全定时炸弹” ，不仅在加油站，而且在世界各地的超市过道上都能感受到。",
-      "date": "2026-04-21T11:58:10Z",
-      "url": "https://www.tehrantimes.com/news/525653/Strait-of-Hormuz-crisis-A-looming-food-security-time-bomb",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525653/Strait-of-Hormuz-crisis-A-looming-food-security-time-bomb"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Strait of Hormuz crisis: A looming food security time bomb"
-      }
-    },
-    {
-      "id": "evt_48dff7de",
-      "title": "“Petro-Yuan” ：全球经济的无声地震",
-      "summary": "TEHRAN -在波斯湾地缘政治紧张局势升级和霍尔木兹海峡船舶交通中断的同时，媒体报道了中国决定与波斯湾国家签订基于人民币的石油合同，分析师将这一举动解释为对美元霸权的挑战和全球经济的无声地震。",
-      "date": "2026-04-21T11:55:24Z",
-      "url": "https://www.tehrantimes.com/news/525652/Petro-Yuan-A-silent-earthquake-in-global-economy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525652/Petro-Yuan-A-silent-earthquake-in-global-economy"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Petro-Yuan’: A silent earthquake in global economy"
-      }
-    },
-    {
-      "id": "evt_01c64fec",
-      "title": "美国退伍军人反对对伊朗开战",
-      "summary": "",
-      "date": "2026-04-21T11:15:34Z",
-      "url": "https://www.tehrantimes.com/news/525651/American-Veterans-Oppose-War-On-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525651/American-Veterans-Oppose-War-On-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "American Veterans Oppose War On Iran"
-      }
-    },
-    {
-      "id": "evt_fe4abdad",
-      "title": "伊朗被剥夺举办亚洲壁球锦标赛的权利",
-      "summary": "德黑兰--亚洲青少年壁球锦标赛（ Asian Junior Squash Championships ）原定于5月在伊朗举办，但由于战时情况持续，亚洲壁球联合会（ Asian Squash Confederation ）已将其主办职责重新分配给中国。",
-      "date": "2026-04-21T10:55:02Z",
-      "url": "https://www.tehrantimes.com/news/525650/Iran-stripped-of-right-to-host-Asian-Squash-Championships",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525650/Iran-stripped-of-right-to-host-Asian-Squash-Championships"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran stripped of right to host Asian Squash Championships"
-      }
-    },
-    {
-      "id": "evt_d23d5a02",
-      "title": "俄罗斯向黎巴嫩提供紧急人道主义援助",
-      "summary": "",
-      "date": "2026-04-21T09:39:12Z",
-      "url": "https://www.tehrantimes.com/news/525646/Russia-has-sent-urgent-humanitarian-aid-to-Lebanon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525646/Russia-has-sent-urgent-humanitarian-aid-to-Lebanon"
-        }
-      ],
-      "category": "humanitarian",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Russia has sent urgent humanitarian aid to Lebanon"
-      }
-    },
-    {
-      "id": "evt_08406f30",
-      "title": "部长：伊朗世界杯的存在无法保证",
-      "summary": "德黑兰--在一项可能显著改变伊朗足球格局的发展中，体育部长艾哈迈德·多尼亚马利（ Ahmad Donyamali ）宣布，伊朗国家足球队参加即将到来的世界杯可能并不确定。",
-      "date": "2026-04-21T09:06:37Z",
-      "url": "https://www.tehrantimes.com/news/525649/Minister-Iran-s-World-Cup-presence-not-guaranteed",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525649/Minister-Iran-s-World-Cup-presence-not-guaranteed"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Minister: Iran’s World Cup presence not guaranteed"
-      }
-    },
-    {
-      "id": "evt_c0c5f13e",
-      "title": "伊朗在挑战和不确定性中为2026年世界杯做准备",
-      "summary": "德黑兰--伊朗国家足球队已进入筹备2026年世界杯的决定性阶段，推出了一项由体育雄心和特殊情况塑造的强化训练计划。",
-      "date": "2026-04-21T08:04:59Z",
-      "url": "https://www.tehrantimes.com/news/525648/Iran-prepare-for-World-Cup-2026-amid-challenges-and-uncertainty",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/525648/Iran-prepare-for-World-Cup-2026-amid-challenges-and-uncertainty"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran prepare for World Cup 2026 amid challenges and uncertainty"
       }
     }
   ]
