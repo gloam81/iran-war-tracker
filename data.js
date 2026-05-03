@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-02T02:05:58.845335Z
+// 自动生成的数据 - 更新时间: 2026-05-03T02:11:15.010457Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-02T02:05:58.845270Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-05-03T02:11:15.010396Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 22,
+      "international": 21,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,100 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_e4e7902b",
-      "title": "伊朗战争现场：特朗普表示不会“提前”结束战争，对德黑兰的提议不满意",
-      "summary": "白宫告诉国会，尽管美国在中东继续驻军，但伊朗的敌对行动已经“结束”。",
-      "date": "2026-05-02T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
+      "id": "evt_461e7364",
+      "title": "伊朗战争现场：特朗普说审查14点计划;以色列磅黎巴嫩",
+      "summary": "美国总统表示，他将“很快审查伊朗刚刚向我们发送的计划” ，但不认为他可以达成协议。",
+      "date": "2026-05-03T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer"
-      }
-    },
-    {
-      "id": "evt_3187bd0d",
-      "title": "美国称将因伊朗战争争端从德国撤出5000名士兵",
-      "summary": "美国总统唐纳德·特朗普(Donald Trump)与欧洲盟友发生了争执，原因是他们不愿加大对伊朗战争的支持力度。",
-      "date": "2026-05-01T22:54:30Z",
-      "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US said to be withdrawing 5,000 troops from Germany over Iran war spat"
-      }
-    },
-    {
-      "id": "evt_ff90b3ca",
-      "title": "特朗普考虑选择“炸出”伊朗",
-      "summary": "美国总统唐纳德·特朗普表示，他对伊朗的最新和平建议“不满意”。",
-      "date": "2026-05-01T22:27:26Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump considering option to ‘blast the hell out of’ Iran"
-      }
-    },
-    {
-      "id": "evt_2d8e747d",
-      "title": "以色列最近对黎巴嫩的袭击造成至少12人死亡",
-      "summary": "以色列的罢工仍在继续，尽管停火仍在继续，但自3月2日以来已有2,600多人丧生。",
-      "date": "2026-05-01T21:10:15Z",
-      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "At least 12 killed in latest Israeli attacks on Lebanon"
+        "en": "Iran war live: Trump says reviewing 14-point plan; Israel pounds Lebanon"
       }
     },
     {
-      "id": "evt_5c6fadca",
-      "title": "伊朗诺贝尔奖获得者Narges Mohammadi因健康状况恶化而住院",
-      "summary": "她的基金会已经宣布， Mohammadi已经两次失去知觉，并遭受了严重的心脏危机。",
-      "date": "2026-05-01T20:59:55Z",
-      "url": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
+      "id": "evt_783d9973",
+      "title": "由于对伊朗的战争导致燃料成本上涨， Spirit Airlines倒闭",
+      "summary": "美国预算航空公司Spirit Airlines在政府救助谈判失败后关闭。",
+      "date": "2026-05-02T20:28:12Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,51 +65,135 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates"
+        "en": "Spirit Airlines collapses amid rising fuel costs from war on Iran"
       }
     },
     {
-      "id": "evt_3f604747",
-      "title": "巴勒斯坦足球老板在国际足联赛事中拒绝以色列握手",
-      "summary": "巴勒斯坦足协主席贾布里勒·拉朱布（ Jibril Rajoub ）解释了他拒绝与以色列足协代表握手的原因。",
-      "date": "2026-05-01T20:40:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss",
+      "id": "evt_97a00a32",
+      "title": "随着霍尔木兹的有效开采，叙利亚成为石油的替代能源走廊",
+      "summary": "叙利亚正在接收数百辆伊拉克石油卡车，这些卡车通过陆路运输原油，作为通往欧洲的替代能源走廊。",
+      "date": "2026-05-02T19:45:20Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/palestinian-football-boss-refuses-israeli-handshake-at-fifa-event?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian football boss refuses Israeli handshake at FIFA event"
-      }
-    },
-    {
-      "id": "evt_d8433675",
-      "title": "美国法官禁止特朗普终止也门国民的受保护地位",
-      "summary": "作为打击移民的一部分，特朗普政府试图取消对13个国家的临时保护。",
-      "date": "2026-05-01T20:05:24Z",
-      "url": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss"
         }
       ],
       "category": "diplomatic",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo"
+      }
+    },
+    {
+      "id": "evt_3d4b8db8",
+      "title": "以色列不断扩大的“橙线”收紧了加沙致命的禁区",
+      "summary": "以色列不断扩大的“橙线”正在加深加沙地带的行动限制，给平民带来致命的风险。",
+      "date": "2026-05-02T19:11:33Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza"
+      }
+    },
+    {
+      "id": "evt_843093b4",
+      "title": "西班牙要求以色列释放被捕的加沙船队船员",
+      "summary": "赛义夫·阿布凯舍克（ Saif Abukeshek ）在部队突袭希腊沿海的Global Sumid船队后被带到以色列。",
+      "date": "2026-05-02T18:12:35Z",
+      "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Spain demands Israel release arrested Gaza flotilla crew member"
+      }
+    },
+    {
+      "id": "evt_5af3d2ee",
+      "title": "在“停火”下对黎巴嫩南部的破坏仍在继续",
+      "summary": "以色列在24小时内对黎巴嫩南部发动了50次空袭，造成至少41人死亡。",
+      "date": "2026-05-02T18:05:05Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Devastation of Southern Lebanon continues under ‘ceasefire’"
+      }
+    },
+    {
+      "id": "evt_dc31ca53",
+      "title": "也门报告被劫持的油轮驶往索马里",
+      "summary": "这起事件至少标志着最近几周索马里附近的第四艘船被劫持。",
+      "date": "2026-05-02T17:10:29Z",
+      "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss"
+        }
+      ],
+      "category": "political",
       "location": {
         "lat": 15.5527,
         "lng": 47.5198,
@@ -205,27 +205,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US judge bars Trump from ending protected status for Yemeni nationals"
+        "en": "Yemen reports hijacked oil tanker headed for Somalia"
       }
     },
     {
-      "id": "evt_f2e9799f",
-      "title": "特朗普表示，伊朗在最新的和平建议中寻求他“无法同意”的条款",
-      "summary": "特朗普表示，通过巴基斯坦发送的伊朗报价包含他不满意的条款。",
-      "date": "2026-05-01T18:46:50Z",
-      "url": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss",
+      "id": "evt_87f0c0d1",
+      "title": "黎巴嫩卫生部称，在以色列对黎巴嫩南部的袭击中有13人丧生",
+      "summary": "死者中有四名妇女和一名儿童，尽管停火，但以色列与伊朗支持的真主党之间的战斗仍在继续。",
+      "date": "2026-05-02T16:51:18Z",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -233,7 +233,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal"
+        "en": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says"
       }
     },
     {
@@ -710,34 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla"
-      }
-    },
-    {
-      "id": "evt_a1349c15",
-      "title": "尽管停火，以色列仍对黎巴嫩南部发动致命袭击",
-      "summary": "据黎巴嫩卫生部称，有17人丧生，其中包括两名儿童。",
-      "date": "2026-05-01T08:12:04Z",
-      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Deadly Israeli strikes on southern Lebanon despite ceasefire"
       }
     },
     {
