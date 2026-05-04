@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-05-03T02:11:15.010457Z
+// 自动生成的数据 - 更新时间: 2026-05-04T02:10:39.907744Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-03T02:11:15.010396Z",
+    "lastUpdate": "2026-05-04T02:10:39.907682Z",
     "totalEvents": 36,
     "sources": {
       "international": 21,
@@ -13,16 +13,72 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_461e7364",
-      "title": "伊朗战争现场：特朗普说审查14点计划;以色列磅黎巴嫩",
-      "summary": "美国总统表示，他将“很快审查伊朗刚刚向我们发送的计划” ，但不认为他可以达成协议。",
-      "date": "2026-05-03T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss",
+      "id": "evt_232f620c",
+      "title": "伊朗战争现场：德黑兰警告特朗普的霍尔木兹任务将违反停火",
+      "summary": "伊朗抗议特朗普宣布“自由计划” ，护送滞留的船只离开霍尔木兹海峡。",
+      "date": "2026-05-04T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire"
+      }
+    },
+    {
+      "id": "evt_1c45cdae",
+      "title": "伊朗议员表示，霍尔木兹海峡将不会回到战前状态",
+      "summary": "伊朗表示，霍尔木兹海峡将永远不会回到美以德黑兰战争之前的现状。",
+      "date": "2026-05-03T20:51:57Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state"
+      }
+    },
+    {
+      "id": "evt_618dacfa",
+      "title": "加沙纪念世界新闻自由日，记者死亡人数上升",
+      "summary": "加沙的巴勒斯坦记者纪念世界新闻自由日，向被以色列杀害和袭击的同事致敬。",
+      "date": "2026-05-03T20:07:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says reviewing 14-point plan; Israel pounds Lebanon"
+        "en": "World Press Freedom Day marked in Gaza as journalist death toll rises"
       }
     },
     {
-      "id": "evt_783d9973",
-      "title": "由于对伊朗的战争导致燃料成本上涨， Spirit Airlines倒闭",
-      "summary": "美国预算航空公司Spirit Airlines在政府救助谈判失败后关闭。",
-      "date": "2026-05-02T20:28:12Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
+      "id": "evt_55564487",
+      "title": "以色列是否会在停火的情况下向加沙扩张？",
+      "summary": "Redi Tlhabi与Forensic Architecture的Ray Adams Row Farr谈论以色列在停火后向加沙的扩张。",
+      "date": "2026-05-03T19:55:02Z",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Is Israel expanding into Gaza despite ceasefire?"
+      }
+    },
+    {
+      "id": "evt_2da5adaa",
+      "title": "尽管美军缩编，但德国的梅尔茨淡化了与华盛顿的分歧",
+      "summary": "德国总理表示，批评唐纳德·特朗普在伊朗的战略与宣布撤军无关。",
+      "date": "2026-05-03T19:42:55Z",
+      "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,48 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Spirit Airlines collapses amid rising fuel costs from war on Iran"
+        "en": "Germany’s Merz downplays rift with Washington despite US troop drawdown"
       }
     },
     {
-      "id": "evt_97a00a32",
-      "title": "随着霍尔木兹的有效开采，叙利亚成为石油的替代能源走廊",
-      "summary": "叙利亚正在接收数百辆伊拉克石油卡车，这些卡车通过陆路运输原油，作为通往欧洲的替代能源走廊。",
-      "date": "2026-05-02T19:45:20Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
+      "id": "evt_96d54525",
+      "title": "以色列的“永久战争”战略：与时间的赛跑？",
+      "summary": "政治分析人士丹尼尔·利维（ Daniel Levy ）表示，美国的政策在以色列的叙述中是如此“腌制” ，两者无法区分。",
+      "date": "2026-05-03T19:36:54Z",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo"
-      }
-    },
-    {
-      "id": "evt_3d4b8db8",
-      "title": "以色列不断扩大的“橙线”收紧了加沙致命的禁区",
-      "summary": "以色列不断扩大的“橙线”正在加深加沙地带的行动限制，给平民带来致命的风险。",
-      "date": "2026-05-02T19:11:33Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza"
+        "en": "Israel’s strategy of ‘permanent war’: A race against time?"
       }
     },
     {
-      "id": "evt_843093b4",
-      "title": "西班牙要求以色列释放被捕的加沙船队船员",
-      "summary": "赛义夫·阿布凯舍克（ Saif Abukeshek ）在部队突袭希腊沿海的Global Sumid船队后被带到以色列。",
-      "date": "2026-05-02T18:12:35Z",
-      "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
+      "id": "evt_ee584811",
+      "title": "以色列军队在袭击被占领的西班纳布卢斯时杀害巴勒斯坦男子",
+      "summary": "以色列军队袭击了被占领的约旦河西岸的纳布卢斯市，杀死了一名26岁的男子。",
+      "date": "2026-05-03T17:52:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,63 +205,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Spain demands Israel release arrested Gaza flotilla crew member"
-      }
-    },
-    {
-      "id": "evt_5af3d2ee",
-      "title": "在“停火”下对黎巴嫩南部的破坏仍在继续",
-      "summary": "以色列在24小时内对黎巴嫩南部发动了50次空袭，造成至少41人死亡。",
-      "date": "2026-05-02T18:05:05Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Devastation of Southern Lebanon continues under ‘ceasefire’"
-      }
-    },
-    {
-      "id": "evt_dc31ca53",
-      "title": "也门报告被劫持的油轮驶往索马里",
-      "summary": "这起事件至少标志着最近几周索马里附近的第四艘船被劫持。",
-      "date": "2026-05-02T17:10:29Z",
-      "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemen reports hijacked oil tanker headed for Somalia"
+        "en": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban"
       }
     },
     {
