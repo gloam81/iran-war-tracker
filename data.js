@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-05-04T02:10:39.907744Z
+// 自动生成的数据 - 更新时间: 2026-05-05T02:09:11.248593Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-04T02:10:39.907682Z",
+    "lastUpdate": "2026-05-05T02:09:11.248530Z",
     "totalEvents": 36,
     "sources": {
       "international": 21,
@@ -13,72 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_232f620c",
-      "title": "伊朗战争现场：德黑兰警告特朗普的霍尔木兹任务将违反停火",
-      "summary": "伊朗抗议特朗普宣布“自由计划” ，护送滞留的船只离开霍尔木兹海峡。",
-      "date": "2026-05-04T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+      "id": "evt_84da0343",
+      "title": "以色列罢工在加沙市北部引发火灾",
+      "summary": "来自加沙市的视频显示，在以色列袭击一群平民后，火焰升起。",
+      "date": "2026-05-05T01:57:59Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire"
-      }
-    },
-    {
-      "id": "evt_1c45cdae",
-      "title": "伊朗议员表示，霍尔木兹海峡将不会回到战前状态",
-      "summary": "伊朗表示，霍尔木兹海峡将永远不会回到美以德黑兰战争之前的现状。",
-      "date": "2026-05-03T20:51:57Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state"
-      }
-    },
-    {
-      "id": "evt_618dacfa",
-      "title": "加沙纪念世界新闻自由日，记者死亡人数上升",
-      "summary": "加沙的巴勒斯坦记者纪念世界新闻自由日，向被以色列杀害和袭击的同事致敬。",
-      "date": "2026-05-03T20:07:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israeli-strike-sparks-fire-in-northern-gaza-city?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "World Press Freedom Day marked in Gaza as journalist death toll rises"
+        "en": "Israeli strike sparks fire in northern Gaza City"
       }
     },
     {
-      "id": "evt_55564487",
-      "title": "以色列是否会在停火的情况下向加沙扩张？",
-      "summary": "Redi Tlhabi与Forensic Architecture的Ray Adams Row Farr谈论以色列在停火后向加沙的扩张。",
-      "date": "2026-05-03T19:55:02Z",
-      "url": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
+      "id": "evt_9d27afe8",
+      "title": "在他父亲在以色列袭击中丧生的第二天，新生儿在纳布卢斯出生",
+      "summary": "纳布卢斯的一个巴勒斯坦家庭迎来了一个新生儿，他的父亲被以色列军队枪杀。",
+      "date": "2026-05-05T00:11:43Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +65,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Is Israel expanding into Gaza despite ceasefire?"
+        "en": "Newborn born in Nablus a day after his father was killed in Israeli raid"
       }
     },
     {
-      "id": "evt_2da5adaa",
-      "title": "尽管美军缩编，但德国的梅尔茨淡化了与华盛顿的分歧",
-      "summary": "德国总理表示，批评唐纳德·特朗普在伊朗的战略与宣布撤军无关。",
-      "date": "2026-05-03T19:42:55Z",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss",
+      "id": "evt_23aa6de8",
+      "title": "伊朗战争现场：华盛顿、德黑兰对霍尔木兹海峡的贸易威胁",
+      "summary": "黎巴嫩卫生部报告称，自3月2日以来，以色列在黎巴嫩发动的袭击已造成2,696人死亡。",
+      "date": "2026-05-05T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_3d98ee67",
+      "title": "对于以色列和耶路撒冷的基督徒来说，不容忍正在成为常态",
+      "summary": "尽管有官方的诬陷，但对基督徒来说，上周在东耶路撒冷对一名法国修女的袭击并没有什么新鲜事。",
+      "date": "2026-05-04T22:14:02Z",
+      "url": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "For Christians in Israel and Jerusalem, intolerance is becoming normal"
+      }
+    },
+    {
+      "id": "evt_b6766be7",
+      "title": "随着特朗普威胁伊朗，霍尔木兹紧张局势将停火推向边缘",
+      "summary": "美国军方表示，它正在鼓励船只通过霍尔木兹海峡，但伊朗表示，它完全控制了水道。",
+      "date": "2026-05-04T21:08:35Z",
+      "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Germany’s Merz downplays rift with Washington despite US troop drawdown"
+        "en": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran"
       }
     },
     {
-      "id": "evt_96d54525",
-      "title": "以色列的“永久战争”战略：与时间的赛跑？",
-      "summary": "政治分析人士丹尼尔·利维（ Daniel Levy ）表示，美国的政策在以色列的叙述中是如此“腌制” ，两者无法区分。",
-      "date": "2026-05-03T19:36:54Z",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
+      "id": "evt_ac017173",
+      "title": "以色列拦截Global Sumud船队是否合法？",
+      "summary": "西班牙表示，以色列拘留两名活动人士是绑架。",
+      "date": "2026-05-04T21:00:23Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel’s strategy of ‘permanent war’: A race against time?"
+        "en": "Is Israel’s interception of the Global Sumud Flotilla legal?"
       }
     },
     {
-      "id": "evt_ee584811",
-      "title": "以色列军队在袭击被占领的西班纳布卢斯时杀害巴勒斯坦男子",
-      "summary": "以色列军队袭击了被占领的约旦河西岸的纳布卢斯市，杀死了一名26岁的男子。",
-      "date": "2026-05-03T17:52:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
+      "id": "evt_66c2f815",
+      "title": "尽管停火，以色列的袭击在几天内在黎巴嫩造成数十人死亡",
+      "summary": "黎巴嫩卫生部表示，自周四以来，以色列对黎巴嫩南部的袭击已造成77人死亡。",
+      "date": "2026-05-04T17:18:05Z",
+      "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,7 +205,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban"
+        "en": "Israeli attacks kill dozens within days in Lebanon despite ceasefire"
+      }
+    },
+    {
+      "id": "evt_e7e1802d",
+      "title": "一些伊朗人担心政权现在更加根深蒂固-并准备报复",
+      "summary": "普通伊朗人说，他们担心战争结束后当局的镇压会加剧。",
+      "date": "2026-05-03T23:19:57Z",
+      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Some Iranians fear the regime is now more entrenched - and ready for revenge"
       }
     },
     {
@@ -906,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Faisal Islam: Why the UAE's exit from Opec is a big deal"
-      }
-    },
-    {
-      "id": "evt_afbd6d33",
-      "title": "乌克兰指责以色列接收俄罗斯“偷窃”的谷物",
-      "summary": "以色列外交部长表示，它没有收到任何证据来支持一艘从被占领的乌克兰运送谷物的船只已经到达海法的说法。",
-      "date": "2026-04-28T13:51:51Z",
-      "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia"
       }
     },
     {
