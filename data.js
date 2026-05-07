@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-06T02:09:25.684287Z
+// 自动生成的数据 - 更新时间: 2026-05-07T02:10:55.734716Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-06T02:09:25.684221Z",
-    "totalEvents": 36,
+    "lastUpdate": "2026-05-07T02:10:55.734656Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 21,
+      "international": 19,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_41adce7a",
-      "title": "伊朗战争现场：特朗普称霍尔木兹行动在美国和德黑兰会谈期间暂停",
-      "summary": "美国国防部长皮特·赫格塞特（ Pete Hegseth ）表示，尽管霍尔木兹海峡的紧张局势日益加剧，但与伊朗的停火协议仍然有效。",
-      "date": "2026-05-06T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
+      "id": "evt_cdc19182",
+      "title": "伊朗战争现场：特朗普称与德黑兰达成协议“可能” ；以色列轰炸贝鲁特",
+      "summary": "联合国呼吁以色列释放在国际水域被绑架并在没有指控的情况下被关押的加沙援助船队的两名成员。",
+      "date": "2026-05-07T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks"
+        "en": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut"
       }
     },
     {
-      "id": "evt_52c655a1",
-      "title": "特朗普暂停美国在霍尔木兹海峡的行动，以推动与伊朗的交易",
-      "summary": "美国总统表示， “自由项目”暂停，以查看是否可以最终确定并签署与伊朗的协议。",
-      "date": "2026-05-05T23:40:09Z",
-      "url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
+      "id": "evt_e3668a88",
+      "title": "中国在对伊朗的战争中有什么惊人的收获？",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）正在北京寻求与美国达成协议的支持。",
+      "date": "2026-05-06T23:43:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,76 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran"
+        "en": "What are China’s surprise gains in the war on Iran?"
       }
     },
     {
-      "id": "evt_6f408a7f",
-      "title": "CENTCOM ：在“自由项目”中，通过霍尔木兹的“安全路径”是美国的优先事项",
-      "summary": "美国中央司令部发言人蒂姆·霍金斯（ Tim Hawkins ）表示，霍尔木兹的主要优先事项是确保安全路线和封锁伊朗。",
-      "date": "2026-05-05T21:07:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
+      "id": "evt_5fd8c4c9",
+      "title": "以色列的袭击在一天内杀死了加沙各地的五名巴勒斯坦人",
+      "summary": "五名巴勒斯坦人在以色列对加沙的单独罢工中在一天内丧生。",
+      "date": "2026-05-06T23:20:32Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’"
-      }
-    },
-    {
-      "id": "evt_d5b2ac7c",
-      "title": "在梵蒂冈之行之前，卢比奥为特朗普关于教皇利奥在伊朗问题上的言论辩护",
-      "summary": "在马可·卢比奥（ Marco Rubio ）周四在梵蒂冈与教皇利奥十四世（ Leo XIV ）会晤之前发表",
-      "date": "2026-05-05T20:53:35Z",
-      "url": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran"
-      }
-    },
-    {
-      "id": "evt_15059f15",
-      "title": "以色列在加沙警察局罢工中杀死一名男孩，打伤警察",
-      "summary": "一名15岁的男孩Mahmoud Sahweil在以色列袭击加沙警察局时被杀害。",
-      "date": "2026-05-05T20:45:25Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +93,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel kills one boy, injures officers in strike on Gaza police station"
+        "en": "Israeli strikes kill five Palestinians across Gaza in one day"
       }
     },
     {
-      "id": "evt_42a029ec",
-      "title": "对霍尔木兹海峡的错误估计可能“带来全面战争”",
-      "summary": "美国和伊朗都不愿意在霍尔木兹海峡妥协，这增加了误判的可能性。",
-      "date": "2026-05-05T19:45:10Z",
-      "url": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
+      "id": "evt_c3c9e891",
+      "title": "在罕见的推动下，美国立法者要求以色列核能力的透明度",
+      "summary": "议员们表示，在美以对伊朗的战争中，美国对以色列核能力模棱两可的政策加剧了风险。",
+      "date": "2026-05-06T22:05:28Z",
+      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "In rare push, US lawmakers demand transparency on Israel nuclear capability"
+      }
+    },
+    {
+      "id": "evt_300473fb",
+      "title": "特朗普表示，在德黑兰审查美国的提议时，与伊朗进行了“非常好的会谈”",
+      "summary": "华盛顿和德黑兰可能正在形成达成最终结束战争的协议的势头。",
+      "date": "2026-05-06T21:17:47Z",
+      "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal"
+      }
+    },
+    {
+      "id": "evt_d657cc15",
+      "title": "以色列轰炸贝鲁特南部郊区",
+      "summary": "自4月17日“停火”生效以来，以色列首次轰炸贝鲁特南部郊区。",
+      "date": "2026-05-06T21:01:40Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel bombs Beirut’s southern suburbs"
+      }
+    },
+    {
+      "id": "evt_4a6763e1",
+      "title": "中国呼吁在伊朗会谈中“尽快”重新开放海峡",
+      "summary": "王毅正在与伊朗外长阿拉格奇举行会谈，阿拉格奇是自战争开始以来首次访问中国。",
+      "date": "2026-05-06T09:35:39Z",
+      "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’"
+        "en": "China calls for Strait to be reopened 'as soon as possible' in Iran talks"
       }
     },
     {
-      "id": "evt_262cd072",
-      "title": "视频：特朗普称伊朗应“挥舞白旗”",
-      "summary": "美国总统唐纳德·特朗普表示，伊朗应该在战争中“挥舞投降的白旗”。",
-      "date": "2026-05-05T18:48:10Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
+      "id": "evt_4bf46705",
+      "title": "特朗普表示，美国暂停行动，引导船只通过霍尔木兹海峡",
+      "summary": "这位美国总统说，周一开始的“自由项目”将停止，因为在与伊朗达成协议方面已经取得了进展。",
+      "date": "2026-05-06T02:18:45Z",
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,13 +233,125 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Video: Trump says Iran should ‘wave the white flag’"
+        "en": "Trump says US to pause operation to guide vessels through Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_4d134d1f",
+      "title": "部长说，叙利亚的伊斯兰国家家庭已经预订了前往澳大利亚的门票",
+      "summary": "与伊斯兰国有联系的四名妇女和九名儿童在叙利亚难民营中度过了多年。",
+      "date": "2026-05-06T01:47:48Z",
+      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "IS families in Syria have booked tickets home to Australia, minister says"
+      }
+    },
+    {
+      "id": "evt_92fdac01",
+      "title": "英国广播公司追踪以色列轰炸10分钟如何给黎巴嫩带来破坏",
+      "summary": "炸弹于下午14:15开始坠落，给全国带来了混乱和破坏。",
+      "date": "2026-05-05T21:22:31Z",
+      "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon"
+      }
+    },
+    {
+      "id": "evt_4660a895",
+      "title": "以色列法院延长对两名加沙船队活动家的拘留",
+      "summary": "蒂亚戈·阿维拉（ Thiago Ávila ）和赛义夫·阿布·凯舍克（ Saif Abu Keshek ）被以色列军队拘留，他们上周在希腊附近拦截了该船队的船只。",
+      "date": "2026-05-05T19:10:30Z",
+      "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli court extends detention of two Gaza flotilla activists"
+      }
+    },
+    {
+      "id": "evt_e44d76f5",
+      "title": "霍尔木兹海峡搁浅船只的船长告诉BBC “压力”",
+      "summary": "拉曼·卡普尔（ Raman Kapoor ）上尉的船是在美国和伊朗之间的权力斗争中被困在海峡中的几艘船之一。",
+      "date": "2026-05-05T18:28:35Z",
+      "url": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'"
       }
     },
     {
       "id": "evt_c07a40a2",
       "title": "鲍恩：霍尔木兹海峡对峙增加了再次陷入全面战争的风险",
-      "summary": "美国和伊朗决心保持对彼此的压力，这使脆弱的海湾停火处于严重威胁之中。",
+      "summary": "美国和伊朗决心保持对彼此的压力，这使脆弱的海湾停火面临严重威胁。",
       "date": "2026-05-05T11:38:03Z",
       "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -293,34 +433,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e7e1802d",
-      "title": "一些伊朗人担心政权现在更加根深蒂固-并准备报复",
-      "summary": "普通伊朗人说，他们担心战争结束后当局的镇压会加剧。",
-      "date": "2026-05-03T23:19:57Z",
-      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Some Iranians fear the regime is now more entrenched - and ready for revenge"
-      }
-    },
-    {
       "id": "evt_ab857a19",
       "title": "对被监禁的伊朗诺贝尔奖获得者的担忧，因为兄弟担心她会死",
       "summary": "她的家人说，这名54岁的女子在健康状况急剧恶化后被从监狱带到当地一家医院。",
@@ -349,34 +461,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_a1a183d6",
-      "title": "秘密网络将Starlink技术走私到伊朗，以打击互联网停电",
-      "summary": "Sahand告诉BBC World Service ，他将卫星互联网终端发送到伊朗，以帮助展示“真实情况”。",
-      "date": "2026-05-02T23:17:17Z",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout"
-      }
-    },
-    {
       "id": "evt_87f0c0d1",
       "title": "黎巴嫩卫生部称，在以色列对黎巴嫩南部的袭击中有13人丧生",
       "summary": "死者中有四名妇女和一名儿童，尽管停火，但以色列与伊朗支持的真主党之间的战斗仍在继续。",
@@ -402,34 +486,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says"
-      }
-    },
-    {
-      "id": "evt_9f4273be",
-      "title": "“如果我们睡觉，他们会咬人” ：老鼠和黄鼠狼侵扰流离失所的加沙人的营地",
-      "summary": "在加沙地带，现在每天都在与老鼠、黄鼠狼和其他传播疾病的害虫作斗争。",
-      "date": "2026-05-02T05:02:14Z",
-      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans"
       }
     },
     {
@@ -906,118 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Shrimp production rises 37% in a year"
-      }
-    },
-    {
-      "id": "evt_db616eec",
-      "title": "在拦截加沙援助船队后，以色列释放了除两名活动家之外的所有希腊活动家",
-      "summary": "Global Sumud船队谴责拦截为“海盗” ，而以色列外交部则称该船队为“公关噱头”。",
-      "date": "2026-05-01T10:12:57Z",
-      "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla"
-      }
-    },
-    {
-      "id": "evt_b4a9a28a",
-      "title": "官员说，以色列的“双击”罢工在黎巴嫩杀死了三名救援人员",
-      "summary": "他们是周二连续袭击中遇难的9人之一，以色列军方称袭击目标是真主党指挥官。",
-      "date": "2026-04-29T15:30:50Z",
-      "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say"
-      }
-    },
-    {
-      "id": "evt_63170a86",
-      "title": "阿联酋退出石油卡特尔欧佩克",
-      "summary": "经过近60年的会员资格，阿联酋的决定被视为该石油卡特尔的潜在丧钟。",
-      "date": "2026-04-29T08:05:11Z",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "United Arab Emirates to quit oil cartel Opec"
-      }
-    },
-    {
-      "id": "evt_84ea530d",
-      "title": "美国前官员批评五角大楼对致命的伊朗学校袭击保持沉默",
-      "summary": "在致命袭击发生后的两个月里，美国国防部只表示该事件正在接受调查。",
-      "date": "2026-04-29T02:01:50Z",
-      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Former US officials criticise Pentagon silence on deadly Iran school attack"
       }
     }
   ]
