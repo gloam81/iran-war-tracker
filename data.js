@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-05-07T02:10:55.734716Z
+// 自动生成的数据 - 更新时间: 2026-05-08T02:27:46.930014Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-07T02:10:55.734656Z",
+    "lastUpdate": "2026-05-08T02:27:46.929954Z",
     "totalEvents": 34,
     "sources": {
       "international": 19,
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_cdc19182",
-      "title": "伊朗战争现场：特朗普称与德黑兰达成协议“可能” ；以色列轰炸贝鲁特",
-      "summary": "联合国呼吁以色列释放在国际水域被绑架并在没有指控的情况下被关押的加沙援助船队的两名成员。",
-      "date": "2026-05-07T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss",
+      "id": "evt_575ba47d",
+      "title": "随着美国和伊朗权衡和平协议，滞留海员等待",
+      "summary": "在霍尔木兹海峡关闭期间，约有2万名海员滞留在海湾地区。",
+      "date": "2026-05-08T01:45:17Z",
+      "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut"
-      }
-    },
-    {
-      "id": "evt_e3668a88",
-      "title": "中国在对伊朗的战争中有什么惊人的收获？",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）正在北京寻求与美国达成协议的支持。",
-      "date": "2026-05-06T23:43:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What are China’s surprise gains in the war on Iran?"
+        "en": "As US and Iran weigh peace deal, stranded seafarers wait in limbo"
       }
     },
     {
-      "id": "evt_5fd8c4c9",
-      "title": "以色列的袭击在一天内杀死了加沙各地的五名巴勒斯坦人",
-      "summary": "五名巴勒斯坦人在以色列对加沙的单独罢工中在一天内丧生。",
-      "date": "2026-05-06T23:20:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss",
+      "id": "evt_f356a356",
+      "title": "伊朗战争现场：特朗普称停火仍然“有效” ，因为伊朗，美国发生冲突",
+      "summary": "伊朗指责美国违反停火协议，瞄准伊朗船只并对沿海地区发动袭击。",
+      "date": "2026-05-08T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -93,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli strikes kill five Palestinians across Gaza in one day"
+        "en": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash"
       }
     },
     {
-      "id": "evt_c3c9e891",
-      "title": "在罕见的推动下，美国立法者要求以色列核能力的透明度",
-      "summary": "议员们表示，在美以对伊朗的战争中，美国对以色列核能力模棱两可的政策加剧了风险。",
-      "date": "2026-05-06T22:05:28Z",
-      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
+      "id": "evt_2dde0378",
+      "title": "视频显示在德黑兰的天空中拦截",
+      "summary": "伊朗国家媒体称，由于报道了多起爆炸事件，德黑兰西部的防空系统被激活。",
+      "date": "2026-05-07T22:20:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "In rare push, US lawmakers demand transparency on Israel nuclear capability"
-      }
-    },
-    {
-      "id": "evt_300473fb",
-      "title": "特朗普表示，在德黑兰审查美国的提议时，与伊朗进行了“非常好的会谈”",
-      "summary": "华盛顿和德黑兰可能正在形成达成最终结束战争的协议的势头。",
-      "date": "2026-05-06T21:17:47Z",
-      "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal"
+        "en": "Videos show interceptions over the skies of Tehran"
       }
     },
     {
-      "id": "evt_d657cc15",
-      "title": "以色列轰炸贝鲁特南部郊区",
-      "summary": "自4月17日“停火”生效以来，以色列首次轰炸贝鲁特南部郊区。",
-      "date": "2026-05-06T21:01:40Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss",
+      "id": "evt_76f80771",
+      "title": "伊朗称袭击了以伊朗油轮为目标的美国海军船只",
+      "summary": "美国军方表示，它拦截并回应了“无端”的伊朗袭击，并强调它不寻求升级。",
+      "date": "2026-05-07T21:11:00Z",
+      "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says it attacked US Navy ships after they targeted Iranian tanker"
+      }
+    },
+    {
+      "id": "evt_48c86d13",
+      "title": "参议员就以色列在黎巴嫩的流离失所运动向美军施压",
+      "summary": "在给中央司令部指挥官的信中， 12名民主党人对美国在以色列“大规模疏散区”可能扮演的角色提出了质疑。",
+      "date": "2026-05-07T20:53:11Z",
+      "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,7 +149,203 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel bombs Beirut’s southern suburbs"
+        "en": "Senators press US military on Israel’s displacement campaign in Lebanon"
+      }
+    },
+    {
+      "id": "evt_593f349f",
+      "title": "巴勒斯坦人揭露以色列拘留期间的酷刑和性暴力",
+      "summary": "巴勒斯坦被拘留者和权利团体分享了关于强奸、性暴力和身体虐待的令人不安的叙述。",
+      "date": "2026-05-07T20:37:46Z",
+      "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinians expose torture and sexual violence in Israeli detention"
+      }
+    },
+    {
+      "id": "evt_829acee5",
+      "title": "以色列军方调查士兵对黎巴嫩圣母玛利亚雕像的行为",
+      "summary": "这名士兵被拍到在雕像嘴里放一支烟，这是几周内针对一名基督徒人物的第二次事件。",
+      "date": "2026-05-07T14:38:34Z",
+      "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon"
+      }
+    },
+    {
+      "id": "evt_f2f4eebb",
+      "title": "由于哈马斯解除武装谈判陷入僵局，人们担心加沙战争重新爆发",
+      "summary": "以色列媒体报道称，由于与哈马斯的谈判陷入僵局，以色列正准备恢复战斗。",
+      "date": "2026-05-07T14:22:20Z",
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Fears of renewed Gaza war as Hamas disarmament talks stall"
+      }
+    },
+    {
+      "id": "evt_1338507f",
+      "title": "伊朗考虑美国的提议，因为特朗普表示战争将“很快结束”",
+      "summary": "调解员巴基斯坦表示，它“正在努力将这次停火转化为永久结束这场战争”。",
+      "date": "2026-05-07T04:06:33Z",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran considering US proposal as Trump says war will be 'over quickly'"
+      }
+    },
+    {
+      "id": "evt_b8683e8f",
+      "title": "海湾经济体面临伊朗冲突的长期打击",
+      "summary": "评论员表示，修复损坏需要数年甚至数十年的时间。",
+      "date": "2026-05-06T23:06:17Z",
+      "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gulf economies face long-term hit from Iran conflict"
+      }
+    },
+    {
+      "id": "evt_1653cc6b",
+      "title": "自真主党停火以来，以色列首次袭击贝鲁特",
+      "summary": "以色列表示，它针对的是首都的一名真主党高级人物，这是自4月中旬以来的首次此类罢工。",
+      "date": "2026-05-06T19:58:04Z",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel strikes Beirut for first time since Hezbollah ceasefire"
+      }
+    },
+    {
+      "id": "evt_835e39e6",
+      "title": "特朗普对伊朗和平协议的希望伴随着警告",
+      "summary": "有迹象表明，结束战争有新的势头，但特朗普本人也提出了谨慎的态度。",
+      "date": "2026-05-06T17:32:04Z",
+      "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump's hopes for an Iran peace deal come with caveats"
       }
     },
     {
@@ -293,34 +461,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_4660a895",
-      "title": "以色列法院延长对两名加沙船队活动家的拘留",
-      "summary": "蒂亚戈·阿维拉（ Thiago Ávila ）和赛义夫·阿布·凯舍克（ Saif Abu Keshek ）被以色列军队拘留，他们上周在希腊附近拦截了该船队的船只。",
-      "date": "2026-05-05T19:10:30Z",
-      "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce3pnw509kpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli court extends detention of two Gaza flotilla activists"
-      }
-    },
-    {
       "id": "evt_e44d76f5",
       "title": "霍尔木兹海峡搁浅船只的船长告诉BBC “压力”",
       "summary": "拉曼·卡普尔（ Raman Kapoor ）上尉的船是在美国和伊朗之间的权力斗争中被困在海峡中的几艘船之一。",
@@ -377,16 +517,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_9dcc81b4",
-      "title": "美国袭击伊朗快艇，伊朗袭击阿联酋石油设施",
-      "summary": "航运公司马士基表示，其一艘悬挂美国国旗的商船已在美国军事保护下成功离开霍尔木兹海峡。",
-      "date": "2026-05-05T04:34:15Z",
-      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_e7e1802d",
+      "title": "一些伊朗人担心政权现在更加根深蒂固-并准备报复",
+      "summary": "普通伊朗人说，他们担心战争结束后当局的镇压会加剧。",
+      "date": "2026-05-03T23:19:57Z",
+      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -401,119 +541,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US strikes Iranian fast boats as Iran attacks UAE oil facility"
-      }
-    },
-    {
-      "id": "evt_66c2f815",
-      "title": "尽管停火，以色列的袭击在几天内在黎巴嫩造成数十人死亡",
-      "summary": "黎巴嫩卫生部表示，自周四以来，以色列对黎巴嫩南部的袭击已造成110人死亡。",
-      "date": "2026-05-04T17:18:05Z",
-      "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli attacks kill dozens within days in Lebanon despite ceasefire"
-      }
-    },
-    {
-      "id": "evt_ab857a19",
-      "title": "对被监禁的伊朗诺贝尔奖获得者的担忧，因为兄弟担心她会死",
-      "summary": "她的家人说，这名54岁的女子在健康状况急剧恶化后被从监狱带到当地一家医院。",
-      "date": "2026-05-03T14:44:04Z",
-      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Concern for jailed Iranian Nobel laureate as brother fears she is dying"
-      }
-    },
-    {
-      "id": "evt_87f0c0d1",
-      "title": "黎巴嫩卫生部称，在以色列对黎巴嫩南部的袭击中有13人丧生",
-      "summary": "死者中有四名妇女和一名儿童，尽管停火，但以色列与伊朗支持的真主党之间的战斗仍在继续。",
-      "date": "2026-05-02T16:51:18Z",
-      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says"
-      }
-    },
-    {
-      "id": "evt_604677b1",
-      "title": "特朗普重申，他对伊朗作为寻求批准战争迫在眉睫的最后期限感到“不满意”",
-      "summary": "特朗普总统周五表示，达成协议很难，部分原因是伊朗领导层“非常困惑”。",
-      "date": "2026-05-01T19:31:27Z",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms"
+        "en": "Some Iranians fear the regime is now more entrenched - and ready for revenge"
       }
     },
     {
@@ -542,34 +570,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran has damaged majority of US military sites in Mideast, CNN reveals"
-      }
-    },
-    {
-      "id": "evt_ac3c3574",
-      "title": "修女在耶路撒冷袭击后，以色列警方逮捕了一名男子",
-      "summary": "在犹太极端分子对该市基督徒的骚扰增加之际，这位法国修女在显然无端的攻击中被推倒和踢倒。",
-      "date": "2026-05-01T17:03:11Z",
-      "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli police arrest man after nun attacked in Jerusalem"
       }
     },
     {
