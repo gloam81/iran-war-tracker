@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-08T02:27:46.930014Z
+// 自动生成的数据 - 更新时间: 2026-05-09T02:12:07.560021Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-08T02:27:46.929954Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-05-09T02:12:07.559961Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 19,
+      "international": 17,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,72 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_575ba47d",
-      "title": "随着美国和伊朗权衡和平协议，滞留海员等待",
-      "summary": "在霍尔木兹海峡关闭期间，约有2万名海员滞留在海湾地区。",
-      "date": "2026-05-08T01:45:17Z",
-      "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss",
+      "id": "evt_6f8d22eb",
+      "title": "伊朗战争现场：美国期待德黑兰对和平协议的回应；霍尔木兹的“冲突”",
+      "summary": "黎巴嫩国家通讯社称，以色列周五在黎巴嫩南部杀害了31人，其中包括一名救援人员。",
+      "date": "2026-05-09T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "As US and Iran weigh peace deal, stranded seafarers wait in limbo"
-      }
-    },
-    {
-      "id": "evt_f356a356",
-      "title": "伊朗战争现场：特朗普称停火仍然“有效” ，因为伊朗，美国发生冲突",
-      "summary": "伊朗指责美国违反停火协议，瞄准伊朗船只并对沿海地区发动袭击。",
-      "date": "2026-05-08T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash"
-      }
-    },
-    {
-      "id": "evt_2dde0378",
-      "title": "视频显示在德黑兰的天空中拦截",
-      "summary": "伊朗国家媒体称，由于报道了多起爆炸事件，德黑兰西部的防空系统被激活。",
-      "date": "2026-05-07T22:20:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Videos show interceptions over the skies of Tehran"
+        "en": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz"
       }
     },
     {
-      "id": "evt_76f80771",
-      "title": "伊朗称袭击了以伊朗油轮为目标的美国海军船只",
-      "summary": "美国军方表示，它拦截并回应了“无端”的伊朗袭击，并强调它不寻求升级。",
-      "date": "2026-05-07T21:11:00Z",
-      "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+      "id": "evt_b3a77419",
+      "title": "五角大楼发布伊朗油轮罢工视频",
+      "summary": "五角大楼发布的镜头显示，美国袭击了霍尔木兹海峡的两艘伊朗油轮。",
+      "date": "2026-05-08T22:31:37Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran says it attacked US Navy ships after they targeted Iranian tanker"
+        "en": "Pentagon releases video of strikes on Iranian oil tankers"
       }
     },
     {
-      "id": "evt_48c86d13",
-      "title": "参议员就以色列在黎巴嫩的流离失所运动向美军施压",
-      "summary": "在给中央司令部指挥官的信中， 12名民主党人对美国在以色列“大规模疏散区”可能扮演的角色提出了质疑。",
-      "date": "2026-05-07T20:53:11Z",
-      "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss",
+      "id": "evt_116d1c34",
+      "title": "半岛电视台记者目睹以色列对黎巴嫩的袭击",
+      "summary": "以色列在黎巴嫩南部的袭击有所增加。半岛电视台的Obaida Hitto在提尔报道。",
+      "date": "2026-05-08T19:20:23Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/7/senators-press-us-military-on-israels-displacement-campaign-in-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Senators press US military on Israel’s displacement campaign in Lebanon"
+        "en": "Al Jazeera reporter witnesses Israeli strikes on Lebanon"
       }
     },
     {
-      "id": "evt_593f349f",
-      "title": "巴勒斯坦人揭露以色列拘留期间的酷刑和性暴力",
-      "summary": "巴勒斯坦被拘留者和权利团体分享了关于强奸、性暴力和身体虐待的令人不安的叙述。",
-      "date": "2026-05-07T20:37:46Z",
-      "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
+      "id": "evt_f97c9847",
+      "title": "东盟领导人采取措施缓解伊朗战争造成的经济痛苦",
+      "summary": "该集团目前从中东进口一半以上的原油。",
+      "date": "2026-05-08T18:07:49Z",
+      "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -177,7 +121,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinians expose torture and sexual violence in Israeli detention"
+        "en": "ASEAN leaders adopt measures to ease economic pain caused by Iran war"
+      }
+    },
+    {
+      "id": "evt_6584a481",
+      "title": "伊朗指责美国“鲁莽的军事冒险”",
+      "summary": "阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，每次有外交解决方案时，美国都会进行攻击。",
+      "date": "2026-05-08T16:11:06Z",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran accuses US of 'reckless military adventure'"
       }
     },
     {
@@ -402,34 +374,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump says US to pause operation to guide vessels through Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_4d134d1f",
-      "title": "部长说，叙利亚的伊斯兰国家家庭已经预订了前往澳大利亚的门票",
-      "summary": "与伊斯兰国有联系的四名妇女和九名儿童在叙利亚难民营中度过了多年。",
-      "date": "2026-05-06T01:47:48Z",
-      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IS families in Syria have booked tickets home to Australia, minister says"
       }
     },
     {
