@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-09T02:12:07.560021Z
+// 自动生成的数据 - 更新时间: 2026-05-10T02:14:06.275245Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-09T02:12:07.559961Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-05-10T02:14:06.275181Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 17,
+      "international": 20,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_6f8d22eb",
-      "title": "伊朗战争现场：美国期待德黑兰对和平协议的回应；霍尔木兹的“冲突”",
-      "summary": "黎巴嫩国家通讯社称，以色列周五在黎巴嫩南部杀害了31人，其中包括一名救援人员。",
-      "date": "2026-05-09T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+      "id": "evt_76e7ea65",
+      "title": "卫星图像显示伊朗哈格岛附近可能有浮油",
+      "summary": "卫星图像捕获了伊朗哈格岛附近数十平方公里的疑似浮油。",
+      "date": "2026-05-10T01:23:32Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Satellite images show likely oil slick off Iran’s Kharg Island"
+      }
+    },
+    {
+      "id": "evt_4fd2fe92",
+      "title": "伊朗战争现场：伊斯兰革命卫队警告美国不要袭击船只；以色列轰炸黎巴嫩",
+      "summary": "德黑兰警告华盛顿不要袭击油轮，以色列在黎巴嫩杀害了24人。",
+      "date": "2026-05-10T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz"
+        "en": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon"
       }
     },
     {
-      "id": "evt_b3a77419",
-      "title": "五角大楼发布伊朗油轮罢工视频",
-      "summary": "五角大楼发布的镜头显示，美国袭击了霍尔木兹海峡的两艘伊朗油轮。",
-      "date": "2026-05-08T22:31:37Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+      "id": "evt_239a2261",
+      "title": "黎巴嫩说，以色列的罢工造成39人死亡",
+      "summary": "尽管上个月宣布了停火协议，但以色列和真主党仍在继续交火。",
+      "date": "2026-05-09T21:23:14Z",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pentagon releases video of strikes on Iranian oil tankers"
-      }
-    },
-    {
-      "id": "evt_116d1c34",
-      "title": "半岛电视台记者目睹以色列对黎巴嫩的袭击",
-      "summary": "以色列在黎巴嫩南部的袭击有所增加。半岛电视台的Obaida Hitto在提尔报道。",
-      "date": "2026-05-08T19:20:23Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Al Jazeera reporter witnesses Israeli strikes on Lebanon"
+        "en": "Lebanon says Israeli strikes killed 39"
       }
     },
     {
-      "id": "evt_f97c9847",
-      "title": "东盟领导人采取措施缓解伊朗战争造成的经济痛苦",
-      "summary": "该集团目前从中东进口一半以上的原油。",
-      "date": "2026-05-08T18:07:49Z",
-      "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
+      "id": "evt_5bcb7dee",
+      "title": "一人在加沙遇害，土耳其调频电台与哈马斯官员谈及和平努力",
+      "summary": "以色列继续违反10月份达成的“停火协议” ，在整个加沙地带还有数百人丧生。",
+      "date": "2026-05-09T21:10:43Z",
+      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official"
+      }
+    },
+    {
+      "id": "evt_05250e03",
+      "title": "巴勒斯坦家庭说，定居者强迫他们挖掘父亲的尸体",
+      "summary": "杰宁的一个巴勒斯坦家庭说，以色列定居者强迫他们在父亲葬礼几小时后挖掘出他们的父亲。",
+      "date": "2026-05-09T20:32:43Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian family says settlers forced them to exhume father’s body"
+      }
+    },
+    {
+      "id": "evt_7c5dcfa6",
+      "title": "三名警察在巴基斯坦西北部的汽车炸弹袭击中丧生",
+      "summary": "轰炸机和几名战斗人员在开伯尔-普赫图赫瓦省班努安全哨所附近引爆装有爆炸物的车辆。",
+      "date": "2026-05-09T20:29:37Z",
+      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,14 +177,98 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "ASEAN leaders adopt measures to ease economic pain caused by Iran war"
+        "en": "Three police officers killed in car bomb attack in northwest Pakistan"
+      }
+    },
+    {
+      "id": "evt_d4bf51a8",
+      "title": "以色列定居者迫使巴勒斯坦家庭挖掘并重新安葬他们的父亲",
+      "summary": "联合国谴责在被占领的约旦河西岸发生的对抗是“巴勒斯坦人被非人化的骇人听闻和象征”。",
+      "date": "2026-05-09T19:16:19Z",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli settlers force Palestinian family to exhume and rebury their father"
+      }
+    },
+    {
+      "id": "evt_f67ac7d5",
+      "title": "伊朗要求保证参加世界杯",
+      "summary": "伊朗足球联合会（ FFIRI ）向国际足联提出了参加美国、墨西哥和加拿大世界杯的10项条件。",
+      "date": "2026-05-09T18:44:01Z",
+      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran demands guarantees for World Cup participation"
+      }
+    },
+    {
+      "id": "evt_51d8d424",
+      "title": "叙利亚和黎巴嫩在共同利益谈判中取得“重大进展”",
+      "summary": "在大马士革，黎巴嫩总理和叙利亚总统讨论了安全、交通和能源等问题。",
+      "date": "2026-05-09T17:50:18Z",
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Syria and Lebanon make ‘significant progress’ at talks on joint interests"
       }
     },
     {
       "id": "evt_6584a481",
       "title": "伊朗指责美国“鲁莽的军事冒险”",
       "summary": "阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，每次有外交解决方案时，美国都会进行攻击。",
-      "date": "2026-05-08T16:11:06Z",
+      "date": "2026-05-09T06:13:30Z",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -265,34 +405,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_1653cc6b",
-      "title": "自真主党停火以来，以色列首次袭击贝鲁特",
-      "summary": "以色列表示，它针对的是首都的一名真主党高级人物，这是自4月中旬以来的首次此类罢工。",
-      "date": "2026-05-06T19:58:04Z",
-      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel strikes Beirut for first time since Hezbollah ceasefire"
-      }
-    },
-    {
       "id": "evt_835e39e6",
       "title": "特朗普对伊朗和平协议的希望伴随着警告",
       "summary": "有迹象表明，结束战争有新的势头，但特朗普本人也提出了谨慎的态度。",
@@ -402,34 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon"
-      }
-    },
-    {
-      "id": "evt_e44d76f5",
-      "title": "霍尔木兹海峡搁浅船只的船长告诉BBC “压力”",
-      "summary": "拉曼·卡普尔（ Raman Kapoor ）上尉的船是在美国和伊朗之间的权力斗争中被困在海峡中的几艘船之一。",
-      "date": "2026-05-05T18:28:35Z",
-      "url": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'"
       }
     },
     {
