@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-10T02:14:06.275245Z
+// 自动生成的数据 - 更新时间: 2026-05-11T02:32:39.595051Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-10T02:14:06.275181Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-05-11T02:32:39.594987Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 20,
+      "international": 21,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_76e7ea65",
-      "title": "卫星图像显示伊朗哈格岛附近可能有浮油",
-      "summary": "卫星图像捕获了伊朗哈格岛附近数十平方公里的疑似浮油。",
-      "date": "2026-05-10T01:23:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+      "id": "evt_6685ff50",
+      "title": "特朗普称伊朗对美国结束战争建议的回应“完全不可接受”",
+      "summary": "伊朗的回应或美国的提议旨在结束战争，目前尚未公布任何细节。",
+      "date": "2026-05-11T01:55:13Z",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Satellite images show likely oil slick off Iran’s Kharg Island"
+        "en": "Trump calls Iran response to US proposal to end war 'totally unacceptable'"
       }
     },
     {
-      "id": "evt_4fd2fe92",
-      "title": "伊朗战争现场：伊斯兰革命卫队警告美国不要袭击船只；以色列轰炸黎巴嫩",
-      "summary": "德黑兰警告华盛顿不要袭击油轮，以色列在黎巴嫩杀害了24人。",
-      "date": "2026-05-10T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+      "id": "evt_c3407e36",
+      "title": "病危的伊朗诺贝尔奖获得者获得保释和医院转院",
+      "summary": "伊朗当局批准了人权活动家纳格斯·穆罕默迪（ Narges Mohammadi ）的保释，因为她在监狱中的健康状况越来越糟糕。",
+      "date": "2026-05-11T00:40:45Z",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ailing Iran Nobel laureate given bail and hospital transfer"
+      }
+    },
+    {
+      "id": "evt_de97237e",
+      "title": "伊朗战争现场：特朗普抨击德黑兰的回复；以色列在黎巴嫩杀死2名医务人员",
+      "summary": "美国总统表示，德黑兰的回应“不可接受” ，因为伊朗军方警告说，如果美以战争恢复，伊朗已做好准备。",
+      "date": "2026-05-11T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +93,259 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon"
+        "en": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon"
+      }
+    },
+    {
+      "id": "evt_05efe873",
+      "title": "特朗普将在中国访问期间与习近平讨论伊朗问题：官员",
+      "summary": "美国总统可能会在战争期间向中国“施压”购买伊朗石油。",
+      "date": "2026-05-10T21:12:50Z",
+      "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump to discuss Iran with Xi Jinping during China visit: Officials"
+      }
+    },
+    {
+      "id": "evt_303d07d4",
+      "title": "以色列武器向黎巴嫩（如加沙）的人们发射微小的金属立方体",
+      "summary": "来自以色列炸弹的微小钨块正在对黎巴嫩人民造成毁灭性的内伤。",
+      "date": "2026-05-10T21:10:46Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza"
+      }
+    },
+    {
+      "id": "evt_32d71c9e",
+      "title": "伊朗活动人士告诉英国广播公司，对战争重启的恐惧加剧了镇压的创伤",
+      "summary": "德黑兰的一名持不同政见者说，她感到无助，并承受着巨大的心理压力。",
+      "date": "2026-05-10T21:01:17Z",
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression"
+      }
+    },
+    {
+      "id": "evt_312e31a2",
+      "title": "美国犹太领袖、以色列倡导者安倍晋三去世享年86岁",
+      "summary": "以色列官员称赞福克斯曼热情洋溢，他领导ADL倡导组织将近三十年。",
+      "date": "2026-05-10T20:52:48Z",
+      "url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US Jewish leader, Israel advocate Abe Foxman dies at 86"
+      }
+    },
+    {
+      "id": "evt_acfdac0b",
+      "title": "加沙志愿者在受灾的希法医院种植橄榄树",
+      "summary": "希法医院的志愿者清理了瓦砾，并在院子里种植了橄榄树，作为希望的象征。",
+      "date": "2026-05-10T19:01:20Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital"
+      }
+    },
+    {
+      "id": "evt_701318d4",
+      "title": "在以色列过去24小时对黎巴嫩的袭击中丧生的51名医务人员",
+      "summary": "以色列在黎巴嫩南部的袭击正在加剧，自4月16日“停火”开始以来，已有552人丧生。",
+      "date": "2026-05-10T19:01:09Z",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours"
+      }
+    },
+    {
+      "id": "evt_ecd21152",
+      "title": "伊朗可能“保证使用核设施”",
+      "summary": "伊朗可能会就核设施进行谈判，但它“不会销毁铀或允许铀被转移”",
+      "date": "2026-05-10T17:29:35Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran may ‘give assurances on the use of nuclear facilities’"
+      }
+    },
+    {
+      "id": "evt_a60684c0",
+      "title": "特朗普表示美国不会允许伊朗达到浓缩铀",
+      "summary": "美国总统表示，华盛顿对伊朗的核材料进行了“监视” ，并将“炸毁”任何接近它的人。",
+      "date": "2026-05-10T17:22:18Z",
+      "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US will not allow Iran to reach enriched uranium"
+      }
+    },
+    {
+      "id": "evt_b9b9d841",
+      "title": "粮食膨胀打击受战争打击的伊朗家庭",
+      "summary": "随着通货膨胀的飙升，伊朗人面临着食品价格的飙升，在美国实施的海上封锁中，货币暴跌。",
+      "date": "2026-05-10T16:37:10Z",
+      "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Food inflation hammers households in war-hit Iran"
       }
     },
     {
@@ -97,118 +377,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_5bcb7dee",
-      "title": "一人在加沙遇害，土耳其调频电台与哈马斯官员谈及和平努力",
-      "summary": "以色列继续违反10月份达成的“停火协议” ，在整个加沙地带还有数百人丧生。",
-      "date": "2026-05-09T21:10:43Z",
-      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official"
-      }
-    },
-    {
-      "id": "evt_05250e03",
-      "title": "巴勒斯坦家庭说，定居者强迫他们挖掘父亲的尸体",
-      "summary": "杰宁的一个巴勒斯坦家庭说，以色列定居者强迫他们在父亲葬礼几小时后挖掘出他们的父亲。",
-      "date": "2026-05-09T20:32:43Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian family says settlers forced them to exhume father’s body"
-      }
-    },
-    {
-      "id": "evt_7c5dcfa6",
-      "title": "三名警察在巴基斯坦西北部的汽车炸弹袭击中丧生",
-      "summary": "轰炸机和几名战斗人员在开伯尔-普赫图赫瓦省班努安全哨所附近引爆装有爆炸物的车辆。",
-      "date": "2026-05-09T20:29:37Z",
-      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Three police officers killed in car bomb attack in northwest Pakistan"
-      }
-    },
-    {
-      "id": "evt_d4bf51a8",
-      "title": "以色列定居者迫使巴勒斯坦家庭挖掘并重新安葬他们的父亲",
-      "summary": "联合国谴责在被占领的约旦河西岸发生的对抗是“巴勒斯坦人被非人化的骇人听闻和象征”。",
-      "date": "2026-05-09T19:16:19Z",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli settlers force Palestinian family to exhume and rebury their father"
-      }
-    },
-    {
       "id": "evt_f67ac7d5",
       "title": "伊朗要求保证参加世界杯",
       "summary": "伊朗足球联合会（ FFIRI ）向国际足联提出了参加美国、墨西哥和加拿大世界杯的10项条件。",
@@ -234,34 +402,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran demands guarantees for World Cup participation"
-      }
-    },
-    {
-      "id": "evt_51d8d424",
-      "title": "叙利亚和黎巴嫩在共同利益谈判中取得“重大进展”",
-      "summary": "在大马士革，黎巴嫩总理和叙利亚总统讨论了安全、交通和能源等问题。",
-      "date": "2026-05-09T17:50:18Z",
-      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria and Lebanon make ‘significant progress’ at talks on joint interests"
       }
     },
     {
@@ -349,34 +489,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_1338507f",
-      "title": "伊朗考虑美国的提议，因为特朗普表示战争将“很快结束”",
-      "summary": "调解员巴基斯坦表示，它“正在努力将这次停火转化为永久结束这场战争”。",
-      "date": "2026-05-07T04:06:33Z",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran considering US proposal as Trump says war will be 'over quickly'"
-      }
-    },
-    {
       "id": "evt_b8683e8f",
       "title": "海湾经济体面临伊朗冲突的长期打击",
       "summary": "评论员表示，修复损坏需要数年甚至数十年的时间。",
@@ -405,34 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_835e39e6",
-      "title": "特朗普对伊朗和平协议的希望伴随着警告",
-      "summary": "有迹象表明，结束战争有新的势头，但特朗普本人也提出了谨慎的态度。",
-      "date": "2026-05-06T17:32:04Z",
-      "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump's hopes for an Iran peace deal come with caveats"
-      }
-    },
-    {
       "id": "evt_4a6763e1",
       "title": "中国呼吁在伊朗会谈中“尽快”重新开放海峡",
       "summary": "王毅正在与伊朗外长阿拉格奇举行会谈，阿拉格奇是自战争开始以来首次访问中国。",
@@ -458,34 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "China calls for Strait to be reopened 'as soon as possible' in Iran talks"
-      }
-    },
-    {
-      "id": "evt_4bf46705",
-      "title": "特朗普表示，美国暂停行动，引导船只通过霍尔木兹海峡",
-      "summary": "这位美国总统说，周一开始的“自由项目”将停止，因为在与伊朗达成协议方面已经取得了进展。",
-      "date": "2026-05-06T02:18:45Z",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says US to pause operation to guide vessels through Strait of Hormuz"
       }
     },
     {
@@ -542,34 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war"
-      }
-    },
-    {
-      "id": "evt_e7e1802d",
-      "title": "一些伊朗人担心政权现在更加根深蒂固-并准备报复",
-      "summary": "普通伊朗人说，他们担心战争结束后当局的镇压会加剧。",
-      "date": "2026-05-03T23:19:57Z",
-      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Some Iranians fear the regime is now more entrenched - and ready for revenge"
       }
     },
     {
