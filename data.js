@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-12T02:26:12.042068Z
+// 自动生成的数据 - 更新时间: 2026-05-13T02:32:17.900231Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-12T02:26:12.042009Z",
-    "totalEvents": 29,
+    "lastUpdate": "2026-05-13T02:32:17.900174Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 17,
+      "international": 19,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_5c59b1da",
-      "title": "叙利亚恢复信用卡支付，努力重返全球经济",
-      "summary": "叙利亚恢复信用卡支付，努力重新加入全球经济。",
-      "date": "2026-05-12T01:58:48Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/syria-restores-credit-card-payments-in-effort-to-rejoin-the-global-economy?traffic_source=rss",
+      "id": "evt_264453bb",
+      "title": "伊朗战争现场：特朗普前往中国，因为与德黑兰的冲突迫在眉睫",
+      "summary": "黎巴嫩卫生部表示，自3月2日以来，以色列对黎巴嫩的袭击已造成2,883人死亡， 8,787人受伤。",
+      "date": "2026-05-13T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/syria-restores-credit-card-payments-in-effort-to-rejoin-the-global-economy?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria restores credit card payments in effort to rejoin the global economy"
-      }
-    },
-    {
-      "id": "evt_1da28c82",
-      "title": "伊朗战争现场：特朗普抨击伊朗的提议，因为停火悬而未决",
-      "summary": "伊朗强大的议会议长表示，美国“别无选择，只能接受”德黑兰关于结束战争的14点建议。",
-      "date": "2026-05-12T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,23 +37,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread"
+        "en": "Iran war live: Trump travels to China as conflict with Tehran looms large"
       }
     },
     {
-      "id": "evt_65736b48",
-      "title": "拉明·亚马尔在巴塞罗那庆祝西甲联赛胜利时挥舞着巴勒斯坦国旗",
-      "summary": "在足球联赛胜利后的敞篷巴士游行中，成千上万的巴萨球迷聚集在西班牙城市的街道上。",
-      "date": "2026-05-11T20:44:41Z",
-      "url": "https://www.aljazeera.com/news/2026/5/11/lamine-yamal-waves-palestine-flag-as-barcelona-celebrate-la-liga-win?traffic_source=rss",
+      "id": "evt_00758a91",
+      "title": "特朗普表示，在前往北京期间，他不需要中国在伊朗战争方面的帮助",
+      "summary": "特朗普在与中国习近平即将举行的会谈中就伊朗战争的突出地位发出了相互矛盾的信息，强调贸易。",
+      "date": "2026-05-12T21:02:19Z",
+      "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/11/lamine-yamal-waves-palestine-flag-as-barcelona-celebrate-la-liga-win?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -93,20 +65,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Lamine Yamal waves Palestine flag as Barcelona celebrate La Liga win"
+        "en": "Trump says he doesn’t need China’s help on Iran war as he heads to Beijing"
       }
     },
     {
-      "id": "evt_1e78d6bb",
-      "title": "在数月的僵局之后，欧盟对暴力的以色列定居者实施制裁",
-      "summary": "新的欧盟制裁方案针对的是暴力的以色列定居者和定居者组织的资产。",
-      "date": "2026-05-11T20:31:54Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
+      "id": "evt_c7d74b79",
+      "title": "戛纳评委谴责好莱坞抵制加沙战争观点的演员",
+      "summary": "2026年戛纳电影节评委Paul Laverty谴责好莱坞抵制反对加沙战争的演员。",
+      "date": "2026-05-12T20:55:57Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Cannes juror denounces Hollywood boycott of actors for Gaza war views"
+      }
+    },
+    {
+      "id": "evt_0db8f2d7",
+      "title": "在林赛·格雷厄姆（ Lindsey Graham ）的批评下，特朗普支持巴基斯坦担任伊朗调",
+      "summary": "美国总统称赞伊斯兰堡，但他的共和党盟友表示，他不相信巴基斯坦会为伊朗外交提供便利。",
+      "date": "2026-05-12T20:24:30Z",
+      "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham"
+      }
+    },
+    {
+      "id": "evt_f7e336d1",
+      "title": "为什么伊朗的战争信息越来越多地针对阿联酋？",
+      "summary": "阿联酋与美国和以色列的密切关系使这个海湾国家受到伊朗的怀疑。",
+      "date": "2026-05-12T19:37:09Z",
+      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "EU sanctions violent Israeli settlers after months of deadlock"
+        "en": "Why is Iran increasingly targeting the UAE in its war messaging?"
       }
     },
     {
-      "id": "evt_7b0b9ca4",
-      "title": "欧盟同意对以色列约旦河西岸定居者、哈马斯领导人实施制裁",
-      "summary": "期待已久的协议是在匈牙利新政府放弃否决权之后达成的。",
-      "date": "2026-05-11T19:10:18Z",
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
+      "id": "evt_0d709d53",
+      "title": "以色列调查称，哈马斯在10月7日的袭击中“武器化”性暴力",
+      "summary": "同类报告中最全面的报告详细描述了令人痛心的性侵犯案件，报告称这些案件是系统性的。",
+      "date": "2026-05-12T16:58:51Z",
+      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,7 +177,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders"
+        "en": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says"
+      }
+    },
+    {
+      "id": "evt_5dc699a3",
+      "title": "英国广播公司揭露大多数小船过境点背后的网络中的关键人物走私者",
+      "summary": "这位28岁的伊拉克库尔德人通过别名“Kardo Ranya”逃避逮捕。",
+      "date": "2026-05-12T11:01:34Z",
+      "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BBC unmasks key people smuggler in network behind most small boat crossings"
+      }
+    },
+    {
+      "id": "evt_3af69183",
+      "title": "以色列通过法律，允许对与10月7日有关的人判处死刑和公开审判",
+      "summary": "以色列通过了一项法律，允许对参与前所未有的哈马斯领导的袭击的人判处死刑和公开审判。",
+      "date": "2026-05-12T04:11:42Z",
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel passes law to allow death penalty and public trials for those linked to 7 October"
+      }
+    },
+    {
+      "id": "evt_ce22c3f2",
+      "title": "特朗普称伊朗停火是“大规模生命支持”",
+      "summary": "这位美国总统批评伊朗提出的结束战争的反要约，并表示长达一个月的停火“令人难以置信地薄弱”。",
+      "date": "2026-05-12T00:59:12Z",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says Iran ceasefire is on 'massive life support'"
+      }
+    },
+    {
+      "id": "evt_356d23cf",
+      "title": "欧盟同意因约旦河西岸暴力事件对以色列定居者实施制裁",
+      "summary": "欧盟外交政策负责人表示， “极端主义和暴力会带来后果” ，而以色列则认为此举“武断”。",
+      "date": "2026-05-11T19:37:17Z",
+      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "EU agrees sanctions on Israeli settlers over West Bank violence"
       }
     },
     {
@@ -573,6 +713,34 @@ const siteData = {
       }
     },
     {
+      "id": "evt_6f3822c3",
+      "title": "以色列驱逐两名被拘留在加沙船队上的活动人士",
+      "summary": "西班牙国民赛义夫·阿布·凯舍克（ Saif Abu Keshek ）和巴西人蒂亚戈·阿维拉（ Thiago Ávila ）乘坐前往加沙的援助船队被以色列拘留。",
+      "date": "2026-05-10T11:55:09Z",
+      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel deports two activists detained on board Gaza flotilla"
+      }
+    },
+    {
       "id": "evt_239a2261",
       "title": "黎巴嫩说，以色列的罢工造成39人死亡",
       "summary": "尽管上个月宣布了停火协议，但以色列和真主党仍在继续交火。",
@@ -710,118 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Fears of renewed Gaza war as Hamas disarmament talks stall"
-      }
-    },
-    {
-      "id": "evt_b8683e8f",
-      "title": "海湾经济体面临伊朗冲突的长期打击",
-      "summary": "评论员表示，修复损坏需要数年甚至数十年的时间。",
-      "date": "2026-05-06T23:06:17Z",
-      "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gulf economies face long-term hit from Iran conflict"
-      }
-    },
-    {
-      "id": "evt_4a6763e1",
-      "title": "中国呼吁在伊朗会谈中“尽快”重新开放海峡",
-      "summary": "王毅正在与伊朗外长阿拉格奇举行会谈，阿拉格奇是自战争开始以来首次访问中国。",
-      "date": "2026-05-06T09:35:39Z",
-      "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "China calls for Strait to be reopened 'as soon as possible' in Iran talks"
-      }
-    },
-    {
-      "id": "evt_92fdac01",
-      "title": "英国广播公司追踪以色列轰炸10分钟如何给黎巴嫩带来破坏",
-      "summary": "炸弹于下午14:15开始坠落，给全国带来了混乱和破坏。",
-      "date": "2026-05-05T21:22:31Z",
-      "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon"
-      }
-    },
-    {
-      "id": "evt_c07a40a2",
-      "title": "鲍恩：霍尔木兹海峡对峙增加了再次陷入全面战争的风险",
-      "summary": "美国和伊朗决心保持对彼此的压力，这使脆弱的海湾停火面临严重威胁。",
-      "date": "2026-05-05T11:38:03Z",
-      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war"
       }
     }
   ]
