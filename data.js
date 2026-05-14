@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-13T02:32:17.900231Z
+// 自动生成的数据 - 更新时间: 2026-05-14T02:33:28.132227Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-13T02:32:17.900174Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-05-14T02:33:28.132166Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 19,
+      "international": 21,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,16 +13,72 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_264453bb",
-      "title": "伊朗战争现场：特朗普前往中国，因为与德黑兰的冲突迫在眉睫",
-      "summary": "黎巴嫩卫生部表示，自3月2日以来，以色列对黎巴嫩的袭击已造成2,883人死亡， 8,787人受伤。",
-      "date": "2026-05-13T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
+      "id": "evt_22806946",
+      "title": "家人要求释放被索马里海盗抓获的巴基斯坦船员",
+      "summary": "被索马里海盗劫持为人质的10名巴基斯坦船员的家人在卡拉奇集会，要求释放他们。",
+      "date": "2026-05-14T01:51:38Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Families demand release of Pakistani crew captured by Somali pirates"
+      }
+    },
+    {
+      "id": "evt_d130ad7f",
+      "title": "特朗普-习近平峰会现场直播：美国、中国领导人将就贸易、科技、伊朗问题举行会谈",
+      "summary": "特朗普和习近平的峰会正值全球经济的关键时刻，因为对伊朗的战争继续扰乱贸易。",
+      "date": "2026-05-14T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump-Xi summit live: US, China leaders to hold talks on trade, tech, Iran"
+      }
+    },
+    {
+      "id": "evt_7907fe02",
+      "title": "伊朗战争现场：德黑兰抨击“勾结” ，内塔尼亚胡“秘密”访问阿联酋",
+      "summary": "伊朗第一副总统表示，德黑兰对霍尔木兹海峡的“权利”已经“确立，此事已经结束”。",
+      "date": "2026-05-14T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,104 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump travels to China as conflict with Tehran looms large"
+        "en": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE"
       }
     },
     {
-      "id": "evt_00758a91",
-      "title": "特朗普表示，在前往北京期间，他不需要中国在伊朗战争方面的帮助",
-      "summary": "特朗普在与中国习近平即将举行的会谈中就伊朗战争的突出地位发出了相互矛盾的信息，强调贸易。",
-      "date": "2026-05-12T21:02:19Z",
-      "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss",
+      "id": "evt_3cbfe622",
+      "title": "由于停火未能阻止与以色列的战争，真主党的支持在黎巴嫩南部持续",
+      "summary": "尽管以色列继续进行袭击和占领，但南部的许多人仍然认为武装团体是唯一能够捍卫他们的力量。",
+      "date": "2026-05-13T23:22:07Z",
+      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says he doesn’t need China’s help on Iran war as he heads to Beijing"
-      }
-    },
-    {
-      "id": "evt_c7d74b79",
-      "title": "戛纳评委谴责好莱坞抵制加沙战争观点的演员",
-      "summary": "2026年戛纳电影节评委Paul Laverty谴责好莱坞抵制反对加沙战争的演员。",
-      "date": "2026-05-12T20:55:57Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Cannes juror denounces Hollywood boycott of actors for Gaza war views"
-      }
-    },
-    {
-      "id": "evt_0db8f2d7",
-      "title": "在林赛·格雷厄姆（ Lindsey Graham ）的批评下，特朗普支持巴基斯坦担任伊朗调",
-      "summary": "美国总统称赞伊斯兰堡，但他的共和党盟友表示，他不相信巴基斯坦会为伊朗外交提供便利。",
-      "date": "2026-05-12T20:24:30Z",
-      "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham"
-      }
-    },
-    {
-      "id": "evt_f7e336d1",
-      "title": "为什么伊朗的战争信息越来越多地针对阿联酋？",
-      "summary": "阿联酋与美国和以色列的密切关系使这个海湾国家受到伊朗的怀疑。",
-      "date": "2026-05-12T19:37:09Z",
-      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,7 +121,287 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Why is Iran increasingly targeting the UAE in its war messaging?"
+        "en": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel"
+      }
+    },
+    {
+      "id": "evt_4691e60f",
+      "title": "内塔尼亚胡说，他在与伊朗的战争期间“秘密访问”了阿联酋",
+      "summary": "阿联酋否认有关“涉嫌访问”的报道，并坚称两国之间的关系并非基于“非官方安排”。",
+      "date": "2026-05-13T22:30:34Z",
+      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu says he 'secretly visited' UAE during war with Iran"
+      }
+    },
+    {
+      "id": "evt_f6918e33",
+      "title": "为在以色列袭击中丧生的两名黎巴嫩医护人员举行葬礼",
+      "summary": "数百名哀悼者聚集在以色列罢工中丧生的两名黎巴嫩护理人员的葬礼上",
+      "date": "2026-05-13T21:15:59Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Funeral held for two Lebanese paramedics killed in Israeli attack"
+      }
+    },
+    {
+      "id": "evt_c6f16fcc",
+      "title": "以色列在黎巴嫩南部的空袭造成22人死亡，卫生部表示",
+      "summary": "据报道，在一系列空袭袭击贝鲁特南部后，有8名儿童死亡。",
+      "date": "2026-05-13T21:14:45Z",
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli strikes in southern Lebanon kill 22 people, health ministry says"
+      }
+    },
+    {
+      "id": "evt_0a8a4eb0",
+      "title": "菲利普·戴维斯和进步自由党赢得巴哈马大选",
+      "summary": "这场胜利标志着三十年来巴哈马政党首次注意到连续大选的胜利。",
+      "date": "2026-05-13T21:07:45Z",
+      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Philip Davis and Progressive Liberal Party win general election in Bahamas"
+      }
+    },
+    {
+      "id": "evt_122fcde6",
+      "title": "人群聚集在德黑兰，送走伊朗世界杯球队",
+      "summary": "大量人群聚集在德黑兰的革命广场，庆祝并送走伊朗国家足球队。",
+      "date": "2026-05-13T20:54:04Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Crowds gather in Tehran to send off Iran’s World Cup team"
+      }
+    },
+    {
+      "id": "evt_b98c4c25",
+      "title": "共和党人打破行列，但参议院未能遏制特朗普的伊朗战争权力",
+      "summary": "该法案未能通过，但投票显示，共和党对美国-以色列对伊朗战争的支持正在增加。",
+      "date": "2026-05-13T19:53:31Z",
+      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers"
+      }
+    },
+    {
+      "id": "evt_a0f69594",
+      "title": "和平特使说，哈马斯可以通过放弃武器和武装冲突在政治上生存",
+      "summary": "尼古拉·姆拉德诺夫（ Nickolay Mladenov ）还警告说，目前围绕唐纳德·特朗普（ Donald Trump ）和平计划的僵局可能导致该领土的永久",
+      "date": "2026-05-13T18:41:25Z",
+      "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hamas can survive politically by giving up weapons and armed conflict, peace envoy says"
+      }
+    },
+    {
+      "id": "evt_9a546189",
+      "title": "以色列进入欧洲电视网对半决赛期间的抗议活动感到“震惊”",
+      "summary": "诺姆·贝坦（ Noam Bettan ）周二晚上在维也纳表演时，受到了欢呼，嘘声和颂歌的混合。",
+      "date": "2026-05-13T17:05:44Z",
+      "url": "https://www.bbc.com/news/articles/ckgpjx4503zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ckgpjx4503zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel's Eurovision entry 'shocked' by protests during semi-final show"
+      }
+    },
+    {
+      "id": "evt_f13ef788",
+      "title": "加沙姐妹因将废墟变成可重复使用的砖块而获奖",
+      "summary": "流离失所的青少年法拉和塔拉想要“把毁灭变成有用的东西”。",
+      "date": "2026-05-13T11:44:48Z",
+      "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza sisters win prize for turning rubble into reusable bricks"
+      }
+    },
+    {
+      "id": "evt_b45d5a2a",
+      "title": "黎巴嫩说，在以色列罢工中丧生的13人中有两名医护人员",
+      "summary": "黎巴嫩卫生部表示，医护人员正在Nabatieh执行救援任务，以应对早些时候造成一人死亡的袭击事件。",
+      "date": "2026-05-12T20:00:05Z",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon says two paramedics among 13 killed in Israeli strikes"
       }
     },
     {
@@ -682,202 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump calls Iran response to US proposal to end war 'totally unacceptable'"
-      }
-    },
-    {
-      "id": "evt_32d71c9e",
-      "title": "伊朗活动人士告诉英国广播公司，对战争重启的恐惧加剧了镇压的创伤",
-      "summary": "德黑兰的一名持不同政见者说，她感到无助，并承受着巨大的心理压力。",
-      "date": "2026-05-10T21:01:17Z",
-      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian activist tells BBC how fear of war restarting intensifies trauma of repression"
-      }
-    },
-    {
-      "id": "evt_6f3822c3",
-      "title": "以色列驱逐两名被拘留在加沙船队上的活动人士",
-      "summary": "西班牙国民赛义夫·阿布·凯舍克（ Saif Abu Keshek ）和巴西人蒂亚戈·阿维拉（ Thiago Ávila ）乘坐前往加沙的援助船队被以色列拘留。",
-      "date": "2026-05-10T11:55:09Z",
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel deports two activists detained on board Gaza flotilla"
-      }
-    },
-    {
-      "id": "evt_239a2261",
-      "title": "黎巴嫩说，以色列的罢工造成39人死亡",
-      "summary": "尽管上个月宣布了停火协议，但以色列和真主党仍在继续交火。",
-      "date": "2026-05-09T21:23:14Z",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon says Israeli strikes killed 39"
-      }
-    },
-    {
-      "id": "evt_f67ac7d5",
-      "title": "伊朗要求保证参加世界杯",
-      "summary": "伊朗足球联合会（ FFIRI ）向国际足联提出了参加美国、墨西哥和加拿大世界杯的10项条件。",
-      "date": "2026-05-09T18:44:01Z",
-      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran demands guarantees for World Cup participation"
-      }
-    },
-    {
-      "id": "evt_6584a481",
-      "title": "伊朗指责美国“鲁莽的军事冒险”",
-      "summary": "阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，每次有外交解决方案时，美国都会进行攻击。",
-      "date": "2026-05-09T06:13:30Z",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran accuses US of 'reckless military adventure'"
-      }
-    },
-    {
-      "id": "evt_829acee5",
-      "title": "以色列军方调查士兵对黎巴嫩圣母玛利亚雕像的行为",
-      "summary": "这名士兵被拍到在雕像嘴里放一支烟，这是几周内针对一名基督徒人物的第二次事件。",
-      "date": "2026-05-07T14:38:34Z",
-      "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli military investigates soldier's act against Virgin Mary statue in Lebanon"
-      }
-    },
-    {
-      "id": "evt_f2f4eebb",
-      "title": "由于哈马斯解除武装谈判陷入僵局，人们担心加沙战争重新爆发",
-      "summary": "以色列媒体报道称，由于与哈马斯的谈判陷入僵局，以色列正准备恢复战斗。",
-      "date": "2026-05-07T14:22:20Z",
-      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Fears of renewed Gaza war as Hamas disarmament talks stall"
       }
     }
   ]
