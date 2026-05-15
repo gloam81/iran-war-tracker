@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-05-14T02:33:28.132227Z
+// 自动生成的数据 - 更新时间: 2026-05-15T02:33:09.942048Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-14T02:33:28.132166Z",
+    "lastUpdate": "2026-05-15T02:33:09.941988Z",
     "totalEvents": 33,
     "sources": {
       "international": 21,
@@ -13,51 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_22806946",
-      "title": "家人要求释放被索马里海盗抓获的巴基斯坦船员",
-      "summary": "被索马里海盗劫持为人质的10名巴基斯坦船员的家人在卡拉奇集会，要求释放他们。",
-      "date": "2026-05-14T01:51:38Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss",
+      "id": "evt_50165dc5",
+      "title": "欧洲电视网支持针对以色列参与的新抗议活动",
+      "summary": "欧洲电视网即将进入总决赛，但组织者正准备迎接更多反对以色列的示威活动。",
+      "date": "2026-05-15T00:35:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Families demand release of Pakistani crew captured by Somali pirates"
-      }
-    },
-    {
-      "id": "evt_d130ad7f",
-      "title": "特朗普-习近平峰会现场直播：美国、中国领导人将就贸易、科技、伊朗问题举行会谈",
-      "summary": "特朗普和习近平的峰会正值全球经济的关键时刻，因为对伊朗的战争继续扰乱贸易。",
-      "date": "2026-05-14T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump-Xi summit live: US, China leaders to hold talks on trade, tech, Iran"
+        "en": "Eurovision braces for new protests over Israel’s participation"
       }
     },
     {
-      "id": "evt_7907fe02",
-      "title": "伊朗战争现场：德黑兰抨击“勾结” ，内塔尼亚胡“秘密”访问阿联酋",
-      "summary": "伊朗第一副总统表示，德黑兰对霍尔木兹海峡的“权利”已经“确立，此事已经结束”。",
-      "date": "2026-05-14T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss",
+      "id": "evt_fd53e421",
+      "title": "伊朗战争现场：特朗普对中国的访问因与德黑兰的冲突而蒙上阴影",
+      "summary": "伊朗外交部长表示，伊朗人“从不屈服于压力” ，与德黑兰的问题没有军事解决方案。",
+      "date": "2026-05-15T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,7 +65,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE"
+        "en": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran"
+      }
+    },
+    {
+      "id": "evt_3850cd8c",
+      "title": "伊朗战争会引发饥饿危机吗？",
+      "summary": "联合国警告说，霍尔木兹海峡的干扰可能会推高粮食和化肥成本，并加剧全球饥饿。",
+      "date": "2026-05-14T21:00:00Z",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Could Iran war trigger a hunger crisis?"
+      }
+    },
+    {
+      "id": "evt_c6489ef3",
+      "title": "“中国正在从美国在伊朗的所作所为中获益”",
+      "summary": "地缘政治分析师史蒂夫·奥昆（ Steve Okun ）表示，中国正在从对伊朗的战争中受益。",
+      "date": "2026-05-14T20:56:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘China is gaining from what the US is doing in Iran’"
+      }
+    },
+    {
+      "id": "evt_9514317d",
+      "title": "随着与以色列的直接会谈取得进展，黎巴嫩持谨慎乐观态度",
+      "summary": "黎巴嫩官员希望，在美国举行的为期两天的大使级谈判将产生新的停火协议。",
+      "date": "2026-05-14T20:25:19Z",
+      "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Cautious optimism in Lebanon as direct talks with Israel progress"
+      }
+    },
+    {
+      "id": "evt_e460e5a0",
+      "title": "伊朗外交部长敦促金砖国家谴责美以侵略",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）周四在新德里举行的外交部长会议上发表讲话。",
+      "date": "2026-05-14T20:20:48Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s FM urges BRICS states to condemn US-Israeli aggression"
+      }
+    },
+    {
+      "id": "evt_14c29204",
+      "title": "伊朗、台湾和贸易：特朗普的高风险重返北京",
+      "summary": "特朗普九年来首次在北京会见习近平，贸易战、台湾和伊朗的紧张局势能否得到遏制？",
+      "date": "2026-05-14T19:34:25Z",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing"
+      }
+    },
+    {
+      "id": "evt_567346e1",
+      "title": "据报道， “浮动军械库”船被伊朗扣押",
+      "summary": "据报道，一艘据称是阿曼湾“浮动军械库”的船只已被伊朗军方人员扣押。",
+      "date": "2026-05-14T13:33:20Z",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Floating armoury' ship reportedly seized by Iran"
       }
     },
     {
@@ -153,34 +293,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_f6918e33",
-      "title": "为在以色列袭击中丧生的两名黎巴嫩医护人员举行葬礼",
-      "summary": "数百名哀悼者聚集在以色列罢工中丧生的两名黎巴嫩护理人员的葬礼上",
-      "date": "2026-05-13T21:15:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Funeral held for two Lebanese paramedics killed in Israeli attack"
-      }
-    },
-    {
       "id": "evt_c6f16fcc",
       "title": "以色列在黎巴嫩南部的空袭造成22人死亡，卫生部表示",
       "summary": "据报道，在一系列空袭袭击贝鲁特南部后，有8名儿童死亡。",
@@ -206,90 +318,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israeli strikes in southern Lebanon kill 22 people, health ministry says"
-      }
-    },
-    {
-      "id": "evt_0a8a4eb0",
-      "title": "菲利普·戴维斯和进步自由党赢得巴哈马大选",
-      "summary": "这场胜利标志着三十年来巴哈马政党首次注意到连续大选的胜利。",
-      "date": "2026-05-13T21:07:45Z",
-      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Philip Davis and Progressive Liberal Party win general election in Bahamas"
-      }
-    },
-    {
-      "id": "evt_122fcde6",
-      "title": "人群聚集在德黑兰，送走伊朗世界杯球队",
-      "summary": "大量人群聚集在德黑兰的革命广场，庆祝并送走伊朗国家足球队。",
-      "date": "2026-05-13T20:54:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/crowds-gather-in-tehran-to-send-off-irans-world-cup-team?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Crowds gather in Tehran to send off Iran’s World Cup team"
-      }
-    },
-    {
-      "id": "evt_b98c4c25",
-      "title": "共和党人打破行列，但参议院未能遏制特朗普的伊朗战争权力",
-      "summary": "该法案未能通过，但投票显示，共和党对美国-以色列对伊朗战争的支持正在增加。",
-      "date": "2026-05-13T19:53:31Z",
-      "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Republicans break ranks, but Senate fails to curb Trump’s Iran war powers"
       }
     },
     {
@@ -906,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ghalenoei: football in Asia has become competitive"
-      }
-    },
-    {
-      "id": "evt_6685ff50",
-      "title": "特朗普称伊朗对美国结束战争建议的回应“完全不可接受”",
-      "summary": "据报道，伊朗希望解除美国的海上封锁，承认伊朗对霍尔木兹海峡的主权，并赔偿战争损失。",
-      "date": "2026-05-11T01:55:13Z",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump calls Iran response to US proposal to end war 'totally unacceptable'"
       }
     }
   ]
