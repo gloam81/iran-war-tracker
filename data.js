@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-15T02:33:09.942048Z
+// 自动生成的数据 - 更新时间: 2026-05-16T02:14:57.263819Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-15T02:33:09.941988Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-05-16T02:14:57.263763Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 21,
+      "international": 19,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_50165dc5",
-      "title": "欧洲电视网支持针对以色列参与的新抗议活动",
-      "summary": "欧洲电视网即将进入总决赛，但组织者正准备迎接更多反对以色列的示威活动。",
-      "date": "2026-05-15T00:35:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
+      "id": "evt_6ea7e3af",
+      "title": "伊朗战争现场：黎巴嫩、以色列延长休战；德黑兰为更多美国会谈做好准备",
+      "summary": "黎巴嫩卫生部表示，自3月2日以来，以色列的袭击已造成2951人死亡，至少8988人受伤。",
+      "date": "2026-05-16T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Eurovision braces for new protests over Israel’s participation"
-      }
-    },
-    {
-      "id": "evt_fd53e421",
-      "title": "伊朗战争现场：特朗普对中国的访问因与德黑兰的冲突而蒙上阴影",
-      "summary": "伊朗外交部长表示，伊朗人“从不屈服于压力” ，与德黑兰的问题没有军事解决方案。",
-      "date": "2026-05-15T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,76 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran"
+        "en": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks"
       }
     },
     {
-      "id": "evt_3850cd8c",
-      "title": "伊朗战争会引发饥饿危机吗？",
-      "summary": "联合国警告说，霍尔木兹海峡的干扰可能会推高粮食和化肥成本，并加剧全球饥饿。",
-      "date": "2026-05-14T21:00:00Z",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+      "id": "evt_6b2e9a92",
+      "title": "黎巴嫩表示，在美国宣布延长停火期限之际，有6人在以色列罢工中丧生",
+      "summary": "特朗普总统上个月宣布休战，但以色列和真主党此后继续交火。",
+      "date": "2026-05-15T23:59:07Z",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Could Iran war trigger a hunger crisis?"
-      }
-    },
-    {
-      "id": "evt_c6489ef3",
-      "title": "“中国正在从美国在伊朗的所作所为中获益”",
-      "summary": "地缘政治分析师史蒂夫·奥昆（ Steve Okun ）表示，中国正在从对伊朗的战争中受益。",
-      "date": "2026-05-14T20:56:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘China is gaining from what the US is doing in Iran’"
-      }
-    },
-    {
-      "id": "evt_9514317d",
-      "title": "随着与以色列的直接会谈取得进展，黎巴嫩持谨慎乐观态度",
-      "summary": "黎巴嫩官员希望，在美国举行的为期两天的大使级谈判将产生新的停火协议。",
-      "date": "2026-05-14T20:25:19Z",
-      "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Cautious optimism in Lebanon as direct talks with Israel progress"
+        "en": "Lebanon says six killed in Israeli strike as US announces ceasefire extension"
       }
     },
     {
-      "id": "evt_e460e5a0",
-      "title": "伊朗外交部长敦促金砖国家谴责美以侵略",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）周四在新德里举行的外交部长会议上发表讲话。",
-      "date": "2026-05-14T20:20:48Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
+      "id": "evt_fab46df0",
+      "title": "特朗普表示，伊朗暂停20年核计划就足够了",
+      "summary": "美国总统表示，德黑兰必须表现出对消除核燃料和停止铀浓缩的“真正”承诺。",
+      "date": "2026-05-15T21:17:05Z",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -177,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s FM urges BRICS states to condemn US-Israeli aggression"
+        "en": "Trump says 20-year nuclear programme suspension by Iran would be enough"
       }
     },
     {
-      "id": "evt_14c29204",
-      "title": "伊朗、台湾和贸易：特朗普的高风险重返北京",
-      "summary": "特朗普九年来首次在北京会见习近平，贸易战、台湾和伊朗的紧张局势能否得到遏制？",
-      "date": "2026-05-14T19:34:25Z",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
+      "id": "evt_d1b1c4f5",
+      "title": "马哈茂德·哈利勒（ Mahmoud Khalil ）呼吁根据新证据停止驱逐出境",
+      "summary": "律师表示，新的证据表明，特朗普政府“精心策划”了针对亲巴勒斯坦哥伦比亚学生的案件的结果。",
+      "date": "2026-05-15T21:13:24Z",
+      "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mahmoud Khalil calls for deportation to be halted in light of new evidence"
+      }
+    },
+    {
+      "id": "evt_0dad5a6b",
+      "title": "什么是2026年世界杯国家队大本营及其位置？",
+      "summary": "阿根廷、葡萄牙、西班牙、巴西、英格兰、伊朗和其他世界杯球队的训练和住宿地点。",
+      "date": "2026-05-15T21:07:16Z",
+      "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,7 +149,147 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing"
+        "en": "What are World Cup 2026 national team base camps and their locations?"
+      }
+    },
+    {
+      "id": "evt_86640119",
+      "title": "七人在Nakba日加沙被杀，因为以色列说它针对哈马斯成员",
+      "summary": "在以色列最近对加沙城的袭击中，三名妇女和一名儿童在平民中丧生。",
+      "date": "2026-05-15T21:05:22Z",
+      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member"
+      }
+    },
+    {
+      "id": "evt_a59e6d0c",
+      "title": "特朗普称记者的伊朗报道“叛国”",
+      "summary": "特朗普称报道伊朗战争的《纽约时报》记者是“叛国” ，同时声称这是“胜利”。",
+      "date": "2026-05-15T20:01:44Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump calls journalist’s Iran reporting ‘treasonous’"
+      }
+    },
+    {
+      "id": "evt_033ec5da",
+      "title": "巴基斯坦选手法蒂玛·萨纳（ Fatima Sana ）打破女子T20最快50杆的世界纪录",
+      "summary": "在卡拉奇对阵津巴布韦的比赛中，巴基斯坦队长萨纳在15个球中得到50分。",
+      "date": "2026-05-15T19:44:08Z",
+      "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20"
+      }
+    },
+    {
+      "id": "evt_51321b05",
+      "title": "以色列称在加沙空袭中击毙哈马斯指挥官",
+      "summary": "以色列说，被描述为“10月7日大屠杀的建筑师之一”的Izz ad-Din al-Haddad在加沙市被杀。",
+      "date": "2026-05-15T19:38:38Z",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel says it has killed Hamas commander in Gaza air strike"
+      }
+    },
+    {
+      "id": "evt_fb270843",
+      "title": "《纽约时报》在以色列威胁起诉后为记者辩护",
+      "summary": "以色列总理说，他已下令对一篇指控以色列安全官员强奸巴勒斯坦被拘留者的文章采取法律行动。",
+      "date": "2026-05-15T16:30:31Z",
+      "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New York Times defends journalist after Israel threatens to sue"
       }
     },
     {
@@ -234,34 +318,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'Floating armoury' ship reportedly seized by Iran"
-      }
-    },
-    {
-      "id": "evt_3cbfe622",
-      "title": "由于停火未能阻止与以色列的战争，真主党的支持在黎巴嫩南部持续",
-      "summary": "尽管以色列继续进行袭击和占领，但南部的许多人仍然认为武装团体是唯一能够捍卫他们的力量。",
-      "date": "2026-05-13T23:22:07Z",
-      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel"
       }
     },
     {
@@ -461,34 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_5dc699a3",
-      "title": "英国广播公司揭露大多数小船过境点背后的网络中的关键人物走私者",
-      "summary": "这位28岁的伊拉克库尔德人通过别名“Kardo Ranya”逃避逮捕。",
-      "date": "2026-05-12T11:01:34Z",
-      "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "BBC unmasks key people smuggler in network behind most small boat crossings"
-      }
-    },
-    {
       "id": "evt_3af69183",
       "title": "以色列通过法律，允许对与10月7日有关的人判处死刑和公开审判",
       "summary": "以色列通过了一项法律，允许对参与前所未有的哈马斯领导的袭击的人判处死刑和公开审判。",
@@ -514,62 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel passes law to allow death penalty and public trials for those linked to 7 October"
-      }
-    },
-    {
-      "id": "evt_ce22c3f2",
-      "title": "特朗普称伊朗停火是“大规模生命支持”",
-      "summary": "这位美国总统批评伊朗提出的结束战争的反要约，并表示长达一个月的停火“令人难以置信地薄弱”。",
-      "date": "2026-05-12T00:59:12Z",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says Iran ceasefire is on 'massive life support'"
-      }
-    },
-    {
-      "id": "evt_356d23cf",
-      "title": "欧盟同意因约旦河西岸暴力事件对以色列定居者实施制裁",
-      "summary": "欧盟外交政策负责人表示， “极端主义和暴力会带来后果” ，而以色列则认为此举“武断”。",
-      "date": "2026-05-11T19:37:17Z",
-      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "EU agrees sanctions on Israeli settlers over West Bank violence"
       }
     },
     {
@@ -878,34 +850,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Saei re-elected as head of Iran taekwondo federation"
-      }
-    },
-    {
-      "id": "evt_c3407e36",
-      "title": "生病的伊朗诺贝尔奖获得者获得保释和医院转院",
-      "summary": "伊朗当局批准了人权活动家纳格斯·穆罕默迪（ Narges Mohammadi ）的保释，因为她在监狱中的健康状况越来越糟糕。",
-      "date": "2026-05-11T10:16:50Z",
-      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ailing Iranian Nobel laureate given bail and hospital transfer"
       }
     },
     {
