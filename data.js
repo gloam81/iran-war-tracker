@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-16T02:14:57.263819Z
+// 自动生成的数据 - 更新时间: 2026-05-17T02:30:21.210640Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-16T02:14:57.263763Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-05-17T02:30:21.210585Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 19,
+      "international": 18,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_6ea7e3af",
-      "title": "伊朗战争现场：黎巴嫩、以色列延长休战；德黑兰为更多美国会谈做好准备",
-      "summary": "黎巴嫩卫生部表示，自3月2日以来，以色列的袭击已造成2951人死亡，至少8988人受伤。",
-      "date": "2026-05-16T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "id": "evt_80d837ff",
+      "title": "伊拉克新总理扎伊迪正式上任",
+      "summary": "伊拉克新总理阿里·扎伊迪（ Ali al-Zaidi ）在巴格达正式就职，承诺进行改革。",
+      "date": "2026-05-17T00:14:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iraq’s new PM Ali al-Zaidi formally takes over"
+      }
+    },
+    {
+      "id": "evt_18e77de5",
+      "title": "伊朗战争现场：德黑兰计划在霍尔木兹收费；特朗普警告“非常糟糕的时刻”",
+      "summary": "在以色列袭击黎巴嫩和加沙，造成数十人伤亡后，伊朗将立即公布其对霍尔木兹海峡的计划。",
+      "date": "2026-05-17T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,14 +65,42 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks"
+        "en": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’"
+      }
+    },
+    {
+      "id": "evt_70fc12c6",
+      "title": "真主党无人机罢工视频展示了针对以色列的不断变化的战术",
+      "summary": "BBC Verify检查了黎巴嫩武装组织发动光纤无人机袭击的数十个视频。",
+      "date": "2026-05-16T23:10:19Z",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hezbollah drone strike videos show evolving tactics against Israel"
       }
     },
     {
       "id": "evt_6b2e9a92",
       "title": "黎巴嫩表示，在美国宣布延长停火期限之际，有6人在以色列罢工中丧生",
       "summary": "特朗普总统上个月宣布休战，但以色列和真主党此后继续交火。",
-      "date": "2026-05-15T23:59:07Z",
+      "date": "2026-05-16T22:27:44Z",
       "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -66,6 +122,118 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lebanon says six killed in Israeli strike as US announces ceasefire extension"
+      }
+    },
+    {
+      "id": "evt_8d14aa89",
+      "title": "数千人在欧洲电视网决赛中抗议五个国家抵制以色列",
+      "summary": "西班牙、爱尔兰、冰岛、斯洛文尼亚和荷兰都退出，以抗议以色列在加沙战争中的参与。",
+      "date": "2026-05-16T20:31:57Z",
+      "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Thousands protest at Eurovision final as five countries boycott over Israel"
+      }
+    },
+    {
+      "id": "evt_e250531d",
+      "title": "新的巴基斯坦-阿富汗紧张局势是否会导致另一场边境冲突？",
+      "summary": "尽管3月份调停了战斗，但双方都互相瞄准对方。",
+      "date": "2026-05-16T20:00:48Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Can new Pakistan-Afghanistan tensions lead to another border clash?"
+      }
+    },
+    {
+      "id": "evt_51321b05",
+      "title": "哈马斯证实最高指挥官在以色列空袭中丧生",
+      "summary": "星期五的罢工是以色列不顾与哈马斯的停火对加沙发动的最新一次罢工。",
+      "date": "2026-05-16T10:12:16Z",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hamas confirms top commander killed in Israeli air strike"
+      }
+    },
+    {
+      "id": "evt_163b4a37",
+      "title": "美国指控伊拉克人在从伦敦到洛杉矶的城市中策划针对犹太人的阴谋",
+      "summary": "据称， Mohammad Baqer Saad Dawood al-Saadi “指示并敦促其他人攻击美国和以色列的利益” ，以报复伊朗战争。",
+      "date": "2026-05-16T00:14:37Z",
+      "url": "https://www.bbc.com/news/articles/c7v918j6nj0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c7v918j6nj0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US charges Iraqi with plots to target Jews in cities from London to LA"
       }
     },
     {
@@ -94,174 +262,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump says 20-year nuclear programme suspension by Iran would be enough"
-      }
-    },
-    {
-      "id": "evt_d1b1c4f5",
-      "title": "马哈茂德·哈利勒（ Mahmoud Khalil ）呼吁根据新证据停止驱逐出境",
-      "summary": "律师表示，新的证据表明，特朗普政府“精心策划”了针对亲巴勒斯坦哥伦比亚学生的案件的结果。",
-      "date": "2026-05-15T21:13:24Z",
-      "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mahmoud Khalil calls for deportation to be halted in light of new evidence"
-      }
-    },
-    {
-      "id": "evt_0dad5a6b",
-      "title": "什么是2026年世界杯国家队大本营及其位置？",
-      "summary": "阿根廷、葡萄牙、西班牙、巴西、英格兰、伊朗和其他世界杯球队的训练和住宿地点。",
-      "date": "2026-05-15T21:07:16Z",
-      "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What are World Cup 2026 national team base camps and their locations?"
-      }
-    },
-    {
-      "id": "evt_86640119",
-      "title": "七人在Nakba日加沙被杀，因为以色列说它针对哈马斯成员",
-      "summary": "在以色列最近对加沙城的袭击中，三名妇女和一名儿童在平民中丧生。",
-      "date": "2026-05-15T21:05:22Z",
-      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member"
-      }
-    },
-    {
-      "id": "evt_a59e6d0c",
-      "title": "特朗普称记者的伊朗报道“叛国”",
-      "summary": "特朗普称报道伊朗战争的《纽约时报》记者是“叛国” ，同时声称这是“胜利”。",
-      "date": "2026-05-15T20:01:44Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump calls journalist’s Iran reporting ‘treasonous’"
-      }
-    },
-    {
-      "id": "evt_033ec5da",
-      "title": "巴基斯坦选手法蒂玛·萨纳（ Fatima Sana ）打破女子T20最快50杆的世界纪录",
-      "summary": "在卡拉奇对阵津巴布韦的比赛中，巴基斯坦队长萨纳在15个球中得到50分。",
-      "date": "2026-05-15T19:44:08Z",
-      "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20"
-      }
-    },
-    {
-      "id": "evt_51321b05",
-      "title": "以色列称在加沙空袭中击毙哈马斯指挥官",
-      "summary": "以色列说，被描述为“10月7日大屠杀的建筑师之一”的Izz ad-Din al-Haddad在加沙市被杀。",
-      "date": "2026-05-15T19:38:38Z",
-      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel says it has killed Hamas commander in Gaza air strike"
       }
     },
     {
@@ -514,34 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says"
-      }
-    },
-    {
-      "id": "evt_3af69183",
-      "title": "以色列通过法律，允许对与10月7日有关的人判处死刑和公开审判",
-      "summary": "以色列通过了一项法律，允许对参与前所未有的哈马斯领导的袭击的人判处死刑和公开审判。",
-      "date": "2026-05-12T04:11:42Z",
-      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel passes law to allow death penalty and public trials for those linked to 7 October"
       }
     },
     {
