@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-17T02:30:21.210640Z
+// 自动生成的数据 - 更新时间: 2026-05-18T02:40:46.716245Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-17T02:30:21.210585Z",
-    "totalEvents": 30,
+    "lastUpdate": "2026-05-18T02:40:46.716173Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 18,
+      "international": 20,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_80d837ff",
-      "title": "伊拉克新总理扎伊迪正式上任",
-      "summary": "伊拉克新总理阿里·扎伊迪（ Ali al-Zaidi ）在巴格达正式就职，承诺进行改革。",
-      "date": "2026-05-17T00:14:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
+      "id": "evt_d2e01a27",
+      "title": "尽管延长了“停火” ，以色列仍对黎巴嫩南部发动罢工",
+      "summary": "半岛电视台的Obaida Hitto在黎巴嫩南部的Tyre报道了以色列在该地区的最新罢工。",
+      "date": "2026-05-18T01:59:07Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iraq’s new PM Ali al-Zaidi formally takes over"
+        "en": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’"
       }
     },
     {
-      "id": "evt_18e77de5",
-      "title": "伊朗战争现场：德黑兰计划在霍尔木兹收费；特朗普警告“非常糟糕的时刻”",
-      "summary": "在以色列袭击黎巴嫩和加沙，造成数十人伤亡后，伊朗将立即公布其对霍尔木兹海峡的计划。",
-      "date": "2026-05-17T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
+      "id": "evt_4e4c11d5",
+      "title": "伊朗战争现场：特朗普威胁德黑兰；沙特、阿联酋报告无人机袭击",
+      "summary": "由于无人机袭击了沙特阿拉伯和阿联酋的地点，和平谈判仍然陷入僵局。",
+      "date": "2026-05-18T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +65,147 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’"
+        "en": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks"
+      }
+    },
+    {
+      "id": "evt_21d420f2",
+      "title": "巴基斯坦内政部长在德黑兰与伊朗总统举行会谈",
+      "summary": "巴基斯坦内政部长Mohsin Naqvi在德黑兰会见伊朗总统Masoud Pezeshkian",
+      "date": "2026-05-17T23:28:25Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan interior minister holds talks with Iranian president in Tehran"
+      }
+    },
+    {
+      "id": "evt_e4dbd7f7",
+      "title": "“这可能是你最后一次听到我的声音” ：自战争开始以来，伊朗的政治处决激增",
+      "summary": "自2月28日美国和以色列袭击伊朗以来，联合国表示已核实至少处决了32名政治犯。",
+      "date": "2026-05-17T23:02:56Z",
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war"
+      }
+    },
+    {
+      "id": "evt_46223b87",
+      "title": "“不会留下任何东西” ：特朗普在谈判陷入僵局的情况下向伊朗发出威胁",
+      "summary": "美国总统向伊朗施压，要求伊朗屈服于包括拆除核计划和导弹库存在内的要求。",
+      "date": "2026-05-17T20:16:35Z",
+      "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks"
+      }
+    },
+    {
+      "id": "evt_ce533464",
+      "title": "在“停火”延长后，以色列在黎巴嫩杀害了至少五人",
+      "summary": "在以色列对黎巴嫩南部和东部几个地点的空袭中，至少有5人丧生。",
+      "date": "2026-05-17T20:16:14Z",
+      "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel kills at least five in Lebanon after ‘ceasefire’ extended"
+      }
+    },
+    {
+      "id": "evt_01350b51",
+      "title": "以色列在加沙的援助厨房罢工中杀死三名巴勒斯坦人",
+      "summary": "以色列轰炸了一个为加沙流离失所者提供膳食的厨房，炸死三人，炸伤其他人。",
+      "date": "2026-05-17T19:15:21Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel kills three Palestinians in strike on an aid kitchen in Gaza"
       }
     },
     {
@@ -122,62 +262,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lebanon says six killed in Israeli strike as US announces ceasefire extension"
-      }
-    },
-    {
-      "id": "evt_8d14aa89",
-      "title": "数千人在欧洲电视网决赛中抗议五个国家抵制以色列",
-      "summary": "西班牙、爱尔兰、冰岛、斯洛文尼亚和荷兰都退出，以抗议以色列在加沙战争中的参与。",
-      "date": "2026-05-16T20:31:57Z",
-      "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Thousands protest at Eurovision final as five countries boycott over Israel"
-      }
-    },
-    {
-      "id": "evt_e250531d",
-      "title": "新的巴基斯坦-阿富汗紧张局势是否会导致另一场边境冲突？",
-      "summary": "尽管3月份调停了战斗，但双方都互相瞄准对方。",
-      "date": "2026-05-16T20:00:48Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Can new Pakistan-Afghanistan tensions lead to another border clash?"
       }
     },
     {
@@ -458,34 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Gaza sisters win prize for turning rubble into reusable bricks"
-      }
-    },
-    {
-      "id": "evt_b45d5a2a",
-      "title": "黎巴嫩说，在以色列罢工中丧生的13人中有两名医护人员",
-      "summary": "黎巴嫩卫生部表示，医护人员正在Nabatieh执行救援任务，以应对早些时候造成一人死亡的袭击事件。",
-      "date": "2026-05-12T20:00:05Z",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon says two paramedics among 13 killed in Israeli strikes"
       }
     },
     {
