@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-05-18T02:40:46.716245Z
+// 自动生成的数据 - 更新时间: 2026-05-19T02:38:45.484940Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-05-18T02:40:46.716173Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-05-19T02:38:45.484885Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 20,
+      "international": 18,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_d2e01a27",
-      "title": "尽管延长了“停火” ，以色列仍对黎巴嫩南部发动罢工",
-      "summary": "半岛电视台的Obaida Hitto在黎巴嫩南部的Tyre报道了以色列在该地区的最新罢工。",
-      "date": "2026-05-18T01:59:07Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
+      "id": "evt_19250ff1",
+      "title": "伊朗战争现场：特朗普称伊朗袭击应海湾盟友要求推迟",
+      "summary": "半岛电视台驻德黑兰记者表示，伊朗领导人正在“蔑视”并拒绝来自美国的“压力”。",
+      "date": "2026-05-19T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump says Iran attack postponed at request of Gulf allies"
+      }
+    },
+    {
+      "id": "evt_df165824",
+      "title": "在以色列军队袭击加沙援助船队后，希腊发生抗议活动",
+      "summary": "示威者聚集在雅典的希腊外交部门外。",
+      "date": "2026-05-18T21:13:24Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’"
+        "en": "Protest in Greece after Israeli forces storm Gaza aid flotilla"
       }
     },
     {
-      "id": "evt_4e4c11d5",
-      "title": "伊朗战争现场：特朗普威胁德黑兰；沙特、阿联酋报告无人机袭击",
-      "summary": "由于无人机袭击了沙特阿拉伯和阿联酋的地点，和平谈判仍然陷入僵局。",
-      "date": "2026-05-18T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
+      "id": "evt_cc5a1d65",
+      "title": "特朗普在海湾干预后暂停可能的伊朗罢工",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）宣布，他将推迟计划中的对伊朗的袭击。",
+      "date": "2026-05-18T21:11:48Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -65,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks"
+        "en": "Trump pauses possible Iran strike after Gulf intervention"
       }
     },
     {
-      "id": "evt_21d420f2",
-      "title": "巴基斯坦内政部长在德黑兰与伊朗总统举行会谈",
-      "summary": "巴基斯坦内政部长Mohsin Naqvi在德黑兰会见伊朗总统Masoud Pezeshkian",
-      "date": "2026-05-17T23:28:25Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+      "id": "evt_d77aa913",
+      "title": "在报道以色列秘密基地后，伊拉克发动沙漠扫荡",
+      "summary": "伊拉克安全部队在该国西部沙漠发动了扫荡行动。",
+      "date": "2026-05-18T21:09:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iraq-launches-desert-sweep-after-reports-of-secret-israeli-bases?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -93,7 +121,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pakistan interior minister holds talks with Iranian president in Tehran"
+        "en": "Iraq launches desert sweep after reports of secret Israeli bases"
+      }
+    },
+    {
+      "id": "evt_3576d4e6",
+      "title": "官员说，以色列对黎巴嫩的袭击造成的死亡人数超过3000人",
+      "summary": "尽管名义上实现了停火，但它标志着自3月以来以色列与黎巴嫩武装组织真主党之间冲突的一个严峻里程碑。",
+      "date": "2026-05-18T16:16:38Z",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say"
+      }
+    },
+    {
+      "id": "evt_ceda0d80",
+      "title": "活动人士说，以色列军队登上塞浦路斯附近的加沙船队",
+      "summary": "Global Sumud船队的现场直播节目显示，突击队员登上了几艘试图突破加沙海上封锁的船只。",
+      "date": "2026-05-18T15:30:30Z",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say"
+      }
+    },
+    {
+      "id": "evt_100e0fe1",
+      "title": "特朗普警告说，随着和平进程停滞不前，伊朗的“时钟正在滴答作响",
+      "summary": "周一，伊朗表示已对美国的最新提议做出回应，并表示与华盛顿的交流仍在继续。",
+      "date": "2026-05-18T09:58:35Z",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump warns 'clock is ticking' for Iran as peace progress stalls"
       }
     },
     {
@@ -125,16 +237,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_46223b87",
-      "title": "“不会留下任何东西” ：特朗普在谈判陷入僵局的情况下向伊朗发出威胁",
-      "summary": "美国总统向伊朗施压，要求伊朗屈服于包括拆除核计划和导弹库存在内的要求。",
-      "date": "2026-05-17T20:16:35Z",
-      "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+      "id": "evt_2b0d9a97",
+      "title": "阿联酋报告在阿布扎比核电站附近发生罢工",
+      "summary": "该国正在调查罢工的来源，它称之为“危险的升级”。",
+      "date": "2026-05-17T20:53:45Z",
+      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,63 +261,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks"
-      }
-    },
-    {
-      "id": "evt_ce533464",
-      "title": "在“停火”延长后，以色列在黎巴嫩杀害了至少五人",
-      "summary": "在以色列对黎巴嫩南部和东部几个地点的空袭中，至少有5人丧生。",
-      "date": "2026-05-17T20:16:14Z",
-      "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel kills at least five in Lebanon after ‘ceasefire’ extended"
-      }
-    },
-    {
-      "id": "evt_01350b51",
-      "title": "以色列在加沙的援助厨房罢工中杀死三名巴勒斯坦人",
-      "summary": "以色列轰炸了一个为加沙流离失所者提供膳食的厨房，炸死三人，炸伤其他人。",
-      "date": "2026-05-17T19:15:21Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel kills three Palestinians in strike on an aid kitchen in Gaza"
+        "en": "UAE reports strike near Abu Dhabi nuclear power plant"
       }
     },
     {
@@ -405,6 +461,34 @@ const siteData = {
       }
     },
     {
+      "id": "evt_3cbfe622",
+      "title": "由于停火未能阻止与以色列的战争，真主党的支持在黎巴嫩南部持续",
+      "summary": "尽管以色列继续进行袭击和占领，但南部的许多人仍然认为武装团体是唯一能够捍卫他们的力量。",
+      "date": "2026-05-13T23:22:07Z",
+      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel"
+      }
+    },
+    {
       "id": "evt_4691e60f",
       "title": "内塔尼亚胡说，他在与伊朗的战争期间“秘密访问”了阿联酋",
       "summary": "阿联酋否认有关“涉嫌访问”的报道，并坚称两国之间的关系并非基于“非官方安排”。",
@@ -430,146 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Netanyahu says he 'secretly visited' UAE during war with Iran"
-      }
-    },
-    {
-      "id": "evt_c6f16fcc",
-      "title": "以色列在黎巴嫩南部的空袭造成22人死亡，卫生部表示",
-      "summary": "据报道，在一系列空袭袭击贝鲁特南部后，有8名儿童死亡。",
-      "date": "2026-05-13T21:14:45Z",
-      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes in southern Lebanon kill 22 people, health ministry says"
-      }
-    },
-    {
-      "id": "evt_a0f69594",
-      "title": "和平特使说，哈马斯可以通过放弃武器和武装冲突在政治上生存",
-      "summary": "尼古拉·姆拉德诺夫（ Nickolay Mladenov ）还警告说，目前围绕唐纳德·特朗普（ Donald Trump ）和平计划的僵局可能导致该领土的永久",
-      "date": "2026-05-13T18:41:25Z",
-      "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hamas can survive politically by giving up weapons and armed conflict, peace envoy says"
-      }
-    },
-    {
-      "id": "evt_9a546189",
-      "title": "以色列进入欧洲电视网对半决赛期间的抗议活动感到“震惊”",
-      "summary": "诺姆·贝坦（ Noam Bettan ）周二晚上在维也纳表演时，受到了欢呼，嘘声和颂歌的混合。",
-      "date": "2026-05-13T17:05:44Z",
-      "url": "https://www.bbc.com/news/articles/ckgpjx4503zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ckgpjx4503zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel's Eurovision entry 'shocked' by protests during semi-final show"
-      }
-    },
-    {
-      "id": "evt_f13ef788",
-      "title": "加沙姐妹因将废墟变成可重复使用的砖块而获奖",
-      "summary": "流离失所的青少年法拉和塔拉想要“把毁灭变成有用的东西”。",
-      "date": "2026-05-13T11:44:48Z",
-      "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gaza sisters win prize for turning rubble into reusable bricks"
-      }
-    },
-    {
-      "id": "evt_0d709d53",
-      "title": "以色列调查称，哈马斯在10月7日的袭击中“武器化”性暴力",
-      "summary": "同类报告中最全面的报告详细描述了令人痛心的性侵犯案件，报告称这些案件是系统性的。",
-      "date": "2026-05-12T16:58:51Z",
-      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says"
       }
     },
     {
