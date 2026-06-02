@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-01T02:55:57.111135Z
+// 自动生成的数据 - 更新时间: 2026-06-02T02:53:25.964910Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-01T02:55:57.111082Z",
-    "totalEvents": 29,
+    "lastUpdate": "2026-06-02T02:53:25.964846Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 16,
+      "international": 21,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_77ffc0e5",
-      "title": "伊朗战争现场：以色列不断扩大对黎巴嫩的入侵引起全球警惕",
-      "summary": "法国要求联合国安理会就以色列入侵黎巴嫩问题举行会议，伊朗表示与美国的谈判仍在继续。",
-      "date": "2026-06-01T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
+      "id": "evt_73506d18",
+      "title": "特朗普总统试图结束黎巴嫩的敌对行动",
+      "summary": "美国总统特朗普在与以色列总理谈话以阻止向贝鲁特升级后声称取得了外交突破。",
+      "date": "2026-06-02T01:48:49Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,7 +37,259 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm"
+        "en": "President Trump attempts to end hostilities in Lebanon"
+      }
+    },
+    {
+      "id": "evt_ae5a70d2",
+      "title": "伊朗战争现场：特朗普在黎巴嫩战斗激增之际与以色列真主党会谈",
+      "summary": "以色列国家安全部长本-格维尔（ Ben-Gvir ）说， “是时候”对特朗普说“不” ，并继续打击黎巴嫩的真主党。",
+      "date": "2026-06-02T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges"
+      }
+    },
+    {
+      "id": "evt_dc262b82",
+      "title": "黎巴嫩称真主党同意相互停止对以色列的袭击",
+      "summary": "在宣布暂停几个小时后，以色列军方表示已经拦截了从黎巴嫩发射的射弹。",
+      "date": "2026-06-01T23:50:03Z",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel"
+      }
+    },
+    {
+      "id": "evt_d1d51785",
+      "title": "极端正统的抗议者与以色列警方就军队征兵发生冲突",
+      "summary": "警方看到极端东正教抗议者在耶路撒冷因征兵而封锁道路后，将他们从公共汽车下拖走。",
+      "date": "2026-06-01T23:36:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ultra-Orthodox protesters clash with Israeli police over army draft"
+      }
+    },
+    {
+      "id": "evt_e7ec16f4",
+      "title": "谁参加了今年在纽约举行的以色列日游行？",
+      "summary": "半岛电视台的艾娃·沃里纳（ Ava Warriner ）审视了参加一年一度的以色列日游行的以色列和美国官员。",
+      "date": "2026-06-01T21:15:08Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who attended this year’s Israel Day Parade in New York?"
+      }
+    },
+    {
+      "id": "evt_bfe37935",
+      "title": "在以色列议会未能支持以色列的外国基督徒请求原谅",
+      "summary": "“主啊，请原谅我们所做的一切，我们没有支持以色列。”",
+      "date": "2026-06-01T21:01:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset"
+      }
+    },
+    {
+      "id": "evt_1715ecfb",
+      "title": "美国支持的加沙和平进程是否面临严重威胁？",
+      "summary": "以色列杀害更多巴勒斯坦人，采取行动夺取加沙地带70 ％的土地",
+      "date": "2026-06-01T20:14:11Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Is the US-backed Gaza peace process in serious danger?"
+      }
+    },
+    {
+      "id": "evt_7166cc2f",
+      "title": "随着真主党冲突升级，以色列总理下令对贝鲁特郊区进行罢工",
+      "summary": "本雅明·内塔尼亚胡（ Benjamin Netanyahu ）表示，数千人将逃离真主党的达希耶（ Dahieh ）据点，以应对对以色列平民的袭击。",
+      "date": "2026-06-01T17:04:36Z",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates"
+      }
+    },
+    {
+      "id": "evt_958309ac",
+      "title": "美国表示，在伊朗瞄准驻科威特美军时，它袭击了伊朗的雷达站",
+      "summary": "伊朗和美国表示，他们在霍尔木兹海峡周围进行了新的袭击，科威特谴责伊朗“一再”的袭击。",
+      "date": "2026-06-01T13:12:26Z",
+      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait"
+      }
+    },
+    {
+      "id": "evt_4beda47e",
+      "title": "卫星图像显示，自战争开始以来，伊朗袭击破坏了20个美国军事基地",
+      "summary": "分析师告诉BBC Verify ，德黑兰的罢工比公开承认的要广泛得多。",
+      "date": "2026-06-01T05:33:18Z",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran attacks damage 20 US military sites since start of war, satellite images show"
       }
     },
     {
@@ -545,6 +797,90 @@ const siteData = {
       }
     },
     {
+      "id": "evt_bbdce074",
+      "title": "在纽约针对持不同政见者的伊朗雇佣谋杀阴谋中被判刑的美国公民",
+      "summary": "前卡车司机Jonathan Loadholt承认在针对活动家Masih Alinejad的阴谋中洗钱和跟踪。",
+      "date": "2026-05-28T19:21:20Z",
+      "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York"
+      }
+    },
+    {
+      "id": "evt_75551da7",
+      "title": "以色列在“有针对性的罢工”中袭击黎巴嫩首都",
+      "summary": "到目前为止，贝鲁特在很大程度上幸免于难，尽管以色列和真主党都指责对方破坏了上个月的停火协议。",
+      "date": "2026-05-28T17:39:16Z",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel hits Lebanese capital in 'targeted strike'"
+      }
+    },
+    {
+      "id": "evt_ab99d2f6",
+      "title": "加沙市医院说，由于以色列将哈马斯领导人作为目标，有几人在罢工中丧生",
+      "summary": "据报道，至少有5名儿童在袭击中丧生，袭击的目标似乎是哈马斯指挥官。",
+      "date": "2026-05-28T16:20:50Z",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders"
+      }
+    },
+    {
       "id": "evt_b891ea32",
       "title": "伊朗称在美国发动新一轮打击后瞄准美军基地",
       "summary": "敌对行动发生在美国和伊朗之间脆弱的停火以及结束为期三个月的战争的旷日持久的谈判期间。",
@@ -626,202 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israeli strike in Gaza City kills new head of Hamas's military wing"
-      }
-    },
-    {
-      "id": "evt_fe5216e6",
-      "title": "“像囚犯一样被释放” -随着互联网关闭的结束，为伊朗人提供救济",
-      "summary": "政府在2月与美国和以色列的战争开始后实施了停电，切断了大多数伊朗人与外界的联系。",
-      "date": "2026-05-27T12:27:12Z",
-      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends"
-      }
-    },
-    {
-      "id": "evt_7de43f88",
-      "title": "由于以色列加紧罢工，黎巴嫩有数十人丧生",
-      "summary": "以色列表示，在总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）发誓要“粉碎”伊朗支持的团体之后，它袭击了黎巴嫩的100个真主党基础设施站点和战斗人员。",
-      "date": "2026-05-27T04:07:27Z",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Dozens killed in Lebanon as Israel intensifies strikes"
-      }
-    },
-    {
-      "id": "evt_b77d8a22",
-      "title": "在经历了长达数月的停电后，伊朗的互联网开始复苏",
-      "summary": "自2月下旬战争开始以来，该国的互联网接入已被切断。",
-      "date": "2026-05-26T16:38:05Z",
-      "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Internet starts coming back in Iran after months-long blackout"
-      }
-    },
-    {
-      "id": "evt_bfa53879",
-      "title": "伊朗谴责美国罢工是“严重违反”停火",
-      "summary": "袭击发生时，伊朗和卡塔尔的谈判代表正在多哈进行和平谈判。",
-      "date": "2026-05-26T15:15:29Z",
-      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran condemns US strikes as 'gross violation' of ceasefire"
-      }
-    },
-    {
-      "id": "evt_c9ad45b6",
-      "title": "美国对伊朗发动新的打击，瞄准导弹基地和船只",
-      "summary": "美国中央司令部表示，罢工是为了“自卫” ，而伊朗报告称，它击落了一架进入其领空的美国无人机。",
-      "date": "2026-05-26T15:04:45Z",
-      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US launches new strikes on Iran, targeting missile sites and boats"
-      }
-    },
-    {
-      "id": "evt_cb47ae16",
-      "title": "人权组织指责阿联酋是前往苏丹的雇佣军的过境点",
-      "summary": "阿拉伯联合酋长国否认参与内战，并表示正在调查所谓的联系。",
-      "date": "2026-05-26T14:37:24Z",
-      "url": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Rights group accuses UAE of being transit point for mercenaries on way to Sudan"
-      }
-    },
-    {
-      "id": "evt_ef1be161",
-      "title": "内塔尼亚胡表示，以色列将加强对真主党的打击",
-      "summary": "在总理宣布进一步罢工后，以色列军方袭击了黎巴嫩东部的目标。",
-      "date": "2026-05-26T10:48:55Z",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Netanyahu says Israel will intensify strikes against Hezbollah"
       }
     }
   ]
