@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-03T03:28:11.226769Z
+// 自动生成的数据 - 更新时间: 2026-06-04T02:57:27.601096Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-03T03:28:11.226712Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-06-04T02:57:27.601026Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 20,
+      "international": 23,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_062d6b19",
-      "title": "本雅明·内塔尼亚胡面临以色列对黎巴嫩战略的强烈反对",
-      "summary": "以色列的鹰派声音指责总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）拒绝轰炸贝鲁特。",
-      "date": "2026-06-03T03:15:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
+      "id": "evt_7c16e11d",
+      "title": "卢比奥与内塔尼亚胡的加沙计划保持距离",
+      "summary": "众议院民主党人质疑美国国务卿马可·卢比奥（ Marco Rubio ）关于特朗普20点加沙计划缺乏进展的问题。",
+      "date": "2026-06-04T02:04:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Rubio distances himself from Netanyahu’s Gaza plan"
+      }
+    },
+    {
+      "id": "evt_3fa02902",
+      "title": "如果真主党停止袭击，以色列和黎巴嫩同意实施停火",
+      "summary": "美国国务院表示，这些国家拒绝“任何国家或非国家行为者企图劫持黎巴嫩未来的人质”。",
+      "date": "2026-06-04T00:16:44Z",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -37,104 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy"
+        "en": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks"
       }
     },
     {
-      "id": "evt_8f14db6a",
-      "title": "美国称袭击了伊朗的格什姆岛；德黑兰以科威特、巴林为目标",
-      "summary": "美国军方表示，它对伊朗的格什姆岛进行了“自卫”打击。",
-      "date": "2026-06-03T01:26:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
+      "id": "evt_289817bd",
+      "title": "伊朗战争现场：美伊最近在海湾发生冲突后紧张局势升温",
+      "summary": "黎巴嫩卫生部报告称，自3月以来，已有3516人死于以色列对该国的袭击。",
+      "date": "2026-06-04T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain"
-      }
-    },
-    {
-      "id": "evt_a15f3cd7",
-      "title": "伊朗战争现场：美国袭击伊朗的格什姆，称德黑兰瞄准科威特，巴林",
-      "summary": "据报道，美国总统特朗普因以色列威胁袭击贝鲁特郊区而猛烈抨击以色列总理内塔尼亚胡。",
-      "date": "2026-06-03T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain"
-      }
-    },
-    {
-      "id": "evt_a0cedcc0",
-      "title": "Rania al-Abbasi的孩子：揭示真相",
-      "summary": "叙利亚委员会证实，在巴沙尔·阿萨德（ Bashar al-Assad ）统治下失踪的拉尼亚·阿巴斯（ Rania al-Abbasi ）的六个孩子已经死亡",
-      "date": "2026-06-02T23:35:37Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Rania al‑Abbasi’s children: The truth revealed"
-      }
-    },
-    {
-      "id": "evt_2485f172",
-      "title": "特朗普斥责内塔尼亚胡？分析师质疑美以仇恨谣言",
-      "summary": "分析人士称， “战略泄密”旨在影响美国-以色列对伊朗战争陷入外交僵局时的公众看法。",
-      "date": "2026-06-02T21:59:47Z",
-      "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,7 +93,231 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump berated Netanyahu? Analysts question US-Israel feud rumours"
+        "en": "Iran war live: Tensions simmer after latest US-Iran clashes in Gulf"
+      }
+    },
+    {
+      "id": "evt_09e754b3",
+      "title": "特朗普试图将黎巴嫩会谈与伊朗战争谈判分开",
+      "summary": "特朗普表示，他希望将关于黎巴嫩冲突的谈判与关于与伊朗战争的谈判分开。",
+      "date": "2026-06-03T23:22:15Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump seeks to split Lebanon talks from war on Iran negotiations"
+      }
+    },
+    {
+      "id": "evt_dfa365b5",
+      "title": "科威特发布伊朗在机场发动致命袭击的闭路电视录像",
+      "summary": "科威特发布了监控录像，显示伊朗无人机袭击科威特国际机场。",
+      "date": "2026-06-03T23:02:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Kuwait releases CCTV footage of deadly Iranian strike on airport"
+      }
+    },
+    {
+      "id": "evt_58a6f758",
+      "title": "美国众议院通过伊朗战争权力决议，罕见地抵制特朗普",
+      "summary": "四名共和党人与民主党人结盟，通过法案遏制特朗普，尽管它可能面临总统否决权。",
+      "date": "2026-06-03T22:10:58Z",
+      "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US House passes Iran war powers resolution in rare pushback against Trump"
+      }
+    },
+    {
+      "id": "evt_80b26067",
+      "title": "Adam Hamawy是谁？在加沙服役的医生正在通往美国国会的道路上",
+      "summary": "哈马维在新泽西州的胜利可能会使他成为罕见的美国国会议员，在被围困的加沙地带拥有第一手经验。",
+      "date": "2026-06-03T21:56:47Z",
+      "url": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress"
+      }
+    },
+    {
+      "id": "evt_cc4ad9ac",
+      "title": "科威特将伊朗袭击称为“令人发指的侵略”",
+      "summary": "科威特国防部将对该国国际机场的袭击称为“令人发指的伊朗侵略”。",
+      "date": "2026-06-03T21:16:41Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Kuwait labels Iran attack ‘heinous aggression’"
+      }
+    },
+    {
+      "id": "evt_3e1ebc83",
+      "title": "以色列有核武器吗？卢比奥说： “世界上大多数人都认为他们这样做。”",
+      "summary": "美国国务卿在国会听证会上回避了有关华盛顿对以色列核计划立场的问题。",
+      "date": "2026-06-03T20:38:25Z",
+      "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio"
+      }
+    },
+    {
+      "id": "evt_ac70bc06",
+      "title": "伊朗无人机袭击科威特机场，造成1人死亡，数十人受伤",
+      "summary": "伊朗表示，对科威特的袭击是为了报复美国早些时候对伊朗油轮和岛屿的袭击。",
+      "date": "2026-06-03T20:05:58Z",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "One killed and dozens injured in Iranian drone strikes on Kuwait airport"
+      }
+    },
+    {
+      "id": "evt_a09fcfe2",
+      "title": "在被霍尔木兹海峡封锁数月后，水手们感到压力和疲惫",
+      "summary": "这种不确定性给困在伊朗战区的2万名海员带来了沉重压力。",
+      "date": "2026-06-02T23:40:27Z",
+      "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade"
       }
     },
     {
@@ -850,90 +1018,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Netanyahu says he has directed IDF to increase control of Gaza to 70%"
-      }
-    },
-    {
-      "id": "evt_bbdce074",
-      "title": "在纽约针对持不同政见者的伊朗雇佣谋杀阴谋中被判刑的美国公民",
-      "summary": "前卡车司机Jonathan Loadholt承认在针对活动家Masih Alinejad的阴谋中洗钱和跟踪。",
-      "date": "2026-05-28T19:21:20Z",
-      "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York"
-      }
-    },
-    {
-      "id": "evt_75551da7",
-      "title": "以色列在“有针对性的罢工”中袭击黎巴嫩首都",
-      "summary": "到目前为止，贝鲁特在很大程度上幸免于难，尽管以色列和真主党都指责对方破坏了上个月的停火协议。",
-      "date": "2026-05-28T17:39:16Z",
-      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel hits Lebanese capital in 'targeted strike'"
-      }
-    },
-    {
-      "id": "evt_45ff2cf6",
-      "title": "以色列接到大规模疏散命令后袭击贝鲁特和黎巴嫩南部",
-      "summary": "以色列军方已命令黎巴嫩居民离开该国约17%的领土。",
-      "date": "2026-05-28T11:31:59Z",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders"
       }
     }
   ]
