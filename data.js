@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-06T02:32:20.502713Z
+// 自动生成的数据 - 更新时间: 2026-06-07T02:51:26.496526Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-06T02:32:20.502648Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-06-07T02:51:26.496467Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 24,
+      "international": 21,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_c02ddb96",
-      "title": "加沙渔民与由门框制成的小艇一起漂浮",
-      "summary": "加沙的渔民正在使用从废墟中回收的再生玻璃纤维、木材和门框制成的小艇。",
-      "date": "2026-06-06T01:13:29Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
+      "id": "evt_68ed0ac3",
+      "title": "伊朗战争现场：以色列杀害黎巴嫩将军，巴基斯坦敦促结束战争",
+      "summary": "在阿拉伯国家谴责伊朗袭击巴林和科威特之际，以色列军队杀害了三名黎巴嫩高级士兵。",
+      "date": "2026-06-07T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gaza fishermen stay afloat with dinghies made from doorframes"
-      }
-    },
-    {
-      "id": "evt_b2a89aa2",
-      "title": "伊朗战争现场：美国打击伊朗雷达站点；科威特受到攻击",
-      "summary": "联合国报告称，在以色列袭击黎巴嫩期间，黎巴嫩有140万人需要援助。",
-      "date": "2026-06-06T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack"
+        "en": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war"
       }
     },
     {
-      "id": "evt_d949bf34",
-      "title": "特朗普向农民推销受到关税和威斯康星州高价格的严重打击",
-      "summary": "特朗普寻求加强受关税、与伊朗战争的经济后果严重打击的农村选民的支持。",
-      "date": "2026-06-05T21:02:52Z",
-      "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "id": "evt_88cff9d9",
+      "title": "伊朗表示，在球员获得世界杯签证后，工作人员被禁止进入美国",
+      "summary": "伊朗官员表示，在美国表示球员可以进入该国几小时后，技术人员被拒绝签证。",
+      "date": "2026-06-06T22:38:36Z",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin"
+        "en": "Iran says staff blocked from entering US after players given World Cup visas"
       }
     },
     {
-      "id": "evt_4fa4e989",
-      "title": "白宫表示，伊朗足球运动员为世界杯签发了美国签证",
-      "summary": "伊朗球员将在6月15日在洛杉矶对阵新西兰的世界杯开赛前10天获得签证。",
-      "date": "2026-06-05T20:49:40Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
+      "id": "evt_c0422089",
+      "title": "在以色列对中非共和国的袭击中丧生的三名士兵中的黎巴嫩将军",
+      "summary": "以色列军方正在调查黎巴嫩南部发生的事件，并在那里与真主党作战。",
+      "date": "2026-06-06T21:23:03Z",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanese general among three soldiers killed in Israeli attack on car"
+      }
+    },
+    {
+      "id": "evt_7c7ce4fd",
+      "title": "五角大楼表示将对以色列间谍活动的威胁级别提高到“关键”",
+      "summary": "美国国务院的报告引发了对美以战争、停火谈判期间间谍活动增加的担忧。",
+      "date": "2026-06-06T21:10:36Z",
+      "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pentagon said to raise threat level on Israel spying to ‘critical’"
+      }
+    },
+    {
+      "id": "evt_33170903",
+      "title": "在被占领的约旦河西岸为被以色列军队枪杀的婴儿举行葬礼",
+      "summary": "这名7个月大的男孩的尸体被巴勒斯坦国旗裹住，由他的父亲带到墓地。",
+      "date": "2026-06-06T19:57:42Z",
+      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Funeral held for baby shot dead by Israeli troops in occupied West Bank"
+      }
+    },
+    {
+      "id": "evt_4d12ac94",
+      "title": "视频显示以色列士兵和定居者袭击两名巴勒斯坦人",
+      "summary": "监控摄像头捕捉到一名以色列士兵和定居者在被占领的约旦河西岸对两名男子的残酷攻击。",
+      "date": "2026-06-06T19:48:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Video shows Israeli soldier and settlers assaulting two Palestinians"
+      }
+    },
+    {
+      "id": "evt_0deccbdb",
+      "title": "巴勒斯坦父亲在约旦河西岸埋葬被以色列枪杀的婴儿",
+      "summary": "希伯伦的一名巴勒斯坦父亲在婴儿被以色列枪杀后埋葬了他七个月大的儿子",
+      "date": "2026-06-06T19:38:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian father buries baby killed by Israeli gunfire in West Bank"
+      }
+    },
+    {
+      "id": "evt_bed7efdc",
+      "title": "以色列袭击加沙市帐篷营地，造成数名巴勒斯坦人死亡",
+      "summary": "以色列袭击加沙市帐篷营地，造成数名巴勒斯坦人死亡。",
+      "date": "2026-06-06T19:25:27Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli attack on Gaza City tent camp kills several Palestinians"
+      }
+    },
+    {
+      "id": "evt_b0ae5f3f",
+      "title": "对伊朗开战100天特朗普未能赢得美国支持",
+      "summary": "分析人士说，战争不受欢迎可能会影响美国对冲突的态度，并在选举中伤害共和党人。",
+      "date": "2026-06-06T17:04:38Z",
+      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +261,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran footballers issued US visas for World Cup, says White House"
+        "en": "100 days into the war on Iran, Trump fails to rally US support"
       }
     },
     {
-      "id": "evt_334539d0",
-      "title": "特朗普欢呼就业岗位激增，称伊朗谈判“进展顺利”",
-      "summary": "特朗普在转向伊朗之前对就业增长表示欢迎，称与德黑兰的谈判“似乎进展顺利”。",
-      "date": "2026-06-05T20:36:28Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
+      "id": "evt_0c2d3843",
+      "title": "美国和伊朗在最近的停火测试中在海湾交换罢工",
+      "summary": "美国军方袭击了伊朗的无人机和雷达站点，德黑兰表示，它已经瞄准了美国在科威特和巴林的基地。",
+      "date": "2026-06-06T14:46:20Z",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,119 +289,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump hails jobs surge, says Iran talks ‘going well’"
-      }
-    },
-    {
-      "id": "evt_25e84eae",
-      "title": "尽管停火，以色列的袭击仍在继续， “普遍的恐惧”笼罩着加沙",
-      "summary": "据WAFA通讯社报道， Khan Younis附近发生了一起无人机袭击事件，造成一名年轻女子死亡，另有15人受伤。",
-      "date": "2026-06-05T20:17:35Z",
-      "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire"
-      }
-    },
-    {
-      "id": "evt_c5ba9678",
-      "title": "法国对以色列如何对待加沙活动人士展开“战争罪”调查",
-      "summary": "参加前往加沙的外国援助船队的法国活动人士指责以色列军队虐待和酷刑。",
-      "date": "2026-06-05T19:51:23Z",
-      "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists"
-      }
-    },
-    {
-      "id": "evt_eb56eaeb",
-      "title": "在以色列对加沙地带进行夜间罢工后，家人清理了瓦砾",
-      "summary": "加沙中部Az-Zawayda的家庭在以色列对加沙进行夜间罢工后清除了瓦砾",
-      "date": "2026-06-05T19:40:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Families clear rubble after overnight Israeli strikes in Gaza"
-      }
-    },
-    {
-      "id": "evt_f1392a06",
-      "title": "美国对黎巴嫩的最新停火协议是否毫无意义？",
-      "summary": "以色列和真主党在宣布停战后继续战斗。",
-      "date": "2026-06-05T18:45:16Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Is the latest US ceasefire deal for Lebanon meaningless?"
+        "en": "US and Iran exchange strikes in Gulf in latest test of ceasefire"
       }
     },
     {
@@ -374,34 +402,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56"
-      }
-    },
-    {
-      "id": "evt_98257a3f",
-      "title": "观看：黎巴嫩-以色列停火协议是“希望而不是期望”",
-      "summary": "英国广播公司记者约翰·萨德沃思（ John Sudworth ）在真主党支持的贝鲁特据点Dahieh报道。",
-      "date": "2026-06-04T11:02:17Z",
-      "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'"
       }
     },
     {
@@ -598,90 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan"
-      }
-    },
-    {
-      "id": "evt_b3b8c84c",
-      "title": "鲍恩：特朗普需要这场战争结束，但伊朗不会退缩",
-      "summary": "英国广播公司的国际编辑写道，在民意调查和海湾盟友的压力下，白宫正在推动达成协议，但伊朗希望做出让步。",
-      "date": "2026-06-01T21:50:52Z",
-      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: Trump needs this war to end but Iran is not backing down"
-      }
-    },
-    {
-      "id": "evt_7166cc2f",
-      "title": "随着真主党冲突升级，以色列总理下令对贝鲁特郊区进行罢工",
-      "summary": "本雅明·内塔尼亚胡（ Benjamin Netanyahu ）表示，数千人将逃离真主党的达希耶（ Dahieh ）据点，以应对对以色列平民的袭击。",
-      "date": "2026-06-01T17:04:36Z",
-      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates"
-      }
-    },
-    {
-      "id": "evt_958309ac",
-      "title": "美国表示，在伊朗瞄准驻科威特美军时，它袭击了伊朗的雷达站",
-      "summary": "伊朗和美国表示，他们在霍尔木兹海峡周围进行了新的袭击，科威特谴责伊朗“一再”的袭击。",
-      "date": "2026-06-01T13:12:26Z",
-      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait"
       }
     },
     {
