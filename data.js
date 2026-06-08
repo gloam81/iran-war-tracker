@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-07T02:51:26.496526Z
+// 自动生成的数据 - 更新时间: 2026-06-08T02:54:08.169922Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-07T02:51:26.496467Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-06-08T02:54:08.169856Z",
+    "totalEvents": 39,
     "sources": {
-      "international": 21,
+      "international": 26,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_68ed0ac3",
-      "title": "伊朗战争现场：以色列杀害黎巴嫩将军，巴基斯坦敦促结束战争",
-      "summary": "在阿拉伯国家谴责伊朗袭击巴林和科威特之际，以色列军队杀害了三名黎巴嫩高级士兵。",
-      "date": "2026-06-07T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
+      "id": "evt_1f396151",
+      "title": "奥本海默：特朗普掌控内塔尼亚胡的升级选项",
+      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）有升级与伊朗紧张局势的动机，但受到美国总统特朗普的限制。",
+      "date": "2026-06-08T01:03:38Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,272 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war"
+        "en": "Oppenheimer: Trump holds the reins on Netanyahu’s escalation options"
       }
     },
     {
-      "id": "evt_88cff9d9",
-      "title": "伊朗表示，在球员获得世界杯签证后，工作人员被禁止进入美国",
-      "summary": "伊朗官员表示，在美国表示球员可以进入该国几小时后，技术人员被拒绝签证。",
-      "date": "2026-06-06T22:38:36Z",
-      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_366d0cc8",
+      "title": "伊朗和以色列在德黑兰发射导弹后进行贸易威胁",
+      "summary": "伊朗和以色列在德黑兰向以色列发射导弹以回应以色列对贝鲁特的袭击后交换了威胁",
+      "date": "2026-06-08T00:13:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran and Israel trade threats after Tehran launches missiles"
+      }
+    },
+    {
+      "id": "evt_9611f0e9",
+      "title": "伊朗战争现场：随着以色列发动袭击，德黑兰和伊斯法罕发生爆炸",
+      "summary": "此前，以色列袭击了黎巴嫩首都贝鲁特，造成至少两人死亡， 20人受伤。",
+      "date": "2026-06-08T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks"
+      }
+    },
+    {
+      "id": "evt_1f93491f",
+      "title": "伊朗对以色列的袭击旨在恢复威慑，但避免重新开战",
+      "summary": "伊朗对以色列的袭击旨在恢复威慑，但避免重新开战。",
+      "date": "2026-06-07T21:33:26Z",
+      "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s attack on Israel aims to restore deterrence but avoid return to war"
+      }
+    },
+    {
+      "id": "evt_b0a2d0b6",
+      "title": "视频显示从伊朗向以色列发射的导弹",
+      "summary": "伊朗媒体发布了向以色列发射导弹的视频。",
+      "date": "2026-06-07T21:14:51Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Videos show missiles launched from Iran into Israel"
+      }
+    },
+    {
+      "id": "evt_9dda9693",
+      "title": "在德黑兰看到导弹飞向以色列的庆祝活动",
+      "summary": "伊朗国家电视台播放了德黑兰的庆祝活动场景，当时导弹在飞往以色列的途中飞过头顶。",
+      "date": "2026-06-07T21:12:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Celebrations seen in Tehran as missiles fly overhead towards Israel"
+      }
+    },
+    {
+      "id": "evt_68c72b06",
+      "title": "在贝鲁特袭击“越过所有红线”后，伊朗向以色列发射导弹",
+      "summary": "伊朗伊斯兰革命卫队（ IRGC ）表示，导弹袭击是对以色列持续围困黎巴嫩的“警告”。",
+      "date": "2026-06-07T21:08:59Z",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’"
+      }
+    },
+    {
+      "id": "evt_9fed41d9",
+      "title": "以色列在美国斡旋的停火协议几天后袭击贝鲁特郊区",
+      "summary": "以色列表示，对黎巴嫩首都的袭击是“为了回应真主党对以色列领土的射击”。",
+      "date": "2026-06-07T20:56:09Z",
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel strikes Beirut suburb days after US-brokered truce"
+      }
+    },
+    {
+      "id": "evt_43708170",
+      "title": "伊朗袭击贝鲁特后向以色列发射导弹",
+      "summary": "视频显示导弹飞越以色列上空，以色列军方称伊朗发动了新一轮袭击。",
+      "date": "2026-06-07T20:12:55Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran fires missiles at Israel after it attacked Beirut"
+      }
+    },
+    {
+      "id": "evt_b6613426",
+      "title": "伊朗因违反停火而对以色列和美国失去耐心",
+      "summary": "随着持续违反“停火” ，伊朗的耐心已经达到了极限。",
+      "date": "2026-06-07T20:01:46Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran losing patience with Israel and US over ceasefire violations"
+      }
+    },
+    {
+      "id": "evt_772d4a8c",
+      "title": "战争和经济危机让伊朗世界杯兴奋不已",
+      "summary": "战争和经济危机让伊朗世界杯兴奋不已。",
+      "date": "2026-06-07T19:43:42Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +317,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran says staff blocked from entering US after players given World Cup visas"
+        "en": "Iranian World Cup excitement dulled by war and economic crisis"
+      }
+    },
+    {
+      "id": "evt_3d7e6551",
+      "title": "真主党议员：抵抗运动在黎巴嫩失败的地方捍卫黎巴嫩",
+      "summary": "易卜拉欣·穆萨维（ Ibrahim Moussawi ）说，真主党在外交和黎巴嫩国家失败后介入。",
+      "date": "2026-06-07T19:13:17Z",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hezbollah MP: Resistance defends Lebanon where the state failed"
+      }
+    },
+    {
+      "id": "evt_b3e5987e",
+      "title": "以色列枪击事件造成1人死亡， 5人受伤",
+      "summary": "嫌疑人在被枪杀之前，在几个地点从一辆汽车上开枪。",
+      "date": "2026-06-07T15:40:49Z",
+      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "One dead, five injured after shooting in Israel"
+      }
+    },
+    {
+      "id": "evt_76a8e7ee",
+      "title": "伊朗世界杯队在美国签证行中登陆墨西哥",
+      "summary": "伊朗的所有小组赛都在美国举行，但球员和支持人员必须在比赛当天进出该国。",
+      "date": "2026-06-07T13:24:50Z",
+      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's World Cup team lands in Mexico amid US visa row"
       }
     },
     {
@@ -97,34 +433,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_7c7ce4fd",
-      "title": "五角大楼表示将对以色列间谍活动的威胁级别提高到“关键”",
-      "summary": "美国国务院的报告引发了对美以战争、停火谈判期间间谍活动增加的担忧。",
-      "date": "2026-06-06T21:10:36Z",
-      "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pentagon said to raise threat level on Israel spying to ‘critical’"
-      }
-    },
-    {
       "id": "evt_33170903",
       "title": "在被占领的约旦河西岸为被以色列军队枪杀的婴儿举行葬礼",
       "summary": "这名7个月大的男孩的尸体被巴勒斯坦国旗裹住，由他的父亲带到墓地。",
@@ -150,118 +458,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Funeral held for baby shot dead by Israeli troops in occupied West Bank"
-      }
-    },
-    {
-      "id": "evt_4d12ac94",
-      "title": "视频显示以色列士兵和定居者袭击两名巴勒斯坦人",
-      "summary": "监控摄像头捕捉到一名以色列士兵和定居者在被占领的约旦河西岸对两名男子的残酷攻击。",
-      "date": "2026-06-06T19:48:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/video-shows-israeli-soldier-and-settlers-assaulting-two-palestinians?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Video shows Israeli soldier and settlers assaulting two Palestinians"
-      }
-    },
-    {
-      "id": "evt_0deccbdb",
-      "title": "巴勒斯坦父亲在约旦河西岸埋葬被以色列枪杀的婴儿",
-      "summary": "希伯伦的一名巴勒斯坦父亲在婴儿被以色列枪杀后埋葬了他七个月大的儿子",
-      "date": "2026-06-06T19:38:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/palestinian-father-buries-baby-killed-by-israeli-gunfire-in-west-bank?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian father buries baby killed by Israeli gunfire in West Bank"
-      }
-    },
-    {
-      "id": "evt_bed7efdc",
-      "title": "以色列袭击加沙市帐篷营地，造成数名巴勒斯坦人死亡",
-      "summary": "以色列袭击加沙市帐篷营地，造成数名巴勒斯坦人死亡。",
-      "date": "2026-06-06T19:25:27Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli attack on Gaza City tent camp kills several Palestinians"
-      }
-    },
-    {
-      "id": "evt_b0ae5f3f",
-      "title": "对伊朗开战100天特朗普未能赢得美国支持",
-      "summary": "分析人士说，战争不受欢迎可能会影响美国对冲突的态度，并在选举中伤害共和党人。",
-      "date": "2026-06-06T17:04:38Z",
-      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "100 days into the war on Iran, Trump fails to rally US support"
       }
     },
     {
@@ -321,34 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_333c29b6",
-      "title": "真主党拒绝以色列和黎巴嫩重新达成停火协议",
-      "summary": "经过新一轮谈判，美国于周三晚间宣布了停火协议。",
-      "date": "2026-06-05T01:44:16Z",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon"
-      }
-    },
-    {
       "id": "evt_f82a4512",
       "title": "医务人员说，以色列的罢工在加沙城造成11人死亡",
       "summary": "在对四栋住宅楼的袭击中丧生的人中包括妇女和儿童。以色列军方称，四名哈马斯安全官员被打死。",
@@ -402,34 +570,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56"
-      }
-    },
-    {
-      "id": "evt_3fa02902",
-      "title": "如果真主党停止袭击，以色列和黎巴嫩同意实施停火",
-      "summary": "美国表示，这些国家拒绝“任何国家或非国家行为者企图劫持黎巴嫩未来的人质”。",
-      "date": "2026-06-04T07:49:33Z",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks"
       }
     },
     {
