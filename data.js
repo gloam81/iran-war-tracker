@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-06-09T02:31:26.322446Z
+// 自动生成的数据 - 更新时间: 2026-06-10T02:45:04.793262Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-09T02:31:26.322383Z",
+    "lastUpdate": "2026-06-10T02:45:04.793199Z",
     "totalEvents": 34,
     "sources": {
       "international": 21,
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_9d8da0be",
-      "title": "联合国质疑以色列在黎巴嫩强制撤离令的合法性",
-      "summary": "联合国发言人表示，在黎巴嫩南部和东部发布的强制撤离令几乎不可能得到遵守",
-      "date": "2026-06-09T01:20:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/un-questions-legality-of-israeli-forced-evacuation-orders-in-lebanon?traffic_source=rss",
+      "id": "evt_d8c314a1",
+      "title": "军方称，美国打击伊朗以回应直升机被击落",
+      "summary": "唐纳德特朗普总统早些时候指责伊朗在霍尔木兹海峡上空击落美国直升机，并发誓要作出回应。",
+      "date": "2026-06-10T00:33:25Z",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/un-questions-legality-of-israeli-forced-evacuation-orders-in-lebanon?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UN questions legality of Israeli forced evacuation orders in Lebanon"
+        "en": "US strikes Iran in response to downing of helicopter, military says"
       }
     },
     {
-      "id": "evt_2c7d401c",
-      "title": "尽管以色列停止了对伊朗的袭击，但仍继续对黎巴嫩发动袭击",
-      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）承认已停止与伊朗的战斗，但将继续对真主党采取行动。",
-      "date": "2026-06-09T00:41:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-continues-strikes-on-lebanon-halts-on-iran-080626?traffic_source=rss",
+      "id": "evt_390d2854",
+      "title": "伊朗战争现场：德黑兰称美国舰队在美国罢工后以巴林为目标",
+      "summary": "黎巴嫩卫生部表示，自3月2日以来，以色列对该国的袭击造成的死亡人数已达到3,666人。",
+      "date": "2026-06-10T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-continues-strikes-on-lebanon-halts-on-iran-080626?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel continues strikes on Lebanon despite halting attacks on Iran"
-      }
-    },
-    {
-      "id": "evt_d649dc08",
-      "title": "伊朗战争现场：特朗普警告内塔尼亚胡以色列，德黑兰停止战斗",
-      "summary": "以色列卫生部表示，自3月以来，以色列在黎巴嫩的罢工已造成3,637人死亡， 11,188人受伤。",
-      "date": "2026-06-09T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting"
+        "en": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes"
       }
     },
     {
-      "id": "evt_c4b442f9",
-      "title": "幸存者回忆以色列袭击加沙难民营造成274人死亡",
-      "summary": "两年后，目击者讲述了2024年6月以色列袭击Nuseirat难民营以释放四名俘虏的故事。",
-      "date": "2026-06-08T22:58:09Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss",
+      "id": "evt_6596fa79",
+      "title": "美军对伊朗发动“自卫打击”",
+      "summary": "美国中央司令部（ CENTCOM ）表示，其部队开始对伊朗发动“自卫”袭击。",
+      "date": "2026-06-09T23:55:41Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/survivors-recall-israeli-raid-that-killed-274-in-gaza-refugee-camp?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US military launches ‘self-defence strikes’ targeting Iran"
+      }
+    },
+    {
+      "id": "evt_2c923f3d",
+      "title": "阿富汗当局就女性着装要求向抗议者开火",
+      "summary": "当局镇压了阿富汗西部因违反着装规定而拘留妇女的抗议活动。",
+      "date": "2026-06-09T23:51:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Afghan authorities open fire on protesters over women’s dress code"
+      }
+    },
+    {
+      "id": "evt_1eb45916",
+      "title": "巴基斯坦控制的克什米尔地区发生了致命的抗议活动：发生了什么？",
+      "summary": "周日，在巴基斯坦管理的克什米尔地区，至少有11人在警察和抗议者之间的冲突中丧生。",
+      "date": "2026-06-09T22:03:45Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Deadly protests in Pakistan-administered Kashmir: What’s going on?"
+      }
+    },
+    {
+      "id": "evt_1d900364",
+      "title": "特朗普在声称伊朗击落阿帕奇直升机后誓言报复",
+      "summary": "特朗普总统指责伊朗在霍尔木兹海峡上空击落一架美国阿帕奇直升机",
+      "date": "2026-06-09T21:17:31Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump vows retaliation after claiming Iran shot down Apache helicopter"
+      }
+    },
+    {
+      "id": "evt_dc43989b",
+      "title": "以色列军队在发布强迫流离失所令后在提尔杀害了9人",
+      "summary": "在过去24小时内，以色列部队在提尔市发布强迫流离失所令后杀害了9人。",
+      "date": "2026-06-09T21:01:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,14 +205,182 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Survivors recall Israeli raid that killed 274 in Gaza refugee camp"
+        "en": "Israeli forces kill nine in Tyre after issuing forced displacement orders"
+      }
+    },
+    {
+      "id": "evt_2041f93e",
+      "title": "英国及其盟友制裁西岸定居者暴力行为的“网络”",
+      "summary": "法国还将禁止极右翼的以色列部长Bezalel Smotrich入境，作为以色列谴责为“可耻”的措施的一部分。",
+      "date": "2026-06-09T20:38:55Z",
+      "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UK and allies sanction 'networks' enabling settler violence in West Bank"
+      }
+    },
+    {
+      "id": "evt_374c28e1",
+      "title": "鲍恩：特朗普和内塔尼亚胡希望重塑中东-现在他们冒着永久性危机的风险",
+      "summary": "在误判了伊朗战争后，美国和以色列领导人已经失去了对后果的控制。",
+      "date": "2026-06-09T20:14:12Z",
+      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis"
+      }
+    },
+    {
+      "id": "evt_8ff8b771",
+      "title": "伊朗冲突：为什么石油价格一直保持在每桶100 $附近？",
+      "summary": "最糟糕的石油情景已经避免，但通货膨胀和增长放缓继续对全球经济造成压力。",
+      "date": "2026-06-09T20:05:00Z",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran conflict: Why has oil stayed near $100 a barrel?"
+      }
+    },
+    {
+      "id": "evt_425280f1",
+      "title": "巴基斯坦控制的克什米尔骚乱会带来什么后果？",
+      "summary": "最近，抗议者和警方发生冲突，造成至少11人死亡。",
+      "date": "2026-06-09T19:31:31Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What will the fallout be from the unrest in Pakistan-administered Kashmir?"
+      }
+    },
+    {
+      "id": "evt_b340e654",
+      "title": "尽管伊朗发出停止袭击的警告，以色列仍对黎巴嫩提尔市发动空袭",
+      "summary": "伊朗周一警告以色列，如果对黎巴嫩盟友真主党的袭击不停止，它可能会恢复敌对行动。",
+      "date": "2026-06-09T17:47:41Z",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks"
+      }
+    },
+    {
+      "id": "evt_58291b39",
+      "title": "“请派人帮助” ：船只被美国导弹击中后船员的遇险呼叫",
+      "summary": "一艘经批准的油轮在阿曼被美国战斗机发射的导弹击中后，船员获救。",
+      "date": "2026-06-09T13:42:26Z",
+      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Please send help': Crew's distress call after ship hit by US missile"
       }
     },
     {
       "id": "evt_4039a223",
       "title": "伊朗和以色列表示将暂停罢工，但警告说，如果再次违反停火协议，将进行报复",
       "summary": "以色列总理表示，在伊朗武装部队表示他们已经停止军事行动之后，他的国家“目前”正在开火。",
-      "date": "2026-06-08T22:47:29Z",
+      "date": "2026-06-09T10:51:24Z",
       "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -153,72 +405,44 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d7139dc8",
-      "title": "意大利检察官将调查以色列部长Ben-Gvir滥用船队",
-      "summary": "罗马是欧洲第二个对以色列如何对待前往加沙时被拘留的活动人士展开调查的国家。",
-      "date": "2026-06-08T21:19:36Z",
-      "url": "https://www.aljazeera.com/news/2026/6/8/italian-prosecutors-to-probe-israeli-minister-ben-gvir-over-flotilla-abuse?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/8/italian-prosecutors-to-probe-israeli-minister-ben-gvir-over-flotilla-abuse?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Italian prosecutors to probe Israeli minister Ben-Gvir over flotilla abuse"
-      }
-    },
-    {
-      "id": "evt_cf44545d",
-      "title": "伊朗和美国能否在世界杯上相互竞争？",
-      "summary": "伊朗和美国能否在世界杯上相互竞争？",
-      "date": "2026-06-08T21:15:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/could-iran-and-the-us-play-each-other-at-the-world-cup?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/could-iran-and-the-us-play-each-other-at-the-world-cup?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Could Iran and the US play each other at the World Cup?"
-      }
-    },
-    {
-      "id": "evt_ff4a6633",
-      "title": "伊朗对以色列的打击表明该政权的复原力正在增强",
-      "summary": "英国广播公司波斯语编辑阿米尔·阿齐米（ Amir Azimi ）写道，伊朗决定冒着危及和平谈判的风险，这可能反映了其领导人如何看待他们目前的立场。",
-      "date": "2026-06-08T14:11:22Z",
-      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_29a58af3",
+      "title": "以色列和伊朗的爆发可能会加强德黑兰的谈判",
+      "summary": "伊朗似乎对这一结果感到胆大妄为，其领导人可能会感觉到特朗普的风险偏好很低。",
+      "date": "2026-06-09T05:07:44Z",
+      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel and Iran flare-up could strengthen Tehran's negotiating hand"
+      }
+    },
+    {
+      "id": "evt_57b51d04",
+      "title": "特朗普告诉BBC内塔尼亚胡没有蔑视他",
+      "summary": "在与美国总统的电话中，英国广播公司的萨拉史密斯向特朗普询问了伊朗战争以及他与以色列领导人的关系。",
+      "date": "2026-06-08T22:34:25Z",
+      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -233,7 +457,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran's strike on Israel suggests the regime's sense of resilience is growing"
+        "en": "Trump tells BBC Netanyahu did not defy him"
       }
     },
     {
@@ -321,34 +545,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_c0422089",
-      "title": "在以色列对中非共和国的袭击中丧生的三名士兵中的黎巴嫩将军",
-      "summary": "以色列军方正在调查黎巴嫩南部发生的事件，并在那里与真主党作战。",
-      "date": "2026-06-06T21:23:03Z",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanese general among three soldiers killed in Israeli attack on car"
-      }
-    },
-    {
       "id": "evt_33170903",
       "title": "在被占领的约旦河西岸为被以色列军队枪杀的婴儿举行葬礼",
       "summary": "这名7个月大的男孩的尸体被巴勒斯坦国旗裹住，由他的父亲带到墓地。",
@@ -377,34 +573,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_0c2d3843",
-      "title": "美国和伊朗在最近的停火测试中在海湾交换罢工",
-      "summary": "美国军方袭击了伊朗的无人机和雷达站点，德黑兰表示，它已经瞄准了美国在科威特和巴林的基地。",
-      "date": "2026-06-06T14:46:20Z",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran exchange strikes in Gulf in latest test of ceasefire"
-      }
-    },
-    {
       "id": "evt_12c692f8",
       "title": "检察官说，迪拜统治者的侄子的前妻被拘留",
       "summary": "Zeynab Javadli自周二以来一直没有与她的任何朋友联系。",
@@ -430,174 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say"
-      }
-    },
-    {
-      "id": "evt_f82a4512",
-      "title": "医务人员说，以色列的罢工在加沙城造成11人死亡",
-      "summary": "在对四栋住宅楼的袭击中丧生的人中包括妇女和儿童。以色列军方称，四名哈马斯安全官员被打死。",
-      "date": "2026-06-04T17:50:20Z",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes kill 11 people in Gaza City, medics say"
-      }
-    },
-    {
-      "id": "evt_7f20b04b",
-      "title": "奥斯卡提名的波斯波利斯作家Marjane Satrapi去世，享年56岁",
-      "summary": "这位法国-伊朗作家和插画家以她的图画小说系列和奥斯卡提名电影而闻名。",
-      "date": "2026-06-04T13:29:05Z",
-      "url": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56"
-      }
-    },
-    {
-      "id": "evt_f584d545",
-      "title": "特朗普和内塔尼亚胡之间的“疯狂”电话使伊朗谈判复杂化",
-      "summary": "以色列总理嘲笑有关摩擦的报道，但他考验了其他美国总统的耐心。",
-      "date": "2026-06-03T20:28:01Z",
-      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks"
-      }
-    },
-    {
-      "id": "evt_ac70bc06",
-      "title": "伊朗无人机袭击科威特机场，造成1人死亡，数十人受伤",
-      "summary": "伊朗表示，对科威特的袭击是为了报复美国早些时候对伊朗油轮和岛屿的袭击。",
-      "date": "2026-06-03T20:05:58Z",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "One killed and dozens injured in Iranian drone strikes on Kuwait airport"
-      }
-    },
-    {
-      "id": "evt_a09fcfe2",
-      "title": "在被霍尔木兹海峡封锁数月后，水手们感到压力和疲惫",
-      "summary": "这种不确定性给困在伊朗战区的2万名海员带来了沉重压力。",
-      "date": "2026-06-02T23:40:27Z",
-      "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade"
-      }
-    },
-    {
-      "id": "evt_4e0f7da8",
-      "title": "以色列袭击了黎巴嫩南部，但与真主党的部分停火似乎维持",
-      "summary": "以色列继续在南部开展活动，尽管在美国宣布达成协议后尚未袭击贝鲁特。",
-      "date": "2026-06-02T21:51:20Z",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold"
       }
     },
     {
