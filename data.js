@@ -1,22 +1,666 @@
-// 自动生成的数据 - 更新时间: 2026-06-10T02:45:04.793262Z
+// 自动生成的数据 - 更新时间: 2026-06-11T02:54:29.888166Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-10T02:45:04.793199Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-06-11T02:54:29.888107Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 21,
-      "iranian": 13,
+      "international": 18,
+      "iranian": 15,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
+      "id": "evt_0250b4fa",
+      "title": "伊朗宣布关闭霍尔木兹海峡",
+      "summary": "伊朗官员表示，霍尔木兹海峡已因美国空袭而关闭。",
+      "date": "2026-06-11T01:18:55Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran announces closure of Strait of Hormuz following US strikes"
+      }
+    },
+    {
+      "id": "evt_4bef9758",
+      "title": "伊朗战争现场：德黑兰瞄准巴林，科威特基地在美国新罢工后",
+      "summary": "在美国的袭击中，伊朗仍然挑衅，下令完全关闭霍尔木兹海峡的所有船只。",
+      "date": "2026-06-11T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes"
+      }
+    },
+    {
+      "id": "evt_1a9b9edb",
+      "title": "美国新罢工后，伊朗袭击巴林、科威特和霍尔木兹的船只",
+      "summary": "德黑兰声称，当美国袭击格什姆岛和霍尔木兹沿线的港口时，无人机袭击了巴林和科威特的基地。",
+      "date": "2026-06-10T23:57:12Z",
+      "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes"
+      }
+    },
+    {
+      "id": "evt_29edb01e",
+      "title": "“用炸弹谈判” ： Hegseth为美国对伊朗罢工的第二天晚上辩护",
+      "summary": "美国中央司令部将这些袭击描述为“伊朗毫无根据的持续侵略”。",
+      "date": "2026-06-10T21:51:57Z",
+      "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran"
+      }
+    },
+    {
+      "id": "evt_26569dc7",
+      "title": "特朗普表示，美国今天将再次“重创”伊朗",
+      "summary": "美国总统警告说，在德黑兰发誓要对任何袭击进行报复之后，伊朗“将不得不付出代价” ，因为花了太长时间才达成协议。",
+      "date": "2026-06-10T21:49:57Z",
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US will hit Iran 'hard' again today"
+      }
+    },
+    {
+      "id": "evt_478acf6a",
+      "title": "以色列在黎巴嫩杀害16人，联合国调查违反国际法的行为",
+      "summary": "联合国调查人员将于下周抵达黎巴嫩，评估各方可能违反国际法的情况。",
+      "date": "2026-06-10T20:46:39Z",
+      "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel kills 16 in Lebanon, UN to probe international law violations"
+      }
+    },
+    {
+      "id": "evt_8ef589e2",
+      "title": "美国称三名印度水手在阿曼湾击中油轮后失踪",
+      "summary": "印度政府表示，在阿曼海岸的Settebello发生袭击后，三名印度水手失踪， 21名船员获救。",
+      "date": "2026-06-10T17:48:54Z",
+      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman"
+      }
+    },
+    {
+      "id": "evt_7c932b12",
+      "title": "《罪人》与特朗普主义的电影解剖",
+      "summary": "TEHRAN -乍一看，特朗普主义似乎是一种明显的当代政治现象，与唐纳德·特朗普的个性、言辞和政治生涯密不可分。然而，将特朗普主义简化为单个个体的风险忽略了使之成为可能的更深层次的社会和历史力量。",
+      "date": "2026-06-10T16:50:42Z",
+      "url": "https://www.tehrantimes.com/news/527209/The-Sinners-and-the-cinematic-anatomy-of-Trumpism",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527209/The-Sinners-and-the-cinematic-anatomy-of-Trumpism"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“The Sinners” and the cinematic anatomy of Trumpism"
+      }
+    },
+    {
+      "id": "evt_37112299",
+      "title": "阿里·拉赫巴里将在圣彼得堡指挥马林斯基管弦乐团",
+      "summary": "德黑兰--伊朗著名作曲家和指挥家阿里·拉赫巴里（ Ali Rahbari ）将于6月19日在俄罗斯圣彼得堡的马林斯基剧院指挥马林斯基管弦乐团。",
+      "date": "2026-06-10T16:49:51Z",
+      "url": "https://www.tehrantimes.com/news/527196/Ali-Rahbari-to-conduct-Mariinsky-Orchestra-in-St-Petersburg",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527196/Ali-Rahbari-to-conduct-Mariinsky-Orchestra-in-St-Petersburg"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ali Rahbari to conduct Mariinsky Orchestra in St. Petersburg"
+      }
+    },
+    {
+      "id": "evt_a035ddf3",
+      "title": "伊朗就地区安全问题与土耳其和沙特阿拉伯进行磋商",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）分别与土耳其和沙特外长进行了电话交谈，讨论了美国最近对伊朗南部发动军事袭击后迅速变化的地区局势，重申了德黑兰捍卫其主权和领土完整的承诺。",
+      "date": "2026-06-10T16:45:44Z",
+      "url": "https://www.tehrantimes.com/news/527226/Iran-consults-Turkey-and-Saudi-Arabia-on-regional-security",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527226/Iran-consults-Turkey-and-Saudi-Arabia-on-regional-security"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran consults Turkey and Saudi Arabia on regional security"
+      }
+    },
+    {
+      "id": "evt_2f15ef05",
+      "title": "在国际原子能机构的印章下粉饰犯罪",
+      "summary": "Siasat-e-Rooz在一篇关于西方行动和拉斐尔·格罗西在国际原子能机构理事会上的行动的文章中写道：虽然美国和一些欧洲国家试图粉饰他们对伊朗的罪行，但德黑兰警告理事会，发布任何反伊朗决议都会带来灾难性后果。",
+      "date": "2026-06-10T16:43:06Z",
+      "url": "https://www.tehrantimes.com/news/527215/Whitewashing-crimes-under-the-IAEA-s-seal",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527215/Whitewashing-crimes-under-the-IAEA-s-seal"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Whitewashing crimes under the IAEA’s seal"
+      }
+    },
+    {
+      "id": "evt_4fbee171",
+      "title": "伊朗战争将美国通货膨胀率推至4.2% ，为三年来最高",
+      "summary": "德黑兰--据英国广播公司报道， 5月份美国物价以三年来最快的速度上涨，通货膨胀率攀升至4.2%。",
+      "date": "2026-06-10T16:42:28Z",
+      "url": "https://www.tehrantimes.com/news/527221/Iran-war-drives-US-inflation-to-4-2-highest-in-three-years",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527221/Iran-war-drives-US-inflation-to-4-2-highest-in-three-years"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war drives US inflation to 4.2%, highest in three years"
+      }
+    },
+    {
+      "id": "evt_05854097",
+      "title": "Pezeshkian ：美国和以色列只能梦想伊朗投降",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）周三表示，在最近伊朗与美国和以色列之间的战斗中，伊朗永远不会屈服于威胁和压力。",
+      "date": "2026-06-10T16:42:01Z",
+      "url": "https://www.tehrantimes.com/news/527216/Pezeshkian-US-and-Israel-can-only-dream-of-Iran-s-capitulation",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527216/Pezeshkian-US-and-Israel-can-only-dream-of-Iran-s-capitulation"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian: US and Israel can only dream of Iran’s capitulation"
+      }
+    },
+    {
+      "id": "evt_0f91b462",
+      "title": "“无端侵略” ：俄罗斯、中国在美伊局势升级后敦促克制",
+      "summary": "德黑兰--俄罗斯对最近的伊朗-美国升级表示担忧，将100多天前开始的持续紧张局势归咎于“无端的美以侵略”。",
+      "date": "2026-06-10T16:40:24Z",
+      "url": "https://www.tehrantimes.com/news/527217/Unprovoked-aggression-Russia-China-urge-restraint-after-US-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527217/Unprovoked-aggression-Russia-China-urge-restraint-after-US-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Unprovoked aggression’: Russia, China urge restraint after US-Iran escalation"
+      }
+    },
+    {
+      "id": "evt_4d607532",
+      "title": "美国冒险主义：阿帕奇击落， F-35机库击中，加油",
+      "summary": "德黑兰--伊朗和美国之间最近的交火凸显了华盛顿对4月停火的恶意，以及德黑兰对任何侵略作出回应的决心。这是自4月8日停战停止2月28日开始的美以联合战争以来最严重的升级。",
+      "date": "2026-06-10T16:39:11Z",
+      "url": "https://www.tehrantimes.com/news/527214/US-adventurism-Apache-down-F-35-hangar-hit-oil-up",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527214/US-adventurism-Apache-down-F-35-hangar-hit-oil-up"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US adventurism: Apache down, F-35 hangar hit, oil up"
+      }
+    },
+    {
+      "id": "evt_124ddffb",
+      "title": "伊朗向活动人士颁发“历史的右侧”奖章",
+      "summary": "德黑兰--伊朗周一在德黑兰举行的仪式上向一群国际活动家、艺术家、学者和政治人物颁发了“历史的右侧”勋章，强调“支持巴勒斯坦和反对西方支持的西亚政策的全球运动日益壮大”。",
+      "date": "2026-06-10T16:37:41Z",
+      "url": "https://www.tehrantimes.com/news/527224/Iran-honors-activists-with-Right-Side-of-History-medal",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527224/Iran-honors-activists-with-Right-Side-of-History-medal"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran honors activists with ‘Right Side of History’ medal"
+      }
+    },
+    {
+      "id": "evt_389c94c0",
+      "title": "国际原子能机构理事会不顾反对通过反伊朗决议",
+      "summary": "德黑兰--国际原子能机构（ IAEA ）理事会周三以21票赞成、3票反对、10票弃权通过了一项关于伊朗的决议，此举被德黑兰及其盟友称为出于政治动机，不利于正在进行的外交努力。",
+      "date": "2026-06-10T16:34:28Z",
+      "url": "https://www.tehrantimes.com/news/527223/IAEA-board-passes-anti-Iran-resolution-despite-objections",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527223/IAEA-board-passes-anti-Iran-resolution-despite-objections"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "IAEA board passes anti-Iran resolution despite objections"
+      }
+    },
+    {
+      "id": "evt_1eb011dd",
+      "title": "伊朗表示，美国违反停战协议破坏了外交努力",
+      "summary": "TEHRAN-伊朗外交部发言人周三表示，最近美国对该国采取的军事行动，加上一再违反停火，严重破坏了外交努力，并警告说，如果没有最低限度的稳定和政治一致性，谈判就不可能取得进展。",
+      "date": "2026-06-10T16:31:02Z",
+      "url": "https://www.tehrantimes.com/news/527222/US-truce-breaches-have-undermined-diplomatic-efforts-Iran-says",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527222/US-truce-breaches-have-undermined-diplomatic-efforts-Iran-says"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US truce breaches have undermined diplomatic efforts, Iran says"
+      }
+    },
+    {
+      "id": "evt_27f940e7",
+      "title": "霍尔木兹甘的水文恐怖和美国对野蛮的无限回归",
+      "summary": "德黑兰--Sirik的两个混凝土水箱废墟无声地见证了美国的暴行。一个是500立方米，另一个是2000立方米。",
+      "date": "2026-06-10T15:56:49Z",
+      "url": "https://www.tehrantimes.com/news/527220/Hydrological-horror-in-Hormozgan-and-America-s-infinite-regress",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527220/Hydrological-horror-in-Hormozgan-and-America-s-infinite-regress"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hydrological horror in Hormozgan and America’s infinite regress to barbarism"
+      }
+    },
+    {
+      "id": "evt_6f06c5a9",
+      "title": "据报道，以色列在黎巴嫩南部的空袭造成17人死亡",
+      "summary": "据黎巴嫩国家通讯社报道，其中9人在Tayr Debba镇的一系列袭击中丧生。",
+      "date": "2026-06-10T14:44:49Z",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli strikes in southern Lebanon kill 17, reports say"
+      }
+    },
+    {
+      "id": "evt_bc53ccde",
+      "title": "对黎巴嫩抵抗运动道德认同的战争",
+      "summary": "德黑兰--真主党在黎巴嫩的支持者在以色列对该国发动猛烈侵略的同时，还遭受了持续的心理、媒体和认知战争。",
+      "date": "2026-06-10T14:43:00Z",
+      "url": "https://www.tehrantimes.com/news/527219/The-war-on-the-moral-identity-of-Lebanese-resistance",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527219/The-war-on-the-moral-identity-of-Lebanese-resistance"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The war on the moral identity of Lebanese resistance"
+      }
+    },
+    {
+      "id": "evt_1c948bfc",
+      "title": "以色列对黎巴嫩的战争可能成为地区团结的催化剂",
+      "summary": "德黑兰–以色列对黎巴嫩的战争是对阿拉伯世界愿意与伊朗合作的重大考验。伊朗伊斯兰共和国已将其与美国的停火谈判与黎巴嫩加入任何协议联系起来。为了应对这种情况，特朗普政府向贝鲁特施加了巨大压力，要求其与以色列进行美国调解的谈判。主要目标是推动黎巴嫩与以色列进行直接谈判，可能迫使黎巴嫩政府与真主党发生直接冲突",
+      "date": "2026-06-10T14:31:18Z",
+      "url": "https://www.tehrantimes.com/news/527218/Israeli-war-on-Lebanon-could-serve-as-catalyst-for-regional-unity",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527218/Israeli-war-on-Lebanon-could-serve-as-catalyst-for-regional-unity"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli war on Lebanon could serve as catalyst for regional unity"
+      }
+    },
+    {
+      "id": "evt_4479d68f",
+      "title": "中国如何定义新的全球秩序？",
+      "summary": "德黑兰--在过去的二十年里，中国已经从一个新兴经济大国转变为全球经济中最具影响力的行为体之一。快速的经济增长、广泛的工业发展和贸易影响力的扩大，使北京不仅在经济动态中，而且在全球安全和战略事务中逐渐发挥着越来越突出的作用。关键问题是，中国如何在塑造新经济秩序的同时，",
+      "date": "2026-06-10T14:03:24Z",
+      "url": "https://www.tehrantimes.com/news/527212/How-does-China-define-the-new-global-order",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527212/How-does-China-define-the-new-global-order"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How does China define the new global order?"
+      }
+    },
+    {
       "id": "evt_d8c314a1",
-      "title": "军方称，美国打击伊朗以回应直升机被击落",
+      "title": "美国打击伊朗以应对军用直升机被击落事件",
       "summary": "唐纳德特朗普总统早些时候指责伊朗在霍尔木兹海峡上空击落美国直升机，并发誓要作出回应。",
-      "date": "2026-06-10T00:33:25Z",
+      "date": "2026-06-10T09:39:35Z",
       "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -37,175 +681,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US strikes Iran in response to downing of helicopter, military says"
-      }
-    },
-    {
-      "id": "evt_390d2854",
-      "title": "伊朗战争现场：德黑兰称美国舰队在美国罢工后以巴林为目标",
-      "summary": "黎巴嫩卫生部表示，自3月2日以来，以色列对该国的袭击造成的死亡人数已达到3,666人。",
-      "date": "2026-06-10T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes"
-      }
-    },
-    {
-      "id": "evt_6596fa79",
-      "title": "美军对伊朗发动“自卫打击”",
-      "summary": "美国中央司令部（ CENTCOM ）表示，其部队开始对伊朗发动“自卫”袭击。",
-      "date": "2026-06-09T23:55:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US military launches ‘self-defence strikes’ targeting Iran"
-      }
-    },
-    {
-      "id": "evt_2c923f3d",
-      "title": "阿富汗当局就女性着装要求向抗议者开火",
-      "summary": "当局镇压了阿富汗西部因违反着装规定而拘留妇女的抗议活动。",
-      "date": "2026-06-09T23:51:17Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Afghan authorities open fire on protesters over women’s dress code"
-      }
-    },
-    {
-      "id": "evt_1eb45916",
-      "title": "巴基斯坦控制的克什米尔地区发生了致命的抗议活动：发生了什么？",
-      "summary": "周日，在巴基斯坦管理的克什米尔地区，至少有11人在警察和抗议者之间的冲突中丧生。",
-      "date": "2026-06-09T22:03:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Deadly protests in Pakistan-administered Kashmir: What’s going on?"
-      }
-    },
-    {
-      "id": "evt_1d900364",
-      "title": "特朗普在声称伊朗击落阿帕奇直升机后誓言报复",
-      "summary": "特朗普总统指责伊朗在霍尔木兹海峡上空击落一架美国阿帕奇直升机",
-      "date": "2026-06-09T21:17:31Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump vows retaliation after claiming Iran shot down Apache helicopter"
-      }
-    },
-    {
-      "id": "evt_dc43989b",
-      "title": "以色列军队在发布强迫流离失所令后在提尔杀害了9人",
-      "summary": "在过去24小时内，以色列部队在提尔市发布强迫流离失所令后杀害了9人。",
-      "date": "2026-06-09T21:01:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli forces kill nine in Tyre after issuing forced displacement orders"
+        "en": "US strikes Iran in response to downing of military helicopter"
       }
     },
     {
@@ -262,62 +738,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis"
-      }
-    },
-    {
-      "id": "evt_8ff8b771",
-      "title": "伊朗冲突：为什么石油价格一直保持在每桶100 $附近？",
-      "summary": "最糟糕的石油情景已经避免，但通货膨胀和增长放缓继续对全球经济造成压力。",
-      "date": "2026-06-09T20:05:00Z",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran conflict: Why has oil stayed near $100 a barrel?"
-      }
-    },
-    {
-      "id": "evt_425280f1",
-      "title": "巴基斯坦控制的克什米尔骚乱会带来什么后果？",
-      "summary": "最近，抗议者和警方发生冲突，造成至少11人死亡。",
-      "date": "2026-06-09T19:31:31Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/9/what-will-the-fallout-be-from-the-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What will the fallout be from the unrest in Pakistan-administered Kashmir?"
       }
     },
     {
@@ -514,454 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "One dead, five injured after shooting in Israel"
-      }
-    },
-    {
-      "id": "evt_76a8e7ee",
-      "title": "伊朗世界杯队在美国签证行中登陆墨西哥",
-      "summary": "伊朗的所有小组赛都在美国举行，但球员和支持人员必须在比赛当天进出该国。",
-      "date": "2026-06-07T13:24:50Z",
-      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran's World Cup team lands in Mexico amid US visa row"
-      }
-    },
-    {
-      "id": "evt_33170903",
-      "title": "在被占领的约旦河西岸为被以色列军队枪杀的婴儿举行葬礼",
-      "summary": "这名7个月大的男孩的尸体被巴勒斯坦国旗裹住，由他的父亲带到墓地。",
-      "date": "2026-06-06T19:57:42Z",
-      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Funeral held for baby shot dead by Israeli troops in occupied West Bank"
-      }
-    },
-    {
-      "id": "evt_12c692f8",
-      "title": "检察官说，迪拜统治者的侄子的前妻被拘留",
-      "summary": "Zeynab Javadli自周二以来一直没有与她的任何朋友联系。",
-      "date": "2026-06-05T05:44:44Z",
-      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say"
-      }
-    },
-    {
-      "id": "evt_f3f1a940",
-      "title": "Zobeiri ：波斯湾千年遗产的守护者",
-      "summary": "直到最近，很少有人想象人类在伊朗波斯湾岛屿上的存在会延续到上个千年之后。但考古研究已经改变了这种理解。对格什姆岛的挖掘将定居点推回了近5000年，而Bam-e Geshm上的石器则暗示了更古老的过去。在Hormuz Island-Chand-Derakht和Sang-e Ghorab上发现的旧石器时代遗址揭示了15万至4万年前的中旧石器时代人口居住在那里，",
-      "date": "2026-05-31T14:20:27Z",
-      "url": "https://www.tehrantimes.com/news/526909/Zobeiri-Guardian-of-the-Persian-Gulf-s-millennia-old-heritage",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526909/Zobeiri-Guardian-of-the-Persian-Gulf-s-millennia-old-heritage"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Zobeiri: Guardian of the Persian Gulf’s millennia-old heritage"
-      }
-    },
-    {
-      "id": "evt_24b680f4",
-      "title": "古老的墓碑图案激发了纺织品和手工艺品的新设计",
-      "summary": "德黑兰--研究人员和艺术家研究了伊朗西南部Qale-Shadab山附近一座古老墓地的雕刻图案，他们表示，在数百年历史的墓碑上发现的独特设计可以为当代纺织品设计、手工艺品和当地文化产业提供灵感。",
-      "date": "2026-05-31T14:20:04Z",
-      "url": "https://www.tehrantimes.com/news/526910/Ancient-tombstone-motifs-inspire-new-designs-for-textiles-and",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526910/Ancient-tombstone-motifs-inspire-new-designs-for-textiles-and"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ancient tombstone motifs inspire new designs for textiles and handicrafts"
-      }
-    },
-    {
-      "id": "evt_dc132c95",
-      "title": "Riab ，遗产保护、可持续旅游和社区参与的典范",
-      "summary": "德黑兰--伊朗东部的历史悠久的Riab村正在成为遗产保护、可持续旅游业和社区参与的领先典范，因为它通过联合国旅游部（ UN Tourism ）的最佳旅游村倡议寻求国际认可。",
-      "date": "2026-05-31T14:02:02Z",
-      "url": "https://www.tehrantimes.com/news/526908/Riab-an-example-of-heritage-preservation-sustainable-tourism",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526908/Riab-an-example-of-heritage-preservation-sustainable-tourism"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Riab, an example of heritage preservation, sustainable tourism and community participation"
-      }
-    },
-    {
-      "id": "evt_e54e98a9",
-      "title": "2026年按学科排名的10所伊朗大学",
-      "summary": "德黑兰-第16届Quacquarelli Symonds （ QS ）世界大学学科排名2026包括三大学科领域的10所伊朗大学。",
-      "date": "2026-05-31T12:29:23Z",
-      "url": "https://www.tehrantimes.com/news/526907/10-Iranian-universities-in-QS-ranking-2026-by-subject",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526907/10-Iranian-universities-in-QS-ranking-2026-by-subject"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "10 Iranian universities in QS ranking 2026 by subject"
-      }
-    },
-    {
-      "id": "evt_c3731ec9",
-      "title": "伊朗赢得世界卫生组织世界无烟日奖",
-      "summary": "德黑兰--文化革命最高委员会秘书Abdolhossein Khosropanah和国家烟草控制秘书处前负责人Behzad Valizadeh因其在烟草控制方面的杰出贡献而获得世界卫生组织（ WHO ）的嘉奖。",
-      "date": "2026-05-31T12:25:46Z",
-      "url": "https://www.tehrantimes.com/news/526905/Iran-wins-WHO-World-No-Tobacco-Day-award",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526905/Iran-wins-WHO-World-No-Tobacco-Day-award"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran wins WHO World No Tobacco Day award"
-      }
-    },
-    {
-      "id": "evt_40b6591d",
-      "title": "科学部准备恢复在芬欧汇川教授波斯文学课程",
-      "summary": "德黑兰--伊朗在东亚、澳大利亚和新西兰的科学顾问Alireza Tavakolpour在与马来西亚博特拉大学（ UPM ）官员的会晤中宣布，科学部准备在UPM重新开设波斯语和文学课程。",
-      "date": "2026-05-31T12:23:55Z",
-      "url": "https://www.tehrantimes.com/news/526903/Science-ministry-ready-to-resume-teaching-Persian-Literature",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526903/Science-ministry-ready-to-resume-teaching-Persian-Literature"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Science ministry ready to resume teaching Persian Literature course in UPM"
-      }
-    },
-    {
-      "id": "evt_d8c99f91",
-      "title": "伊朗U23在安塔利亚降落，参加高风险训练营",
-      "summary": "德黑兰--伊朗U23国家足球队已正式离开德黑兰前往土耳其安塔利亚，开始为期12天的关键训练营。",
-      "date": "2026-05-31T10:51:00Z",
-      "url": "https://www.tehrantimes.com/news/526899/Iran-U23s-touch-down-in-Antalya-for-high-stakes-training-camp",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526899/Iran-U23s-touch-down-in-Antalya-for-high-stakes-training-camp"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran U23s touch down in Antalya for high-stakes training camp"
-      }
-    },
-    {
-      "id": "evt_1b0534e9",
-      "title": "伊朗派遣6名希腊-罗马摔跤手前往蒙古",
-      "summary": "德黑兰–六名伊朗希腊-罗马摔跤手将代表伊朗参加2026年乌兰巴托公开赛。",
-      "date": "2026-05-31T10:37:09Z",
-      "url": "https://www.tehrantimes.com/news/526898/Iran-sends-six-Greco-Roman-wrestlers-to-Mongolia",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526898/Iran-sends-six-Greco-Roman-wrestlers-to-Mongolia"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran sends six Greco-Roman wrestlers to Mongolia"
-      }
-    },
-    {
-      "id": "evt_ab2dfb24",
-      "title": "防守方面的担忧使伊朗世界杯的准备工作蒙上阴影",
-      "summary": "德黑兰--伊朗通往2026年世界杯的道路继续伴随着一个日益令人担忧的问题：国家队脆弱的防守结构。",
-      "date": "2026-05-31T10:08:47Z",
-      "url": "https://www.tehrantimes.com/news/526890/Defensive-concerns-cloud-Iran-s-World-Cup-preparations",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526890/Defensive-concerns-cloud-Iran-s-World-Cup-preparations"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Defensive concerns cloud Iran’s World Cup preparations"
-      }
-    },
-    {
-      "id": "evt_b88dcd79",
-      "title": "伊朗战争使美国家庭损失近450 $的额外燃料费用",
-      "summary": "德黑兰--根据穆迪分析与CNBC独家分享的分析，自伊朗战争爆发以来，美国家庭在能源相关费用上多支付了近450 $。",
-      "date": "2026-05-31T09:06:21Z",
-      "url": "https://www.tehrantimes.com/news/526896/Iran-war-costs-US-households-nearly-450-in-extra-fuel-expenses",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526896/Iran-war-costs-US-households-nearly-450-in-extra-fuel-expenses"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war costs US households nearly $450 in extra fuel expenses"
-      }
-    },
-    {
-      "id": "evt_eac7559f",
-      "title": "随着能源流动放缓，分析师上调石油预测",
-      "summary": "TEHRAN-周五公布的一项月度民意调查显示，分析师自2月伊朗战争开始以来第三次将油价预测上调至2026年。据路透社报道，他们引用了将能量流恢复到冲突前水平的“延长时间表”。",
-      "date": "2026-05-31T09:04:19Z",
-      "url": "https://www.tehrantimes.com/news/526894/Analysts-raise-oil-forecasts-as-energy-flows-slow-down",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526894/Analysts-raise-oil-forecasts-as-energy-flows-slow-down"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Analysts raise oil forecasts as energy flows slow down"
-      }
-    },
-    {
-      "id": "evt_29378a82",
-      "title": "贸易走廊从南向北转移；伊朗新贸易地图揭幕",
-      "summary": "TEHRAN -旨在应对经济封锁并逐步将贸易从南部港口转移到北部港口和陆地边界的改变该国贸易走廊的综合计划已进入实施阶段。",
-      "date": "2026-05-31T09:01:57Z",
-      "url": "https://www.tehrantimes.com/news/526892/Transfer-of-trade-corridors-from-south-to-north-Iran-s-new-trade",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526892/Transfer-of-trade-corridors-from-south-to-north-Iran-s-new-trade"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Transfer of trade corridors from south to north; Iran's new trade map unveiled"
-      }
-    },
-    {
-      "id": "evt_1022310a",
-      "title": "立法者重申德黑兰对霍尔木兹海峡的主权",
-      "summary": "伊朗议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹（ Ebrahim Azizi ）重申了伊朗对霍尔木兹海峡的主权权力，将战略航道描述为该国领土不可分割的一部分，并强调了德黑兰决定其使用政策的独家权利。",
-      "date": "2026-05-30T18:03:09Z",
-      "url": "https://www.tehrantimes.com/news/526889/Lawmaker-reaffirms-Tehran-s-sovereign-authority-over-Strait-of",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/526889/Lawmaker-reaffirms-Tehran-s-sovereign-authority-over-Strait-of"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lawmaker reaffirms Tehran’s sovereign authority over Strait of Hormuz"
       }
     }
   ]
