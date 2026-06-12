@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-06-11T02:54:29.888166Z
+// 自动生成的数据 - 更新时间: 2026-06-12T02:51:43.336713Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-11T02:54:29.888107Z",
+    "lastUpdate": "2026-06-12T02:51:43.336663Z",
     "totalEvents": 33,
     "sources": {
       "international": 18,
@@ -13,156 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_0250b4fa",
-      "title": "伊朗宣布关闭霍尔木兹海峡",
-      "summary": "伊朗官员表示，霍尔木兹海峡已因美国空袭而关闭。",
-      "date": "2026-06-11T01:18:55Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+      "id": "evt_3f1fe371",
+      "title": "随着特朗普取消对伊朗的罢工，股市飙升，吹捧和平协议",
+      "summary": "华尔街和亚洲市场团结一致，希望结束美以对伊朗的战争。",
+      "date": "2026-06-12T01:44:15Z",
+      "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran announces closure of Strait of Hormuz following US strikes"
-      }
-    },
-    {
-      "id": "evt_4bef9758",
-      "title": "伊朗战争现场：德黑兰瞄准巴林，科威特基地在美国新罢工后",
-      "summary": "在美国的袭击中，伊朗仍然挑衅，下令完全关闭霍尔木兹海峡的所有船只。",
-      "date": "2026-06-11T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes"
-      }
-    },
-    {
-      "id": "evt_1a9b9edb",
-      "title": "美国新罢工后，伊朗袭击巴林、科威特和霍尔木兹的船只",
-      "summary": "德黑兰声称，当美国袭击格什姆岛和霍尔木兹沿线的港口时，无人机袭击了巴林和科威特的基地。",
-      "date": "2026-06-10T23:57:12Z",
-      "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes"
-      }
-    },
-    {
-      "id": "evt_29edb01e",
-      "title": "“用炸弹谈判” ： Hegseth为美国对伊朗罢工的第二天晚上辩护",
-      "summary": "美国中央司令部将这些袭击描述为“伊朗毫无根据的持续侵略”。",
-      "date": "2026-06-10T21:51:57Z",
-      "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran"
-      }
-    },
-    {
-      "id": "evt_26569dc7",
-      "title": "特朗普表示，美国今天将再次“重创”伊朗",
-      "summary": "美国总统警告说，在德黑兰发誓要对任何袭击进行报复之后，伊朗“将不得不付出代价” ，因为花了太长时间才达成协议。",
-      "date": "2026-06-10T21:49:57Z",
-      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says US will hit Iran 'hard' again today"
-      }
-    },
-    {
-      "id": "evt_478acf6a",
-      "title": "以色列在黎巴嫩杀害16人，联合国调查违反国际法的行为",
-      "summary": "联合国调查人员将于下周抵达黎巴嫩，评估各方可能违反国际法的情况。",
-      "date": "2026-06-10T20:46:39Z",
-      "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,23 +37,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel kills 16 in Lebanon, UN to probe international law violations"
+        "en": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal"
       }
     },
     {
-      "id": "evt_8ef589e2",
-      "title": "美国称三名印度水手在阿曼湾击中油轮后失踪",
-      "summary": "印度政府表示，在阿曼海岸的Settebello发生袭击后，三名印度水手失踪， 21名船员获救。",
-      "date": "2026-06-10T17:48:54Z",
-      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_8bac2ab3",
+      "title": "伊朗世界杯队长揭露墨西哥卡特尔抢劫案",
+      "summary": "伊朗世界杯队长说，他听说墨西哥卡特尔喜欢伊朗人，并透露了自己与武装组织的关系。",
+      "date": "2026-06-12T01:40:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss",
       "sources": [
         {
           "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -205,7 +65,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman"
+        "en": "Iran World Cup captain reveals Mexico cartel robbery story"
+      }
+    },
+    {
+      "id": "evt_c39ece1e",
+      "title": "以色列对加沙发动连夜罢工",
+      "summary": "巴勒斯坦活动人士分享的视频显示，以色列一夜之间在加沙地带发动了强大的空袭。",
+      "date": "2026-06-12T01:11:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel launches overnight strikes across Gaza"
+      }
+    },
+    {
+      "id": "evt_a710fbb8",
+      "title": "伊朗战争现场：特朗普声称德黑兰协议“获得批准” ，取消新的罢工",
+      "summary": "国际援救委员会警告说，因以色列在黎巴嫩的袭击而流离失所的人正处于“临界点”。",
+      "date": "2026-06-12T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes"
+      }
+    },
+    {
+      "id": "evt_f057398a",
+      "title": "特朗普表示，美国和伊朗已达成“伟大的解决方案”",
+      "summary": "美国总统唐纳德特朗普声称华盛顿和德黑兰已达成“伟大的解决方案” ，并正在敲定文件",
+      "date": "2026-06-11T23:29:01Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US and Iran have reached a ‘great settlement’"
+      }
+    },
+    {
+      "id": "evt_6ef95369",
+      "title": "美国议员敦促以色列让癌症患者离开加沙接受治疗",
+      "summary": "多名议员呼吁特朗普政府在服务短缺的情况下，为从加沙撤离医疗人员提供便利。",
+      "date": "2026-06-11T21:49:27Z",
+      "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US lawmakers press Israel to let cancer patients out of Gaza for treatment"
+      }
+    },
+    {
+      "id": "evt_1c8398cd",
+      "title": "美国和伊朗连续第二天在中东交换罢工",
+      "summary": "伊朗表示，它通过瞄准美国在科威特，约旦和巴林的资产来应对美国的罢工，这些资产报告称其首都城市在一夜之间遭到破坏。",
+      "date": "2026-06-11T12:09:44Z",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Iran exchange strikes across Middle East for second day in a row"
+      }
+    },
+    {
+      "id": "evt_6a3022fc",
+      "title": "万斯说，以色列总理内塔尼亚胡“做错了一些事情”",
+      "summary": "这位美国副总统说，以色列领导人“咄咄逼人地主张”他的国家的利益，但他们并不总是与美国的利益保持一致。",
+      "date": "2026-06-11T10:26:59Z",
+      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Vance says Israeli PM Netanyahu 'has got some things wrong'"
       }
     },
     {
@@ -906,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel strikes Beirut suburb days after US-brokered truce"
-      }
-    },
-    {
-      "id": "evt_b3e5987e",
-      "title": "以色列枪击事件造成1人死亡， 5人受伤",
-      "summary": "嫌疑人在被枪杀之前，在几个地点从一辆汽车上开枪。",
-      "date": "2026-06-07T15:40:49Z",
-      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "One dead, five injured after shooting in Israel"
       }
     }
   ]
