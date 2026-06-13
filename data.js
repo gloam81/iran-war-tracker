@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-12T02:51:43.336713Z
+// 自动生成的数据 - 更新时间: 2026-06-13T02:43:49.765586Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-12T02:51:43.336663Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-06-13T02:43:49.765529Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 18,
+      "international": 17,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_3f1fe371",
-      "title": "随着特朗普取消对伊朗的罢工，股市飙升，吹捧和平协议",
-      "summary": "华尔街和亚洲市场团结一致，希望结束美以对伊朗的战争。",
-      "date": "2026-06-12T01:44:15Z",
-      "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss",
+      "id": "evt_d39ca70f",
+      "title": "伊朗表示，结束战斗的协议将导致霍尔木兹重新开放",
+      "summary": "美国、伊朗和调解人巴基斯坦表示，为结束敌对行动铺平道路的协议已接近尾声。",
+      "date": "2026-06-13T00:51:20Z",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal"
-      }
-    },
-    {
-      "id": "evt_8bac2ab3",
-      "title": "伊朗世界杯队长揭露墨西哥卡特尔抢劫案",
-      "summary": "伊朗世界杯队长说，他听说墨西哥卡特尔喜欢伊朗人，并透露了自己与武装组织的关系。",
-      "date": "2026-06-12T01:40:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -65,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran World Cup captain reveals Mexico cartel robbery story"
+        "en": "Deal to end fighting would lead to Hormuz reopening, Iran says"
       }
     },
     {
-      "id": "evt_c39ece1e",
-      "title": "以色列对加沙发动连夜罢工",
-      "summary": "巴勒斯坦活动人士分享的视频显示，以色列一夜之间在加沙地带发动了强大的空袭。",
-      "date": "2026-06-12T01:11:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+      "id": "evt_1f3b153c",
+      "title": "伊朗战争现场：美国、德黑兰发出和平协议触手可及但尚未签署的信号",
+      "summary": "巴勒斯坦行动组织的四名活动人士因抗议对英国以色列军火公司的突袭而被英国法院判入狱。",
+      "date": "2026-06-13T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel launches overnight strikes across Gaza"
-      }
-    },
-    {
-      "id": "evt_a710fbb8",
-      "title": "伊朗战争现场：特朗普声称德黑兰协议“获得批准” ，取消新的罢工",
-      "summary": "国际援救委员会警告说，因以色列在黎巴嫩的袭击而流离失所的人正处于“临界点”。",
-      "date": "2026-06-12T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes"
+        "en": "Iran war live: US, Tehran signal peace deal within reach but not signed yet"
       }
     },
     {
-      "id": "evt_f057398a",
-      "title": "特朗普表示，美国和伊朗已达成“伟大的解决方案”",
-      "summary": "美国总统唐纳德特朗普声称华盛顿和德黑兰已达成“伟大的解决方案” ，并正在敲定文件",
-      "date": "2026-06-11T23:29:01Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss",
+      "id": "evt_42d357c2",
+      "title": "巴勒斯坦足球局局长表示，他没有获得美国签证参加世界杯",
+      "summary": "Jibril Rajoub仍在墨西哥等待美国签证参加2026年世界杯。",
+      "date": "2026-06-12T22:32:49Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -149,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says US and Iran have reached a ‘great settlement’"
+        "en": "Palestine football chief says he wasn’t granted US visa to attend World Cup"
       }
     },
     {
-      "id": "evt_6ef95369",
-      "title": "美国议员敦促以色列让癌症患者离开加沙接受治疗",
-      "summary": "多名议员呼吁特朗普政府在服务短缺的情况下，为从加沙撤离医疗人员提供便利。",
-      "date": "2026-06-11T21:49:27Z",
-      "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
+      "id": "evt_ba856828",
+      "title": "阿联酋在美国推动停火期间解冻被冻结的伊朗资金：消息来源",
+      "summary": "据路透社报道，阿联酋同意为伊朗解锁数十亿美元，但阿布扎比迅速发表了断然否认的声明。",
+      "date": "2026-06-12T20:58:41Z",
+      "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -177,7 +121,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US lawmakers press Israel to let cancer patients out of Gaza for treatment"
+        "en": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources"
+      }
+    },
+    {
+      "id": "evt_414e90a0",
+      "title": "这次是否会达成结束伊朗战争的协议？",
+      "summary": "在取消对伊朗的计划打击后，特朗普表示，结束战争的协议将很快敲定。",
+      "date": "2026-06-12T20:44:04Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Will there be a deal to end the Iran war this time?"
+      }
+    },
+    {
+      "id": "evt_39f7d594",
+      "title": "美国国会议员表示特朗普不会向伊朗发送大量资金",
+      "summary": "美国众议院共和党人瑞安·辛克（ Ryan Zinke ）表示，唐纳德·特朗普总统希望与伊朗达成协议，但不会提供资金",
+      "date": "2026-06-12T19:53:19Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US Congressman says Trump won’t send loads of money to Iran"
       }
     },
     {
@@ -906,34 +906,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump tells BBC Netanyahu did not defy him"
-      }
-    },
-    {
-      "id": "evt_9fed41d9",
-      "title": "以色列在美国斡旋的停火协议几天后袭击贝鲁特郊区",
-      "summary": "以色列表示，对黎巴嫩首都的袭击是“为了回应真主党对以色列领土的射击”。",
-      "date": "2026-06-07T20:56:09Z",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel strikes Beirut suburb days after US-brokered truce"
       }
     }
   ]
