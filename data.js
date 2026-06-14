@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-06-13T02:43:49.765586Z
+// 自动生成的数据 - 更新时间: 2026-06-14T02:55:10.292820Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-13T02:43:49.765529Z",
+    "lastUpdate": "2026-06-14T02:55:10.292755Z",
     "totalEvents": 32,
     "sources": {
       "international": 17,
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_d39ca70f",
-      "title": "伊朗表示，结束战斗的协议将导致霍尔木兹重新开放",
-      "summary": "美国、伊朗和调解人巴基斯坦表示，为结束敌对行动铺平道路的协议已接近尾声。",
-      "date": "2026-06-13T00:51:20Z",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_c91d286f",
+      "title": "两人在以色列对加沙的袭击中丧生",
+      "summary": "据巴勒斯坦当局称，以色列对加沙南部的袭击造成两人死亡，另一人受伤。",
+      "date": "2026-06-14T01:11:06Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
       "sources": [
         {
           "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Deal to end fighting would lead to Hormuz reopening, Iran says"
+        "en": "Two killed in Israeli strike on Gaza"
       }
     },
     {
-      "id": "evt_1f3b153c",
-      "title": "伊朗战争现场：美国、德黑兰发出和平协议触手可及但尚未签署的信号",
-      "summary": "巴勒斯坦行动组织的四名活动人士因抗议对英国以色列军火公司的突袭而被英国法院判入狱。",
-      "date": "2026-06-13T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
+      "id": "evt_0d406eee",
+      "title": "为什么黄金价格呈下降趋势？",
+      "summary": "自2月底美国和以色列对伊朗发动战争以来，黄金一直面临压力。",
+      "date": "2026-06-14T00:56:36Z",
+      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why is the price of gold trending down?"
+      }
+    },
+    {
+      "id": "evt_646c649c",
+      "title": "伊朗战争现场：特朗普表示今天将签署协议；德黑兰对时机有争议",
+      "summary": "美国和伊朗似乎即将签署和平协议的第一阶段，双方在何时签署方面存在分歧。",
+      "date": "2026-06-14T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US, Tehran signal peace deal within reach but not signed yet"
+        "en": "Iran war live: Trump says deal to be signed today; Tehran disputes timing"
       }
     },
     {
-      "id": "evt_42d357c2",
-      "title": "巴勒斯坦足球局局长表示，他没有获得美国签证参加世界杯",
-      "summary": "Jibril Rajoub仍在墨西哥等待美国签证参加2026年世界杯。",
-      "date": "2026-06-12T22:32:49Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss",
+      "id": "evt_8550e1ea",
+      "title": "卡塔尔净延迟对阵瑞士，以获得历史性的第一个世界杯积分",
+      "summary": "亚洲杯持有者卡塔尔队在受伤时间与瑞士队在2026年世界杯首场比赛中以1比1平局。",
+      "date": "2026-06-13T21:29:10Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -93,27 +121,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestine football chief says he wasn’t granted US visa to attend World Cup"
+        "en": "Qatar net late against Switzerland to secure historic first World Cup point"
       }
     },
     {
-      "id": "evt_ba856828",
-      "title": "阿联酋在美国推动停火期间解冻被冻结的伊朗资金：消息来源",
-      "summary": "据路透社报道，阿联酋同意为伊朗解锁数十亿美元，但阿布扎比迅速发表了断然否认的声明。",
-      "date": "2026-06-12T20:58:41Z",
-      "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
+      "id": "evt_117ef7ac",
+      "title": "以色列袭击黎巴嫩，美国称伊朗将于周日签署协议",
+      "summary": "周六，在以色列继续发动袭击之际，黎巴嫩南部发生了爆炸。",
+      "date": "2026-06-13T20:40:06Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -121,27 +149,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources"
+        "en": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday"
       }
     },
     {
-      "id": "evt_414e90a0",
-      "title": "这次是否会达成结束伊朗战争的协议？",
-      "summary": "在取消对伊朗的计划打击后，特朗普表示，结束战争的协议将很快敲定。",
-      "date": "2026-06-12T20:44:04Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+      "id": "evt_d39ca70f",
+      "title": "国家媒体称，以色列对黎巴嫩进行空袭，因为伊朗声称在附近与美国打交道",
+      "summary": "罢工发生之际，伊朗外交部长表示，结束与美国战斗的协议即将达成。",
+      "date": "2026-06-13T11:15:18Z",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -149,35 +177,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Will there be a deal to end the Iran war this time?"
-      }
-    },
-    {
-      "id": "evt_39f7d594",
-      "title": "美国国会议员表示特朗普不会向伊朗发送大量资金",
-      "summary": "美国众议院共和党人瑞安·辛克（ Ryan Zinke ）表示，唐纳德·特朗普总统希望与伊朗达成协议，但不会提供资金",
-      "date": "2026-06-12T19:53:19Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US Congressman says Trump won’t send loads of money to Iran"
+        "en": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near"
       }
     },
     {
