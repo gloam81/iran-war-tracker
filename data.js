@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-14T02:55:10.292820Z
+// 自动生成的数据 - 更新时间: 2026-06-15T03:02:38.220543Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-14T02:55:10.292755Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-06-15T03:02:38.220482Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 17,
+      "international": 21,
       "iranian": 15,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_c91d286f",
-      "title": "两人在以色列对加沙的袭击中丧生",
-      "summary": "据巴勒斯坦当局称，以色列对加沙南部的袭击造成两人死亡，另一人受伤。",
-      "date": "2026-06-14T01:11:06Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+      "id": "evt_6c080dbc",
+      "title": "尽管美伊宣布停火，黎巴嫩人仍持怀疑态度",
+      "summary": "美伊停火公告给黎巴嫩带来了希望。",
+      "date": "2026-06-15T02:26:06Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
       },
       "languages": [
         "zh",
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Two killed in Israeli strike on Gaza"
+        "en": "Lebanese remain sceptical despite US-Iran ceasefire announcement"
       }
     },
     {
-      "id": "evt_0d406eee",
-      "title": "为什么黄金价格呈下降趋势？",
-      "summary": "自2月底美国和以色列对伊朗发动战争以来，黄金一直面临压力。",
-      "date": "2026-06-14T00:56:36Z",
-      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
+      "id": "evt_2db7af59",
+      "title": "美伊将于周五签署“和平协议” ：迄今为止我们所了解的情况",
+      "summary": "特朗普表示，随着德黑兰确认结束敌对行动的计划，美伊协议将于本周五签署。",
+      "date": "2026-06-15T01:40:47Z",
+      "url": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why is the price of gold trending down?"
-      }
-    },
-    {
-      "id": "evt_646c649c",
-      "title": "伊朗战争现场：特朗普表示今天将签署协议；德黑兰对时机有争议",
-      "summary": "美国和伊朗似乎即将签署和平协议的第一阶段，双方在何时签署方面存在分歧。",
-      "date": "2026-06-14T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,23 +65,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says deal to be signed today; Tehran disputes timing"
+        "en": "US-Iran to sign a ‘peace deal’ on Friday: What we know so far"
       }
     },
     {
-      "id": "evt_8550e1ea",
-      "title": "卡塔尔净延迟对阵瑞士，以获得历史性的第一个世界杯积分",
-      "summary": "亚洲杯持有者卡塔尔队在受伤时间与瑞士队在2026年世界杯首场比赛中以1比1平局。",
-      "date": "2026-06-13T21:29:10Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
+      "id": "evt_66825ee2",
+      "title": "随着民主党人寻求澄清，特朗普的盟友为伊朗的“和平协议”公告欢呼",
+      "summary": "美国和伊朗表示将于周五签署谅解备忘录，但尚未公布正式条款。",
+      "date": "2026-06-15T01:13:29Z",
+      "url": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -121,20 +93,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qatar net late against Switzerland to secure historic first World Cup point"
+        "en": "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity"
       }
     },
     {
-      "id": "evt_117ef7ac",
-      "title": "以色列袭击黎巴嫩，美国称伊朗将于周日签署协议",
-      "summary": "周六，在以色列继续发动袭击之际，黎巴嫩南部发生了爆炸。",
-      "date": "2026-06-13T20:40:06Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
+      "id": "evt_9c0ffa02",
+      "title": "伊朗的Ghalenoei ， Taremi在第一场世界杯比赛前谴责美国的待遇",
+      "summary": "前锋Mehdi Taremi表示，美国的旅行政策正在抑制足球锦标赛点燃的喜悦。",
+      "date": "2026-06-15T00:42:08Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/15/irans-ghalenoei-taremi-decry-us-treatment-before-first-world-cup-game?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/6/15/irans-ghalenoei-taremi-decry-us-treatment-before-first-world-cup-game?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game"
+      }
+    },
+    {
+      "id": "evt_ef45e498",
+      "title": "股市飙升，美国油价下跌，伊朗确认达成结束战争的协议",
+      "summary": "随着华盛顿和德黑兰宣布达成协议，结束敌对行动并重新开放霍尔木兹海峡，亚洲股市飙升。",
+      "date": "2026-06-15T00:37:07Z",
+      "url": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Stock markets soar, oil falls as US, Iran confirm deal to end war"
+      }
+    },
+    {
+      "id": "evt_26507bc5",
+      "title": "声称以色列的贝鲁特罢工推动特朗普宣布伊朗",
+      "summary": "美国外交官艾伦·艾尔（ Alan Eyre ）表示，尽管美伊宣布停火，但在正式达成协议之前，没有达成任何协议。",
+      "date": "2026-06-15T00:15:27Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/claims-israels-beirut-strike-pushed-trump-on-iran-announcement?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,7 +177,147 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday"
+        "en": "Claims Israel’s Beirut strike pushed Trump on Iran announcement"
+      }
+    },
+    {
+      "id": "evt_7b1dce3a",
+      "title": "突破：美国、伊朗宣布停火协议",
+      "summary": "美国总统唐纳德·特朗普宣布与伊朗达成停火协议。",
+      "date": "2026-06-14T22:54:36Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BREAKING: US, Iran announce ceasefire agreement"
+      }
+    },
+    {
+      "id": "evt_800c9924",
+      "title": "美伊宣布“和平协议” ；特朗普称霍尔木兹海峡重新开放",
+      "summary": "特朗普宣布已与伊朗达成停火协议，霍尔木兹海峡将重新开放航运。",
+      "date": "2026-06-14T22:43:19Z",
+      "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening"
+      }
+    },
+    {
+      "id": "evt_5c574ac0",
+      "title": "印度以64场比赛击败巴基斯坦，开启女子T20世界杯活动",
+      "summary": "Smriti Mandhana得分68分， Deepti Sharma拿下五个小门，因为印度在一群人面前击败了巴基斯坦。",
+      "date": "2026-06-14T21:34:29Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign"
+      }
+    },
+    {
+      "id": "evt_b19e17f1",
+      "title": "以色列军方称真主党目标袭击贝鲁特",
+      "summary": "以色列表示，它针对的是伊朗支持的武装组织真主党，因为德黑兰警告说，这可能会破坏美国-伊朗结束战斗的协议。",
+      "date": "2026-06-14T17:52:36Z",
+      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli military says Hezbollah targets struck in Beirut"
+      }
+    },
+    {
+      "id": "evt_262ac023",
+      "title": "特朗普表示，美伊协议将于周日签署，因为德黑兰对时机表示怀疑",
+      "summary": "美国总统发表上述言论之际，伊朗表示，确切日期尚未决定。",
+      "date": "2026-06-14T11:23:36Z",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing"
       }
     },
     {
@@ -181,23 +349,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_1c8398cd",
-      "title": "美国和伊朗连续第二天在中东交换罢工",
-      "summary": "伊朗表示，它通过瞄准美国在科威特，约旦和巴林的资产来应对美国的罢工，这些资产报告称其首都城市在一夜之间遭到破坏。",
-      "date": "2026-06-11T12:09:44Z",
-      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_2a590e22",
+      "title": "“他们摧毁了未来” ：巴勒斯坦人对以色列在东耶路撒冷的拆除行动感到愤怒",
+      "summary": "在被占领的东耶路撒冷，巴勒斯坦人的房屋正在被拆除，以便为公园让路。",
+      "date": "2026-06-12T05:01:48Z",
+      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -205,7 +373,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US and Iran exchange strikes across Middle East for second day in a row"
+        "en": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem"
       }
     },
     {
@@ -685,34 +853,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d8c314a1",
-      "title": "美国打击伊朗以应对军用直升机被击落事件",
-      "summary": "唐纳德特朗普总统早些时候指责伊朗在霍尔木兹海峡上空击落美国直升机，并发誓要作出回应。",
-      "date": "2026-06-10T09:39:35Z",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US strikes Iran in response to downing of military helicopter"
-      }
-    },
-    {
       "id": "evt_2041f93e",
       "title": "英国及其盟友制裁西岸定居者暴力行为的“网络”",
       "summary": "法国还将禁止极右翼的以色列部长Bezalel Smotrich入境，作为以色列谴责为“可耻”的措施的一部分。",
@@ -794,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks"
-      }
-    },
-    {
-      "id": "evt_58291b39",
-      "title": "“请派人帮助” ：船只被美国导弹击中后船员的遇险呼叫",
-      "summary": "一艘经批准的油轮在阿曼被美国战斗机发射的导弹击中后，船员获救。",
-      "date": "2026-06-09T13:42:26Z",
-      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Please send help': Crew's distress call after ship hit by US missile"
       }
     },
     {
