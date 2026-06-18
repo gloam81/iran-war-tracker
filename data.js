@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-17T02:57:52.810148Z
+// 自动生成的数据 - 更新时间: 2026-06-18T02:52:38.839217Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-17T02:57:52.810085Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-06-18T02:52:38.839148Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 20,
+      "international": 22,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_a2815fc2",
-      "title": "哈兰德打进两球，挪威在世界杯回归时以4比1击败伊拉克",
-      "summary": "这位曼城前锋在一场重要的国际锦标赛上打进了他的第一个进球，因为挪威队在伊拉克队取得了胜利。",
-      "date": "2026-06-17T02:46:13Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/17/haaland-scores-two-goals-as-norway-beat-iraq-4-1-on-world-cup-return?traffic_source=rss",
+      "id": "evt_275f43fd",
+      "title": "美国与伊朗达成协议后，内塔尼亚胡在以色列面临压力",
+      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在被排除在美伊协议之外后面临越来越大的压力。",
+      "date": "2026-06-18T02:27:44Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/17/haaland-scores-two-goals-as-norway-beat-iraq-4-1-on-world-cup-return?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Haaland scores two goals as Norway beat Iraq 4-1 on World Cup return"
-      }
-    },
-    {
-      "id": "evt_e20b6159",
-      "title": "斯莫特里奇说以色列控制了希伯伦",
-      "summary": "以色列财政部长Bezalel Smotrich表示，以色列已将希伯伦的权力移交给军队。",
-      "date": "2026-06-17T01:24:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Smotrich says Israel taking control of Hebron"
+        "en": "Netanyahu under pressure in Israel after US-Iran agreement"
       }
     },
     {
-      "id": "evt_c1e40dbf",
-      "title": "联合国报告黎巴嫩南部跨境火灾减少",
-      "summary": "联合国报告黎巴嫩南部跨境火灾减少",
-      "date": "2026-06-17T01:24:27Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-reports-decline-in-cross-border-fire-in-southern-lebanon?traffic_source=rss",
+      "id": "evt_656f3b1f",
+      "title": "Greta Thunberg加入布鲁塞尔抗议以色列",
+      "summary": "包括Greta Thunberg和其他船队活动家在内的约100人在布鲁塞尔集会。",
+      "date": "2026-06-18T02:24:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-reports-decline-in-cross-border-fire-in-southern-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN reports decline in cross-border fire in southern Lebanon"
-      }
-    },
-    {
-      "id": "evt_6423fec2",
-      "title": "伊朗战争现场：特朗普批评内塔尼亚胡，以色列在黎巴嫩杀死4人",
-      "summary": "在特朗普批评内塔尼亚胡对以色列袭击黎巴嫩发出警告之际。",
-      "date": "2026-06-17T00:00:18Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu"
+        "en": "Greta Thunberg joins Brussels protest against Israel"
       }
     },
     {
-      "id": "evt_242c205b",
-      "title": "伊朗官员表示，每次世界杯比赛结束后，伊朗将不得不离开美国数小时",
-      "summary": "迈赫迪·托拉比（ Mehdi Torabi ）在新西兰比赛结束后返回墨西哥时，在之前的签证到期后签发了新的签证。",
-      "date": "2026-06-16T23:41:03Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/16/iran-will-have-to-leave-us-hours-after-every-world-cup-match-official-says?traffic_source=rss",
+      "id": "evt_908364bd",
+      "title": "美国和伊朗签署结束战争的谅解备忘录",
+      "summary": "据报道，美国总统唐纳德·特朗普和伊朗总统马苏德·佩泽什基安签署了一份谅解备忘录",
+      "date": "2026-06-18T01:42:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/16/iran-will-have-to-leave-us-hours-after-every-world-cup-match-official-says?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran will have to leave US hours after every World Cup match, official says"
+        "en": "US and Iran sign Memorandum of Understanding to end war"
       }
     },
     {
-      "id": "evt_5461e9eb",
-      "title": "索马里兰总统访问以色列议会",
-      "summary": "索马里兰总统正在以色列进行“历史性”之旅，在那里他开设了一个大使馆并访问了以色列议会。",
-      "date": "2026-06-16T21:51:28Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss",
+      "id": "evt_6dc25c69",
+      "title": "伊朗战争现场：巴基斯坦表示谅解备忘录在特朗普， Pezeshkian签署后生效",
+      "summary": "双方都表示，该协议已经生效，包括结束黎巴嫩战争和重新开放霍尔木兹海峡。",
+      "date": "2026-06-18T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing"
+      }
+    },
+    {
+      "id": "evt_c2c2c993",
+      "title": "特朗普对内塔尼亚胡：对黎巴嫩采取“更温和”的态度",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）鼓励以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在黎巴嫩使用“",
+      "date": "2026-06-17T23:57:07Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +149,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Somaliland president visits Israeli Knesset on tour"
+        "en": "Trump to Netanyahu: Use a ‘softer’ touch on Lebanon"
       }
     },
     {
-      "id": "evt_feb0472c",
-      "title": "特朗普需要达成协议",
-      "summary": "Sobh-e-No ：最近几周的情况表明，唐纳德·特朗普非常渴望达成协议，甚至在上周伊朗袭击以色列期间，美国也没有拦截伊朗的导弹。特朗普公开批评以色列对黎巴嫩的攻击，表明与他早先的主张相反，基于伊朗伊斯兰共和国的要求和逻辑的阵线团结已经牢固确立。",
-      "date": "2026-06-16T19:21:32Z",
-      "url": "https://www.tehrantimes.com/news/527400/Trump-needs-an-agreement",
+      "id": "evt_3ef0a60c",
+      "title": "特朗普称伊朗缺乏弹道导弹是“不公平的”",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，如果其他地区国家拥有弹道导弹，伊朗缺乏弹道导弹是“不公平的”。",
+      "date": "2026-06-17T23:56:36Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles"
+      }
+    },
+    {
+      "id": "evt_24681275",
+      "title": "外交官确认美国和伊朗已以电子方式签署谅解备忘录",
+      "summary": "外交部发言人Esmaeil Baghaei表示，该协议已最终确定并与美国签署。",
+      "date": "2026-06-17T23:02:47Z",
+      "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Diplomat confirms that US and Iran have signed MoU electronically"
+      }
+    },
+    {
+      "id": "evt_e84f78d4",
+      "title": "华为首席财务官的承认可以用于刑事审判，美国法官规则",
+      "summary": "首席财务官孟晚舟在2021年表示，华为在伊朗非法开展业务。",
+      "date": "2026-06-17T21:32:43Z",
+      "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Huawei CFO’s admissions can be used at criminal trial, US judge rules"
+      }
+    },
+    {
+      "id": "evt_63a21735",
+      "title": "双手放在扳机上，眼中充满了对敌人的绝对不信任",
+      "summary": "Kayhan写道，伊朗不应该信任最近的伊朗-美国谅解。该论文认为：在纸上签署文件绝不能产生一切都已经结束或条件已经正常化的错觉。",
+      "date": "2026-06-17T17:54:39Z",
+      "url": "https://www.tehrantimes.com/news/527442/Hands-on-the-trigger-eyes-filled-with-absolute-distrust-toward",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527400/Trump-needs-an-agreement"
+          "url": "https://www.tehrantimes.com/news/527442/Hands-on-the-trigger-eyes-filled-with-absolute-distrust-toward"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hands on the trigger, eyes filled with absolute distrust toward the enemy"
+      }
+    },
+    {
+      "id": "evt_8dcbfb92",
+      "title": "伊朗与美国达成结束战争的初步协议",
+      "summary": "马德里--在美国和以色列对伊朗发动了100多天的军事行动后，双方已同意停止敌对行动。",
+      "date": "2026-06-17T17:53:17Z",
+      "url": "https://www.tehrantimes.com/news/527443/Iran-and-US-reach-a-preliminary-agreement-to-end-the-war",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527443/Iran-and-US-reach-a-preliminary-agreement-to-end-the-war"
         }
       ],
       "category": "military",
@@ -205,20 +289,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump needs an agreement"
+        "en": "Iran and US reach a preliminary agreement to end the war"
       }
     },
     {
-      "id": "evt_f2841cc4",
-      "title": "司法部长： “外交与战场”同步推进",
-      "summary": "德黑兰--司法部长Gholamhossein Mohseni Ejei强调了伊朗政治和军事领导层之间的融合，强调与美国的谈判旨在确保国家的权利。",
-      "date": "2026-06-16T19:20:56Z",
-      "url": "https://www.tehrantimes.com/news/527399/Judiciary-chief-Diplomacy-and-battlefield-move-in-sync",
+      "id": "evt_be6f36a3",
+      "title": "伊朗驳斥以色列在联合国的指控，重申自卫权",
+      "summary": "德黑兰--伊朗坚决反对以色列政权在联合国提出的“毫无根据和歪曲的指控” ，声称德黑兰最近的军事行动是合法的，是针对以色列持续侵略和违反国际法的行为而采取的相称的自卫措施。",
+      "date": "2026-06-17T17:52:22Z",
+      "url": "https://www.tehrantimes.com/news/527447/Iran-rejects-Israeli-allegations-at-UN-reaffirms-right-to-self-defense",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527399/Judiciary-chief-Diplomacy-and-battlefield-move-in-sync"
+          "url": "https://www.tehrantimes.com/news/527447/Iran-rejects-Israeli-allegations-at-UN-reaffirms-right-to-self-defense"
         }
       ],
       "category": "military",
@@ -233,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Judiciary chief: 'Diplomacy and battlefield' move in sync"
+        "en": "Iran rejects Israeli allegations at UN, reaffirms right to self-defense"
       }
     },
     {
-      "id": "evt_5a51c7b7",
-      "title": "美国、伊朗讨论解冻伊朗资产",
-      "summary": "TEHRAN -卡塔尔首相顾问兼卡塔尔外交部发言人马吉德·本·穆罕默德·安萨里（ Majed bin Mohammed Al-Ansari ）表示，作为围绕两国谅解备忘录谈判的一部分，美国和伊朗讨论了解冻约240亿美元伊朗资产的问题。",
-      "date": "2026-06-16T19:20:20Z",
-      "url": "https://www.tehrantimes.com/news/527407/US-Iran-discuss-unfreezing-Iranian-assets",
+      "id": "evt_e260ca42",
+      "title": "随着全球支持的增加，以色列违反了伊朗-美国谅解备忘录",
+      "summary": "德黑兰--以色列继续违反伊朗和美国之间的停火协议，其中包括停止以色列对黎巴嫩的打击。",
+      "date": "2026-06-17T17:48:43Z",
+      "url": "https://www.tehrantimes.com/news/527441/Israel-violates-Iran-US-MoU-as-global-support-grows",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527407/US-Iran-discuss-unfreezing-Iranian-assets"
+          "url": "https://www.tehrantimes.com/news/527441/Israel-violates-Iran-US-MoU-as-global-support-grows"
         }
       ],
       "category": "military",
@@ -261,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US, Iran discuss unfreezing Iranian assets"
+        "en": "Israel violates Iran–US MoU as global support grows"
       }
     },
     {
-      "id": "evt_35857e40",
-      "title": "卡利巴夫、万斯代表伊朗和美国参加瑞士签署的谅解备忘录",
-      "summary": "德黑兰--据伊朗外交部副部长马吉德·塔赫特·拉万奇（ Majid Takht Ravanchi ）称，伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）和美国副总统J.D.万斯（ J.D. Vance ）预计将代表各自国家出席定于6月19日在瑞士举行的伊朗-美国谅解备忘录（ MoU ）签署仪式。",
-      "date": "2026-06-16T19:17:57Z",
-      "url": "https://www.tehrantimes.com/news/527406/Qalibaf-Vance-to-represent-Iran-and-US-at-Switzerland-signing",
+      "id": "evt_e9e4fcee",
+      "title": "抛弃公共汽车：美以代理人的命运",
+      "summary": "德黑兰--美国-以色列对伊朗的战争以侵略者的战略失败告终，流亡的伊朗反对派团体希望利用外国干预掌权，因此受到更深的羞辱。",
+      "date": "2026-06-17T17:48:22Z",
+      "url": "https://www.tehrantimes.com/news/527440/Thrown-under-the-bus-The-fate-of-US-Israeli-proxies",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527406/Qalibaf-Vance-to-represent-Iran-and-US-at-Switzerland-signing"
+          "url": "https://www.tehrantimes.com/news/527440/Thrown-under-the-bus-The-fate-of-US-Israeli-proxies"
         }
       ],
       "category": "military",
@@ -289,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qalibaf, Vance to represent Iran and US at Switzerland signing of MoU"
+        "en": "Thrown under the bus: The fate of US-Israeli proxies"
       }
     },
     {
-      "id": "evt_a09db38e",
-      "title": "黎巴嫩欢迎谅解备忘录，真主党赞扬德黑兰的作用",
-      "summary": "德黑兰--黎巴嫩最高政治领导人对伊朗和美国最近达成的谅解备忘录表示欢迎，而德黑兰和贝鲁特的高级官员则呼吁全面执行旨在结束黎巴嫩敌对行动和确保以色列军队撤出被占领土的规定。",
-      "date": "2026-06-16T19:14:37Z",
-      "url": "https://www.tehrantimes.com/news/527405/Lebanon-welcomes-MoU-and-Hezbollah-praises-Tehran-s-role",
+      "id": "evt_008117f3",
+      "title": "印度空军将展出1973年动画《梦幻星球》",
+      "summary": "德黑兰--位于德黑兰的伊朗艺术家论坛（ IAF ）将于周四放映由勒内·拉卢（ René Laloux ）执导的1973年超现实主义动画艺术电影《梦幻星球》（ Fantastic Planet ）。",
+      "date": "2026-06-17T17:43:40Z",
+      "url": "https://www.tehrantimes.com/news/527439/IAF-to-show-1973-animation-Fantastic-Planet",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527405/Lebanon-welcomes-MoU-and-Hezbollah-praises-Tehran-s-role"
+          "url": "https://www.tehrantimes.com/news/527439/IAF-to-show-1973-animation-Fantastic-Planet"
         }
       ],
       "category": "military",
@@ -317,160 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Lebanon welcomes MoU and Hezbollah praises Tehran’s role"
+        "en": "IAF to show 1973 animation “Fantastic Planet”"
       }
     },
     {
-      "id": "evt_984dacd1",
-      "title": "伊朗军事领导人宣布对美以侵略取得战略性胜利",
-      "summary": "TEHRAN-在一系列协调一致的公开声明中，伊朗最高军事指挥官共同宣称，伊朗伊斯兰共和国从美国和以色列最近发动的两场侵略战争中得到了战略性加强，强调敌军未能实现其任何既定目标，也不敢接近伊朗领海。",
-      "date": "2026-06-16T19:11:20Z",
-      "url": "https://www.tehrantimes.com/news/527404/Iran-s-military-leadership-declares-strategic-victory-over-US-Israeli",
+      "id": "evt_1ed109ef",
+      "title": "第15届百秒电影节国际栏目启动",
+      "summary": "TEHRAN-第15届100秒电影节的国际分会已正式开始以“世界儿童之战”为主题的活动。",
+      "date": "2026-06-17T17:43:25Z",
+      "url": "https://www.tehrantimes.com/news/527425/International-section-of-15th-100-Second-Film-Festival-launched",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527404/Iran-s-military-leadership-declares-strategic-victory-over-US-Israeli"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s military leadership declares strategic victory over US-Israeli aggression"
-      }
-    },
-    {
-      "id": "evt_e79b2681",
-      "title": "德黑兰州长：阿亚图拉·哈梅内伊葬礼大规模投票的准备工作正在进行中",
-      "summary": "德黑兰--在伊朗准备为阿亚图拉赛义德·阿里·哈梅内伊（ Seyyed Ali Khamenei ）举行葬礼之际，德黑兰正在建设基础设施和必要的机制，以容纳预计将要向这位殉难的领导人告别的大批民众。",
-      "date": "2026-06-16T18:05:07Z",
-      "url": "https://www.tehrantimes.com/news/527398/Tehran-governor-Preparations-underway-for-mass-turnout-at-Ayatollah",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527398/Tehran-governor-Preparations-underway-for-mass-turnout-at-Ayatollah"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran governor: Preparations underway for mass turnout at Ayatollah Khamenei funeral"
-      }
-    },
-    {
-      "id": "evt_db1e9322",
-      "title": "第38届ICFF将专门针对受战争影响的儿童",
-      "summary": "TEHRAN -法拉比电影基金会（ Farabi Cinema Foundation ）已正式发布第38届国际儿童和青年电影节（ ICFF ）的参赛作品征集，其中包含一个专门针对Minab殉难学生的新特殊类别。",
-      "date": "2026-06-16T18:04:49Z",
-      "url": "https://www.tehrantimes.com/news/527390/38th-ICFF-to-dedicate-special-section-to-war-affected-children",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527390/38th-ICFF-to-dedicate-special-section-to-war-affected-children"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "38th ICFF to dedicate special section to war-affected children"
-      }
-    },
-    {
-      "id": "evt_a07bd8df",
-      "title": "德黑兰文化中心评价“Hokum”",
-      "summary": "TEHRAN--由爱尔兰电影制片人达米安·麦卡锡（ Damian McCarthy ）执导的2026年超自然恐怖电影《霍库姆》（ Hokum ）将于周三晚上在德黑兰的阿拉斯巴兰文化中心（ Arasbaran Cultural Center ）上映。",
-      "date": "2026-06-16T18:01:35Z",
-      "url": "https://www.tehrantimes.com/news/527391/Tehran-cultural-center-to-review-Hokum",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527391/Tehran-cultural-center-to-review-Hokum"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran cultural center to review “Hokum”"
-      }
-    },
-    {
-      "id": "evt_cbdda82f",
-      "title": "伊朗纪录片《冬宫里的伊朗》在加州电影节上获得荣誉",
-      "summary": "TEHRAN -由Behrouz Sebt Rasoul执导的伊朗纪录片《冬宫里的伊朗》（ Iran in the Hermitage ）在美国加利福尼亚州的加州电影节的主要部分获得了荣誉。",
-      "date": "2026-06-16T18:00:57Z",
-      "url": "https://www.tehrantimes.com/news/527389/Iranian-Documentary-Iran-in-the-Hermitage-honored-at-Cal-Film",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527389/Iranian-Documentary-Iran-in-the-Hermitage-honored-at-Cal-Film"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian Documentary “Iran in the Hermitage” honored at Cal Film Festival"
-      }
-    },
-    {
-      "id": "evt_8b193f96",
-      "title": "全新Valiasr Square壁画向殉道领袖Muharram致敬",
-      "summary": "TEHRAN -周一在德黑兰的Valiasr广场揭幕了一幅新的壁画，以纪念伊玛目侯赛因（ AS ）的哀悼月Muharram的到来，同时也向烈士领袖阿亚图拉Seyyed Ali Khamenei致敬。",
-      "date": "2026-06-16T18:00:27Z",
-      "url": "https://www.tehrantimes.com/news/527388/New-Valiasr-Square-mural-honors-Muharram-Martyred-Leader",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527388/New-Valiasr-Square-mural-honors-Muharram-Martyred-Leader"
+          "url": "https://www.tehrantimes.com/news/527425/International-section-of-15th-100-Second-Film-Festival-launched"
         }
       ],
       "category": "diplomatic",
@@ -485,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "New Valiasr Square mural honors Muharram, Martyred Leader"
+        "en": "International section of 15th 100-Second Film Festival launched"
       }
     },
     {
-      "id": "evt_2ac49b71",
-      "title": "特朗普将失败视为胜利",
-      "summary": "德黑兰--美国和以色列对伊朗发动的长达近四个月的战争极大地暴露了美国军事力量的局限性及其长期政权更迭理论的徒劳。当美国和以色列的联合空袭于2月28日开始时，该战略的核心依赖于自上而下的快速崩溃。",
-      "date": "2026-06-16T17:48:12Z",
-      "url": "https://www.tehrantimes.com/news/527397/Trump-spins-failure-as-victory",
+      "id": "evt_203ccd01",
+      "title": "Asghar Farhadi将在葡萄牙举办大师班",
+      "summary": "德黑兰--伊朗著名电影制片人阿斯加尔·法哈迪（ Asghar Farhadi ）将作为演讲嘉宾参加第22届电影节--新导演/新电影节，该电影节将于6月20日至28日在葡萄牙沿海城市埃斯皮尼奥（ Espinho ）举行。",
+      "date": "2026-06-17T17:42:41Z",
+      "url": "https://www.tehrantimes.com/news/527438/Asghar-Farhadi-to-hold-masterclass-in-Portugal",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527397/Trump-spins-failure-as-victory"
+          "url": "https://www.tehrantimes.com/news/527438/Asghar-Farhadi-to-hold-masterclass-in-Portugal"
         }
       ],
       "category": "military",
@@ -513,20 +457,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump spins failure as victory"
+        "en": "Asghar Farhadi to hold masterclass in Portugal"
       }
     },
     {
-      "id": "evt_965096da",
-      "title": "华盛顿在伊朗问题上的崩溃和帝国失败的崛起",
-      "summary": "德黑兰--在经历了几个月的帝国侵略之后，华盛顿只剩下一份稀疏的谅解备忘录（ MOU ） ，而首都的政治剧场比纸上的墨水更有启发性。",
-      "date": "2026-06-16T17:05:44Z",
-      "url": "https://www.tehrantimes.com/news/527402/Inside-Washington-s-meltdown-over-Iran-and-the-rising-chorus",
+      "id": "evt_391f112a",
+      "title": "新的德黑兰壁画描绘了Minab穿着Team Melli球衣的殉难儿童",
+      "summary": "TEHRAN -一幅名为“孩子不是目标”的新大型壁画于周三在德黑兰Rah-Ahan广场揭幕，其中描绘了Minab的烈士儿童",
+      "date": "2026-06-17T17:42:14Z",
+      "url": "https://www.tehrantimes.com/news/527422/New-Tehran-mural-depicts-Minab-s-martyred-children-in-Team-Melli",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527402/Inside-Washington-s-meltdown-over-Iran-and-the-rising-chorus"
+          "url": "https://www.tehrantimes.com/news/527422/New-Tehran-mural-depicts-Minab-s-martyred-children-in-Team-Melli"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New Tehran mural depicts Minab’s martyred children in Team Melli jerseys"
+      }
+    },
+    {
+      "id": "evt_90d74cdf",
+      "title": "根据伊斯兰堡协议，伊朗扩大与俄罗斯、中国和阿曼的外交协调",
+      "summary": "德黑兰--在与美国缔结《伊斯兰堡协定》后，伊朗加强了与主要区域和国际合作伙伴的外交磋商，与俄罗斯、中国和阿曼就该协定的实施、区域安全和未来合作举行了高级别会谈。",
+      "date": "2026-06-17T17:41:33Z",
+      "url": "https://www.tehrantimes.com/news/527446/Iran-expands-diplomatic-coordination-with-Russia-China-and",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527446/Iran-expands-diplomatic-coordination-with-Russia-China-and"
         }
       ],
       "category": "military",
@@ -541,7 +513,203 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Inside Washington’s meltdown over Iran and the rising chorus of imperial defeat"
+        "en": "Iran expands diplomatic coordination with Russia, China, and Oman following Islamabad Accord"
+      }
+    },
+    {
+      "id": "evt_05ab7b8d",
+      "title": "Rosatom重申对布什尔核电站的承诺，计划分阶段遣返专家",
+      "summary": "德黑兰--俄罗斯国家核能公司Rosatom的负责人重申，布什尔核电站仍然是莫斯科的首要任务，并宣布了随着安全条件的改善，俄罗斯技术专家逐步返回该设施的计划。",
+      "date": "2026-06-17T17:41:10Z",
+      "url": "https://www.tehrantimes.com/news/527448/Rosatom-reaffirms-commitment-to-Bushehr-Nuclear-Plant-plans",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527448/Rosatom-reaffirms-commitment-to-Bushehr-Nuclear-Plant-plans"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Rosatom reaffirms commitment to Bushehr Nuclear Plant, plans phased return of specialists"
+      }
+    },
+    {
+      "id": "evt_d62368aa",
+      "title": "Global Sumud Flotilla的阿根廷律师报告以色列拘留活动人士遭受酷刑",
+      "summary": "布宜诺斯艾利斯— Global Sumud船队成员、阿根廷律师和活动家维多利亚·皮·德拉塞拉（ Victoria Pi de la Serra ）描述了一场以暴力、羞辱和心理折磨为特征的折磨。",
+      "date": "2026-06-17T17:35:20Z",
+      "url": "https://www.tehrantimes.com/news/527444/Argentine-lawyer-from-Global-Sumud-Flotilla-reports-on-torture",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527444/Argentine-lawyer-from-Global-Sumud-Flotilla-reports-on-torture"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Argentine lawyer from Global Sumud Flotilla reports on torture of activists in Israeli detention"
+      }
+    },
+    {
+      "id": "evt_759e8bbd",
+      "title": "误算后误算",
+      "summary": "德黑兰--尽管一些大国在针对它们发动的战争中受到了不太强大的国家的羞辱，但几年后，它们意外地回到了同样的旧政策并发动了新的战争。",
+      "date": "2026-06-17T16:47:02Z",
+      "url": "https://www.tehrantimes.com/news/527445/Miscalculation-after-miscalculation",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527445/Miscalculation-after-miscalculation"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Miscalculation after miscalculation"
+      }
+    },
+    {
+      "id": "evt_2394b306",
+      "title": "为什么内塔尼亚胡害怕美伊协议？",
+      "summary": "德黑兰--为了回应美伊谈判的发展，内塔尼亚胡的言论表达了对美国在达成协议方面的利益的理解，同时仍然扮演着受害者的角色。",
+      "date": "2026-06-17T14:25:58Z",
+      "url": "https://www.tehrantimes.com/news/527437/Why-does-Netanyahu-fear-a-US-Iran-agreement",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527437/Why-does-Netanyahu-fear-a-US-Iran-agreement"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why does Netanyahu fear a US-Iran agreement?"
+      }
+    },
+    {
+      "id": "evt_20a8cd9c",
+      "title": "伊朗派遣装满石油的油轮通过美国的军事封锁",
+      "summary": "船舶跟踪数据显示，三艘装载原油的伊朗油轮已通过美国在阿曼湾的封锁线。",
+      "date": "2026-06-17T13:27:47Z",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran sends tankers loaded with oil past US military blockade"
+      }
+    },
+    {
+      "id": "evt_2c4b456c",
+      "title": "尽管特朗普批评，以色列仍对黎巴嫩发动新的罢工",
+      "summary": "特朗普周二表示，以色列总理内塔尼亚胡需要“对黎巴嫩更加负责”。",
+      "date": "2026-06-17T10:01:42Z",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel launches fresh strikes on Lebanon despite Trump criticism"
+      }
+    },
+    {
+      "id": "evt_226c888a",
+      "title": "由于以色列民族主义者藐视规则，耶路撒冷最神圣的遗址的现状受到威胁",
+      "summary": "以色列民族主义者越来越多地蔑视一项关于信仰如何分享阿克萨清真寺建筑群的公约。",
+      "date": "2026-06-17T09:13:34Z",
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules"
       }
     },
     {
@@ -570,34 +738,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions"
-      }
-    },
-    {
-      "id": "evt_2370fbbb",
-      "title": "返回黎巴嫩南部的家庭目睹了广泛的破坏",
-      "summary": "德黑兰--在美国和伊朗宣布达成谅解备忘录后，黎巴嫩南部的一些居民开始返回家园，其中包括结束犹太复国主义政权对黎巴嫩的侵略。",
-      "date": "2026-06-16T16:12:35Z",
-      "url": "https://www.tehrantimes.com/news/527401/Families-returning-to-southern-Lebanon-witness-widespread-destruction",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527401/Families-returning-to-southern-Lebanon-witness-widespread-destruction"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Families returning to southern Lebanon witness widespread destruction"
       }
     },
     {
@@ -878,90 +1018,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Unclear if US-Iran agreement will provide respite to Lebanon"
-      }
-    },
-    {
-      "id": "evt_b19e17f1",
-      "title": "以色列军方称真主党目标袭击贝鲁特",
-      "summary": "以色列表示，它针对的是伊朗支持的武装组织真主党，因为德黑兰警告说，这可能会破坏美国-伊朗结束战斗的协议。",
-      "date": "2026-06-14T17:52:36Z",
-      "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli military says Hezbollah targets struck in Beirut"
-      }
-    },
-    {
-      "id": "evt_262ac023",
-      "title": "特朗普表示，美伊协议将于周日签署，因为德黑兰对时机表示怀疑",
-      "summary": "美国总统发表上述言论之际，伊朗表示，确切日期尚未决定。",
-      "date": "2026-06-14T11:23:36Z",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing"
-      }
-    },
-    {
-      "id": "evt_d39ca70f",
-      "title": "国家媒体称，以色列对黎巴嫩进行空袭，因为伊朗声称在附近与美国打交道",
-      "summary": "罢工发生之际，伊朗外交部长表示，结束与美国战斗的协议即将达成。",
-      "date": "2026-06-13T11:15:18Z",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near"
       }
     }
   ]
