@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-18T02:52:38.839217Z
+// 自动生成的数据 - 更新时间: 2026-06-19T03:38:50.483220Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-18T02:52:38.839148Z",
-    "totalEvents": 36,
+    "lastUpdate": "2026-06-19T03:38:50.483163Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 22,
+      "international": 18,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,184 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_275f43fd",
-      "title": "美国与伊朗达成协议后，内塔尼亚胡在以色列面临压力",
-      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在被排除在美伊协议之外后面临越来越大的压力。",
-      "date": "2026-06-18T02:27:44Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
+      "id": "evt_ab580209",
+      "title": "加拿大vs卡塔尔世界杯：大卫3个进球， 2张红牌， 1个通力受伤",
+      "summary": "不列颠哥伦比亚省的地方是一个战场，因为通力被拉开了，卡塔尔得到了两张红牌，两支球队都在全职后争吵。",
+      "date": "2026-06-19T01:14:09Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone"
+      }
+    },
+    {
+      "id": "evt_15e63825",
+      "title": "在正式达成核协议之前，欧盟不会解除对伊朗的关键制裁",
+      "summary": "在正式达成核协议之前，欧盟不会解除对伊朗的关键制裁",
+      "date": "2026-06-19T00:41:33Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "EU won’t lift key Iran sanctions until formal nuclear deal reached"
+      }
+    },
+    {
+      "id": "evt_d4bb0fac",
+      "title": "伊朗战争现场： JD Vance推迟前往瑞士与德黑兰会谈",
+      "summary": "美国副总统表示，在结束战争的协议签署后，华盛顿和德黑兰之间的60天谈判期已经开始。",
+      "date": "2026-06-19T00:00:09Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: JD Vance delays trip to Switzerland for talks with Tehran"
+      }
+    },
+    {
+      "id": "evt_53bcf9f1",
+      "title": "美国法官下令释放被ICE拘留的巴勒斯坦权利倡导者",
+      "summary": "清真寺领导人说，他因宣传巴勒斯坦问题而被移民当局逮捕和拘留。",
+      "date": "2026-06-18T23:01:26Z",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US judge orders release of Palestinian rights advocate detained by ICE"
+      }
+    },
+    {
+      "id": "evt_76d9749d",
+      "title": "伊朗和美国从协议中获得了什么，以及为什么双方都很难保持它",
+      "summary": "英国广播公司的分析师评估了华盛顿和德黑兰声称已经赢得了结束战争的协议的胜利。",
+      "date": "2026-06-18T20:04:40Z",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What Iran and US get from deal and why both could struggle to keep it"
+      }
+    },
+    {
+      "id": "evt_bcee081f",
+      "title": "鲍恩：美伊协议提出了不可避免的战争目的问题",
+      "summary": "虽然人类付出的代价是显而易见的，但伊朗政权不仅在战争中幸存下来，而且还被赋予了权力。",
+      "date": "2026-06-18T15:53:55Z",
+      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Bowen: US-Iran deal raises inescapable question of what the war was for"
+      }
+    },
+    {
+      "id": "evt_537b183c",
+      "title": "伊朗决定性胜利对抗美国霸权和以色列的证据基础",
+      "summary": "在“第二次强加战争” （ 2025年6月的12天冲突）和随后的106天期间（包括美国和以色列于2026年2月28日对伊朗发动的“第三次强加战争”及其后果）之后，伊朗已成为明确的战略、防御和叙事胜利者。至关重要的是，美国、欧洲和以色列的智库、公共知识分子和媒体分析师都公开承认了这一现实。",
+      "date": "2026-06-18T08:40:43Z",
+      "url": "https://www.tehrantimes.com/news/527450/Evidentiary-basis-of-Iran-s-decisive-victory-against-US-hegemony",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527450/Evidentiary-basis-of-Iran-s-decisive-victory-against-US-hegemony"
         }
       ],
       "category": "military",
@@ -37,48 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu under pressure in Israel after US-Iran agreement"
+        "en": "Evidentiary basis of Iran’s decisive victory against US hegemony and Israel"
       }
     },
     {
-      "id": "evt_656f3b1f",
-      "title": "Greta Thunberg加入布鲁塞尔抗议以色列",
-      "summary": "包括Greta Thunberg和其他船队活动家在内的约100人在布鲁塞尔集会。",
-      "date": "2026-06-18T02:24:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
+      "id": "evt_a206903e",
+      "title": "美国和伊朗总统签署旨在结束战争的协议",
+      "summary": "伊朗核计划的命运仍有待谈判，这是美国引发冲突的一个关键原因。",
+      "date": "2026-06-18T03:03:29Z",
+      "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Greta Thunberg joins Brussels protest against Israel"
-      }
-    },
-    {
-      "id": "evt_908364bd",
-      "title": "美国和伊朗签署结束战争的谅解备忘录",
-      "summary": "据报道，美国总统唐纳德·特朗普和伊朗总统马苏德·佩泽什基安签署了一份谅解备忘录",
-      "date": "2026-06-18T01:42:10Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -93,76 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US and Iran sign Memorandum of Understanding to end war"
+        "en": "US and Iranian presidents sign deal aiming to end war"
       }
     },
     {
-      "id": "evt_6dc25c69",
-      "title": "伊朗战争现场：巴基斯坦表示谅解备忘录在特朗普， Pezeshkian签署后生效",
-      "summary": "双方都表示，该协议已经生效，包括结束黎巴嫩战争和重新开放霍尔木兹海峡。",
-      "date": "2026-06-18T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
+      "id": "evt_d2d2cd48",
+      "title": "美国-伊朗交易留下的核心问题尚未解决-以及3000亿美元的问题",
+      "summary": "特朗普坚称，该协议确保伊朗永远不会购买、发展或生产核武器。但协议文本没有做到这一点。",
+      "date": "2026-06-18T01:29:32Z",
+      "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing"
-      }
-    },
-    {
-      "id": "evt_c2c2c993",
-      "title": "特朗普对内塔尼亚胡：对黎巴嫩采取“更温和”的态度",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）鼓励以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）在黎巴嫩使用“",
-      "date": "2026-06-17T23:57:07Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump to Netanyahu: Use a ‘softer’ touch on Lebanon"
-      }
-    },
-    {
-      "id": "evt_3ef0a60c",
-      "title": "特朗普称伊朗缺乏弹道导弹是“不公平的”",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，如果其他地区国家拥有弹道导弹，伊朗缺乏弹道导弹是“不公平的”。",
-      "date": "2026-06-17T23:56:36Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,20 +261,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles"
+        "en": "US-Iran deal leaves core sticking points unresolved - and a $300bn question"
       }
     },
     {
-      "id": "evt_24681275",
-      "title": "外交官确认美国和伊朗已以电子方式签署谅解备忘录",
-      "summary": "外交部发言人Esmaeil Baghaei表示，该协议已最终确定并与美国签署。",
-      "date": "2026-06-17T23:02:47Z",
-      "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss",
+      "id": "evt_f782b8e8",
+      "title": "美伊协议的内容是什么？",
+      "summary": "这份包含14个段落的备忘录包括结束战斗，达成伊朗永远不会拥有核武器的协议，以及为伊朗提供3000亿美元的重建一揽子计划。",
+      "date": "2026-06-18T01:28:02Z",
+      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,20 +289,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Diplomat confirms that US and Iran have signed MoU electronically"
+        "en": "What's in the US-Iran agreement?"
       }
     },
     {
-      "id": "evt_e84f78d4",
-      "title": "华为首席财务官的承认可以用于刑事审判，美国法官规则",
-      "summary": "首席财务官孟晚舟在2021年表示，华为在伊朗非法开展业务。",
-      "date": "2026-06-17T21:32:43Z",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
+      "id": "evt_44a4ffc7",
+      "title": "联合国专家要求伊朗人释放福尔曼",
+      "summary": "他们说，对Lindsay和Craig Foreman的诉讼存在严重违规行为。",
+      "date": "2026-06-17T19:21:36Z",
+      "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -233,7 +317,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Huawei CFO’s admissions can be used at criminal trial, US judge rules"
+        "en": "UN experts demand Iranians free Foremans"
       }
     },
     {
@@ -601,34 +685,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_2394b306",
-      "title": "为什么内塔尼亚胡害怕美伊协议？",
-      "summary": "德黑兰--为了回应美伊谈判的发展，内塔尼亚胡的言论表达了对美国在达成协议方面的利益的理解，同时仍然扮演着受害者的角色。",
-      "date": "2026-06-17T14:25:58Z",
-      "url": "https://www.tehrantimes.com/news/527437/Why-does-Netanyahu-fear-a-US-Iran-agreement",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527437/Why-does-Netanyahu-fear-a-US-Iran-agreement"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why does Netanyahu fear a US-Iran agreement?"
-      }
-    },
-    {
       "id": "evt_20a8cd9c",
       "title": "伊朗派遣装满石油的油轮通过美国的军事封锁",
       "summary": "船舶跟踪数据显示，三艘装载原油的伊朗油轮已通过美国在阿曼湾的封锁线。",
@@ -710,6 +766,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules"
+      }
+    },
+    {
+      "id": "evt_68d30a93",
+      "title": "骑自行车的人与极端炎热和武装冲突作斗争，将伊朗燃料走私到巴基斯坦",
+      "summary": "天气太热了，燃料会着火--骑自行车的人告诉英国广播公司，他们必须冒着受伤和死亡的风险生活。",
+      "date": "2026-06-16T23:52:37Z",
+      "url": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan"
       }
     },
     {
@@ -822,202 +906,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump may release US-Iran deal before Friday, Vance says"
-      }
-    },
-    {
-      "id": "evt_ebbf99e8",
-      "title": "伊朗协议给内塔尼亚胡带来政治噩梦",
-      "summary": "唐纳德·特朗普与伊朗的停火协议让以色列总理陷入了新的政治和安全困境。",
-      "date": "2026-06-16T03:40:36Z",
-      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran deal presents political nightmare for Netanyahu"
-      }
-    },
-    {
-      "id": "evt_7bd044df",
-      "title": "美国和伊朗达成协议结束战争，特朗普称霍尔木兹海峡将重新开放",
-      "summary": "巴基斯坦表示，双方宣布“立即永久结束包括黎巴嫩在内的所有战线上的军事行动”。",
-      "date": "2026-06-15T18:27:23Z",
-      "url": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen"
-      }
-    },
-    {
-      "id": "evt_8221ae7e",
-      "title": "鲍恩：伊朗协议结束了特朗普的战争，揭示了美国主导地位的局限性",
-      "summary": "停止战斗并重新开放霍尔木兹海峡的协议留下了战前24小时的双方-现在只有数千人死亡。",
-      "date": "2026-06-15T14:26:28Z",
-      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance"
-      }
-    },
-    {
-      "id": "evt_2cf722db",
-      "title": "美伊达成协议后油价下跌股价飙升",
-      "summary": "美国总统唐纳德·特朗普表示，根据协议，关键的霍尔木兹海峡水道将重新开放。",
-      "date": "2026-06-15T14:21:22Z",
-      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil prices fall and shares jump after US-Iran deal announced"
-      }
-    },
-    {
-      "id": "evt_c9312cbf",
-      "title": "“也门蜘蛛侠”死于火山口",
-      "summary": "地方当局说， Al-Qaqa Ibn Antar在跌倒时一直试图在没有安全设备的情况下爬墙。",
-      "date": "2026-06-15T13:07:18Z",
-      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Spider-Man of Yemen' dies falling into volcanic crater"
-      }
-    },
-    {
-      "id": "evt_d16dc61e",
-      "title": "伊朗前锋表示，政治紧张局势削弱了世界杯的乐趣",
-      "summary": "伊朗前锋迈赫迪·塔雷米（ Mehdi Taremi ）表示，该国的政治困境“破坏了世界杯的欢乐”。",
-      "date": "2026-06-15T06:50:46Z",
-      "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/sport/football/articles/c9d2ep375nzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Political tension has undermined World Cup joy, says Iran striker"
-      }
-    },
-    {
-      "id": "evt_ed3498c2",
-      "title": "不清楚美伊协议是否会为黎巴嫩提供喘息的机会",
-      "summary": "巴基斯坦表示，这笔交易包括黎巴嫩，但最近的停火协议未能生效。",
-      "date": "2026-06-15T01:37:47Z",
-      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Unclear if US-Iran agreement will provide respite to Lebanon"
       }
     }
   ]
