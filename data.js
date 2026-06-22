@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-21T02:59:11.149996Z
+// 自动生成的数据 - 更新时间: 2026-06-22T03:29:27.867721Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-21T02:59:11.149937Z",
-    "totalEvents": 36,
+    "lastUpdate": "2026-06-22T03:29:27.867655Z",
+    "totalEvents": 38,
     "sources": {
-      "international": 22,
+      "international": 24,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,128 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_15d748b2",
-      "title": "德黑兰宣布关闭霍尔木兹海峡，美伊谈判将在瑞士启动",
-      "summary": "美国对伊朗声称水道已关闭提出异议，德黑兰称此举是对以色列在黎巴嫩袭击的回应。",
-      "date": "2026-06-21T01:46:31Z",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_dc79e242",
+      "title": "调解员说，第一轮美伊会谈以“令人鼓舞的进展”结束",
+      "summary": "在上周达成协议后，美伊会谈于周日在瑞士开始，其中包括承诺在60天内达成最终协议。",
+      "date": "2026-06-22T02:34:01Z",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "First round of US-Iran talks end with 'encouraging progress', mediators say"
+      }
+    },
+    {
+      "id": "evt_8deeb5f6",
+      "title": "伊朗宣布关键航道关闭后，霍尔木兹海峡的航运摊位",
+      "summary": "船舶跟踪数据显示，随着美国和伊朗官员举行会谈以挽救脆弱的和平框架，过境运输量急剧下降。",
+      "date": "2026-06-22T02:03:52Z",
+      "url": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut"
+      }
+    },
+    {
+      "id": "evt_4beb348b",
+      "title": "美国和伊朗举行“紧张”但“建设性”的停火谈判",
+      "summary": "来自美国和伊朗的谈判代表在瑞士结束了为期一天的会谈。",
+      "date": "2026-06-22T01:19:05Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks"
+      }
+    },
+    {
+      "id": "evt_9199e985",
+      "title": "埃及足球迷在温哥华为巴勒斯坦吟唱",
+      "summary": "在世界杯对阵新西兰的比赛前，埃及球迷聚集在温哥华不列颠哥伦比亚省广场外。",
+      "date": "2026-06-22T00:58:01Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/egyptian-football-fans-chant-for-palestine-in-vancouver?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/egyptian-football-fans-chant-for-palestine-in-vancouver?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Egyptian football fans chant for Palestine in Vancouver"
+      }
+    },
+    {
+      "id": "evt_c8b14a9f",
+      "title": "伊朗人聚集在德黑兰，支持球队对阵比利时的关键平局",
+      "summary": "德黑兰的伊朗球迷观看了他们的球队在洛杉矶世界杯上以0比0战平比利时。",
+      "date": "2026-06-22T00:14:24Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +149,160 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz"
+        "en": "Iranians gather in Tehran to support team in critical draw against Belgium"
       }
     },
     {
-      "id": "evt_e5af39c8",
-      "title": "伊朗战争现场：万斯前往瑞士；以色列在黎巴嫩杀死16人",
-      "summary": "谈判之际，伊朗表示将关闭霍尔木兹海峡，原因是以色列对黎巴嫩发动了致命袭击。",
-      "date": "2026-06-21T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+      "id": "evt_2ac7664c",
+      "title": "伊朗战争现场：调解员称赞美国与德黑兰会谈取得“令人鼓舞的进展”",
+      "summary": "调解员说，美国和伊朗成立了委员会来监督谈判，并成立了一个“消除冲突小组”来结束黎巴嫩的袭击。",
+      "date": "2026-06-22T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks"
+      }
+    },
+    {
+      "id": "evt_e1dcbac0",
+      "title": "加沙足球迷齐聚一堂观看西班牙-沙特阿拉伯比赛",
+      "summary": "加沙的巴勒斯坦人聚集在一起观看西班牙世界杯战胜沙特阿拉伯的比赛。",
+      "date": "2026-06-21T23:19:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Football fans in Gaza gather to watch Spain-Saudi Arabia match"
+      }
+    },
+    {
+      "id": "evt_361906d3",
+      "title": "比利时在洛杉矶与伊朗的无球世界杯平局中看到红色",
+      "summary": "内森·恩戈伊（ Nathan Ngoy ）因拖拽迈赫迪·塔雷米（ Mehdi Taremi ）而被罚下场，后者的上半场罢工在接近G组的比赛中被",
+      "date": "2026-06-21T21:45:02Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Belgium see red in goalless World Cup draw with Iran in Los Angeles"
+      }
+    },
+    {
+      "id": "evt_82645b6f",
+      "title": "伊朗、比利时在2026年FIFA世界杯上分享战利品",
+      "summary": "德黑兰--周日晚上，伊朗国家足球队和比利时在2026年世界杯的第二场G组比赛中进行了无球平局。",
+      "date": "2026-06-21T21:05:22Z",
+      "url": "https://www.tehrantimes.com/news/527555/Iran-Belgium-share-the-spoils-in-2026-FIFA-World-Cup",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527555/Iran-Belgium-share-the-spoils-in-2026-FIFA-World-Cup"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran, Belgium share the spoils in 2026 FIFA World Cup"
+      }
+    },
+    {
+      "id": "evt_2fa14c4a",
+      "title": "伊朗-美国谈判的最终目标是什么？",
+      "summary": "教授兼政治分析师Mahjoub Zweiri分解了美伊会谈背后的意图。",
+      "date": "2026-06-21T20:59:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What are the end goals of Iran-US negotiations?"
+      }
+    },
+    {
+      "id": "evt_45903b70",
+      "title": "哀悼者聚集在一起，纪念被以色列杀害的黎巴嫩保护主义者",
+      "summary": "人们聚集在贝鲁特，纪念在以色列袭击中丧生的心爱的海龟保护主义者莫娜·哈利勒（ Mona Khalil ）。",
+      "date": "2026-06-21T20:21:59Z",
+      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon"
+        "en": "Mourners gather to remember Lebanese conservationist killed by Israel"
       }
     },
     {
-      "id": "evt_aa93b99d",
-      "title": "美国拒绝放宽对比利时比赛的伊朗世界杯旅行限制",
-      "summary": "安德鲁·朱利安尼（ Andrew Giuliani ）表示，伊朗球员不会被允许在美国停留更长时间参加小组赛。",
-      "date": "2026-06-20T23:45:36Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss",
+      "id": "evt_20d74749",
+      "title": "抵抗轴心赢得历史性胜利，美国蒙羞： ILPS",
+      "summary": "国际民族斗争联盟（ ILPS ）称赞伊朗和美国之间最近的谅解备忘录（ MoU ）是抵抗轴心的巨大胜利，标志着反对帝国主义的权力平衡发生了决定性转变。",
+      "date": "2026-06-21T17:47:25Z",
+      "url": "https://www.tehrantimes.com/news/527570/Axis-of-Resistance-wins-historic-victory-US-humiliated-ILPS",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527570/Axis-of-Resistance-wins-historic-victory-US-humiliated-ILPS"
         }
       ],
       "category": "military",
@@ -93,20 +345,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US refuses to ease Iran World Cup travel restrictions for Belgium match"
+        "en": "Axis of Resistance wins historic victory, US humiliated:ILPS"
       }
     },
     {
-      "id": "evt_d3e620dd",
-      "title": "伊朗代表团抵达瑞士参加美国和平谈判",
-      "summary": "伊朗代表团抵达瑞士参加美国和平谈判",
-      "date": "2026-06-20T23:39:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
+      "id": "evt_d07c47ef",
+      "title": "斋月战争摄影展在德黑兰画廊开幕",
+      "summary": "TEHRAN-摄影记者和视觉艺术家Mohsen Rezaei的最新作品于周五在德黑兰的009821画廊揭幕。",
+      "date": "2026-06-21T17:36:18Z",
+      "url": "https://www.tehrantimes.com/news/527544/Photo-exhibition-on-Ramadan-War-opens-at-Tehran-gallery",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527544/Photo-exhibition-on-Ramadan-War-opens-at-Tehran-gallery"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Photo exhibition on Ramadan War opens at Tehran gallery"
+      }
+    },
+    {
+      "id": "evt_460382e4",
+      "title": "ECI推出ECO Nameh ，以促进成员国之间的文化连通性",
+      "summary": "TEHRAN -经济合作组织文化研究所（ ECI ）宣布推出ECO Nameh ，这是一本每月出版的文化和艺术期刊，致力于加强经济合作组织（ ECO ）成员国之间的知识、艺术和社会纽带。",
+      "date": "2026-06-21T17:35:58Z",
+      "url": "https://www.tehrantimes.com/news/527542/ECI-launches-ECO-Nameh-to-foster-cultural-connectivity-across",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527542/ECI-launches-ECO-Nameh-to-foster-cultural-connectivity-across"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "ECI launches ECO Nameh to foster cultural connectivity across member states"
+      }
+    },
+    {
+      "id": "evt_f28c111c",
+      "title": "第43届慕尼黑国际电影节，展出Beyzai的“Bashu ， the Little Stra”的修复版本",
+      "summary": "德黑兰--为了纪念去年去世的伊朗著名电影制片人巴赫拉姆·贝扎伊（ Bahram Beyzai ） ，第43届慕尼黑国际电影节（ Munich International Film Festival ）将在德国首映《小陌生人巴舒》（ Bashu, the Little Stranger ）。",
+      "date": "2026-06-21T17:35:23Z",
+      "url": "https://www.tehrantimes.com/news/527494/43rd-Munich-International-Film-Festival-to-show-restored-version",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527494/43rd-Munich-International-Film-Festival-to-show-restored-version"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "43rd Munich International Film Festival to show restored version of Beyzai’s “Bashu, the Little Stra"
+      }
+    },
+    {
+      "id": "evt_d40dfad9",
+      "title": "Nizami的“Khamsa”的中文翻译在第32届北京国际书展上亮相",
+      "summary": "德黑兰--尼扎米·甘贾维（ Nizami Ganjavi ）最著名的作品《五宝》（ Khamsa ）的完整中文译本在第32届北京国际书展期间亮相。",
+      "date": "2026-06-21T17:34:59Z",
+      "url": "https://www.tehrantimes.com/news/527531/Chinese-translation-of-Nizami-s-Khamsa-unveiled-at-32nd-Beijing",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527531/Chinese-translation-of-Nizami-s-Khamsa-unveiled-at-32nd-Beijing"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Chinese translation of Nizami’s “Khamsa” unveiled at 32nd Beijing International Book Fair"
+      }
+    },
+    {
+      "id": "evt_71c36601",
+      "title": "伊朗-美国谅解备忘录使伊朗受益",
+      "summary": "Arman-e-Emrooz分析了伊朗-美国谅解备忘录的文本，并引用国际事务分析师Salah al-Din Khadiv的话写道：完整的伊斯兰堡备忘录的出版结束了许多猜测。",
+      "date": "2026-06-21T17:34:11Z",
+      "url": "https://www.tehrantimes.com/news/527557/The-Iran-US-memorandum-of-understanding-benefits-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527557/The-Iran-US-memorandum-of-understanding-benefits-Iran"
         }
       ],
       "category": "military",
@@ -121,7 +485,203 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian delegation arrives in Switzerland for US peace talks"
+        "en": "The Iran–US memorandum of understanding benefits Iran"
+      }
+    },
+    {
+      "id": "evt_7b17c741",
+      "title": "以色列在黎巴嫩南部的伤亡人数激增",
+      "summary": "德黑兰--以色列军方宣布，在黎巴嫩南部真主党的冲突和伏击中，又有两名士兵丧生，数十人受伤。",
+      "date": "2026-06-21T17:33:20Z",
+      "url": "https://www.tehrantimes.com/news/527561/Israeli-casualties-mount-in-southern-Lebanon",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527561/Israeli-casualties-mount-in-southern-Lebanon"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli casualties mount in southern Lebanon"
+      }
+    },
+    {
+      "id": "evt_af09795a",
+      "title": "内塔尼亚胡的“幻觉” ：以色列民意调查显示伊朗显然是战争的赢家",
+      "summary": "德黑兰–总统马苏德·佩泽什基安（ Masoud Pezeshkian ）揭露了本雅明·内塔尼亚胡（ Benjamin Netanyahu ）试图破坏最近伊朗与美国之间的谅解备忘录（ MoU ） ，因为陷入困境的以色列总理试图通过激化地区紧张局势来抓住权力。",
+      "date": "2026-06-21T17:31:23Z",
+      "url": "https://www.tehrantimes.com/news/527556/Netanyahu-s-hallucinations-Israeli-poll-finds-Iran-clear-winner",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527556/Netanyahu-s-hallucinations-Israeli-poll-finds-Iran-clear-winner"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu’s ‘hallucinations’: Israeli poll finds Iran clear winner of war"
+      }
+    },
+    {
+      "id": "evt_4ace5b92",
+      "title": "Pezeshkian ：伊朗不会放弃铀浓缩权",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）强调，伊朗在与美国的谈判中永远不会放弃其核权利。",
+      "date": "2026-06-21T17:25:40Z",
+      "url": "https://www.tehrantimes.com/news/527558/Pezeshkian-Iran-will-not-back-down-on-uranium-enrichment-rights",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527558/Pezeshkian-Iran-will-not-back-down-on-uranium-enrichment-rights"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian: Iran will not back down on uranium enrichment rights"
+      }
+    },
+    {
+      "id": "evt_56b26567",
+      "title": "禁止拍照：伊朗希望采取行动，而不是握手",
+      "summary": "德黑兰--伊朗和美国周日在瑞士举行了会谈，以推动执行几天前签署的谅解备忘录（ MoU ）。",
+      "date": "2026-06-21T17:25:23Z",
+      "url": "https://www.tehrantimes.com/news/527564/No-photo-op-Iran-wants-action-not-handshakes",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527564/No-photo-op-Iran-wants-action-not-handshakes"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "No photo op: Iran wants action, not handshakes"
+      }
+    },
+    {
+      "id": "evt_97a5155d",
+      "title": "伊朗的抵抗将对美国霸权产生系统性影响",
+      "summary": "上海--在过去的100天里，伊朗最坚决地抵抗了美以联合侵略。虽然伊朗人民在这场反对两个霸权国家的战争中表现出的勇气将被历史铭记，但对未来国际秩序的影响将是深远而深远的，在许多方面表现出来。也许其中最深刻的是，美国霸权将受到系统性影响。",
+      "date": "2026-06-21T17:23:26Z",
+      "url": "https://www.tehrantimes.com/news/527559/Iran-s-resistance-will-have-a-systematic-impact-on-US-hegemony",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527559/Iran-s-resistance-will-have-a-systematic-impact-on-US-hegemony"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s resistance will have a systematic impact on US hegemony"
+      }
+    },
+    {
+      "id": "evt_777bff4a",
+      "title": "Al-Barghouti说，美伊协议可以推动巴勒斯坦事业",
+      "summary": "巴勒斯坦民族倡议运动秘书长穆斯塔法·巴古提（ Mustafa Barghouti ）表示，伊朗和美国最近达成的协议可以缓解地区紧张局势，创造更有利于解决巴勒斯坦问题的条件，从而对巴勒斯坦事业产生积极影响。",
+      "date": "2026-06-21T17:19:26Z",
+      "url": "https://www.tehrantimes.com/news/527568/US-Iran-agreement-could-advance-Palestinian-cause-Al-Barghouti",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527568/US-Iran-agreement-could-advance-Palestinian-cause-Al-Barghouti"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Iran agreement could advance Palestinian cause, Al-Barghouti says"
+      }
+    },
+    {
+      "id": "evt_478555e8",
+      "title": "伊朗议会代表团抵达巴库参加PUIC峰会",
+      "summary": "TEHRAN -伊朗议会代表团已抵达巴库，参加伊斯兰会议组织成员国议会联盟（ PUIC ）第20次会议，这是来自伊斯兰世界的立法者的重要聚会，旨在加强议会合作并解决成员国面临的共同挑战。",
+      "date": "2026-06-21T17:13:42Z",
+      "url": "https://www.tehrantimes.com/news/527567/Iranian-parliamentary-delegation-arrives-in-Baku-for-PUIC-summit",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527567/Iranian-parliamentary-delegation-arrives-in-Baku-for-PUIC-summit"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian parliamentary delegation arrives in Baku for PUIC summit"
       }
     },
     {
@@ -153,62 +713,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_6b4fac3b",
-      "title": "特朗普誓言伊朗不会向霍尔木兹海峡收费，但表示美国可能会",
-      "summary": "美国-伊朗谅解备忘录不排除在最初的60天后海峡的未来通行费。",
-      "date": "2026-06-20T21:54:39Z",
-      "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might"
-      }
-    },
-    {
-      "id": "evt_0a1b563e",
-      "title": "夸大霍尔木兹海峡卡牌将使伊朗成为一个贱民国家",
-      "summary": "过度使用霍尔木兹海峡卡牌将使伊朗成为一个贱民国家。",
-      "date": "2026-06-20T19:43:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Overplaying Strait of Hormuz card will turn Iran into a pariah state"
-      }
-    },
-    {
       "id": "evt_f9f9476e",
       "title": "尽管达成停火协议，以色列和真主党仍在继续罢工",
       "summary": "据报道，至少有20人被以色列空袭打死，因为以色列军方称真主党在黎巴嫩南部向以色列军队开火。",
@@ -237,289 +741,9 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e774b055",
-      "title": "半岛电视台摄影师艾哈迈德·维沙在以色列对加沙的袭击中丧生",
-      "summary": "半岛电视台谴责以色列“蓄意”针对Wishah ，这是该网络在加沙战争中丧生的第12名媒体工作者。",
-      "date": "2026-06-20T18:07:09Z",
-      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza"
-      }
-    },
-    {
-      "id": "evt_bcb045db",
-      "title": "伊朗指挥官说，美以联盟陷入战略僵局",
-      "summary": "德黑兰--伊朗高级军官强调，最近涉及伊朗、美国和以色列的对抗最终导致华盛顿和特拉维夫陷入战略僵局，并警告说，尽管正在努力重塑西亚的安全格局，但该地区的抵抗运动仍然保持着巨大的报复能力。",
-      "date": "2026-06-20T17:49:16Z",
-      "url": "https://www.tehrantimes.com/news/527528/US-Israeli-coalition-reached-strategic-deadlock-Iranian-commanders",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527528/US-Israeli-coalition-reached-strategic-deadlock-Iranian-commanders"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Israeli coalition reached strategic deadlock, Iranian commanders say"
-      }
-    },
-    {
-      "id": "evt_af06864e",
-      "title": "伊朗、美国将在瑞士举行技术会谈",
-      "summary": "TEHRAN—伊朗派遣一个代表团前往瑞士，敦促履行美国在最近签署的临时协议中做出的承诺，因为双方定于周日进行的新一轮技术层面会谈的准备工作仍在继续。",
-      "date": "2026-06-20T17:46:19Z",
-      "url": "https://www.tehrantimes.com/news/527527/Iran-US-set-for-technical-talks-in-Switzerland",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527527/Iran-US-set-for-technical-talks-in-Switzerland"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran, US set for technical talks in Switzerland"
-      }
-    },
-    {
-      "id": "evt_651324c7",
-      "title": "对伊朗的战争被迫公开的10个发人深省的教训",
-      "summary": "德黑兰--就在四个月前，美国和以色列的官员和专家们谈到了伊朗，仿佛它是一个脆弱的结构，等待在足够的力量下崩溃。他们认为，罢工、暗杀、制裁、封锁和心理压力将迫使德黑兰投降。相反，战争产生了相反的结果。",
-      "date": "2026-06-20T17:44:09Z",
-      "url": "https://www.tehrantimes.com/news/527525/10-sobering-lessons-the-war-on-Iran-forced-into-the-open",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527525/10-sobering-lessons-the-war-on-Iran-forced-into-the-open"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "10 sobering lessons the war on Iran forced into the open"
-      }
-    },
-    {
-      "id": "evt_6803fe49",
-      "title": "百日战争的结束",
-      "summary": "巴基斯坦哈菲扎巴德--经过100多天的激烈战斗，这场冲突于6月15日正式进入最后阶段，当时美国和伊朗代表签署了一份旨在结束敌对行动的谅解备忘录。虽然最终的和平条约预计将在60天的谈判窗口之后达成，但双方都承认，战争的活跃阶段实际上已经结束。",
-      "date": "2026-06-20T17:43:55Z",
-      "url": "https://www.tehrantimes.com/news/527522/The-end-of-a-100-day-war",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527522/The-end-of-a-100-day-war"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The end of a 100-day war"
-      }
-    },
-    {
-      "id": "evt_b4446829",
-      "title": "如果特朗普缺乏克制内塔尼亚胡的勇气，伊朗就有",
-      "summary": "Siasat-e-Rooz在社论中专门讨论了最近谅解中的一项条款，该条款要求结束抵抗轴心国各条战线上的战争—以色列违反了这一条款。根据该文件，如果特朗普不能或不想限制犹太复国主义政权，伊朗可以很容易地对其进行纪律处分，以确保遵守该协议。",
-      "date": "2026-06-20T17:43:40Z",
-      "url": "https://www.tehrantimes.com/news/527503/If-Trump-lacks-the-courage-to-restrain-Netanyahu-Iran-does",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527503/If-Trump-lacks-the-courage-to-restrain-Netanyahu-Iran-does"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "If Trump lacks the courage to restrain Netanyahu, Iran does"
-      }
-    },
-    {
-      "id": "evt_f841843d",
-      "title": "电影博物馆放映阿尔伯特·拉莫里斯（ Albert Lamorisse ）关于伊朗的纪录片",
-      "summary": "德黑兰--伊朗电影博物馆（ Cinema Museum of Iran ）将于周一展出《恋人之风》（ The Lovers ’Wind ）的修复版。这部纪录片由已故法国电影制片人阿尔伯特·拉莫里斯（ Albert Lamorisse ）执导和制作。",
-      "date": "2026-06-20T17:43:18Z",
-      "url": "https://www.tehrantimes.com/news/527495/Cinema-Museum-to-screen-documentary-about-Iran-by-Albert-Lamorisse",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527495/Cinema-Museum-to-screen-documentary-about-Iran-by-Albert-Lamorisse"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Cinema Museum to screen documentary about Iran by Albert Lamorisse"
-      }
-    },
-    {
-      "id": "evt_a221189d",
-      "title": "伊朗摄影师在2026年金像摄影大奖中赢得最高荣誉",
-      "summary": "TEHRAN -来自伊朗霍尔木兹甘省的杰出摄影师Morteza Akhondi在著名的2026年金镜头摄影大奖中获得了编辑/新闻类一等奖。",
-      "date": "2026-06-20T17:42:51Z",
-      "url": "https://www.tehrantimes.com/news/527497/Iranian-photographer-wins-top-honor-at-Golden-Shot-Photography",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527497/Iranian-photographer-wins-top-honor-at-Golden-Shot-Photography"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian photographer wins top honor at Golden Shot Photography Awards 2026"
-      }
-    },
-    {
-      "id": "evt_6cfaf6f3",
-      "title": "伊朗因以色列在黎巴嫩的罪行重新关闭霍尔木兹海峡",
-      "summary": "德黑兰--以色列正在推进对黎巴嫩的军事行动，明显无视美国和伊朗最近签署的谅解备忘录的核心条款。",
-      "date": "2026-06-20T17:42:05Z",
-      "url": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527516/Iran-re-closes-Strait-of-Hormuz-over-Israeli-crimes-in-Lebanon"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran re-closes Strait of Hormuz over Israeli crimes in Lebanon"
-      }
-    },
-    {
-      "id": "evt_b3cc86d1",
-      "title": "伊朗不信任美国的七个原因",
-      "summary": "德黑兰-- “对敌人的言论和承诺没有信任，对我们来说重要的是必须取得的具体成就。“伊朗谈判小组组长穆罕默德-巴盖尔·加里巴夫（ Mohammad-Bagher Ghalibaf ）在与美国就结束该地区战争进行的伊斯兰堡会谈中的这一声明反映了伊朗对华盛顿外交政策中更广泛和长期的做法。",
-      "date": "2026-06-20T17:41:19Z",
-      "url": "https://www.tehrantimes.com/news/527504/Seven-reasons-behind-Iran-s-mistrust-of-the-United-States",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527504/Seven-reasons-behind-Iran-s-mistrust-of-the-United-States"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Seven reasons behind Iran’s mistrust of the United States"
-      }
-    },
-    {
       "id": "evt_9223745b",
       "title": "黎巴嫩海龟保护主义者莫娜·哈利勒死于以色列罢工",
-      "summary": "莫娜·哈利勒（ Mona Khalil ）拒绝离开她多年来一直保护的海滩，在以色列袭击后因伤势过重而死亡。",
+      "summary": "一个环保组织说，莫娜·哈利勒（ Mona Khalil ）拒绝离开她多年来一直保护的海滩，在住院几天后去世。",
       "date": "2026-06-20T17:40:43Z",
       "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -542,174 +766,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike"
-      }
-    },
-    {
-      "id": "evt_e0455e44",
-      "title": "巴基斯坦表示，美伊会谈将于周日在瑞士拉开帷幕",
-      "summary": "由于以色列在黎巴嫩的袭击以及伊朗宣布再次关闭霍尔木兹的紧张局势，计划中的谈判正在进行。",
-      "date": "2026-06-20T17:39:08Z",
-      "url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan"
-      }
-    },
-    {
-      "id": "evt_e5543d9c",
-      "title": "代表Minab受害者家属对美国提起诉讼",
-      "summary": "TEHRAN -伊朗律师、官方专家和司法机构家庭顾问中心负责人Hassan Abdolianpour表示，已代表Minab事件受害者家属正式向美国政府提起诉讼。",
-      "date": "2026-06-20T17:35:41Z",
-      "url": "https://www.tehrantimes.com/news/527526/Lawsuit-filed-on-behalf-of-families-of-Minab-victims-against",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527526/Lawsuit-filed-on-behalf-of-families-of-Minab-victims-against"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lawsuit filed on behalf of families of Minab victims against US"
-      }
-    },
-    {
-      "id": "evt_a7eb6195",
-      "title": "贝内特说，与伊朗的战争以重大失败告终",
-      "summary": "TEHRAN -以色列前总理纳夫塔利·贝内特（ Naftali Bennett ）严厉批评政府处理与伊朗的战后安排，认为以色列本可以拒绝华盛顿与德黑兰之间达成的谅解。他还承认，最近与伊朗的战争没有实现以色列的战略目标。",
-      "date": "2026-06-20T17:30:35Z",
-      "url": "https://www.tehrantimes.com/news/527524/War-with-Iran-ended-in-a-major-failure-Bennett-says",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527524/War-with-Iran-ended-in-a-major-failure-Bennett-says"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "War with Iran ended in a major failure, Bennett says"
-      }
-    },
-    {
-      "id": "evt_da746016",
-      "title": "伊斯兰革命卫队海军官员：实力仍然是对抗对手的唯一真正保证",
-      "summary": "TEHRAN -伊朗伊斯兰革命卫队（ IRGC ）海军的一名高级官员表示，国力仍然是与对手打交道的唯一可靠保障，他认为权力而不是善意会迫使对手改变其政策。",
-      "date": "2026-06-20T17:25:32Z",
-      "url": "https://www.tehrantimes.com/news/527523/IRGC-Navy-Official-Strength-remains-the-only-real-guarantee",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527523/IRGC-Navy-Official-Strength-remains-the-only-real-guarantee"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC Navy official: Strength remains the only real guarantee against adversaries"
-      }
-    },
-    {
-      "id": "evt_6cbb7b60",
-      "title": "“以色列像往常一样以平民为目标，以掩盖军事失败”",
-      "summary": "德黑兰--以色列占领军（ IOF ）在黎巴嫩南部发动了更致命的袭击，造成更多平民死亡，包括一个四口之家。",
-      "date": "2026-06-20T17:14:34Z",
-      "url": "https://www.tehrantimes.com/news/527521/Israel-targets-civilians-as-usual-to-cover-up-military-failures",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527521/Israel-targets-civilians-as-usual-to-cover-up-military-failures"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Israel targets civilians, as usual, to cover up military failures’"
-      }
-    },
-    {
-      "id": "evt_f80d78bf",
-      "title": "法国专家表示，伊朗在战争中变得更强大、更坚定",
-      "summary": "德黑兰--前法国部长兼国际政治专家皮埃尔·勒卢什（ Pierre Lellouche ）认为，伊朗伊斯兰共和国深信它已经击败了世界上最重要的军事力量及其以色列盟友，很可能摆脱与特朗普的对抗，处于压倒性的地区主导地位。",
-      "date": "2026-06-20T16:42:20Z",
-      "url": "https://www.tehrantimes.com/news/527520/Iran-emerges-stronger-and-more-determined-in-the-war-says-French",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527520/Iran-emerges-stronger-and-more-determined-in-the-war-says-French"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran emerges stronger and more determined in the war, says French expert"
       }
     },
     {
