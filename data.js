@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-06-23T02:36:37.863276Z
+// 自动生成的数据 - 更新时间: 2026-06-24T02:37:19.720119Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-23T02:36:37.863217Z",
+    "lastUpdate": "2026-06-24T02:37:19.720055Z",
     "totalEvents": 35,
     "sources": {
       "international": 21,
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_de7f738b",
-      "title": "加利巴夫：美国和伊朗可以共同努力重新开放霍尔木兹海峡",
-      "summary": "伊朗首席谈判代表表示，海峡永远不会回到战前的样子。",
-      "date": "2026-06-23T01:45:42Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "id": "evt_1d772a0d",
+      "title": "叙利亚人拒绝特朗普呼吁叙利亚在黎巴嫩打击真主党",
+      "summary": "大马士革居民拒绝了美国总统唐纳德·特朗普关于叙利亚应该在黎巴嫩与真主党对抗的建议。",
+      "date": "2026-06-24T01:57:54Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon"
+      }
+    },
+    {
+      "id": "evt_53250c30",
+      "title": "美国参议院投票暂停伊朗战争，罕见地指责特朗普",
+      "summary": "美国参议院投票暂停伊朗战争，罕见地指责特朗普",
+      "date": "2026-06-24T01:29:51Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +65,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz"
+        "en": "US Senate votes to pause Iran war in rare rebuke to Trump"
       }
     },
     {
-      "id": "evt_387f7f4e",
-      "title": "以色列罢工杀害了参加考试的巴勒斯坦女孩",
-      "summary": "17岁的拉哈德·阿舒尔（ Raghad Ashour ）在以色列罢工中丧生时，正走路去学校参加考试。",
-      "date": "2026-06-23T01:23:08Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
+      "id": "evt_089554c1",
+      "title": "伊朗战争现场：特朗普，德黑兰在核检查方面存在分歧，霍尔木兹",
+      "summary": "在谈判代表推动达成最终全面协议之际，美国和伊朗发表了相互矛盾的声明。",
+      "date": "2026-06-24T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz"
+      }
+    },
+    {
+      "id": "evt_b81ff176",
+      "title": "以色列蓄意以巴勒斯坦儿童为目标",
+      "summary": "新的联合国报告记录了以色列对加沙的战争及其对约旦河西岸的占领对巴勒斯坦儿童造成的损失。",
+      "date": "2026-06-23T22:50:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,27 +121,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli strike kills Palestinian girl on her way to sit exam"
+        "en": "Israel’s deliberate targeting of Palestinian children"
       }
     },
     {
-      "id": "evt_550cc1d3",
-      "title": "姆巴佩带领法国在闪电延迟的世界杯比赛中战胜伊拉克",
-      "summary": "Kylian Mbappe在法国的前两个进球中得分， Ousmane Dembele在对阵伊拉克的比赛中以3-0战胜对手。",
-      "date": "2026-06-23T00:59:26Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss",
+      "id": "evt_72211c43",
+      "title": "联合国：以色列以加沙儿童为目标实施种族灭绝",
+      "summary": "以色列蓄意将加沙的巴勒斯坦儿童作为目标，导致种族灭绝。",
+      "date": "2026-06-23T21:38:23Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/23/mbappe-leads-france-to-win-over-iraq-in-lightening-delayed-world-cup-tie?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -93,20 +149,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Mbappe leads France to win over Iraq in lightning-delayed World Cup game"
+        "en": "UN: Israel committed genocide by targeting Gaza children"
       }
     },
     {
-      "id": "evt_e711eaf3",
-      "title": "伊朗战争现场：美国放弃石油制裁，释放120亿美元冻结资金",
-      "summary": "美国表示，这些决定遵循了伊朗允许国际核检查的承诺。",
-      "date": "2026-06-23T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
+      "id": "evt_0723da79",
+      "title": "特朗普的盟友在美伊协议的紧张局势中向以色列人保证",
+      "summary": "特朗普的盟友在美伊协议的紧张局势中向以色列人保证",
+      "date": "2026-06-23T21:19:35Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump allies reassure Israelis amid tensions on US-Iran deal"
+      }
+    },
+    {
+      "id": "evt_a24ed7b9",
+      "title": "当局称，以色列军队在战斗平静后在黎巴嫩南部杀死了两人",
+      "summary": "以色列军方表示，这两人是真主党特工，但伊朗支持的团体指责其违反停火协议。",
+      "date": "2026-06-23T16:47:45Z",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say"
+      }
+    },
+    {
+      "id": "evt_b65901b0",
+      "title": "美国与伊朗达成协议后，数十艘船只驶过霍尔木兹海峡",
+      "summary": "自美国和伊朗签署旨在结束战争的协议以来，这条水道的交通量有所增加，仅周六就有42艘船只。",
+      "date": "2026-06-23T14:55:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,20 +233,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds"
+        "en": "Dozens of ships head through Strait of Hormuz after US-Iran deal"
       }
     },
     {
-      "id": "evt_56cd97de",
-      "title": "加沙冲浪者从海上战争中寻求安慰",
-      "summary": "以色列的种族灭绝战争几乎摧毁了加沙的冲浪社区。但一些冲浪者仍在追逐浪潮。",
-      "date": "2026-06-22T23:01:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
+      "id": "evt_7f55c7e9",
+      "title": "伊朗表示，在万斯表示将邀请视察员返回核设施后，没有新的承诺",
+      "summary": "伊朗外交部表示，在瑞士会谈后，伊朗对核检查“没有做出新的承诺”。",
+      "date": "2026-06-23T12:14:58Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back"
+      }
+    },
+    {
+      "id": "evt_e9371269",
+      "title": "联合国调查委员会称以色列蓄意以儿童为目标在加沙实施种族灭绝",
+      "summary": "以色列拒绝接受由三名成员组成的专家小组的新报告，称其为“诽谤骗局”。",
+      "date": "2026-06-23T11:10:06Z",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,35 +289,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Gaza surfers seek solace from war in the sea"
-      }
-    },
-    {
-      "id": "evt_33bfeeb8",
-      "title": "“停止种族灭绝” ：活动人士在东京以色列大使馆被警察拦下",
-      "summary": "周一，一名日本活动人士在接近以色列驻东京大使馆并大喊大叫后，被警方包围。",
-      "date": "2026-06-22T22:03:24Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/stop-genocide-activist-stopped-by-police-at-tokyos-israeli-embassy?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy"
+        "en": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children"
       }
     },
     {
@@ -573,16 +685,44 @@ const siteData = {
       }
     },
     {
-      "id": "evt_dc79e242",
-      "title": "调解员说，第一轮美伊会谈以令人鼓舞的进展结束",
-      "summary": "在上周达成协议后，美伊会谈于周日在瑞士开始，其中包括承诺在60天内达成最终协议。",
-      "date": "2026-06-22T10:46:45Z",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_69d79daa",
+      "title": "卡塔尔天然气爆炸后至少13人死亡，数十人受伤",
+      "summary": "该市的主要液化天然气（ LNG ）加工场地在拉斯拉凡工业区发生了“技术事故”。",
+      "date": "2026-06-22T15:15:42Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "At least 13 killed and dozens injured after Qatar gas explosion"
+      }
+    },
+    {
+      "id": "evt_3bfe1418",
+      "title": "调解员说，第一轮美伊会谈以令人鼓舞的进展结束",
+      "summary": "在上周达成协议后，美伊会谈于周日在瑞士开始，其中包括承诺在60天内达成最终协议。",
+      "date": "2026-06-22T10:46:45Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -601,16 +741,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_214a5369",
+      "id": "evt_0587b90d",
       "title": "官员说，以色列的罢工在加沙造成包括半岛电视台摄影师在内的6人死亡",
       "summary": "以色列军方指责Ahmed Wishah是“哈马斯狙击手” ，但没有提供证据。",
       "date": "2026-06-20T21:57:36Z",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -629,16 +769,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_f9f9476e",
+      "id": "evt_4f83a40f",
       "title": "尽管达成停火协议，以色列和真主党仍在继续罢工",
       "summary": "据报道，至少有20人被以色列空袭打死，因为以色列军方称真主党在黎巴嫩南部向以色列军队开火。",
       "date": "2026-06-20T18:36:19Z",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -657,16 +797,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_9223745b",
+      "id": "evt_f2787eac",
       "title": "黎巴嫩海龟保护主义者莫娜·哈利勒死于以色列罢工",
       "summary": "一个环保组织说，莫娜·哈利勒（ Mona Khalil ）拒绝离开她多年来一直保护的海滩，在住院几天后去世。",
       "date": "2026-06-20T17:40:43Z",
-      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -685,16 +825,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_ae591aa0",
+      "id": "evt_55c6c5f4",
       "title": "美国表示，以色列和真主党同意停火，因为更多的黎巴嫩罢工报道",
       "summary": "该协议引发了人们的担忧，即持续的冲突将破坏结束美国与伊朗之间战争的协议。",
       "date": "2026-06-19T19:27:12Z",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -713,16 +853,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_8c5b9cd8",
+      "id": "evt_3bc349ea",
       "title": "由于以色列在黎巴嫩发动致命罢工，美伊会谈被推迟",
       "summary": "JD Vance尚未前往瑞士，因为以色列军方称其目标是真主党，并且其自己的四名士兵已被杀害。",
       "date": "2026-06-19T15:16:39Z",
-      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -741,16 +881,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_56e7464e",
+      "id": "evt_f9c2530f",
       "title": "黎巴嫩说，以色列的罢工造成47人死亡，而以色列说，真主党杀死了四名士兵",
       "summary": "就在这一天，美国和伊朗签署了一项协议，以结束他们的冲突，包括在黎巴嫩的战斗。",
       "date": "2026-06-19T14:53:52Z",
-      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -769,44 +909,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_bcee081f",
-      "title": "鲍恩：美伊协议提出了不可避免的战争目的问题",
-      "summary": "虽然人类付出的代价是显而易见的，但伊朗政权不仅在战争中幸存下来，而且还被赋予了权力。",
-      "date": "2026-06-18T15:53:55Z",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: US-Iran deal raises inescapable question of what the war was for"
-      }
-    },
-    {
-      "id": "evt_a206903e",
+      "id": "evt_25a6f376",
       "title": "美国和伊朗总统签署旨在结束战争的协议",
       "summary": "伊朗核计划的命运仍有待谈判，这是美国引发冲突的一个关键原因。",
       "date": "2026-06-18T03:03:29Z",
-      "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -825,72 +937,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d2d2cd48",
-      "title": "美国-伊朗交易留下的核心问题尚未解决-以及3000亿美元的问题",
-      "summary": "特朗普坚称，该协议确保伊朗永远不会购买、发展或生产核武器。但协议文本没有做到这一点。",
-      "date": "2026-06-18T01:29:32Z",
-      "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Iran deal leaves core sticking points unresolved - and a $300bn question"
-      }
-    },
-    {
-      "id": "evt_44a4ffc7",
-      "title": "联合国专家要求伊朗人释放福尔曼",
-      "summary": "他们说，对Lindsay和Craig Foreman的诉讼存在严重违规行为。",
-      "date": "2026-06-17T19:21:36Z",
-      "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN experts demand Iranians free Foremans"
-      }
-    },
-    {
-      "id": "evt_20a8cd9c",
+      "id": "evt_dbf16ab4",
       "title": "伊朗派遣装满石油的油轮通过美国的军事封锁",
       "summary": "船舶跟踪数据显示，三艘装载原油的伊朗油轮已通过美国在阿曼湾的封锁线。",
       "date": "2026-06-17T13:27:47Z",
-      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -909,16 +965,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_2c4b456c",
+      "id": "evt_a4829947",
       "title": "尽管特朗普批评，以色列仍对黎巴嫩发动新的罢工",
       "summary": "特朗普周二表示，以色列总理内塔尼亚胡需要“对黎巴嫩更加负责”。",
       "date": "2026-06-17T10:01:42Z",
-      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -934,62 +990,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel launches fresh strikes on Lebanon despite Trump criticism"
-      }
-    },
-    {
-      "id": "evt_226c888a",
-      "title": "由于以色列民族主义者藐视规则，耶路撒冷最神圣的遗址的现状受到威胁",
-      "summary": "以色列民族主义者越来越多地蔑视一项关于信仰如何分享阿克萨清真寺建筑群的公约。",
-      "date": "2026-06-17T09:13:34Z",
-      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules"
-      }
-    },
-    {
-      "id": "evt_d18aced6",
-      "title": "德黑兰出售与美国的交易作为胜利–但对伊朗人来说这是必要的",
-      "summary": "对许多伊朗人来说，问题不在于这笔交易是否意味着胜利，而在于它是否降低了价格，减少了对另一场战争的恐惧。",
-      "date": "2026-06-16T15:31:24Z",
-      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran selling deal with US as victory – but for Iranians it was necessity"
       }
     }
   ]
