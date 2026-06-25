@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-24T02:37:19.720119Z
+// 自动生成的数据 - 更新时间: 2026-06-25T02:38:29.774818Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-24T02:37:19.720055Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-06-25T02:38:29.774756Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 21,
+      "international": 20,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_1d772a0d",
-      "title": "叙利亚人拒绝特朗普呼吁叙利亚在黎巴嫩打击真主党",
-      "summary": "大马士革居民拒绝了美国总统唐纳德·特朗普关于叙利亚应该在黎巴嫩与真主党对抗的建议。",
-      "date": "2026-06-24T01:57:54Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss",
+      "id": "evt_eb5a84d2",
+      "title": "吕特试图在年度峰会之前缓解特朗普-北约对伊朗的分歧",
+      "summary": "在下个月的北约峰会之前，北约主席马克·吕特访问了白宫，以缓和与特朗普的紧张关系。",
+      "date": "2026-06-25T02:22:08Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon"
-      }
-    },
-    {
-      "id": "evt_53250c30",
-      "title": "美国参议院投票暂停伊朗战争，罕见地指责特朗普",
-      "summary": "美国参议院投票暂停伊朗战争，罕见地指责特朗普",
-      "date": "2026-06-24T01:29:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US Senate votes to pause Iran war in rare rebuke to Trump"
+        "en": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit"
       }
     },
     {
-      "id": "evt_089554c1",
-      "title": "伊朗战争现场：特朗普，德黑兰在核检查方面存在分歧，霍尔木兹",
-      "summary": "在谈判代表推动达成最终全面协议之际，美国和伊朗发表了相互矛盾的声明。",
-      "date": "2026-06-24T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+      "id": "evt_26acc4d2",
+      "title": "伊朗战争现场：美国誓言捍卫海湾利益；以色列在黎巴嫩杀害2人",
+      "summary": "卢比奥承诺在与伊朗的谈判中保护海湾利益，因为以色列表示不会从黎巴嫩南部撤军。",
+      "date": "2026-06-25T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon"
+      }
+    },
+    {
+      "id": "evt_16eca43c",
+      "title": "特朗普与马克·吕特谈话时抨击北约对伊朗战争的参与松懈",
+      "summary": "北约主席马克·吕特（ Mark Rutte ）在强调支持美国对伊朗的战争时指出了美国在欧洲基地的使用。",
+      "date": "2026-06-24T23:47:48Z",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte"
+      }
+    },
+    {
+      "id": "evt_e7002060",
+      "title": "特朗普白宫要求876亿美元的支出，包括用于伊朗战争的支出",
+      "summary": "这一要求可能会在国会面临一场艰苦的战斗，国会前一天投票遏制特朗普的战争权力。",
+      "date": "2026-06-24T23:25:01Z",
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump White House requests $87.6bn in spending, including for Iran war"
+      }
+    },
+    {
+      "id": "evt_1a3c53c0",
+      "title": "2026年伊朗对法国的损失微乎其微",
+      "summary": "德黑兰-伊朗在周三晚上的2026年排球国家联盟（ VNL ）第2周以3-21、23-25、25-21、24-26、17-15输给法国。",
+      "date": "2026-06-24T21:50:44Z",
+      "url": "https://www.tehrantimes.com/news/527605/Iran-suffer-narrow-loss-against-France-in-2026-VNL",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527605/Iran-suffer-narrow-loss-against-France-in-2026-VNL"
         }
       ],
       "category": "military",
@@ -93,27 +149,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz"
+        "en": "Iran suffer narrow loss against  France  in 2026 VNL"
       }
     },
     {
-      "id": "evt_b81ff176",
-      "title": "以色列蓄意以巴勒斯坦儿童为目标",
-      "summary": "新的联合国报告记录了以色列对加沙的战争及其对约旦河西岸的占领对巴勒斯坦儿童造成的损失。",
-      "date": "2026-06-23T22:50:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
+      "id": "evt_d4d6ff58",
+      "title": "波斯尼亚以3-2获胜，淘汰卡塔尔以保持世界杯32强的希望",
+      "summary": "波斯尼亚队处于强势地位，能够成为晋级到最后32名的最佳八支第三名球队之一。",
+      "date": "2026-06-24T21:47:28Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -121,27 +177,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel’s deliberate targeting of Palestinian children"
+        "en": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32"
       }
     },
     {
-      "id": "evt_72211c43",
-      "title": "联合国：以色列以加沙儿童为目标实施种族灭绝",
-      "summary": "以色列蓄意将加沙的巴勒斯坦儿童作为目标，导致种族灭绝。",
-      "date": "2026-06-23T21:38:23Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+      "id": "evt_cbc499d4",
+      "title": "联合国核总监表示，作为战争协议的一部分，视察员将访问伊朗现场",
+      "summary": "拉斐尔·格罗西（ Rafael Grossi ）表示，国际原子能机构正在“研究方式” ，但一位伊朗部长表示，这种准入只是与美国达成最终协议的一部分。",
+      "date": "2026-06-24T17:31:48Z",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -149,27 +205,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UN: Israel committed genocide by targeting Gaza children"
+        "en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
       }
     },
     {
-      "id": "evt_0723da79",
-      "title": "特朗普的盟友在美伊协议的紧张局势中向以色列人保证",
-      "summary": "特朗普的盟友在美伊协议的紧张局势中向以色列人保证",
-      "date": "2026-06-23T21:19:35Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
+      "id": "evt_be8e98ab",
+      "title": "联合国表示将疏散滞留在霍尔木兹海峡的水手，因为卢比奥警告不要收费",
+      "summary": "美国国务卿马可·卢比奥（ Marco Rubio ）警告伊朗，任何国家都不能对通过海峡的船只收取费用。",
+      "date": "2026-06-23T21:04:11Z",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -177,7 +233,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump allies reassure Israelis amid tensions on US-Iran deal"
+        "en": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls"
       }
     },
     {
@@ -657,34 +713,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_59781b00",
-      "title": "《破碎的国家》出现在伊朗书店",
-      "summary": "英国小说家克莱尔·莱斯利·霍尔（ Clare Leslie Hall ）的《破碎的国家》（ Broken Country ）以波斯语出版。",
-      "date": "2026-06-22T16:57:33Z",
-      "url": "https://www.tehrantimes.com/news/527550/Broken-Country-appears-at-Iranian-bookstores",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527550/Broken-Country-appears-at-Iranian-bookstores"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Broken Country” appears at Iranian bookstores"
-      }
-    },
-    {
       "id": "evt_69d79daa",
       "title": "卡塔尔天然气爆炸后至少13人死亡，数十人受伤",
       "summary": "该市的主要液化天然气（ LNG ）加工场地在拉斯拉凡工业区发生了“技术事故”。",
@@ -934,62 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US and Iranian presidents sign deal aiming to end war"
-      }
-    },
-    {
-      "id": "evt_dbf16ab4",
-      "title": "伊朗派遣装满石油的油轮通过美国的军事封锁",
-      "summary": "船舶跟踪数据显示，三艘装载原油的伊朗油轮已通过美国在阿曼湾的封锁线。",
-      "date": "2026-06-17T13:27:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran sends tankers loaded with oil past US military blockade"
-      }
-    },
-    {
-      "id": "evt_a4829947",
-      "title": "尽管特朗普批评，以色列仍对黎巴嫩发动新的罢工",
-      "summary": "特朗普周二表示，以色列总理内塔尼亚胡需要“对黎巴嫩更加负责”。",
-      "date": "2026-06-17T10:01:42Z",
-      "url": "https://www.bbc.co.uk/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel launches fresh strikes on Lebanon despite Trump criticism"
       }
     }
   ]
