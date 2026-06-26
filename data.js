@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-25T02:38:29.774818Z
+// 自动生成的数据 - 更新时间: 2026-06-26T02:41:37.039985Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-25T02:38:29.774756Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-06-26T02:41:37.039925Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 20,
+      "international": 17,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_eb5a84d2",
-      "title": "吕特试图在年度峰会之前缓解特朗普-北约对伊朗的分歧",
-      "summary": "在下个月的北约峰会之前，北约主席马克·吕特访问了白宫，以缓和与特朗普的紧张关系。",
-      "date": "2026-06-25T02:22:08Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
+      "id": "evt_43efc59e",
+      "title": "什叶派朝圣者聚集在伊拉克圣城卡尔巴拉纪念阿舒拉节",
+      "summary": "什叶派穆斯林聚集在伊拉克城市卡尔巴拉，纪念阿舒拉节",
+      "date": "2026-06-26T00:53:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shia pilgrims gather in Iraq’s holy city of Karbala to mark Ashura"
+      }
+    },
+    {
+      "id": "evt_14cd0d46",
+      "title": "联合国在货船遇袭后暂停霍尔木兹海峡疏散计划",
+      "summary": "据报道，该船在阿曼附近被一枚“不明弹”击中，但没有人员伤亡的报道。",
+      "date": "2026-06-26T00:28:02Z",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -37,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit"
+        "en": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked"
       }
     },
     {
-      "id": "evt_26acc4d2",
-      "title": "伊朗战争现场：美国誓言捍卫海湾利益；以色列在黎巴嫩杀害2人",
-      "summary": "卢比奥承诺在与伊朗的谈判中保护海湾利益，因为以色列表示不会从黎巴嫩南部撤军。",
-      "date": "2026-06-25T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
+      "id": "evt_a8b54012",
+      "title": "伊朗战争现场：以色列袭击黎巴嫩，内塔尼亚胡说军队留下来",
+      "summary": "以色列领导人表示，尽管美伊达成协议，但只要有必要，以色列军队将留在黎巴嫩南部的被占领地区。",
+      "date": "2026-06-26T00:00:09Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +93,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon"
+        "en": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay"
       }
     },
     {
-      "id": "evt_16eca43c",
-      "title": "特朗普与马克·吕特谈话时抨击北约对伊朗战争的参与松懈",
-      "summary": "北约主席马克·吕特（ Mark Rutte ）在强调支持美国对伊朗的战争时指出了美国在欧洲基地的使用。",
-      "date": "2026-06-24T23:47:48Z",
-      "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
+      "id": "evt_a7e069d7",
+      "title": "2026年越南盾：伊朗落后于美国",
+      "summary": "德黑兰--周四，伊朗在2026年排球国家联盟（ VNL ）第2周遭遇了对美国的连败，输掉了25-23、25-20、31-29。",
+      "date": "2026-06-25T17:13:57Z",
+      "url": "https://www.tehrantimes.com/news/527607/2026-VNL-Iran-fall-short-to-U-S",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527607/2026-VNL-Iran-fall-short-to-U-S"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "2026 VNL: Iran fall short to U.S."
+      }
+    },
+    {
+      "id": "evt_a950815a",
+      "title": "TikTok网红被指控犯有迪拜谋杀罪",
+      "summary": "来自肯特郡的23岁网红布鲁克·乔治（ Brooke George ）声称，她在刺伤伴侣时采取了自卫行动。",
+      "date": "2026-06-25T11:58:44Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "TikTok influencer charged with Dubai murder"
+      }
+    },
+    {
+      "id": "evt_a4227fe2",
+      "title": "中国的技术和后勤支持：伊朗世界杯辉煌表现的关键",
+      "summary": "伊朗国家足球队在2026年世界杯足球赛上的表现引起了足球分析师和西方主流媒体的极大关注。在对阵新西兰的比赛中，伊朗以2-2战平开局，随后于6月22日在洛杉矶附近的SoFi体育场以0-0击败比利时。",
+      "date": "2026-06-25T08:40:41Z",
+      "url": "https://www.tehrantimes.com/news/527606/China-s-tech-and-logistical-support-A-key-to-Iran-s-World-Cup",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527606/China-s-tech-and-logistical-support-A-key-to-Iran-s-World-Cup"
         }
       ],
       "category": "military",
@@ -93,35 +177,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte"
-      }
-    },
-    {
-      "id": "evt_e7002060",
-      "title": "特朗普白宫要求876亿美元的支出，包括用于伊朗战争的支出",
-      "summary": "这一要求可能会在国会面临一场艰苦的战斗，国会前一天投票遏制特朗普的战争权力。",
-      "date": "2026-06-24T23:25:01Z",
-      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump White House requests $87.6bn in spending, including for Iran war"
+        "en": "China's tech and logistical support: A key to Iran's World Cup brilliant performance"
       }
     },
     {
@@ -150,34 +206,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran suffer narrow loss against  France  in 2026 VNL"
-      }
-    },
-    {
-      "id": "evt_d4d6ff58",
-      "title": "波斯尼亚以3-2获胜，淘汰卡塔尔以保持世界杯32强的希望",
-      "summary": "波斯尼亚队处于强势地位，能够成为晋级到最后32名的最佳八支第三名球队之一。",
-      "date": "2026-06-24T21:47:28Z",
-      "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32"
       }
     },
     {
@@ -657,62 +685,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e1486048",
-      "title": "Pezeshkian将于明天前往巴基斯坦进行为期一天的访问",
-      "summary": "TEHRAN-总统马苏德·佩泽什基安（ Masoud Pezeshkian ）将于周二前往巴基斯坦，与巴基斯坦官员进行磋商和交换意见。",
-      "date": "2026-06-22T17:13:23Z",
-      "url": "https://www.tehrantimes.com/news/527600/Pezeshkian-to-go-to-Pakistan-on-a-one-day-visit-tomorrow",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527600/Pezeshkian-to-go-to-Pakistan-on-a-one-day-visit-tomorrow"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian to go to Pakistan on a one-day visit tomorrow"
-      }
-    },
-    {
-      "id": "evt_d64031b9",
-      "title": "“街道属于人民”",
-      "summary": "德黑兰--在美以入侵伊朗后的几周内，一种意想不到的社会现象开始在全国各地形成。夜复一夜，在大大小小的城市，人们聚集在街道和公共广场上。尽管存在安全风险、空袭警告甚至偶尔的袭击，但自发集会开始逐渐转变为连续一百多个夜晚的守夜活动。",
-      "date": "2026-06-22T17:07:51Z",
-      "url": "https://www.tehrantimes.com/news/527599/The-street-belongs-to-the-people",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527599/The-street-belongs-to-the-people"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘The street belongs to the people’"
-      }
-    },
-    {
       "id": "evt_69d79daa",
       "title": "卡塔尔天然气爆炸后至少13人死亡，数十人受伤",
       "summary": "该市的主要液化天然气（ LNG ）加工场地在拉斯拉凡工业区发生了“技术事故”。",
@@ -853,34 +825,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_55c6c5f4",
-      "title": "美国表示，以色列和真主党同意停火，因为更多的黎巴嫩罢工报道",
-      "summary": "该协议引发了人们的担忧，即持续的冲突将破坏结束美国与伊朗之间战争的协议。",
-      "date": "2026-06-19T19:27:12Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported"
-      }
-    },
-    {
       "id": "evt_3bc349ea",
       "title": "由于以色列在黎巴嫩发动致命罢工，美伊会谈被推迟",
       "summary": "JD Vance尚未前往瑞士，因为以色列军方称其目标是真主党，并且其自己的四名士兵已被杀害。",
@@ -934,34 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah"
-      }
-    },
-    {
-      "id": "evt_25a6f376",
-      "title": "美国和伊朗总统签署旨在结束战争的协议",
-      "summary": "伊朗核计划的命运仍有待谈判，这是美国引发冲突的一个关键原因。",
-      "date": "2026-06-18T03:03:29Z",
-      "url": "https://www.bbc.co.uk/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iranian presidents sign deal aiming to end war"
       }
     }
   ]
