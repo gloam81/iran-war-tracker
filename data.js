@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-26T02:41:37.039985Z
+// 自动生成的数据 - 更新时间: 2026-06-27T02:34:07.159440Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-26T02:41:37.039925Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-06-27T02:34:07.159363Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 17,
+      "international": 21,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,184 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_43efc59e",
-      "title": "什叶派朝圣者聚集在伊拉克圣城卡尔巴拉纪念阿舒拉节",
-      "summary": "什叶派穆斯林聚集在伊拉克城市卡尔巴拉，纪念阿舒拉节",
-      "date": "2026-06-26T00:53:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss",
+      "id": "evt_2cdce3d9",
+      "title": "美国在货船遭到袭击后对伊朗发动罢工",
+      "summary": "美国中央司令部表示，它已经击中了导弹和无人机储存设施以及沿海雷达阵地。",
+      "date": "2026-06-27T00:34:08Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US conducts strikes on Iran after attack on cargo ship"
+      }
+    },
+    {
+      "id": "evt_64c9c111",
+      "title": "特朗普在停火中为打击伊朗辩护",
+      "summary": "美国打击伊朗是为了报复伊朗对霍尔木兹海峡一艘船只的袭击。",
+      "date": "2026-06-27T00:16:58Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump justifies strikes on Iran amid ceasefire"
+      }
+    },
+    {
+      "id": "evt_37fb71b2",
+      "title": "伊朗战争现场：美国在霍尔木兹海峡袭击船只后袭击伊朗",
+      "summary": "伊朗伊斯兰革命卫队表示，在特朗普政府对该国发动袭击后，它针对的是该地区的美军。",
+      "date": "2026-06-27T00:00:04Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_0d7717b7",
+      "title": "埃及vs伊朗现场直播： 2026年世界杯足球赛",
+      "summary": "穆罕默德·萨拉赫（ Mohamed Salah ）的埃及队在西雅图的最后一场小组赛中与伊朗队比赛，现场更新、得分和评论",
+      "date": "2026-06-26T22:57:35Z",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Egypt vs Iran LIVE: FIFA World Cup 2026"
+      }
+    },
+    {
+      "id": "evt_d53f2c0a",
+      "title": "以色列和黎巴嫩签署的框架协议是什么？",
+      "summary": "这笔交易是在美国斡旋的几个月直接谈判之后达成的，但以色列继续占领黎巴嫩土地。",
+      "date": "2026-06-26T22:56:01Z",
+      "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What is the framework agreement signed by Israel and Lebanon?"
+      }
+    },
+    {
+      "id": "evt_1b594f68",
+      "title": "以色列和黎巴嫩在美国斡旋的谈判后签署框架协议",
+      "summary": "真主党不是周五协议的一方，以色列和黎巴嫩之前的停火协议仍然几乎每天都会发生跨境袭击。",
+      "date": "2026-06-26T22:55:28Z",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel and Lebanon sign framework agreement after US-brokered talks"
+      }
+    },
+    {
+      "id": "evt_ec2ba423",
+      "title": "塞内加尔以5-0战胜10人伊拉克，保持世界杯淘汰赛的希望",
+      "summary": "塞内加尔目前根据其+2进球差异在第三名球队中排名第五。",
+      "date": "2026-06-26T22:05:09Z",
+      "url": "https://www.aljazeera.com/sports/2026/6/26/senegal-score-5-0-win-over-10-man-iraq-keep-world-cup-knockout-hopes-alive?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/6/26/senegal-score-5-0-win-over-10-man-iraq-keep-world-cup-knockout-hopes-alive?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -37,14 +205,462 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Shia pilgrims gather in Iraq’s holy city of Karbala to mark Ashura"
+        "en": "Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive"
+      }
+    },
+    {
+      "id": "evt_1a219f55",
+      "title": "美国打击伊朗以回应无人机对商船的袭击",
+      "summary": "新的袭击是为了回应伊朗无人机对霍尔木兹海峡的Ever Lovely号的袭击。",
+      "date": "2026-06-26T21:08:01Z",
+      "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US strikes Iran in response to drone strike on commercial ship"
+      }
+    },
+    {
+      "id": "evt_41afd7ed",
+      "title": "特朗普指责伊朗在霍尔木兹海峡袭击后违反停火协议",
+      "summary": "周四，一艘悬挂新加坡国旗的船只在穿越水道时被撞，导致大规模疏散行动暂停。",
+      "date": "2026-06-26T18:03:32Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack"
+      }
+    },
+    {
+      "id": "evt_697fcdf6",
+      "title": "新版《作家之旅》波斯语版",
+      "summary": "德黑兰--德黑兰的爱马仕出版社（ Hermes Publication ）发布了《作家的旅程：作家的神话结构》（ The Writer's Journey: Mythic Structure for Writers ）一书的波斯语译本。该书由克里斯托弗·沃格勒（ Christopher Vogler ）撰写，穆罕默德·戈扎拉巴迪（ Mohammad Go",
+      "date": "2026-06-26T17:55:36Z",
+      "url": "https://www.tehrantimes.com/news/527625/New-edition-of-The-Writer-s-Journey-available-in-Persian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527625/New-edition-of-The-Writer-s-Journey-available-in-Persian"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New edition of “The Writer's Journey” available in Persian"
+      }
+    },
+    {
+      "id": "evt_7e4ca042",
+      "title": "第40届Cinema Ritrovato电影节，展示伊朗晚期电影制作人的电影",
+      "summary": "德黑兰--第40届意大利博洛尼亚电影节（ Cinema Ritrovato (Rediscovered) Festival ）将举办已故伊朗电影制片人Abbas Kiarostami、Dariush Mehrjui和Ebrahim Golestan的电影，该电影节致力于放映经修复、重新发现和鲜为人知的电影。",
+      "date": "2026-06-26T17:55:03Z",
+      "url": "https://www.tehrantimes.com/news/527624/40th-Cinema-Ritrovato-Festival-presenting-movies-by-late-Iranian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527624/40th-Cinema-Ritrovato-Festival-presenting-movies-by-late-Iranian"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "40th Cinema Ritrovato Festival presenting movies by late Iranian filmmakers"
+      }
+    },
+    {
+      "id": "evt_9f3f7ccf",
+      "title": "流行歌手Mohsen Chavoshi发行“Sun-Wounded” ，向伊玛目侯赛因（ AS ）致敬",
+      "summary": "TEHRAN -伊朗著名流行歌手和作曲家Mohsen Chavoshi发行了他的最新单曲“Sun-Wounded” ，标志着穆哈拉姆的哀悼月和纪念伊玛目侯赛因（ AS ）殉难。",
+      "date": "2026-06-26T17:54:23Z",
+      "url": "https://www.tehrantimes.com/news/527611/Pop-singer-Mohsen-Chavoshi-releases-Sun-Wounded-as-tribute",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527611/Pop-singer-Mohsen-Chavoshi-releases-Sun-Wounded-as-tribute"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pop singer Mohsen Chavoshi releases “Sun-Wounded” as tribute to Imam Hussein (AS)"
+      }
+    },
+    {
+      "id": "evt_41733310",
+      "title": "鲁霍拉明推出全新阿舒拉主题画《铁与月光》",
+      "summary": "TEHRAN-伊朗著名艺术家哈桑·鲁霍拉明（ Hassan Ruholamin ）推出了他最新的阿舒拉主题艺术作品《铁与月光》（ Iron and Moonlight ） ，描绘了哈兹拉特·阿巴斯（ Hazrat Abbas ）的殉道经历。阿巴斯是伊玛目侯赛因（ Imam Hussein ）的兄弟，也是680年阿舒拉战役期间伊玛目团体的旗手，在此期间，伊玛目及其同伴殉难。",
+      "date": "2026-06-26T17:53:46Z",
+      "url": "https://www.tehrantimes.com/news/527610/Ruholamin-unveils-new-Ashura-themed-painting-Iron-and-Moonlight",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527610/Ruholamin-unveils-new-Ashura-themed-painting-Iron-and-Moonlight"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ruholamin unveils new Ashura-themed painting “Iron and Moonlight”"
+      }
+    },
+    {
+      "id": "evt_50a5fc8c",
+      "title": "伊朗在2026年VNL第2周连续第三次失利",
+      "summary": "德黑兰–伊朗在2026年排球国家联盟（ VNL ）的失利比赛周五继续进行，因为梅利队落入日本队。",
+      "date": "2026-06-26T17:46:24Z",
+      "url": "https://www.tehrantimes.com/news/527626/Iran-suffer-third-straight-defeat-in-2026-VNL",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527626/Iran-suffer-third-straight-defeat-in-2026-VNL"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran suffer third straight defeat in 2026 VNL Week 2"
+      }
+    },
+    {
+      "id": "evt_fd2706d2",
+      "title": "伊朗敦促联合国追究美国和以色列对Minab学校致命袭击的责任",
+      "summary": "TEHRAN–伊朗呼吁国际社会追究美国和以色列对“针对儿童的战争罪”的责任，谴责美国-以色列最近对该国的军事行动中对南部城市米纳布一所小学的致命袭击。",
+      "date": "2026-06-26T17:42:39Z",
+      "url": "https://www.tehrantimes.com/news/527646/Iran-urges-UN-to-hold-US-Israel-accountable-for-deadly-strike",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527646/Iran-urges-UN-to-hold-US-Israel-accountable-for-deadly-strike"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran urges UN to hold US, Israel accountable for deadly strike on Minab school"
+      }
+    },
+    {
+      "id": "evt_27d64637",
+      "title": "正在讨论新的联合核项目",
+      "summary": "德黑兰--俄罗斯被视为伊朗最重要的盟友之一，这自然使德黑兰与莫斯科在最近的美以战争中与伊朗的关系尤为重要。在与华盛顿持续紧张关系以及未来可能出现的许多潜在挑战中，这一点尤其如此。",
+      "date": "2026-06-26T17:36:46Z",
+      "url": "https://www.tehrantimes.com/news/527645/New-joint-nuclear-projects-in-discussion",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527645/New-joint-nuclear-projects-in-discussion"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New joint nuclear projects in discussion"
+      }
+    },
+    {
+      "id": "evt_68dab22d",
+      "title": "伊朗对以色列在黎巴嫩的军事活动和存在发出新的警告",
+      "summary": "TEHRAN -伊朗高级军事领导人周五向以色列发出了一系列警告，警告不要再通过邻国以伊朗为目标的任何军事活动，并要求以色列完全撤出黎巴嫩领土。",
+      "date": "2026-06-26T17:27:05Z",
+      "url": "https://www.tehrantimes.com/news/527644/Iran-issues-fresh-warnings-over-Israeli-military-activity-and",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527644/Iran-issues-fresh-warnings-over-Israeli-military-activity-and"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran issues fresh warnings over Israeli military activity and presence in Lebanon"
+      }
+    },
+    {
+      "id": "evt_6b860a6b",
+      "title": "卡尼说，加拿大称重启驻伊朗大使馆",
+      "summary": "TEHRAN -加拿大总理马克·卡尼（ Mark Carney ）周四表示，他的政府正在考虑重新开放加拿大驻伊朗和委内瑞拉的大使馆，认为没有外交使团限制了渥太华保护加拿大公民和有效应对人道主义危机的能力。",
+      "date": "2026-06-26T17:23:03Z",
+      "url": "https://www.tehrantimes.com/news/527643/Canada-weighs-reopening-embassies-in-Iran-Carney-says",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527643/Canada-weighs-reopening-embassies-in-Iran-Carney-says"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Canada weighs reopening embassies in Iran, Carney says"
+      }
+    },
+    {
+      "id": "evt_5cb8cbd1",
+      "title": "特朗普认为自己是“这个星球上最有权势的人”",
+      "summary": "德黑兰--6月，玛吉·哈伯曼（ Maggie Haberman ）和乔纳森·斯旺（ Jonathan Swan ）发布了《政权更迭》（ Regime Change ） ，对21世纪的美国力量进行了毁灭性的尸检。这本书揭露了一个被奇观和神奇思维破坏的政治制度，它就像一个无法无天的污水池。",
+      "date": "2026-06-26T17:19:30Z",
+      "url": "https://www.tehrantimes.com/news/527638/Trump-sees-himself-most-powerful-man-that-the-planet-has-ever",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527638/Trump-sees-himself-most-powerful-man-that-the-planet-has-ever"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump sees himself ‘most powerful man that the planet has ever known’"
+      }
+    },
+    {
+      "id": "evt_4b3f79aa",
+      "title": "韩国将研发伊朗Shahed-136无人机的国产版本",
+      "summary": "德黑兰--据伊朗国防部称，韩国已宣布计划开发和部署基于伊朗Shahed-136无人驾驶飞行器的国产游荡弹药。",
+      "date": "2026-06-26T17:14:59Z",
+      "url": "https://www.tehrantimes.com/news/527642/South-Korea-to-develop-domestic-version-of-Iran-s-Shahed-136",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527642/South-Korea-to-develop-domestic-version-of-Iran-s-Shahed-136"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "South Korea to develop domestic version of Iran's Shahed-136 drone"
+      }
+    },
+    {
+      "id": "evt_f9642ff0",
+      "title": "伊朗拒绝美国-PGCC声明，捍卫地区安全原则",
+      "summary": "德黑兰--伊朗外交部周五强烈谴责美国与波斯湾合作委员会（ PGCC ）部长级会议后发布的最新联合声明，称该声明是“干预主义、不负责任和挑衅性的” ，并指责华盛顿试图将其安全议程强加于该地区。",
+      "date": "2026-06-26T17:11:29Z",
+      "url": "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527641/Iran-rejects-US-PGCC-declaration-defends-regional-security-doctrine"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran rejects US-PGCC declaration, defends regional security doctrine"
+      }
+    },
+    {
+      "id": "evt_d90e202b",
+      "title": "欧洲血淋淋的手揭示了",
+      "summary": "TEHRAN -伊斯兰共和国谴责北约秘书长马克·吕特（ Mark Rutte ）承认欧洲参与了美国-以色列对伊朗的军事行动，称这是对该联盟积极参与非法侵略战争的明确而严厉的承认。",
+      "date": "2026-06-26T17:07:28Z",
+      "url": "https://www.tehrantimes.com/news/527640/Europe-s-bloody-hands-revealed",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527640/Europe-s-bloody-hands-revealed"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Europe's bloody hands revealed"
+      }
+    },
+    {
+      "id": "evt_f1e03088",
+      "title": "伊朗永远不会放弃黎巴嫩",
+      "summary": "德黑兰--几十年来，伊朗和黎巴嫩之间的关系一直建立在深厚的宗教、历史和政治纽带之上。早在现代地区冲突出现之前，学者和神职人员就在这两片土地之间旅行，建立了世代相传的联系。",
+      "date": "2026-06-26T16:52:17Z",
+      "url": "https://www.tehrantimes.com/news/527639/Iran-will-never-abandon-Lebanon",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527639/Iran-will-never-abandon-Lebanon"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran will never abandon Lebanon"
       }
     },
     {
       "id": "evt_14cd0d46",
       "title": "联合国在货船遇袭后暂停霍尔木兹海峡疏散计划",
       "summary": "据报道，该船在阿曼附近被一枚“不明弹”击中，但没有人员伤亡的报道。",
-      "date": "2026-06-26T00:28:02Z",
+      "date": "2026-06-26T11:27:59Z",
       "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -69,23 +685,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_a8b54012",
-      "title": "伊朗战争现场：以色列袭击黎巴嫩，内塔尼亚胡说军队留下来",
-      "summary": "以色列领导人表示，尽管美伊达成协议，但只要有必要，以色列军队将留在黎巴嫩南部的被占领地区。",
-      "date": "2026-06-26T00:00:09Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
+      "id": "evt_be025087",
+      "title": "彩虹旗在尴尬的骄傲比赛中等待埃及和伊朗",
+      "summary": "伊朗教练拒绝讨论在西雅图举行的骄傲庆祝活动，他的国家在关键的G组比赛中面对埃及。",
+      "date": "2026-06-26T11:20:11Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -93,35 +709,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay"
-      }
-    },
-    {
-      "id": "evt_a7e069d7",
-      "title": "2026年越南盾：伊朗落后于美国",
-      "summary": "德黑兰--周四，伊朗在2026年排球国家联盟（ VNL ）第2周遭遇了对美国的连败，输掉了25-23、25-20、31-29。",
-      "date": "2026-06-25T17:13:57Z",
-      "url": "https://www.tehrantimes.com/news/527607/2026-VNL-Iran-fall-short-to-U-S",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527607/2026-VNL-Iran-fall-short-to-U-S"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "2026 VNL: Iran fall short to U.S."
+        "en": "Rainbow flags await Egypt and Iran at awkward Pride Match"
       }
     },
     {
@@ -153,62 +741,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_a4227fe2",
-      "title": "中国的技术和后勤支持：伊朗世界杯辉煌表现的关键",
-      "summary": "伊朗国家足球队在2026年世界杯足球赛上的表现引起了足球分析师和西方主流媒体的极大关注。在对阵新西兰的比赛中，伊朗以2-2战平开局，随后于6月22日在洛杉矶附近的SoFi体育场以0-0击败比利时。",
-      "date": "2026-06-25T08:40:41Z",
-      "url": "https://www.tehrantimes.com/news/527606/China-s-tech-and-logistical-support-A-key-to-Iran-s-World-Cup",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527606/China-s-tech-and-logistical-support-A-key-to-Iran-s-World-Cup"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "China's tech and logistical support: A key to Iran's World Cup brilliant performance"
-      }
-    },
-    {
-      "id": "evt_1a3c53c0",
-      "title": "2026年伊朗对法国的损失微乎其微",
-      "summary": "德黑兰-伊朗在周三晚上的2026年排球国家联盟（ VNL ）第2周以3-21、23-25、25-21、24-26、17-15输给法国。",
-      "date": "2026-06-24T21:50:44Z",
-      "url": "https://www.tehrantimes.com/news/527605/Iran-suffer-narrow-loss-against-France-in-2026-VNL",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527605/Iran-suffer-narrow-loss-against-France-in-2026-VNL"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran suffer narrow loss against  France  in 2026 VNL"
-      }
-    },
-    {
       "id": "evt_cbc499d4",
       "title": "联合国核总监表示，作为战争协议的一部分，视察员将访问伊朗现场",
       "summary": "拉斐尔·格罗西（ Rafael Grossi ）表示，国际原子能机构正在“研究方式” ，但一位伊朗部长表示，这种准入只是与美国达成最终协议的一部分。",
@@ -234,34 +766,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
-      }
-    },
-    {
-      "id": "evt_be8e98ab",
-      "title": "联合国表示将疏散滞留在霍尔木兹海峡的水手，因为卢比奥警告不要收费",
-      "summary": "美国国务卿马可·卢比奥（ Marco Rubio ）警告伊朗，任何国家都不能对通过海峡的船只收取费用。",
-      "date": "2026-06-23T21:04:11Z",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls"
       }
     },
     {
@@ -377,314 +881,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_9cf3c148",
-      "title": "伊朗沙赫尔剧院将上演安东尼奥·布埃罗·瓦列霍（ Antonio Buero Vallejo ）的《在燃烧的黑暗中》",
-      "summary": "德黑兰–伊朗剧院将于6月28日举办西班牙剧作家安东尼奥·布埃罗·巴列霍（ Antonio Buero Vallejo ）的戏剧《在燃烧的黑暗中》（ In the Burning Darkness ）。",
-      "date": "2026-06-22T17:44:38Z",
-      "url": "https://www.tehrantimes.com/news/527590/Iranshahr-Theater-to-host-Antonio-Buero-Vallejo-s-In-the-Burning",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527590/Iranshahr-Theater-to-host-Antonio-Buero-Vallejo-s-In-the-Burning"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranshahr Theater to host Antonio Buero Vallejo’s “In the Burning Darkness”"
-      }
-    },
-    {
-      "id": "evt_0ec949b1",
-      "title": "IOF人力危机：为身份而战，而不是为坦克而战",
-      "summary": "德黑兰--以色列占领政权的军队正面临严重的人力资源危机，这场危机威胁着它的崩溃，因为它正在为自己的身份和未来进行深刻的斗争。",
-      "date": "2026-06-22T17:41:36Z",
-      "url": "https://www.tehrantimes.com/news/527597/IOF-manpower-crisis-A-battle-over-identity-not-tanks",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527597/IOF-manpower-crisis-A-battle-over-identity-not-tanks"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IOF manpower crisis: A battle over identity, not tanks"
-      }
-    },
-    {
-      "id": "evt_791e4790",
-      "title": "伦敦桥终于倒塌了。没有新的牺牲可以拯救英国。",
-      "summary": "德黑兰—儿童童谣已经演唱了几个世纪，其活泼的节奏掩盖了一个基本的恐怖。“伦敦桥正在倒塌，倒塌，倒塌......”旋律掩盖的是严峻的中世纪民间传说，即只有当一个活着的灵魂（通常是一个孩子）被活埋在砖石中时，宏伟的结构才能免于崩溃。",
-      "date": "2026-06-22T17:41:01Z",
-      "url": "https://www.tehrantimes.com/news/527598/London-Bridge-is-finally-falling-down-No-fresh-sacrifices-can",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527598/London-Bridge-is-finally-falling-down-No-fresh-sacrifices-can"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "London Bridge is finally falling down. No fresh sacrifices can save Britain."
-      }
-    },
-    {
-      "id": "evt_a532489a",
-      "title": "哈吉斋月，从加沙到库姆的洪水中殉道",
-      "summary": "当我们面对加沙的野蛮侵略时，充斥着犹太法典的仇恨和类似纳粹的行为，当我们每时每刻都在等待沉重、毁灭性和燃烧的炸弹在没有警告的情况下发动袭击时， [在2025年6月为期12天的战争开始时，]我们深感痛苦地看着犹太复国主义美国对一个站在我们身边的穆斯林国家的侵略。",
-      "date": "2026-06-22T17:39:05Z",
-      "url": "https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom"
-      }
-    },
-    {
-      "id": "evt_013f45c7",
-      "title": "伊朗谈判团队内部的军事力量和外交",
-      "summary": "Siasat ‑ e-Rooz在其社论中强调了伊朗的军事和外交实力。伊朗的谈判团队代表着权力和外交： Ghalibaf是一位了解政治和军事动态的政治家。外交部和政府成员对会谈结果持乐观态度。",
-      "date": "2026-06-22T17:38:14Z",
-      "url": "https://www.tehrantimes.com/news/527589/Military-power-and-diplomacy-within-Iran-s-negotiating-team",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527589/Military-power-and-diplomacy-within-Iran-s-negotiating-team"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Military power and diplomacy within Iran’s negotiating team"
-      }
-    },
-    {
-      "id": "evt_4e5d7a9c",
-      "title": "伊朗提出“伊斯兰安全带”",
-      "summary": "TEHRAN–伊朗提议建立一个涉及主要穆斯林国家的区域安全框架，认为伊斯兰国家之间更密切的防务和安全合作对于反击以色列的侵略和促进整个地区的长期稳定至关重要。",
-      "date": "2026-06-22T17:35:40Z",
-      "url": "https://www.tehrantimes.com/news/527601/Iran-proposes-Islamic-Security-Belt",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527601/Iran-proposes-Islamic-Security-Belt"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran proposes 'Islamic Security Belt'"
-      }
-    },
-    {
-      "id": "evt_e371b306",
-      "title": "纽约时报泄露了特朗普失败的伊朗战略： “美国咬得太多了”",
-      "summary": "德黑兰--《纽约时报》承认，在近四个月前开始的美以联合战争之后，华盛顿未能通过军事行动或外交手段实现其目标。",
-      "date": "2026-06-22T17:35:07Z",
-      "url": "https://www.tehrantimes.com/news/527588/NYT-spills-the-beans-on-Trump-s-failed-Iran-strategy-US-bit",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527588/NYT-spills-the-beans-on-Trump-s-failed-Iran-strategy-US-bit"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "NYT spills the beans on Trump’s failed Iran strategy: 'US bit off more than it could chew'"
-      }
-    },
-    {
-      "id": "evt_ba4976c9",
-      "title": "伊朗和伊拉克城市准备为阿亚图拉赛义德·阿里·哈梅内伊举行葬礼",
-      "summary": "德黑兰--伊拉克人正准备与伊朗人民一起为阿亚图拉赛义德·阿里·哈梅内伊（ Seyyed Ali Khamenei ）举行葬礼，向这位殉难的领导人告别。",
-      "date": "2026-06-22T17:34:35Z",
-      "url": "https://www.tehrantimes.com/news/527587/Iranian-and-Iraqi-cities-prepare-to-hold-funeral-ceremonies-for",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527587/Iranian-and-Iraqi-cities-prepare-to-hold-funeral-ceremonies-for"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian and Iraqi cities prepare to hold funeral ceremonies for Ayatollah Seyyed Ali Khamenei"
-      }
-    },
-    {
-      "id": "evt_4b922d89",
-      "title": "卡尼警告以色列将再次从黎巴嫩南部撤军",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）圣城军（ Quds Force ）指挥官伊斯梅尔·卡尼（ Esmaeil Qaani ）准将警告在黎巴嫩南部行动的以色列部队，持续的军事行动和占领可能导致以色列在2000年再次从该地区撤军。",
-      "date": "2026-06-22T17:33:38Z",
-      "url": "https://www.tehrantimes.com/news/527602/Qaani-warns-Israel-of-another-forced-withdrawal-from-southern",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527602/Qaani-warns-Israel-of-another-forced-withdrawal-from-southern"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Qaani warns Israel of another forced withdrawal from southern Lebanon"
-      }
-    },
-    {
-      "id": "evt_2474a37c",
-      "title": "沿着首都书商区德黑兰的Enghelab街漫步",
-      "summary": "TEHRAN -我错过了书，感觉几乎是身体上的，就像没有熟悉的气味一样。这种感觉让我回到了德黑兰的Enghelab街，这是这座城市长期存在的印刷动脉，几十年来，学生、作家和安静、细心的读者之间流传着各种想法。",
-      "date": "2026-06-22T17:26:06Z",
-      "url": "https://www.tehrantimes.com/news/527551/How-war-is-reshaping-Iranian-readers-literary-tastes",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527551/How-war-is-reshaping-Iranian-readers-literary-tastes"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A walk along Tehran's Enghelab Street, the capital's booksellers' district"
-      }
-    },
-    {
-      "id": "evt_f310fa11",
-      "title": "随着瑞士谈判产生最终协议的路线图，伊朗，美国推进战后外交",
-      "summary": "德黑兰--伊朗官员称，与美国在瑞士举行的最新一轮间接谈判是朝着实施最近签署的停火备忘录迈出的重要一步，并为旨在结束数月地区紧张局势和军事对抗的全面协议奠定了基础。",
-      "date": "2026-06-22T17:24:27Z",
-      "url": "https://www.tehrantimes.com/news/527603/Iran-US-advance-post-war-diplomacy-as-Swiss-talks-yield-roadmap",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527603/Iran-US-advance-post-war-diplomacy-as-Swiss-talks-yield-roadmap"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran, US advance post-war diplomacy as Swiss talks yield roadmap toward final agreement"
-      }
-    },
-    {
       "id": "evt_69d79daa",
       "title": "卡塔尔天然气爆炸后至少13人死亡，数十人受伤",
       "summary": "该市的主要液化天然气（ LNG ）加工场地在拉斯拉凡工业区发生了“技术事故”。",
@@ -769,34 +965,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_4f83a40f",
-      "title": "尽管达成停火协议，以色列和真主党仍在继续罢工",
-      "summary": "据报道，至少有20人被以色列空袭打死，因为以色列军方称真主党在黎巴嫩南部向以色列军队开火。",
-      "date": "2026-06-20T18:36:19Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and Hezbollah continue strikes despite ceasefire agreement"
-      }
-    },
-    {
       "id": "evt_f2787eac",
       "title": "黎巴嫩海龟保护主义者莫娜·哈利勒死于以色列罢工",
       "summary": "一个环保组织说，莫娜·哈利勒（ Mona Khalil ）拒绝离开她多年来一直保护的海滩，在住院几天后去世。",
@@ -822,62 +990,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike"
-      }
-    },
-    {
-      "id": "evt_3bc349ea",
-      "title": "由于以色列在黎巴嫩发动致命罢工，美伊会谈被推迟",
-      "summary": "JD Vance尚未前往瑞士，因为以色列军方称其目标是真主党，并且其自己的四名士兵已被杀害。",
-      "date": "2026-06-19T15:16:39Z",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon"
-      }
-    },
-    {
-      "id": "evt_f9c2530f",
-      "title": "黎巴嫩说，以色列的罢工造成47人死亡，而以色列说，真主党杀死了四名士兵",
-      "summary": "就在这一天，美国和伊朗签署了一项协议，以结束他们的冲突，包括在黎巴嫩的战斗。",
-      "date": "2026-06-19T14:53:52Z",
-      "url": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah"
       }
     }
   ]
