@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-06-30T02:41:46.596367Z
+// 自动生成的数据 - 更新时间: 2026-07-01T02:47:52.303989Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-06-30T02:41:46.596295Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-07-01T02:47:52.303927Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 18,
+      "international": 17,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,156 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_5e91c84c",
-      "title": "伊朗战争现场：德黑兰否认特朗普在多哈举行会议的主张",
-      "summary": "特朗普表示，今天将在多哈举行与伊朗的会晤，但德黑兰表示，未来几天没有会谈的计划。",
-      "date": "2026-06-30T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
+      "id": "evt_d9040591",
+      "title": "伊朗以墨西哥球迷的热情送别离开世界杯",
+      "summary": "在球队离开之前，墨西哥球迷聚集在蒂华纳告别伊朗国家足球队",
+      "date": "2026-07-01T01:18:09Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran denies Trump’s claim of meeting in Doha"
-      }
-    },
-    {
-      "id": "evt_9ccd91fc",
-      "title": "以色列罢工造成两人死亡，在加沙人道主义区点燃帐篷",
-      "summary": "以色列袭击了加沙Khan Younis的Mawasi地区，造成两人死亡，另有几人受伤。",
-      "date": "2026-06-29T23:29:41Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone"
-      }
-    },
-    {
-      "id": "evt_dc38ccaa",
-      "title": "以色列的斯莫特里奇呼吁建立定居点， “征服”加沙地带",
-      "summary": "以色列财政部长Bezalel Smotrich呼吁立即在加沙地带建立犹太人定居点。",
-      "date": "2026-06-29T21:01:38Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israels-smotrich-calls-for-settlements-conquest-of-gaza-strip?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip"
-      }
-    },
-    {
-      "id": "evt_362bceac",
-      "title": "伊朗在美国的特洛伊木马：梅利队在WC的存在",
-      "summary": "TEHRAN -毫无疑问，这是有史以来第一次一个国家在举办世界杯的同时攻击另一个国家-碰巧，这个国家是那场比赛的嘉宾。",
-      "date": "2026-06-29T19:55:23Z",
-      "url": "https://www.tehrantimes.com/news/527758/Iran-s-Trojan-Horse-in-US-Team-Melli-s-presence-in-WC",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527758/Iran-s-Trojan-Horse-in-US-Team-Melli-s-presence-in-WC"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s Trojan Horse in US: Team Melli's presence in WC"
-      }
-    },
-    {
-      "id": "evt_abbb74ad",
-      "title": "更多黎巴嫩人拒绝“框架协议”",
-      "summary": "德黑兰–反对黎巴嫩政府与犹太复国主义政权的“框架协议”的人数继续增加，因为该国的政党和公众人物谴责它使占领合法化并缺乏法律或国家合法性。",
-      "date": "2026-06-29T19:49:50Z",
-      "url": "https://www.tehrantimes.com/news/527747/More-Lebanese-figures-reject-the-framework-agreement",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527747/More-Lebanese-figures-reject-the-framework-agreement"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "More Lebanese figures reject the “framework agreement”"
-      }
-    },
-    {
-      "id": "evt_40c5cc28",
-      "title": "在霍尔木兹海峡收取费用是合法的",
-      "summary": "柏林--伊朗和美国之间由巴基斯坦调解的谅解备忘录（ MOU ）已经经历了现实世界的考验。",
-      "date": "2026-06-29T19:48:19Z",
-      "url": "https://www.tehrantimes.com/news/527746/Charging-a-fee-in-Hormuz-Strait-is-legitimate",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527746/Charging-a-fee-in-Hormuz-Strait-is-legitimate"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Charging a fee in Hormuz Strait is legitimate"
+        "en": "Iran leaves World Cup with warm send-off from Mexican fans"
       }
     },
     {
-      "id": "evt_64ed6509",
-      "title": "以色列恶意将亚美尼亚的悲痛变成掩盖加沙暴行的外交手榴弹",
-      "summary": "德黑兰--6月28日，以色列内阁实施了一项几十年来一直激烈抵抗的策略。在一致投票中，部长们批准了外交部长吉迪恩·萨尔（ Gideon Saar ）的提议，正式承认第一次世界大战期间对奥斯曼亚美尼亚人的大规模屠杀是“种族灭绝”。",
-      "date": "2026-06-29T19:47:17Z",
-      "url": "https://www.tehrantimes.com/news/527748/Israel-maliciously-turns-Armenian-grief-into-diplomatic-grenade",
+      "id": "evt_0926afa0",
+      "title": "伊朗战争现场：卡塔尔总理会见美国特使；德黑兰坚持条件",
+      "summary": "伊朗表示，在黎巴嫩的敌对行动结束以及美国释放冻结的伊朗资金之前，最终协议的谈判不会开始。",
+      "date": "2026-07-01T00:00:09Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527748/Israel-maliciously-turns-Armenian-grief-into-diplomatic-grenade"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,20 +65,300 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel maliciously turns Armenian grief into diplomatic grenade masking Gaza atrocities"
+        "en": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions"
       }
     },
     {
-      "id": "evt_02f88781",
-      "title": "丹尼斯·凯利的“DNA”以波斯语出版",
-      "summary": "德黑兰--丹尼斯·凯利（ Dennis Kelly ）的戏剧《DNA》的波斯语译本已在全国各地的书店发行。",
-      "date": "2026-06-29T19:46:04Z",
-      "url": "https://www.tehrantimes.com/news/527731/Dennis-Kelly-s-DNA-published-in-Persian",
+      "id": "evt_f1e1c5fe",
+      "title": "卡塔尔表示，美国驻多哈特使将与调解人会面，但不会与伊朗人会面",
+      "summary": "卡塔尔外交部发言人表示，美国和伊朗之间没有安排高级别会议或直接会谈。",
+      "date": "2026-06-30T23:41:11Z",
+      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US envoys in Doha to meet mediators but not Iranians, Qatar says"
+      }
+    },
+    {
+      "id": "evt_c5db3c8a",
+      "title": "Shushtar的世界遗产价值在于其工程系统，而不是个别结构，官方",
+      "summary": "德黑兰--伊朗列入联合国教科文组织名单的舒什塔尔历史液压系统的突出普遍价值在于其建筑背后的工程知识和综合水管理系统，而不是其单独的桥梁、水坝或磨坊，世界遗产地负责人在该国庆祝其铭文17周年之际表示。",
+      "date": "2026-06-30T17:35:58Z",
+      "url": "https://www.tehrantimes.com/news/527780/Shushtar-s-World-Heritage-value-lies-in-its-engineering-system",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527731/Dennis-Kelly-s-DNA-published-in-Persian"
+          "url": "https://www.tehrantimes.com/news/527780/Shushtar-s-World-Heritage-value-lies-in-its-engineering-system"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shushtar’s World Heritage value lies in its engineering system, not individual structures, official"
+      }
+    },
+    {
+      "id": "evt_291b581e",
+      "title": "伊朗战争旨在消除特朗普新世界秩序的障碍",
+      "summary": "伦敦--很明显， 2月份对伊朗战争开始时宣布的隐藏目标，即通过斩首领导人和制造压倒性的混乱来消灭政府，失败了。失败的原因是，伊朗是一个正在崛起的大国，在该地区承载着解放的火焰，并严重蔑视美国的霸权，没有其他国家敢这样做。",
+      "date": "2026-06-30T17:34:19Z",
+      "url": "https://www.tehrantimes.com/news/527784/The-Iran-war-was-intended-to-remove-obstacle-to-Trump-s-new-world",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527784/The-Iran-war-was-intended-to-remove-obstacle-to-Trump-s-new-world"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The Iran war was intended to remove obstacle to Trump’s new world order"
+      }
+    },
+    {
+      "id": "evt_1a05bf83",
+      "title": "加沙挫败煽动阴谋，再次效忠抵抗运动",
+      "summary": "德黑兰--被摧毁和被围困的加沙地带是一个贫穷的小领土，经历了两年多零八个月，是现代历史上最严重的人道主义危机之一。",
+      "date": "2026-06-30T17:32:50Z",
+      "url": "https://www.tehrantimes.com/news/527782/Gaza-thwarts-seditious-plot-renews-allegiance-to-resistance",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527782/Gaza-thwarts-seditious-plot-renews-allegiance-to-resistance"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza thwarts seditious plot, renews allegiance to resistance"
+      }
+    },
+    {
+      "id": "evt_4a8a46f5",
+      "title": "新的黎巴嫩框架背后隐藏着人口抹去、无休止战争的陷阱",
+      "summary": "德黑兰--6月26日，在美国“调解”下在华盛顿签署的文件在西方首都被誉为历史性突破，尽管它是旨在确保以色列无限期军事存在的不对称战争的粗略工具。",
+      "date": "2026-06-30T17:31:48Z",
+      "url": "https://www.tehrantimes.com/news/527785/Behind-the-new-Lebanon-framework-lies-the-trap-of-demographic",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527785/Behind-the-new-Lebanon-framework-lies-the-trap-of-demographic"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Behind the new Lebanon framework lies the trap of demographic erasure, endless war"
+      }
+    },
+    {
+      "id": "evt_3bef5a24",
+      "title": "制定霍尔木兹海峡的所有权规则",
+      "summary": "Sobh-e-No分析了伊朗和美国之间最近的交火。该地区现已进入低强度但持续紧张的新阶段。在这种情况下，恢复到以前的状况似乎不太可能。最有可能的情况是持续不稳定的停火，伴随着有限的冲突和相互的经济压力。",
+      "date": "2026-06-30T17:31:00Z",
+      "url": "https://www.tehrantimes.com/news/527793/Setting-the-rules-of-ownership-in-the-Strait-of-Hormuz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527793/Setting-the-rules-of-ownership-in-the-Strait-of-Hormuz"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Setting the rules of ownership in the Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_5089c6c6",
+      "title": "波斯湾美帝国的暮光之城",
+      "summary": "马德里--6月16日，美国总统与伊朗伊斯兰共和国签署了一份谅解备忘录。唐纳德·特朗普（ Donald Trump ）以凯旋主义的口吻来掩盖失败的严重程度，敦促世界各地的船只启动发动机，让石油再次流动。这段尾声以霍尔木兹海峡的重新开放和海上封锁的解除为标志，从经验上证实了美国在该地区的外交政策的结构性疲惫。",
+      "date": "2026-06-30T17:27:23Z",
+      "url": "https://www.tehrantimes.com/news/527792/The-twilight-of-American-empire-in-Persian-Gulf",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527792/The-twilight-of-American-empire-in-Persian-Gulf"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The twilight of American empire in Persian Gulf"
+      }
+    },
+    {
+      "id": "evt_4a27e089",
+      "title": "总统说，内部分裂将削弱国家实力",
+      "summary": "TEHRAN -伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）表示，内部分歧将削弱该国的国力并助长其对手，强调民族团结和凝聚力仍然是伊朗最大的战略资产。",
+      "date": "2026-06-30T17:23:48Z",
+      "url": "https://www.tehrantimes.com/news/527791/Internal-divisions-will-weaken-national-strength-president-says",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527791/Internal-divisions-will-weaken-national-strength-president-says"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Internal divisions will weaken national strength, president says"
+      }
+    },
+    {
+      "id": "evt_0419d634",
+      "title": "德黑兰剧院舞台上的Beyzai “Afra ，或白天通行证”",
+      "summary": "德黑兰--伊朗著名剧作家、戏剧导演和电影制片人巴赫拉姆·贝扎伊（ Bahram Beyzai ）撰写的戏剧《Afra ，或一天通行证》（ Afra, or the Day Passes ）在德黑兰德黑兰剧院的舞台上演出。",
+      "date": "2026-06-30T17:18:08Z",
+      "url": "https://www.tehrantimes.com/news/527765/Beyzai-s-Afra-or-the-Day-Passes-on-stage-at-Tehran-Theater",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527765/Beyzai-s-Afra-or-the-Day-Passes-on-stage-at-Tehran-Theater"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Beyzai’s “Afra, or the Day Passes” on stage at Tehran Theater"
+      }
+    },
+    {
+      "id": "evt_a7f20900",
+      "title": "两部伊朗短片将参加在北卡罗来纳州举行的第11届Full Bloom电影节",
+      "summary": "德黑兰--两部来自伊朗的短片将参加第11届盛开电影节，该电影节将于9月10日至12日在美国北卡罗来纳州举行。",
+      "date": "2026-06-30T17:17:19Z",
+      "url": "https://www.tehrantimes.com/news/527767/Two-Iranian-short-films-to-attend-11th-Full-Bloom-Film-Festival",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527767/Two-Iranian-short-films-to-attend-11th-Full-Bloom-Film-Festival"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Two Iranian short films to attend 11th Full Bloom Film Festival in North Carolina"
+      }
+    },
+    {
+      "id": "evt_fd16e224",
+      "title": "米纳布的艺术装置成为集体纪念的象征",
+      "summary": "TEHRAN -在Minab的Shajareh Tayyebeh小学发生悲剧之后，一项引人注目的艺术干预将受损遗址转变为对损失、记忆和复原力的强大视觉提醒。该装置被称为“红蝴蝶” ，由艺术局建筑中心在建筑师穆斯塔法·莫梅尼-拉德（ Mostafa Momeni-Rad ）的指导下构思和执行，旨在保持公众对受害者的关注，并确保悲剧不会消失。",
+      "date": "2026-06-30T17:16:47Z",
+      "url": "https://www.tehrantimes.com/news/527769/Art-installation-in-Minab-becomes-symbol-of-collective-remembrance",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527769/Art-installation-in-Minab-becomes-symbol-of-collective-remembrance"
         }
       ],
       "category": "diplomatic",
@@ -233,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Dennis Kelly’s “DNA” published in Persian"
+        "en": "Art installation in Minab becomes symbol of collective remembrance"
       }
     },
     {
-      "id": "evt_9f7324b1",
-      "title": "第20届Cinema Verite揭幕征集参赛作品",
-      "summary": "TEHRAN -纪录片和实验电影中心（ DEFC ）已正式公布第20届伊朗国际纪录片电影节“Cinema Verite”的参赛作品。",
-      "date": "2026-06-29T19:45:30Z",
-      "url": "https://www.tehrantimes.com/news/527734/20th-Cinema-Verite-unveils-call-for-entries",
+      "id": "evt_9d491b2c",
+      "title": "伊朗表示在美国尽其所能之前“不会达成最终协议”",
+      "summary": "德黑兰--伊朗外交部发言人Esmaeil Baghaei在周二的每周新闻发布会上宣布，伊朗人正在推迟恢复谈判，以达成最终协议--解决伊朗的安全和经济问题，以换取对其核计划的限制--直到美国完全支持使谈判成为可能的谅解备忘录（ MOU ）。",
+      "date": "2026-06-30T17:13:56Z",
+      "url": "https://www.tehrantimes.com/news/527783/Iran-says-no-final-deal-until-US-does-its-part",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527734/20th-Cinema-Verite-unveils-call-for-entries"
+          "url": "https://www.tehrantimes.com/news/527783/Iran-says-no-final-deal-until-US-does-its-part"
         }
       ],
       "category": "military",
@@ -261,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "20th Cinema Verite unveils call for entries"
+        "en": "Iran says 'no final deal' until US does its part"
       }
     },
     {
-      "id": "evt_b90d6954",
-      "title": "塔赫雷·马菲（ Tahereh Mafi ）的畅销小说《粉碎我》（ Shatter Me ）将被华纳兄弟改编成电影。",
-      "summary": "德黑兰--伊朗裔美国作家塔赫雷赫·马菲（ Tahereh Mafi ）透露，华纳兄弟（ Warner Bros. ）已经获得了她最畅销的年轻成人反乌托邦“Shatter Me”系列的电影版权，这是该系列接近15周年的一个重要里程碑。",
-      "date": "2026-06-29T19:44:46Z",
-      "url": "https://www.tehrantimes.com/news/527722/Tahereh-Mafi-s-bestselling-novel-Shatter-Me-to-be-adapted-into",
+      "id": "evt_d7dd8fe3",
+      "title": "国防部长誓言对美国任何违反停火的行为做出“果断”回应",
+      "summary": "德黑兰--伊朗代理国防部长警告说，该国武装部队仍处于战争状态，并将对任何违反当前停火的行为进行有力反击，因为美国似乎无法或不愿意完全履行其在6月中旬签署的《伊斯兰堡谅解备忘录》下的承诺。",
+      "date": "2026-06-30T17:09:43Z",
+      "url": "https://www.tehrantimes.com/news/527789/Defense-chief-vows-decisive-response-to-any-ceasefire-breach",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527722/Tahereh-Mafi-s-bestselling-novel-Shatter-Me-to-be-adapted-into"
+          "url": "https://www.tehrantimes.com/news/527789/Defense-chief-vows-decisive-response-to-any-ceasefire-breach"
         }
       ],
       "category": "military",
@@ -289,48 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Tahereh Mafi’s bestselling novel “Shatter Me” to be adapted into film by Warner Bros."
+        "en": "Defense chief vows ‘decisive’ response to any ceasefire breach by US"
       }
     },
     {
-      "id": "evt_e95004de",
-      "title": "「艺术帐篷」阿舒拉节聚会在德黑兰开幕",
-      "summary": "TEHRAN - “Kheimeh Honar” （ “艺术帐篷” ） Ashura聚会的第二版于周日在德黑兰的城市剧院大楼开始。",
-      "date": "2026-06-29T19:43:51Z",
-      "url": "https://www.tehrantimes.com/news/527732/Tent-of-Art-Ashura-gathering-opens-in-Tehran",
+      "id": "evt_dc25a794",
+      "title": "伊朗女学者对美国和以色列的战争罪行提出正式起诉",
+      "summary": "德黑兰--伊朗女学者联盟向国际法律机构、人权组织和学术机构发布了一封公开信，正式记录了美国和以色列在最近对伊朗的军事侵略期间犯下的系统性战争罪行。",
+      "date": "2026-06-30T17:04:13Z",
+      "url": "https://www.tehrantimes.com/news/527788/Iranian-woman-scholars-issue-formal-indictment-of-US-and-Israeli",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527732/Tent-of-Art-Ashura-gathering-opens-in-Tehran"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Tent of Art” Ashura gathering opens in Tehran"
-      }
-    },
-    {
-      "id": "evt_c665c4b1",
-      "title": "叙事能力和战略误判",
-      "summary": "TEHRAN-Foreign政策通常被描述为对物质现实的回应。在实践中，它通常是对解释现实的回应--一种由机构、专业网络和主导叙事塑造的过滤结构。在过去三十年里，这一点在西方对伊朗的政策中最为明显。",
-      "date": "2026-06-29T19:41:15Z",
-      "url": "https://www.tehrantimes.com/news/527757/Narrative-power-and-strategic-miscalculation",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527757/Narrative-power-and-strategic-miscalculation"
+          "url": "https://www.tehrantimes.com/news/527788/Iranian-woman-scholars-issue-formal-indictment-of-US-and-Israeli"
         }
       ],
       "category": "military",
@@ -345,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Narrative power and strategic miscalculation"
+        "en": "Iranian woman scholars issue formal indictment of US and Israeli war crimes"
       }
     },
     {
-      "id": "evt_14f40a04",
-      "title": "伊朗纪念在美以空袭中遇刺的“公共外交先驱”",
-      "summary": "德黑兰--周日，伊朗政治和文化精英齐聚一堂，为纪念烈士赛义德·卡迈勒·哈拉齐博士（ Dr. Seyed Kamal Kharrazi ）揭幕。哈拉齐博士于4月9日在美以空袭其德黑兰住所时遇刺身亡。",
-      "date": "2026-06-29T19:34:27Z",
-      "url": "https://www.tehrantimes.com/news/527756/Iran-honors-pioneer-of-public-diplomacy-assassinated-in-US-Israeli",
+      "id": "evt_9a7d58fb",
+      "title": "伊朗加强边境安全，伊斯兰革命卫队在西北部挫败恐怖组织",
+      "summary": "德黑兰--在拆除了西阿塞拜疆省的一个武装恐怖组织后，伊朗安全部队加强了沿该国西部和西北部边境的反恐行动。与此同时，高级军事官员强调，武装部队随时准备击退对该国的任何潜在地面威胁。",
+      "date": "2026-06-30T17:01:29Z",
+      "url": "https://www.tehrantimes.com/news/527787/Iran-bolsters-border-security-as-IRGC-thwarts-terrorist-cell",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527756/Iran-honors-pioneer-of-public-diplomacy-assassinated-in-US-Israeli"
+          "url": "https://www.tehrantimes.com/news/527787/Iran-bolsters-border-security-as-IRGC-thwarts-terrorist-cell"
         }
       ],
       "category": "military",
@@ -373,119 +485,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran honors ‘pioneer of public diplomacy’ assassinated in US-Israeli strike"
-      }
-    },
-    {
-      "id": "evt_c4722197",
-      "title": "Pezeshkian在库姆会见大阿亚图拉",
-      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）前往圣城库姆，与主要的什叶派神职人员举行了一系列会议，期间他讨论了政府的国内议程、地区发展和最新的外交成就，包括计划释放伊朗在卡塔尔持有的60亿美元被冻结资产$。",
-      "date": "2026-06-29T19:28:21Z",
-      "url": "https://www.tehrantimes.com/news/527755/Pezeshkian-meets-Grand-Ayatollahs-in-Qom",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527755/Pezeshkian-meets-Grand-Ayatollahs-in-Qom"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian meets Grand Ayatollahs in Qom"
-      }
-    },
-    {
-      "id": "evt_de3718d0",
-      "title": "伊朗在伊拉克访问期间呼吁建立“本土波斯湾安全框架”",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）重申，德黑兰愿意与波斯湾沿岸国家进行对话，以建立一个集体的区域安全机制，并强调任何未来的安全架构都应该是包容性的、本土的，并且不受区域外军事力量的参与。",
-      "date": "2026-06-29T19:24:15Z",
-      "url": "https://www.tehrantimes.com/news/527754/Iran-calls-for-Indigenous-Persian-Gulf-Security-Framework-during",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527754/Iran-calls-for-Indigenous-Persian-Gulf-Security-Framework-during"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran calls for 'Indigenous Persian Gulf Security Framework' during Iraq visit"
-      }
-    },
-    {
-      "id": "evt_88848eba",
-      "title": "随着主权推动的加强，伊朗和阿曼举行了第一次霍尔木兹委员会会谈",
-      "summary": "德黑兰-伊朗和阿曼召开了新成立的霍尔木兹海峡联合委员会的首次会议，会谈围绕着战略航道的长期管理。",
-      "date": "2026-06-29T19:21:40Z",
-      "url": "https://www.tehrantimes.com/news/527753/Iran-and-Oman-hold-first-Hormuz-committee-talks-as-sovereignty",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527753/Iran-and-Oman-hold-first-Hormuz-committee-talks-as-sovereignty"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran and Oman hold first Hormuz committee talks as sovereignty push intensifies"
-      }
-    },
-    {
-      "id": "evt_cdb92b90",
-      "title": "德黑兰要求美国在任何技术讨论开始之前遵守谅解备忘录",
-      "summary": "德黑兰--伊朗副外长周一驳斥了有关与华盛顿的技术工作组本周将在多哈举行的报道，指责美国在霍尔木兹海峡两天的小规模冲突中违反了伊斯兰堡谅解备忘录的关键条款，伊朗对此做出了决定性的回应。",
-      "date": "2026-06-29T19:19:12Z",
-      "url": "https://www.tehrantimes.com/news/527752/Tehran-demands-US-adherence-to-MoU-before-any-technical-discussions",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527752/Tehran-demands-US-adherence-to-MoU-before-any-technical-discussions"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran demands US adherence to MoU before any technical discussions begin"
+        "en": "Iran bolsters border security as IRGC thwarts terrorist cell in northwest"
       }
     },
     {
@@ -850,34 +850,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Dozens of ships head through Strait of Hormuz after US-Iran deal"
-      }
-    },
-    {
-      "id": "evt_e9371269",
-      "title": "联合国调查委员会称以色列蓄意以儿童为目标在加沙实施种族灭绝",
-      "summary": "以色列拒绝接受由三名成员组成的专家小组的新报告，称其为“诽谤骗局”。",
-      "date": "2026-06-23T11:10:06Z",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children"
       }
     },
     {
