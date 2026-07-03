@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-02T02:37:54.480109Z
+// 自动生成的数据 - 更新时间: 2026-07-03T02:12:48.284409Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-02T02:37:54.480050Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-07-03T02:12:48.284351Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 19,
+      "international": 17,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_ac575f6d",
-      "title": "伊朗战争现场：美国与德黑兰结束间接会谈取得“积极进展”",
-      "summary": "德黑兰表示，将与华盛顿建立“沟通渠道” ，以报告和讨论违反谅解备忘录的行为。",
-      "date": "2026-07-02T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
+      "id": "evt_1c872be1",
+      "title": "伊朗战争现场：德黑兰在阿里·哈梅内伊的大型葬礼前猛烈抨击美国",
+      "summary": "黎巴嫩卫生部表示，自3月以来，至少有4,298人在以色列的袭击中丧生， 12,196人受伤。",
+      "date": "2026-07-03T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks"
+        "en": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei"
       }
     },
     {
-      "id": "evt_e4492859",
-      "title": "伊朗足球队在世界杯退出后欢迎回家",
-      "summary": "伊朗足球队在世界杯结束后重返德黑兰",
-      "date": "2026-07-01T22:41:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss",
+      "id": "evt_f4cc28ca",
+      "title": "水能否成为伊斯兰堡和新德里之间的引爆点？",
+      "summary": "巴基斯坦就《印度河水条约》向印度发出了警告。",
+      "date": "2026-07-02T21:01:30Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -65,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran football team welcomed home after World Cup exit"
+        "en": "Could water become a flashpoint between Islamabad and New Delhi?"
       }
     },
     {
-      "id": "evt_54d5eb22",
-      "title": "美国与以色列签署1 $租约，在西耶路撒冷建立永久大使馆",
-      "summary": "美国和以色列签署了一项协议，为美国在西耶路撒冷的永久性大使馆分配土地。",
-      "date": "2026-07-01T21:09:15Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+      "id": "evt_ab361619",
+      "title": "叙利亚官方媒体称，大马士革咖啡馆的炸弹爆炸造成6人死亡",
+      "summary": "在正义宫附近的一家咖啡馆发生的爆炸事件没有立即提出索赔，正义宫是一座主要的政府大楼。",
+      "date": "2026-07-02T17:56:18Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
       },
       "languages": [
         "zh",
@@ -93,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem"
+        "en": "Bomb blast at Damascus cafe kills six, Syrian state media say"
       }
     },
     {
-      "id": "evt_9524ac8a",
-      "title": "伊朗将在卡塔尔会谈后与美国就谅解备忘录开通“沟通渠道”",
-      "summary": "伊朗外交部副部长加里巴巴迪表示， 60亿美元冻结资产的一部分将用于购买德黑兰需要的商品。",
-      "date": "2026-07-01T20:55:04Z",
-      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+      "id": "evt_2ea60421",
+      "title": "“她去世两周后，我接到了一个电话” ：加沙患者面临着令人痛苦的疏散延误",
+      "summary": "据加沙哈马斯管理的卫生部称，自停火开始以来，估计有300名在国外接受治疗的巴勒斯坦人死亡。",
+      "date": "2026-07-02T04:59:55Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
       },
       "languages": [
         "zh",
@@ -121,7 +121,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar"
+        "en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation"
       }
     },
     {
@@ -853,44 +853,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_cbc499d4",
-      "title": "联合国核总监表示，作为战争协议的一部分，视察员将访问伊朗现场",
-      "summary": "拉斐尔·格罗西（ Rafael Grossi ）表示，国际原子能机构正在“研究方式” ，但一位伊朗部长表示，这种准入只是与美国达成最终协议的一部分。",
-      "date": "2026-06-24T17:31:48Z",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_b8e47f7a",
+      "title": "数千人在美以对伊朗的战争中丧生-但专家表示，真实的总数可能永远不会知道",
+      "summary": "专家表示，互联网、媒体和政府的限制都阻碍了整个地区的伤亡报告。",
+      "date": "2026-06-19T05:33:59Z",
+      "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
-      }
-    },
-    {
-      "id": "evt_a24ed7b9",
-      "title": "当局称，以色列军队在战斗平静后在黎巴嫩南部杀死了两人",
-      "summary": "以色列军方表示，这两人是真主党特工，但伊朗支持的团体指责其违反停火协议。",
-      "date": "2026-06-23T16:47:45Z",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -905,35 +877,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say"
-      }
-    },
-    {
-      "id": "evt_b65901b0",
-      "title": "美国与伊朗达成协议后，数十艘船只驶过霍尔木兹海峡",
-      "summary": "自美国和伊朗签署旨在结束战争的协议以来，这条水道的交通量有所增加，仅周六就有42艘船只。",
-      "date": "2026-06-23T14:55:31Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Dozens of ships head through Strait of Hormuz after US-Iran deal"
+        "en": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known"
       }
     }
   ]
