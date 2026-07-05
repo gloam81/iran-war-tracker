@@ -1,35 +1,35 @@
-// 自动生成的数据 - 更新时间: 2026-07-04T02:11:15.523542Z
+// 自动生成的数据 - 更新时间: 2026-07-05T02:26:56.911555Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-04T02:11:15.523493Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-07-05T02:26:56.911497Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 17,
-      "iranian": 14,
+      "international": 19,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_8d53af57",
-      "title": "埃及教练在加沙庆祝之际将世界杯胜利献给巴勒斯坦",
-      "summary": "加沙的球迷们在被炸建筑物的背景下举行的比赛放映会上庆祝埃及的胜利。",
-      "date": "2026-07-04T00:20:08Z",
-      "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+      "id": "evt_2c2cffc5",
+      "title": "这名移民曾在美国军队服役。现在他面临被驱逐出境",
+      "summary": "贝尼托·米兰达·埃尔南德斯（ Benito Miranda Hernandez ）在伊拉克战争期间完成了三次巡回演出，但现在面临从美国",
+      "date": "2026-07-05T00:49:14Z",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -37,20 +37,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates"
+        "en": "This immigrant served in the US military. Now he faces deportation"
       }
     },
     {
-      "id": "evt_4c346ee2",
-      "title": "伊朗战争现场：预计将有数百万人在德黑兰参加阿里·哈梅内伊的葬礼",
-      "summary": "据民防部门称，以色列对加沙的袭击仍在继续，一名儿童在无人机袭击中丧生，另一名受伤。",
-      "date": "2026-07-04T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+      "id": "evt_1b08db8e",
+      "title": "伊朗战争现场：大量人群哀悼哈梅内伊，特朗普发誓要停火",
+      "summary": "今年2月，伊朗已故最高领袖阿里·哈梅内伊及其家人在美以空袭中丧生。",
+      "date": "2026-07-05T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire"
+      }
+    },
+    {
+      "id": "evt_588e5598",
+      "title": "哈梅内伊葬礼第二天，大批伊朗人抗拒热浪",
+      "summary": "伊朗已为其已故最高领袖阿里·哈梅内伊举行葬礼游行的第二天。",
+      "date": "2026-07-04T21:08:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral"
+      }
+    },
+    {
+      "id": "evt_5092f22e",
+      "title": "黎巴嫩的奥恩呼吁美国“始终站在他的国家身边”",
+      "summary": "奥恩在美国独立日的贺电中表示，他希望黎巴嫩能够“打开希望的新篇章”。",
+      "date": "2026-07-04T20:06:41Z",
+      "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country"
+      }
+    },
+    {
+      "id": "evt_a23b3d00",
+      "title": "伊朗消息人士称，美国向数十个国家施压，要求抵制德黑兰葬礼",
+      "summary": "德黑兰--一位伊朗高级官员透露，美国发起了一场广泛的运动，迫使各国远离伊朗殉难领导人的葬礼，因为近100个国家最终藐视华盛顿并派代表团前往德黑兰。",
+      "date": "2026-07-04T18:36:40Z",
+      "url": "https://www.tehrantimes.com/news/527887/US-pressured-dozens-of-countries-to-boycott-Tehran-funeral-Iranian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527887/US-pressured-dozens-of-countries-to-boycott-Tehran-funeral-Iranian"
         }
       ],
       "category": "military",
@@ -65,20 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei"
+        "en": "US pressured dozens of countries to boycott Tehran funeral, Iranian source says"
       }
     },
     {
-      "id": "evt_0dc48a55",
-      "title": "神圣防御工程保护基金会谴责西方对655航班周年纪念的沉默",
-      "summary": "TEHRAN -保护神圣国防工程和价值观基金会发表声明，纪念美国海军对伊朗655航班的野蛮袭击周年，谴责西方社会对暴行的持久沉默。",
-      "date": "2026-07-03T20:51:46Z",
-      "url": "https://www.tehrantimes.com/news/527841/Foundation-for-Sacred-Defense-works-preservation-condemns-Western",
+      "id": "evt_85dee602",
+      "title": "伊朗大学与意大利、塞浦路斯大学签署谅解备忘录",
+      "summary": "德黑兰– Khwarizmi大学与意大利的里雅斯特大学和塞浦路斯东地中海大学签署了谅解备忘录，以促进科学互动和国际合作。",
+      "date": "2026-07-04T18:29:47Z",
+      "url": "https://www.tehrantimes.com/news/527885/Iranian-university-inks-MOUs-with-Italian-Cypriot-universities",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527841/Foundation-for-Sacred-Defense-works-preservation-condemns-Western"
+          "url": "https://www.tehrantimes.com/news/527885/Iranian-university-inks-MOUs-with-Italian-Cypriot-universities"
         }
       ],
       "category": "military",
@@ -93,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Foundation for Sacred Defense works  preservation condemns Western silence on Flight 655 anniversary"
+        "en": "Iranian university inks MOUs with Italian, Cypriot universities"
       }
     },
     {
-      "id": "evt_603ab9f8",
-      "title": "伊朗电影系列在西班牙FICIMAD 2026上获得奖项",
-      "summary": "德黑兰--今年在马德里举办的国际电影节FICIMAD （ Festival Internacional de Cine Independiente de Madrid ，马德里国际电影节）的获奖者包括多部伊朗电影和剧集。",
-      "date": "2026-07-03T20:50:56Z",
-      "url": "https://www.tehrantimes.com/news/527845/Iranian-films-series-receive-awards-at-Spain-s-FICIMAD-2026",
+      "id": "evt_d557c814",
+      "title": "伊朗讨论发展与联合国、巴基斯坦、马尔代夫的环境关系",
+      "summary": "德黑兰--环境部（ DOE ）负责人在与联合国、马尔代夫和巴基斯坦官员分别举行的会议上，探讨了扩大环境部门合作的途径。",
+      "date": "2026-07-04T18:27:08Z",
+      "url": "https://www.tehrantimes.com/news/527884/Iran-discusses-developing-environmental-ties-with-UN-Pakistan",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527845/Iranian-films-series-receive-awards-at-Spain-s-FICIMAD-2026"
+          "url": "https://www.tehrantimes.com/news/527884/Iran-discusses-developing-environmental-ties-with-UN-Pakistan"
         }
       ],
       "category": "military",
@@ -121,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian films, series receive awards at Spain’s FICIMAD 2026"
+        "en": "Iran discusses developing environmental ties with UN, Pakistan, Maldives"
       }
     },
     {
-      "id": "evt_e3e10d3a",
-      "title": "德黑兰新壁画在告别仪式中向殉道领袖致敬",
-      "summary": "TEHRAN -与伊斯兰革命烈士领袖的最后告别和葬礼仪式相吻合，周四在Jomhouri和Valiasr大道的十字路口推出了一幅新的壁画，其特色是阿亚图拉Seyyed Ali Khamenei的形象。",
-      "date": "2026-07-03T20:50:11Z",
-      "url": "https://www.tehrantimes.com/news/527840/New-Tehran-mural-honors-Martyred-Leader-amidst-farewell-ceremonies",
+      "id": "evt_26d65565",
+      "title": "合作社，一种以人为本的企业形式，旨在实现社会正义",
+      "summary": "德黑兰-每年的7月4日是国际合作社日。2026年国际合作社日的主题是“合作社促进和平的世界” ，肯定了合作社企业对社会正义、包容和团结的贡献。",
+      "date": "2026-07-04T18:24:55Z",
+      "url": "https://www.tehrantimes.com/news/527883/Cooperatives-a-people-centered-form-of-enterprise-aiming-social",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527840/New-Tehran-mural-honors-Martyred-Leader-amidst-farewell-ceremonies"
+          "url": "https://www.tehrantimes.com/news/527883/Cooperatives-a-people-centered-form-of-enterprise-aiming-social"
         }
       ],
       "category": "diplomatic",
@@ -149,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "New Tehran mural honors Martyred Leader amidst farewell ceremonies"
+        "en": "Cooperatives, a people-centered form of enterprise aiming social justice"
       }
     },
     {
-      "id": "evt_f56c59b5",
-      "title": "成千上万的领袖在殉道现场哀悼",
-      "summary": "德黑兰--周四晚上，包括伊朗烈士家属在内的数千名哀悼者聚集在阿亚图拉赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）于2月28日在美国-以色列罢工中殉难的地点，在伊玛目霍梅尼·侯赛尼雅（ Khomeini Husseiniya ）旁边举行的情感告别仪式上。",
-      "date": "2026-07-03T20:42:39Z",
-      "url": "https://www.tehrantimes.com/news/527864/Thousands-mourn-Leader-at-site-of-his-martyrdom",
+      "id": "evt_74360505",
+      "title": "哀悼的人群高呼什么口号？",
+      "summary": "TEHRAN -伊朗伊斯兰革命烈士领袖阿亚图拉·赛义德·阿里·哈梅内伊的葬礼和告别仪式不仅仅是向政治或宗教人物告别的简单仪式。在这个场景中，悲伤、忠诚以及社会机构与系统领导层之间关系的重新定义同时展开。",
+      "date": "2026-07-04T17:57:36Z",
+      "url": "https://www.tehrantimes.com/news/527881/What-slogans-do-the-mourning-crowds-chant",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527864/Thousands-mourn-Leader-at-site-of-his-martyrdom"
+          "url": "https://www.tehrantimes.com/news/527881/What-slogans-do-the-mourning-crowds-chant"
         }
       ],
       "category": "military",
@@ -177,20 +261,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Thousands mourn Leader at site of his martyrdom"
+        "en": "What slogans do the mourning crowds chant?"
       }
     },
     {
-      "id": "evt_947ae047",
-      "title": "公民和官员在德黑兰葬礼上哀悼殉难领袖的女婿",
-      "summary": "德黑兰--周五下午，数十名哀悼者聚集在德黑兰，与烈士领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的女婿梅斯巴赫·胡达·巴盖里-卡尼（ Mesbah al-Hoda Bagheri-Kani ）告别。哈梅内伊于2月28日在美以空袭中与他一起遇难。",
-      "date": "2026-07-03T20:38:31Z",
-      "url": "https://www.tehrantimes.com/news/527863/Citizens-officials-mourn-son-in-law-of-martyred-Leader-at-Tehran",
+      "id": "evt_22c63bc1",
+      "title": "悲痛之河，决心之海：德黑兰向其殉难的领导人告别",
+      "summary": "德黑兰– “生活在我们留下的心中并不意味着死亡。“周六，当数百万人开始为殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyed Ali Khamenei ）举行告别仪式的第一天时，托马斯·坎贝尔（ Thomas Campbell ）的话在德黑兰的街道上悄然回响。然而，任何一句话都无法完全捕捉到这座城市的气氛，在这座城市里，悲伤和自豪并肩而行。",
+      "date": "2026-07-04T17:51:16Z",
+      "url": "https://www.tehrantimes.com/news/527879/A-River-of-Grief-An-Ocean-of-Resolve-Tehran-Bids-Farewell-to",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527863/Citizens-officials-mourn-son-in-law-of-martyred-Leader-at-Tehran"
+          "url": "https://www.tehrantimes.com/news/527879/A-River-of-Grief-An-Ocean-of-Resolve-Tehran-Bids-Farewell-to"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A River of Grief, An Ocean of Resolve: Tehran Bids Farewell to Its Martyred Leader"
+      }
+    },
+    {
+      "id": "evt_87622646",
+      "title": "伊朗向殉道者哈梅内伊告别",
+      "summary": "德黑兰--在数百万人聚集在一起告别伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）之际，伊朗正在哀悼。哈梅内伊于2月28日在美以联合侵略该国的第一天被暗杀。",
+      "date": "2026-07-04T17:50:26Z",
+      "url": "https://www.tehrantimes.com/news/527867/Iran-bids-farewell-to-Martyr-Ayatollah-Khamenei",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527867/Iran-bids-farewell-to-Martyr-Ayatollah-Khamenei"
         }
       ],
       "category": "military",
@@ -205,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Citizens, officials mourn son-in-law of martyred Leader at Tehran funeral"
+        "en": "Iran bids farewell to Martyr Ayatollah Khamenei"
       }
     },
     {
-      "id": "evt_aaccfe6c",
-      "title": "卡利巴夫将葬礼外交转变为地区参与的平台",
-      "summary": "德黑兰--殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的葬礼已经不仅仅是一个全国哀悼的时刻。他们还为伊朗提供了一个重要的外交机会，来自亚洲和中东的高级官员和高级别代表团聚集在德黑兰，就地区安全、战后外交和战略合作进行了一系列会谈。",
-      "date": "2026-07-03T20:33:40Z",
-      "url": "https://www.tehrantimes.com/news/527862/Qalibaf-turns-funeral-diplomacy-into-a-platform-for-regional",
+      "id": "evt_5ae2ee10",
+      "title": "领袖葬礼上的外国哀悼者： “我们失去了父亲”",
+      "summary": "德黑兰--数百万伊朗人涌上街头参加伊斯兰革命烈士阿亚图拉·赛义德·阿里·哈梅内伊（ Seyyed Ali Khamenei ）的葬礼，来自世界各地的外国政要、记者和普通游客加入了哀悼行列，称这位已故领导人是被压迫者的父亲形象，也是抵抗西方统治的象征。",
+      "date": "2026-07-04T17:48:15Z",
+      "url": "https://www.tehrantimes.com/news/527876/Foreign-mourners-at-Leader-s-funeral-We-lost-our-father",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527862/Qalibaf-turns-funeral-diplomacy-into-a-platform-for-regional"
+          "url": "https://www.tehrantimes.com/news/527876/Foreign-mourners-at-Leader-s-funeral-We-lost-our-father"
         }
       ],
       "category": "military",
@@ -233,20 +345,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qalibaf turns funeral diplomacy into a platform for regional engagement"
+        "en": "Foreign mourners at Leader's funeral: 'We lost our father'"
       }
     },
     {
-      "id": "evt_5f5bbcef",
-      "title": "Pezeshkian在与世界领导人会谈时发誓伊朗“不会向任何欺凌者屈服”",
-      "summary": "德黑兰--周四，总统马苏德·佩泽什基安（ Masoud Pezeshkian ）与前往德黑兰参加2月28日美以空袭中牺牲的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）葬礼的外国领导人和官员举行了一系列会议。来自近100个国家的代表出席了会议， Pezeshkian利用这些聚会感谢伊朗的盟友的团结，并重申伊朗在面对外国侵略时不会动摇。",
-      "date": "2026-07-03T20:25:42Z",
-      "url": "https://www.tehrantimes.com/news/527861/Pezeshkian-in-talks-with-world-leaders-vows-Iran-will-not",
+      "id": "evt_9dc572cf",
+      "title": "谦卑和正义：从出生到最后一口气",
+      "summary": "温哥华--当我泪流满面地看着伊朗殉道领袖、已故阿亚图拉赛义德·阿里·哈梅内伊的现场葬礼游行时，我写下了这些话。像无数的海外伊朗人一样，我希望我能站在聚集在一起向他告别的数百万人中间。距离可能会让我远离葬礼，但它无法平息我的悲伤，我的尊重，或者我对他的反帝国抵抗和捍卫伊朗主权和独立的正义道路的忠诚。这些是我",
+      "date": "2026-07-04T17:46:55Z",
+      "url": "https://www.tehrantimes.com/news/527875/Farewell-to-the-martyred-Leader-of-Iran-Ayatollah-Ali-Khamenei",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527861/Pezeshkian-in-talks-with-world-leaders-vows-Iran-will-not"
+          "url": "https://www.tehrantimes.com/news/527875/Farewell-to-the-martyred-Leader-of-Iran-Ayatollah-Ali-Khamenei"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Humble and righteous: From birth to final breath"
+      }
+    },
+    {
+      "id": "evt_afbb010d",
+      "title": "哈梅内伊殉难者外交政策愿景的遗产",
+      "summary": "德黑兰--在历史的关键时刻，国家往往由塑造国家未来的领导人来定义。从这个角度来看，已故的烈士阿亚图拉赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）试图将伊朗伊斯兰共和国的外交政策建立在国家认同、独立和维护国家尊严的原则之上。在这个框架内，外交不仅被视为管理与其他国家关系的工具，而且被视为维护国家荣誉和利益的手段。",
+      "date": "2026-07-04T17:34:58Z",
+      "url": "https://www.tehrantimes.com/news/527873/Legacy-of-martyred-Khamenei-s-foreign-policy-vision",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527873/Legacy-of-martyred-Khamenei-s-foreign-policy-vision"
         }
       ],
       "category": "military",
@@ -261,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pezeshkian, in talks with world leaders, vows Iran 'will not bow to any bully'"
+        "en": "Legacy of martyred Khamenei's foreign policy vision"
       }
     },
     {
-      "id": "evt_398c7e14",
-      "title": "伊朗告诉联合国，美国的侵略，而不是伊朗的行动，是对和平的威胁",
-      "summary": "德黑兰--伊朗驻联合国大使周四驳斥了美国对伊朗的指责，称其为“毫无根据”和“虚假信息” ，坚称德黑兰对美国罢工的军事反应是联合国宪章规定的合法自卫行为。",
-      "date": "2026-07-03T20:12:27Z",
-      "url": "https://www.tehrantimes.com/news/527859/Iran-tells-UN-that-US-aggression-not-Iranian-action-is-threat",
+      "id": "evt_b0b4ea63",
+      "title": "在历史性的告别之前，伊拉克屏住呼吸",
+      "summary": "德黑兰--伊拉克正在为近期历史上规模最大的公众集会做准备，数百万人正准备向殉难的伊朗伊斯兰革命领袖伊玛目阿里·哈梅内伊告别。",
+      "date": "2026-07-04T17:31:48Z",
+      "url": "https://www.tehrantimes.com/news/527880/Iraq-holds-its-breath-ahead-of-a-historic-farewell",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527859/Iran-tells-UN-that-US-aggression-not-Iranian-action-is-threat"
+          "url": "https://www.tehrantimes.com/news/527880/Iraq-holds-its-breath-ahead-of-a-historic-farewell"
         }
       ],
       "category": "military",
@@ -289,20 +429,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran tells UN that US aggression, not Iranian action, is threat to peace"
+        "en": "Iraq holds its breath ahead of a historic farewell"
       }
     },
     {
-      "id": "evt_46687018",
-      "title": "伊朗开始公开哀悼2月遇害的阿亚图拉",
-      "summary": "阿里·哈梅内伊（ Ali Khamenei ）的遗体将于周五在德黑兰的大莫萨拉（ Grand Mosalla ）举行长达数天的葬礼活动。",
-      "date": "2026-07-03T19:03:45Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "id": "evt_1bb40d41",
+      "title": "哀悼的城市，有秩序的告别",
+      "summary": "德黑兰--周六，德黑兰的Mosalla向殉难的领导人阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）敞开了大门，这是为期两天的公开告别的第一天。阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在最近的美以侵略伊朗期间与家人一起在星期一的葬礼游行之前，成千上万的哀悼者聚集在一起表示敬意。",
+      "date": "2026-07-04T17:26:25Z",
+      "url": "https://www.tehrantimes.com/news/527865/A-city-in-mourning-a-farewell-in-order",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527865/A-city-in-mourning-a-farewell-in-order"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A city in mourning, a farewell in order"
+      }
+    },
+    {
+      "id": "evt_350e44fd",
+      "title": "在IRIB播出纪念殉难领袖的新电视剧",
+      "summary": "TEHRAN -根据伊斯兰革命烈士领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的生平和遗产，在已故领导人的葬礼和告别仪式上， IRIB第1频道播放了一系列名为“Didar-e Mah” （ “月球会议” ）的特别电视剧。",
+      "date": "2026-07-04T17:22:21Z",
+      "url": "https://www.tehrantimes.com/news/527843/New-TV-series-commemorating-Martyred-Leader-aired-on-IRIB",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527843/New-TV-series-commemorating-Martyred-Leader-aired-on-IRIB"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New TV series commemorating Martyred Leader aired on IRIB"
+      }
+    },
+    {
+      "id": "evt_dbb495cb",
+      "title": "英国广播公司在德黑兰哀悼者聚集在一起参加前最高领导人的葬礼",
+      "summary": "伊朗当局表示，他们预计将有数百万人参加阿亚图拉阿里·哈梅内伊的葬礼纪念活动。",
+      "date": "2026-07-04T16:49:36Z",
+      "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -317,20 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran begins public mourning for Ayatollah killed in February"
+        "en": "BBC in Tehran as mourners gather for former supreme leader's funeral"
       }
     },
     {
-      "id": "evt_b878d50c",
-      "title": "伊朗、土耳其强调区域安全合作",
-      "summary": "德黑兰--伊朗和土耳其的高级国防官员在高级别电话交谈中强调了加强地区安全合作和扩大双边防务关系的重要性，该交谈侧重于地区安全形势、停火协议的实施以及地区大国之间加强协调的必要性。",
-      "date": "2026-07-03T18:17:13Z",
-      "url": "https://www.tehrantimes.com/news/527858/Iran-Turkey-emphasize-regional-security-cooperation",
+      "id": "evt_b13e222d",
+      "title": "在阿亚图拉·哈梅内伊（ Ayatollah Khamenei ）葬礼的第一天，大批人群聚集在德黑兰",
+      "summary": "阿里·哈梅内伊（ Ali Khamenei ）的尸体将留在德黑兰的大莫萨拉（ Grand Mosalla ） ，直到周一，然后穿越伊朗和伊拉克。",
+      "date": "2026-07-04T09:45:55Z",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527858/Iran-Turkey-emphasize-regional-security-cooperation"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -345,147 +541,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran, Turkey emphasize regional security cooperation"
-      }
-    },
-    {
-      "id": "evt_168f4646",
-      "title": "向殉难的领导人阿亚图拉·哈梅内伊致敬",
-      "summary": "德黑兰--人们常常通过国家陷入沉默的时刻来铭记历史。",
-      "date": "2026-07-03T17:55:49Z",
-      "url": "https://www.tehrantimes.com/news/527857/Global-tribute-to-martyred-Leader-Ayatollah-Khamenei",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527857/Global-tribute-to-martyred-Leader-Ayatollah-Khamenei"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Global tribute to martyred Leader Ayatollah Khamenei"
-      }
-    },
-    {
-      "id": "evt_10c0300a",
-      "title": "伊朗在2026年AVC女子U18排球锦标赛上连续三场失利",
-      "summary": "德黑兰–伊朗在2026年AVC女子U18排球锦标赛上连续三场失利，该锦标赛目前正在泰国呵叻府举行。",
-      "date": "2026-07-03T15:54:21Z",
-      "url": "https://www.tehrantimes.com/news/527856/Iran-suffer-three-straight-defeats-at-2026-AVC-Girls-U18-Volleyball",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527856/Iran-suffer-three-straight-defeats-at-2026-AVC-Girls-U18-Volleyball"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran suffer three straight defeats at 2026 AVC Girls' U18 Volleyball Championship"
-      }
-    },
-    {
-      "id": "evt_8efb53b2",
-      "title": "握紧的拳头和阻力的几何融合",
-      "summary": "德黑兰--7月3日，尸体躺在德黑兰的伊玛目霍梅尼大摩萨拉（ Imam Khomeini Grand Mosalla ） ；另一个奇观是人们向他们致敬。",
-      "date": "2026-07-03T15:38:10Z",
-      "url": "https://www.tehrantimes.com/news/527855/The-clenched-fist-and-the-geometric-fusion-of-Resistance",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527855/The-clenched-fist-and-the-geometric-fusion-of-Resistance"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The clenched fist and the geometric fusion of Resistance"
-      }
-    },
-    {
-      "id": "evt_a45f77c3",
-      "title": "伊朗烈士领袖眼中的波斯波利斯",
-      "summary": "德黑兰--在伊朗准备告别其殉难的领导人阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）之际，反映他对该国文化认同愿景的决定性时刻之一再次成为人们关注的焦点：他于1988年对联合国教科文组织列名的波斯波利斯进行了历史性访问，在那里他将这个古老的遗址描述为必须为子孙后代保护的“宝藏”。",
-      "date": "2026-07-03T14:59:15Z",
-      "url": "https://www.tehrantimes.com/subject/527851/Persepolis-through-the-eyes-of-Iran-s-martyred-leader",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/subject/527851/Persepolis-through-the-eyes-of-Iran-s-martyred-leader"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Persepolis through the eyes of Iran’s martyred leader"
-      }
-    },
-    {
-      "id": "evt_810dc93a",
-      "title": "研究人员强调了伊斯法罕在Ta 'zieh遗产中的持久作用",
-      "summary": "德黑兰--伊朗研究员兼塔齐耶学者埃斯梅尔·莫贾拉利（ Esmaeil Mojallali ）表示，伊朗的塔齐耶仪式戏剧艺术继续在全国蓬勃发展，伊斯法罕中部省份被广泛认为是该国数百年传统的主要中心。",
-      "date": "2026-07-03T14:58:48Z",
-      "url": "https://www.tehrantimes.com/news/527853/Researcher-highlights-Isfahan-s-enduring-role-in-Ta-zieh-heritage",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527853/Researcher-highlights-Isfahan-s-enduring-role-in-Ta-zieh-heritage"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Researcher highlights Isfahan's enduring role in Ta’zieh heritage"
+        "en": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral"
       }
     },
     {
@@ -850,34 +906,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Rainbow flags await Egypt and Iran at awkward Pride Match"
-      }
-    },
-    {
-      "id": "evt_a950815a",
-      "title": "TikTok网红被指控犯有迪拜谋杀罪",
-      "summary": "来自肯特郡的23岁网红布鲁克·乔治（ Brooke George ）声称，她在刺伤伴侣时采取了自卫行动。",
-      "date": "2026-06-25T11:58:44Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "TikTok influencer charged with Dubai murder"
       }
     }
   ]
