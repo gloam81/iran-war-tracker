@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-07-09T02:13:38.355977Z
+// 自动生成的数据 - 更新时间: 2026-07-10T02:13:15.939442Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-09T02:13:38.355931Z",
+    "lastUpdate": "2026-07-10T02:13:15.939381Z",
     "totalEvents": 33,
     "sources": {
       "international": 19,
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_b6af3cb4",
-      "title": "德黑兰发布显示已故伊朗领导人大院废墟的镜头",
-      "summary": "伊朗国家媒体发布了所谓的第一段镜头，显示已故的哈梅内伊大院遭到破坏。",
-      "date": "2026-07-09T00:15:49Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss",
+      "id": "evt_148db603",
+      "title": "英国首相可能表示将努力“停止加沙的苦难”",
+      "summary": "安迪·伯纳姆（ Andy Burnham ）在社交媒体上为工党对以色列袭击加沙的初步立场道歉。",
+      "date": "2026-07-10T00:32:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_iran-video-of-the-ruins-of-khameneis-compound-080726?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Tehran releases footage showing ruins of late Iranian leader’s compound"
+        "en": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza"
       }
     },
     {
-      "id": "evt_f9b426aa",
-      "title": "卡尔巴拉哈梅内伊的棺材在马什哈德埋葬前的最后一站",
-      "summary": "数百万人聚集在伊拉克圣城卡尔巴拉，在伊朗已故最高领导人的葬礼上致敬。",
-      "date": "2026-07-09T00:14:20Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/khameneis-coffin-in-karbala-on-last-stop-before-burial-in-mashhad?traffic_source=rss",
+      "id": "evt_72d1ba4d",
+      "title": "伊朗战争现场：美国称谈判仍在进行中，对伊朗发动新的袭击",
+      "summary": "华盛顿官员表示，美国并不支持最近的袭击，与伊朗的技术谈判仍在继续。",
+      "date": "2026-07-10T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/khameneis-coffin-in-karbala-on-last-stop-before-burial-in-mashhad?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Khamenei’s coffin in Karbala on last stop before burial in Mashhad"
-      }
-    },
-    {
-      "id": "evt_850d316d",
-      "title": "伊朗战争现场：美国对伊朗发动致命袭击后巴林和科威特的警笛声",
-      "summary": "美国的袭击在伊朗沙赫尔市造成至少一人死亡，并在恰巴哈尔造成大面积停电。",
-      "date": "2026-07-09T00:00:06Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,160 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Sirens in Bahrain, Kuwait after deadly US attacks on Iran"
+        "en": "Iran war live: New attacks on Iran as US says talks still on"
       }
     },
     {
-      "id": "evt_0cc5760c",
-      "title": "在特朗普表示他将“严厉打击他们”之后，美国扩大了对伊朗的军事打击",
-      "summary": "美军在指责德黑兰破坏谅解备忘录以结束战争后，扩大了对伊朗的军事打击。",
-      "date": "2026-07-08T22:52:48Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
+      "id": "evt_73841068",
+      "title": "马什哈德的巨大人群，因为伊朗已故的最高领导人被埋葬",
+      "summary": "阿里·哈梅内伊（ Ali Khamenei ）被埋葬在伊朗最神圣的什叶派穆斯林圣地伊玛目礼萨神殿（ Imam Reza shrine ） ，结束了为期六天的公开哀悼仪式。",
+      "date": "2026-07-09T23:18:18Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Huge crowds in Mashhad as Iran's late supreme leader is buried"
+      }
+    },
+    {
+      "id": "evt_6a6a4b6e",
+      "title": "叙利亚称被捕的大马士革爆炸案嫌疑人隶属于伊斯兰国",
+      "summary": "本周早些时候，法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）访问叙利亚首都时发生了两起爆炸事件。",
+      "date": "2026-07-09T21:39:54Z",
+      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Syria says captured Damascus bombing suspects are affiliated with ISIL"
+      }
+    },
+    {
+      "id": "evt_9772cb73",
+      "title": "霍尔木兹海峡争端如何导致最新的美伊战斗循环",
+      "summary": "分析师表示，对霍尔木兹的模糊谅解备忘录语言的冲突解释是升级的核心。",
+      "date": "2026-07-09T21:38:48Z",
+      "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting"
+      }
+    },
+    {
+      "id": "evt_ba6aad39",
+      "title": "在伊朗听到爆炸声后，美国军方否认参与",
+      "summary": "伊朗媒体报道称，由于以色列官员称战争“尚未结束” ，几个地点发生了大声爆炸。",
+      "date": "2026-07-09T21:14:30Z",
+      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US military denies involvement after explosions heard in Iran"
+      }
+    },
+    {
+      "id": "evt_c05be05a",
+      "title": "巴勒斯坦人哀悼加沙世界杯放映组织者在以色列罢工中丧生",
+      "summary": "在以色列-哈马斯战争期间，援助工作者穆罕默德·瓦希迪（ Mohammed al-Wahidi ）已成为一位杰出的人道主义人士。",
+      "date": "2026-07-09T21:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike"
+      }
+    },
+    {
+      "id": "evt_dd018e32",
+      "title": "数百万人淹没马什哈德，伊朗殉难的领导人被安葬在圣伊玛目礼萨神殿",
+      "summary": "德黑兰--殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在东北部城市马什哈德（ Mashhad ）的伊玛目礼萨（ Imam Reza ）圣殿安息，这标志着前所未有的多元告别之旅的最后、深刻的情感篇章。",
+      "date": "2026-07-09T21:00:45Z",
+      "url": "https://www.tehrantimes.com/news/527997/Millions-flood-Mashhad-as-Iran-s-martyred-Leader-is-laid-to-rest",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527997/Millions-flood-Mashhad-as-Iran-s-martyred-Leader-is-laid-to-rest"
         }
       ],
       "category": "military",
@@ -121,7 +233,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’"
+        "en": "Millions flood Mashhad as Iran’s martyred Leader is laid to rest at Holy Imam Reza Shrine"
+      }
+    },
+    {
+      "id": "evt_de5b5b7e",
+      "title": "在圣伊玛目礼萨神殿殉难的领袖葬礼之前，数百万人淹没马什哈德",
+      "summary": "德黑兰--数百万虔诚的哀悼者涌入东北部城市马什哈德的街道，向殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在圣伊玛目礼萨神殿（ Holy Imam Reza Shrine ）举行葬礼之前的历史性告别。",
+      "date": "2026-07-09T15:40:04Z",
+      "url": "https://www.tehrantimes.com/news/527996/Millions-flood-Mashhad-ahead-of-martyred-Leader-s-burial-at-Holy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/527996/Millions-flood-Mashhad-ahead-of-martyred-Leader-s-burial-at-Holy"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Millions flood Mashhad ahead of martyred Leader's burial at Holy Imam Reza Shrine"
+      }
+    },
+    {
+      "id": "evt_a70bb9fe",
+      "title": "特朗普威胁要对伊朗发动更多打击，因为德黑兰警告“无所畏惧”的反应",
+      "summary": "奥巴马在北约峰会上表示，美国“可能会”再次打击伊朗，但他补充说， “任何发生的事情都会很快结束”。",
+      "date": "2026-07-08T18:05:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response"
       }
     },
     {
@@ -154,7 +322,7 @@ const siteData = {
     },
     {
       "id": "evt_6befc3fe",
-      "title": "Iranian artist blends graphic design and calligraphy to create Martyr Leader’s portrait",
+      "title": "伊朗艺术家将平面设计和书法融为一体，创作烈士领袖肖像",
       "summary": "德黑兰--伊朗书法家和印刷术家阿里·米纳伊-法尔德（ Ali Minaei-Fard ）创作了一幅伊斯兰革命烈士领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyed Ali Khamenei ）的肖像画，旨在通过书法和图像的融合来展示他失去的悲伤和他性格的宏伟。",
       "date": "2026-07-08T18:04:45Z",
       "url": "https://www.tehrantimes.com/news/527983/Iranian-artist-blends-graphic-design-and-calligraphy-to-create",
@@ -461,34 +629,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_d0d4060f",
-      "title": "复兴党遗产的历史性逆转在美索不达米亚的阳光下展开",
-      "summary": "德黑兰—当披着伊朗国旗的玻璃封闭棺材进入纳杰夫时，它正乘着一股人类潮流，粉碎了数十年的地缘政治假设。",
-      "date": "2026-07-08T15:58:55Z",
-      "url": "https://www.tehrantimes.com/news/527985/A-historic-reversal-of-the-Ba-athist-legacy-unfolds-under-the",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527985/A-historic-reversal-of-the-Ba-athist-legacy-unfolds-under-the"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A historic reversal of the Ba'athist legacy unfolds under the Mesopotamian sun"
-      }
-    },
-    {
       "id": "evt_5b039a51",
       "title": "鲍恩：尽管特朗普大肆咆哮，但他没有比与伊朗谈判更好的选择了",
       "summary": "英国广播公司国际编辑杰里米·鲍恩（ Jeremy Bowen ）写道，谈判进程是脆弱的，最近的美国罢工表明达成协议将是多么困难。",
@@ -542,34 +682,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq"
-      }
-    },
-    {
-      "id": "evt_a643a404",
-      "title": "爆炸损坏后，在联合国教科文组织名单上的Chehel Sotoun开始修复",
-      "summary": "德黑兰--伊斯法罕被联合国教科文组织列为世界遗产的谢赫尔·索通（ Chehel Sotoun ）遗址主任周三表示，该遗址在最近与美国-以色列政权的战争期间遭受爆炸破坏后，其受损部分的修复工作已经开始。",
-      "date": "2026-07-08T14:20:56Z",
-      "url": "https://www.tehrantimes.com/news/527981/Restoration-begins-at-UNESCO-listed-Chehel-Sotoun-after-blast",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527981/Restoration-begins-at-UNESCO-listed-Chehel-Sotoun-after-blast"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Restoration begins at UNESCO-listed Chehel Sotoun after blast damage"
       }
     },
     {
@@ -822,118 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran's supreme leader absent as senior officials attend ayatollah's funeral"
-      }
-    },
-    {
-      "id": "evt_8739b66e",
-      "title": "观看： Lyse Doucet在德黑兰前最高领导人葬礼上的情感和政治",
-      "summary": "英国广播公司首席国际记者在德黑兰报道了为纪念伊朗前领导人阿亚图拉·阿里·哈梅内伊而举行的葬礼活动。",
-      "date": "2026-07-05T17:54:47Z",
-      "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader"
-      }
-    },
-    {
-      "id": "evt_fba73f34",
-      "title": "在发布受限制的卫星图像后披露伊朗核和军事损害",
-      "summary": "命中的目标包括弹道导弹基础设施、核设施和海军基地。",
-      "date": "2026-07-03T11:02:55Z",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran nuclear and military damage revealed after restricted satellite images released"
-      }
-    },
-    {
-      "id": "evt_ab361619",
-      "title": "叙利亚官方媒体称，大马士革咖啡馆的炸弹爆炸造成9人死亡",
-      "summary": "在正义宫附近的一家咖啡馆发生的爆炸事件没有立即提出索赔，正义宫是一座主要的政府大楼。",
-      "date": "2026-07-03T06:42:14Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bomb blast at Damascus cafe kills nine, Syrian state media say"
-      }
-    },
-    {
-      "id": "evt_ae5ac101",
-      "title": "叙利亚总统提名最后70名议员参加后阿萨德时代的新议会",
-      "summary": "在去年10月地区选举团仅选出6名女性候选人后，任命了15名女性。",
-      "date": "2026-07-01T16:44:58Z",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria's president names final 70 lawmakers to new post-Assad parliament"
       }
     }
   ]
