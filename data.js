@@ -1,56 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-07-10T02:13:15.939442Z
+// 自动生成的数据 - 更新时间: 2026-07-11T01:58:59.372735Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-10T02:13:15.939381Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-07-11T01:58:59.372665Z",
+    "totalEvents": 29,
     "sources": {
-      "international": 19,
-      "iranian": 14,
+      "international": 16,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_148db603",
-      "title": "英国首相可能表示将努力“停止加沙的苦难”",
-      "summary": "安迪·伯纳姆（ Andy Burnham ）在社交媒体上为工党对以色列袭击加沙的初步立场道歉。",
-      "date": "2026-07-10T00:32:26Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
+      "id": "evt_725aa497",
+      "title": "伊朗战争现场：美国要求伊朗公开宣布霍尔木兹海峡对所有人开放",
+      "summary": "据称，美国正在推动公开声明伊朗不会向通过霍尔木兹海峡的商船开火",
+      "date": "2026-07-11T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza"
-      }
-    },
-    {
-      "id": "evt_72d1ba4d",
-      "title": "伊朗战争现场：美国称谈判仍在进行中，对伊朗发动新的袭击",
-      "summary": "华盛顿官员表示，美国并不支持最近的袭击，与伊朗的技术谈判仍在继续。",
-      "date": "2026-07-10T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +37,399 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: New attacks on Iran as US says talks still on"
+        "en": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all"
+      }
+    },
+    {
+      "id": "evt_a46d539b",
+      "title": "被以色列罢工摧毁的黎巴嫩历史遗迹",
+      "summary": "以色列对黎巴嫩南部的空袭造成了灾难性的破坏，破坏了历史地标。",
+      "date": "2026-07-10T20:33:08Z",
+      "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon historic sites destroyed by Israeli strikes"
+      }
+    },
+    {
+      "id": "evt_91c91b33",
+      "title": "“复仇”和复原力主导了殉道领袖仪式的报道",
+      "summary": "德黑兰--7月9日，殉难的伊斯兰革命领袖阿亚图拉赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在马什哈德（ Mashhad ）的伊玛目礼萨（ Imam Reza ，简称AS ）圣地安息时，外国新闻机构已经花了整整一周的时间来报道他们公司编辑从未预料到的惊人现实。",
+      "date": "2026-07-10T17:23:42Z",
+      "url": "https://www.tehrantimes.com/news/528034/Revenge-and-resilience-dominate-coverage-of-martyred-Leader-s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528034/Revenge-and-resilience-dominate-coverage-of-martyred-Leader-s"
+        }
+      ],
+      "category": "humanitarian",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Revenge’ and resilience dominate coverage of martyred Leader’s rites"
+      }
+    },
+    {
+      "id": "evt_9814d818",
+      "title": "跨越各大洲的哀悼者无视压迫和距离，向殉难的哈梅内伊告别",
+      "summary": "德黑兰--周四，作为殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的遗体，安葬在马什哈德的伊玛目礼萨（ Imam Reza ）神圣圣殿中，一股深深的悲痛和坚定不移的忠诚席卷全球。",
+      "date": "2026-07-10T17:13:07Z",
+      "url": "https://www.tehrantimes.com/news/528033/Defying-repression-and-distance-mourners-across-continents-bid",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528033/Defying-repression-and-distance-mourners-across-continents-bid"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Defying repression and distance, mourners across continents bid farewell to martyred Khamenei"
+      }
+    },
+    {
+      "id": "evt_f94d56cc",
+      "title": "德黑兰的艺术画廊",
+      "summary": "阿达帕画廊（ Adapa Gallery ）的展览中展出了穆罕默德·哈利利的绘画作品集。 \n展览名为“最深处之下” ，将于7月28日在位于Vali-e Asr广场Sazesh街Sumesara巷5号的画廊举行。",
+      "date": "2026-07-10T16:59:53Z",
+      "url": "https://www.tehrantimes.com/news/528002/What-s-in-Tehran-art-galleries",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528002/What-s-in-Tehran-art-galleries"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What’s in Tehran art galleries"
+      }
+    },
+    {
+      "id": "evt_a9b6900f",
+      "title": "关于烈士领袖的“关怀父亲”的俄语翻译在喀山揭幕",
+      "summary": "德黑兰--在俄罗斯鞑靼斯坦共和国首都喀山举行的仪式上揭幕了《关怀父亲》一书的俄文译本，该书讲述了伊斯兰革命烈士阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的生平和行为。",
+      "date": "2026-07-10T16:58:49Z",
+      "url": "https://www.tehrantimes.com/news/528001/Russian-translation-of-Caring-Father-about-Martyr-Leader-unveiled",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528001/Russian-translation-of-Caring-Father-about-Martyr-Leader-unveiled"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Russian translation of “Caring Father” about Martyr Leader unveiled in Kazan"
+      }
+    },
+    {
+      "id": "evt_6d8bf124",
+      "title": "新壁画在德黑兰揭幕，国家向殉难的领导人致以最后的告别",
+      "summary": "TEHRAN-周五，一幅新的壁画在德黑兰的Valiasr广场揭幕，标志着该国告别殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊的最后阶段。",
+      "date": "2026-07-10T16:57:26Z",
+      "url": "https://www.tehrantimes.com/news/528003/New-mural-unveiled-in-Tehran-as-nation-bids-final-farewell-to",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528003/New-mural-unveiled-in-Tehran-as-nation-bids-final-farewell-to"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New mural unveiled in Tehran as nation bids final farewell to martyred Leader"
+      }
+    },
+    {
+      "id": "evt_b8c2ccf0",
+      "title": "美国不可信",
+      "summary": "Kayhan在分析对美国的不信任以及对其一再违规行为的适当回应时写道：伊朗与美国关系的历史证明，美国是不可信任的。今天，最终回应的战场已经做好了充分的准备，但在此之前，外交机构必须立即宣布这一无效的备忘录的结束。",
+      "date": "2026-07-10T16:56:45Z",
+      "url": "https://www.tehrantimes.com/news/528012/America-cannot-be-trusted",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528012/America-cannot-be-trusted"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "America cannot be trusted"
+      }
+    },
+    {
+      "id": "evt_a5aa0bf8",
+      "title": "数百万人举起拳头，发誓要复仇，埋葬他们殉道的领袖",
+      "summary": "德黑兰--在殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）最终下葬后，伊斯兰世界对强烈和历史性复仇的呼吁达到了绝对高峰。周四，数百万深感悲痛但反抗的哀悼者聚集在东北部城市马什哈德的圣伊玛目礼萨神殿。",
+      "date": "2026-07-10T16:53:57Z",
+      "url": "https://www.tehrantimes.com/news/528019/With-fists-raised-and-vows-of-vengeance-millions-entomb-their",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528019/With-fists-raised-and-vows-of-vengeance-millions-entomb-their"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "With fists raised and vows of vengeance, millions entomb their martyred Leader"
+      }
+    },
+    {
+      "id": "evt_80a145dc",
+      "title": "“他们将面临报复” ：最高指挥官警告烈士领袖的刺客",
+      "summary": "德黑兰--伊朗一名高级军事指挥官警告说，那些对伊朗领导人阿亚图拉·赛义德·阿里·哈梅内伊殉难负有责任的人将面临报复。",
+      "date": "2026-07-10T16:47:37Z",
+      "url": "https://www.tehrantimes.com/news/528026/They-will-face-retribution-Top-commander-warns-martyred-Leader-s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528026/They-will-face-retribution-Top-commander-warns-martyred-Leader-s"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘They will face retribution’: Top commander warns martyred Leader's assassins"
+      }
+    },
+    {
+      "id": "evt_96959553",
+      "title": "受外国干预威胁的地区安全，伊朗告诉北约",
+      "summary": "德黑兰--伊朗驳斥了北约《安卡拉峰会宣言》中关于其核活动和霍尔木兹海峡的指控，指责该联盟采取出于政治动机的立场，忽视了“外国势力在制造地区不稳定方面的作用”。",
+      "date": "2026-07-10T16:25:50Z",
+      "url": "https://www.tehrantimes.com/news/528029/Regional-security-threatened-by-foreign-interventions-Iran-tells",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528029/Regional-security-threatened-by-foreign-interventions-Iran-tells"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Regional security threatened by foreign interventions, Iran tells NATO"
+      }
+    },
+    {
+      "id": "evt_b935222e",
+      "title": "伊朗谴责新的美国罢工，警告在追求地区外交的同时进行报复",
+      "summary": "德黑兰--伊朗强烈谴责美国在其领土上发动新一轮军事打击，将其描述为严重违反国际法和德黑兰与华盛顿之间达成的停火备忘录，同时加强与地区合作伙伴的外交接触，以防止波斯湾局势进一步升级。",
+      "date": "2026-07-10T16:18:42Z",
+      "url": "https://www.tehrantimes.com/news/528028/Iran-condemns-fresh-US-strikes-warns-of-retaliation-while-pursuing",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528028/Iran-condemns-fresh-US-strikes-warns-of-retaliation-while-pursuing"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran condemns fresh US strikes, warns of retaliation while pursuing regional diplomacy"
+      }
+    },
+    {
+      "id": "evt_93777ce6",
+      "title": "阿联酋与沙特阿拉伯之间的跨境贸易在紧张局势中面临延误： Semafor",
+      "summary": "阿联酋和沙特阿拉伯之间的跨境贸易正面临延迟，这表明波斯湾邻国之间的紧张关系正在商业世界中蔓延。",
+      "date": "2026-07-10T14:16:27Z",
+      "url": "https://www.tehrantimes.com/news/528022/Cross-border-trade-between-UAE-Saudi-Arabia-facing-delays-amid",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528022/Cross-border-trade-between-UAE-Saudi-Arabia-facing-delays-amid"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Cross-border trade between UAE, Saudi Arabia facing delays amid tensions: Semafor"
+      }
+    },
+    {
+      "id": "evt_a35436ab",
+      "title": "战后经济需要稳定、结构性手术、重建投资者信任： ICCIMA成员",
+      "summary": "TEHRAN -伊朗商会、工业、矿业和农业（ ICCIMA ）成员表示，战后伊朗经济最重要的优先事项是提高经济环境的稳定性和可预测性，这可以为投资回报、生产繁荣和出口发展铺平道路。",
+      "date": "2026-07-10T14:11:58Z",
+      "url": "https://www.tehrantimes.com/news/528024/Post-war-economy-requires-stability-structural-surgery-rebuilding",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528024/Post-war-economy-requires-stability-structural-surgery-rebuilding"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Post-war economy requires stability, structural surgery, rebuilding investors trust: ICCIMA member"
+      }
+    },
+    {
+      "id": "evt_cdc5ec7b",
+      "title": "必需品库存超过400万吨",
+      "summary": "TEHRAN -农业部副部长表示，尽管战争造成了破坏，但该国仍有超过400万吨的必需品。",
+      "date": "2026-07-10T14:10:50Z",
+      "url": "https://www.tehrantimes.com/news/528025/Inventory-of-essential-goods-exceeds-4-million-tons",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528025/Inventory-of-essential-goods-exceeds-4-million-tons"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Inventory of essential goods exceeds 4 million tons"
       }
     },
     {
@@ -97,90 +461,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_6a6a4b6e",
-      "title": "叙利亚称被捕的大马士革爆炸案嫌疑人隶属于伊斯兰国",
-      "summary": "本周早些时候，法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）访问叙利亚首都时发生了两起爆炸事件。",
-      "date": "2026-07-09T21:39:54Z",
-      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria says captured Damascus bombing suspects are affiliated with ISIL"
-      }
-    },
-    {
-      "id": "evt_9772cb73",
-      "title": "霍尔木兹海峡争端如何导致最新的美伊战斗循环",
-      "summary": "分析师表示，对霍尔木兹的模糊谅解备忘录语言的冲突解释是升级的核心。",
-      "date": "2026-07-09T21:38:48Z",
-      "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting"
-      }
-    },
-    {
-      "id": "evt_ba6aad39",
-      "title": "在伊朗听到爆炸声后，美国军方否认参与",
-      "summary": "伊朗媒体报道称，由于以色列官员称战争“尚未结束” ，几个地点发生了大声爆炸。",
-      "date": "2026-07-09T21:14:30Z",
-      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US military denies involvement after explosions heard in Iran"
-      }
-    },
-    {
       "id": "evt_c05be05a",
       "title": "巴勒斯坦人哀悼加沙世界杯放映组织者在以色列罢工中丧生",
       "summary": "在以色列-哈马斯战争期间，援助工作者穆罕默德·瓦希迪（ Mohammed al-Wahidi ）已成为一位杰出的人道主义人士。",
@@ -209,62 +489,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_dd018e32",
-      "title": "数百万人淹没马什哈德，伊朗殉难的领导人被安葬在圣伊玛目礼萨神殿",
-      "summary": "德黑兰--殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在东北部城市马什哈德（ Mashhad ）的伊玛目礼萨（ Imam Reza ）圣殿安息，这标志着前所未有的多元告别之旅的最后、深刻的情感篇章。",
-      "date": "2026-07-09T21:00:45Z",
-      "url": "https://www.tehrantimes.com/news/527997/Millions-flood-Mashhad-as-Iran-s-martyred-Leader-is-laid-to-rest",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527997/Millions-flood-Mashhad-as-Iran-s-martyred-Leader-is-laid-to-rest"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Millions flood Mashhad as Iran’s martyred Leader is laid to rest at Holy Imam Reza Shrine"
-      }
-    },
-    {
-      "id": "evt_de5b5b7e",
-      "title": "在圣伊玛目礼萨神殿殉难的领袖葬礼之前，数百万人淹没马什哈德",
-      "summary": "德黑兰--数百万虔诚的哀悼者涌入东北部城市马什哈德的街道，向殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在圣伊玛目礼萨神殿（ Holy Imam Reza Shrine ）举行葬礼之前的历史性告别。",
-      "date": "2026-07-09T15:40:04Z",
-      "url": "https://www.tehrantimes.com/news/527996/Millions-flood-Mashhad-ahead-of-martyred-Leader-s-burial-at-Holy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527996/Millions-flood-Mashhad-ahead-of-martyred-Leader-s-burial-at-Holy"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Millions flood Mashhad ahead of martyred Leader's burial at Holy Imam Reza Shrine"
-      }
-    },
-    {
       "id": "evt_a70bb9fe",
       "title": "特朗普威胁要对伊朗发动更多打击，因为德黑兰警告“无所畏惧”的反应",
       "summary": "奥巴马在北约峰会上表示，美国“可能会”再次打击伊朗，但他补充说， “任何发生的事情都会很快结束”。",
@@ -290,342 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response"
-      }
-    },
-    {
-      "id": "evt_8f2e1247",
-      "title": "沿着葬礼路线的德黑兰城墙变成了巨大的抵抗画廊",
-      "summary": "德黑兰--在殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyed Ali Khamenei ）的葬礼游行当天，德黑兰不仅仅是人群的聚集地；从大马士革街（ Damavand Street ）到阿扎迪广场（ Azadi Square ） ，首都的城墙变成了一个巨大的抵抗画廊。",
-      "date": "2026-07-08T18:05:13Z",
-      "url": "https://www.tehrantimes.com/news/527984/Tehran-walls-along-funeral-route-transformed-into-vast-gallery",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527984/Tehran-walls-along-funeral-route-transformed-into-vast-gallery"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran walls along funeral route transformed into vast gallery of resistance"
-      }
-    },
-    {
-      "id": "evt_6befc3fe",
-      "title": "伊朗艺术家将平面设计和书法融为一体，创作烈士领袖肖像",
-      "summary": "德黑兰--伊朗书法家和印刷术家阿里·米纳伊-法尔德（ Ali Minaei-Fard ）创作了一幅伊斯兰革命烈士领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyed Ali Khamenei ）的肖像画，旨在通过书法和图像的融合来展示他失去的悲伤和他性格的宏伟。",
-      "date": "2026-07-08T18:04:45Z",
-      "url": "https://www.tehrantimes.com/news/527983/Iranian-artist-blends-graphic-design-and-calligraphy-to-create",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527983/Iranian-artist-blends-graphic-design-and-calligraphy-to-create"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian artist blends graphic design and calligraphy to create Martyr Leader’s portrait"
-      }
-    },
-    {
-      "id": "evt_081dc2cc",
-      "title": "“谁是哈梅内伊？”国际小组讨论会在德黑兰举行",
-      "summary": "德黑兰--周二，来自欧洲、美洲、非洲和西亚的媒体专业人士、政治评论员和公众人物齐聚德黑兰，参加一个论坛，探讨对伊斯兰革命殉难领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）葬礼的国际报道，以及与会者所说的围绕伊朗近期事态发展的持续叙事之战。",
-      "date": "2026-07-08T18:04:16Z",
-      "url": "https://www.tehrantimes.com/news/527965/Who-Is-Khamenei-international-panel-discussion-held-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527965/Who-Is-Khamenei-international-panel-discussion-held-in-Tehran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Who Is Khamenei?” international panel discussion held in Tehran"
-      }
-    },
-    {
-      "id": "evt_eb415c16",
-      "title": "哀悼者的海洋：伊朗崛起为超级大国的基础",
-      "summary": "",
-      "date": "2026-07-08T17:58:29Z",
-      "url": "https://www.tehrantimes.com/news/527986/The-ocean-of-mourners-The-foundation-of-Iran-s-rise-as-a-superpower",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527986/The-ocean-of-mourners-The-foundation-of-Iran-s-rise-as-a-superpower"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The ocean of mourners: The foundation of Iran's rise as a superpower"
-      }
-    },
-    {
-      "id": "evt_5b4a02fb",
-      "title": "权力的葬礼：历史性告别的信息",
-      "summary": "TEHRAN -举行葬礼仪式不仅仅是为了告别知名人士;它们还可以作为重新定义权力，加强合法性和在国内外发送信息的舞台。阿亚图拉赛义德·阿里·哈梅内伊在德黑兰、库姆和伊拉克的葬礼属于这一类。在这些地点发生的事情不仅仅是向伊斯兰共和国领导人告别。",
-      "date": "2026-07-08T17:57:25Z",
-      "url": "https://www.tehrantimes.com/news/527994/The-Funeral-of-Power-The-Message-of-a-Historic-Farewell",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527994/The-Funeral-of-Power-The-Message-of-a-Historic-Farewell"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The Funeral of Power: The Message of a Historic Farewell"
-      }
-    },
-    {
-      "id": "evt_925bb93c",
-      "title": "七十年的渴望：阿亚图拉·哈梅内伊最后的卡尔巴拉之旅",
-      "summary": "TEHRAN-周三，伊朗领导人阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的告别仪式在伊拉克圣城卡尔巴拉举行，他的棺材在伊玛目侯赛因（ AS ）的圣地周围游行。根据他的办公室发表的报道，这个仪式被全球媒体广泛描述为实现了一个愿望，而这个愿望在近七十年来一直没有实现。",
-      "date": "2026-07-08T17:53:53Z",
-      "url": "https://www.tehrantimes.com/news/527993/Seven-decades-of-longing-Ayatollah-Khamenei-s-final-journey",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527993/Seven-decades-of-longing-Ayatollah-Khamenei-s-final-journey"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Seven decades of longing: Ayatollah Khamenei's final journey to Karbala"
-      }
-    },
-    {
-      "id": "evt_03f7d826",
-      "title": "数百万伊朗人发出特朗普仍然拒绝理解的信息",
-      "summary": "巴基斯坦哈菲扎巴德--他们称之为葬礼。事实并非如此。",
-      "date": "2026-07-08T17:44:37Z",
-      "url": "https://www.tehrantimes.com/news/527992/Millions-of-Iranians-send-a-message-that-Trump-still-refuses",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527992/Millions-of-Iranians-send-a-message-that-Trump-still-refuses"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Millions of Iranians send a message that Trump still refuses to comprehend"
-      }
-    },
-    {
-      "id": "evt_ecff9d0c",
-      "title": "在伊玛目侯赛因的亲切拥抱下：哈梅内伊烈士",
-      "summary": "德黑兰--数以百万计的哀悼者聚集在伊拉克最神圣的城市，为伊斯兰革命烈士阿亚图拉·塞耶德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）举行了历史性的葬礼，表达了前所未有的地区团结、深厚的精神敬意和革命决心。",
-      "date": "2026-07-08T17:37:00Z",
-      "url": "https://www.tehrantimes.com/news/527989/In-the-loving-embrace-of-Imam-Hussein-Martyr-Khamenei",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527989/In-the-loving-embrace-of-Imam-Hussein-Martyr-Khamenei"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "In the loving embrace of Imam Hussein: Martyr Khamenei"
-      }
-    },
-    {
-      "id": "evt_13a099f4",
-      "title": "羞辱和升级：解读特朗普对伊朗的新攻势",
-      "summary": "德黑兰--伊朗对美国最近的军事打击的快速报复性反应暴露了其武装部队的高度准备和作战能力，重申了他们捍卫国家主权和领土完整以对抗任何外国侵略行为的决心。",
-      "date": "2026-07-08T17:33:07Z",
-      "url": "https://www.tehrantimes.com/news/527988/Humiliation-and-escalation-Decoding-Trump-s-new-offensive-against",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527988/Humiliation-and-escalation-Decoding-Trump-s-new-offensive-against"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Humiliation and escalation: Decoding Trump's new offensive against Iran"
-      }
-    },
-    {
-      "id": "evt_07bdb820",
-      "title": "抵抗之王还活着",
-      "summary": "巴基斯坦HAFIZABAD -他们试图杀死他。他们扔掉了所有的东西。美国的掩体炸弹，以色列的精确导弹，世界上唯一的“超级大国”的全部军事力量都瞄准了一个人，一颗心，一个声音。",
-      "date": "2026-07-08T17:32:41Z",
-      "url": "https://www.tehrantimes.com/news/527991/The-King-of-Resistance-is-still-alive",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527991/The-King-of-Resistance-is-still-alive"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The King of Resistance is still alive"
-      }
-    },
-    {
-      "id": "evt_eb05c06a",
-      "title": "为什么数百万伊拉克人哀悼伊朗殉难的领导人？",
-      "summary": "德黑兰--在一场超出所有期望的悲痛中，伊拉克人最终向殉难的伊斯兰革命领袖阿亚图拉·塞耶德·阿里·哈梅内伊致敬的人数远远高于预期。",
-      "date": "2026-07-08T16:17:47Z",
-      "url": "https://www.tehrantimes.com/news/527990/Why-did-millions-of-Iraqis-mourn-Iran-s-martyred-leader",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527990/Why-did-millions-of-Iraqis-mourn-Iran-s-martyred-leader"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why did millions of Iraqis mourn Iran's martyred leader?"
-      }
-    },
-    {
-      "id": "evt_320412f4",
-      "title": "北约总干事吕特：一个与现实脱节的天真爱好者",
-      "summary": "德黑兰--马克·吕特不配担任北约秘书长一职。在这些动荡的年代，北约似乎已经破产，无法选择数字来管理这个由32个成员国组成的军事联盟。",
-      "date": "2026-07-08T16:09:32Z",
-      "url": "https://www.tehrantimes.com/news/527987/NATO-chief-Rutte-A-na%C3%AFve-sycophant-who-is-detached-from-reality",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/527987/NATO-chief-Rutte-A-na%C3%AFve-sycophant-who-is-detached-from-reality"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "NATO chief Rutte: A naïve sycophant who is detached from reality"
       }
     },
     {
