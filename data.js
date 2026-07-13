@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-12T02:02:26.221586Z
+// 自动生成的数据 - 更新时间: 2026-07-13T02:04:28.530063Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-12T02:02:26.221530Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-07-13T02:04:28.529998Z",
+    "totalEvents": 40,
     "sources": {
-      "international": 18,
+      "international": 26,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,10 +13,122 @@ const siteData = {
   },
   "events": [
     {
+      "id": "evt_a406b75e",
+      "title": "乍都乍市场附近的热门曼谷酒吧被大火吞噬，至少27人死亡",
+      "summary": "曼谷一家受欢迎的酒吧发生火灾，造成至少27人死亡， 63人受伤，其中许多人伤势严重。",
+      "date": "2026-07-13T01:27:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market"
+      }
+    },
+    {
+      "id": "evt_2f9865a5",
+      "title": "随着霍尔木兹海峡对峙的加深，美国对伊朗发动更多罢工",
+      "summary": "美国对伊朗发动了新一轮打击，目标是德黑兰威胁海峡航运的能力。",
+      "date": "2026-07-13T00:22:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US launches more strikes on Iran as Strait of Hormuz standoff deepens"
+      }
+    },
+    {
+      "id": "evt_06de707c",
+      "title": "伊朗战争现场：随着霍尔木兹对峙加剧，美国再次轰炸伊朗城市",
+      "summary": "伊朗国家媒体报道了阿巴斯港、西里克港和贾斯克港以及格什姆岛的爆炸事件。",
+      "date": "2026-07-13T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies"
+      }
+    },
+    {
+      "id": "evt_4343cfeb",
+      "title": "美国对伊朗发动新一轮打击，旨在“贬低”军事力量",
+      "summary": "周日的袭击发生在伊朗和美国之间的前三天针锋相对的罢工之后，因为6月份的停火协议破裂。",
+      "date": "2026-07-12T23:03:32Z",
+      "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military"
+      }
+    },
+    {
       "id": "evt_34a40f33",
-      "title": "随着伊朗关闭霍尔木兹海峡，美国发动新的罢工",
-      "summary": "袭击发生之前，一艘悬挂Cyrpus旗帜的船只在关键水道上行驶。",
-      "date": "2026-07-12T01:55:03Z",
+      "title": "美国坚称霍尔木兹海峡在与伊朗交换罢工时是开放的",
+      "summary": "伊朗军队早些时候表示，海峡已经关闭，并对该地区的美国盟友和基地发动了广泛的袭击。",
+      "date": "2026-07-12T22:17:40Z",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -37,104 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US launches fresh strikes as Iran closes Strait of Hormuz"
+        "en": "US insists Strait of Hormuz is open as it exchanges strikes with Iran"
       }
     },
     {
-      "id": "evt_defc33f4",
-      "title": "调解人推动美伊在卡塔尔和阿曼举行会谈以避免局势升级",
-      "summary": "地区调解人正在加紧努力，以防止伊朗和美国之间的进一步升级。",
-      "date": "2026-07-12T00:22:21Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "id": "evt_317f195b",
+      "title": "被定居者拘留的美国民主党人罗·坎纳（ Ro Khanna ）现在面临亲以色列的袭击",
+      "summary": "进步派国会议员指责以色列军方在定居者在被占领的约旦河西岸拦截他的面包车后“撒谎”。",
+      "date": "2026-07-12T21:59:36Z",
+      "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mediators push US-Iran talks in Qatar and Oman to avert escalation"
-      }
-    },
-    {
-      "id": "evt_d773ed1c",
-      "title": "伊朗战争现场：美国轰炸伊朗港口城市，伊斯兰革命卫队关闭霍尔木兹海峡",
-      "summary": "随着美国袭击的继续，在港口城市阿巴斯港（ Bandar Abbas ）、希里克港（ Sirik ）、恰巴哈尔港（ Chabahar ）、班达尔-德尔港（ Bandar-e Deyr ）和阿萨",
-      "date": "2026-07-12T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_0b9afa0f",
-      "title": "巴基斯坦大规模驱逐阿富汗人的背后是什么？",
-      "summary": "伊斯兰堡以国家安全为由，遣返了数千名无证移民。",
-      "date": "2026-07-11T20:11:55Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What’s behind Pakistan’s mass deportation of Afghans?"
-      }
-    },
-    {
-      "id": "evt_ba4194ba",
-      "title": "美国众议员Ro Khanna谈到遭到以色列定居者的骚扰",
-      "summary": "美国众议员Ro Khanna谈到遭到以色列定居者的骚扰",
-      "date": "2026-07-11T18:59:01Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,7 +177,595 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers"
+        "en": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks"
+      }
+    },
+    {
+      "id": "evt_2bc4b513",
+      "title": "以色列发布黎巴嫩大规模爆炸视频",
+      "summary": "以色列军方发布了视频，显示黎巴嫩南部村庄发生了巨大的爆炸和爆炸。",
+      "date": "2026-07-12T21:50:28Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel releases video of huge detonations in Lebanon"
+      }
+    },
+    {
+      "id": "evt_84167298",
+      "title": "以色列对加沙发动致命袭击",
+      "summary": "以色列军方袭击了加沙地带的几个地方。",
+      "date": "2026-07-12T21:33:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Deadly Israeli strikes pound Gaza"
+      }
+    },
+    {
+      "id": "evt_1fcea849",
+      "title": "议会表示，以色列将于10月27日举行全国大选",
+      "summary": "以色列任期最长的总理内塔尼亚胡证实，他将再次竞选公职。",
+      "date": "2026-07-12T21:26:28Z",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel to hold national elections on October 27, parliament says"
+      }
+    },
+    {
+      "id": "evt_5614afd7",
+      "title": "伦敦塔桥上的抗议活动要求释放Hussam Abu Safia博士",
+      "summary": "亲巴勒斯坦活动人士在伦敦塔桥上展开了一面巨大的巴勒斯坦国旗和一面横幅。",
+      "date": "2026-07-12T21:21:27Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia"
+      }
+    },
+    {
+      "id": "evt_3aed1f7b",
+      "title": "美以战争的强硬支持者林赛·格雷厄姆（ Lindsey Graham ）去世，享年71岁",
+      "summary": "美国参议员林赛·格雷厄姆（ Lindsey Graham ）去世，他是以色列的关键盟友，也是华盛顿最著名的外交政策鹰派之一。",
+      "date": "2026-07-12T21:12:54Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71"
+      }
+    },
+    {
+      "id": "evt_0069de8c",
+      "title": "改变阿拉伯世界的人",
+      "summary": "卡塔尔前埃米尔谢赫哈马德·本·哈利法·阿勒萨尼去世，享年74岁。",
+      "date": "2026-07-12T21:09:03Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The man who changed the Arab world"
+      }
+    },
+    {
+      "id": "evt_016fb75c",
+      "title": "大火吞噬了热门的曼谷酒吧，造成27人死亡， 63人受伤",
+      "summary": "急救人员在网上分享的视频显示， Na Ladprao酒吧发生了巨大的火灾。",
+      "date": "2026-07-12T20:48:37Z",
+      "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63"
+      }
+    },
+    {
+      "id": "evt_4655544e",
+      "title": "伊朗的霍尔木兹杠杆是一个“真正的不对称均衡器” ，没有其他牌可以匹敌：意大利分析师",
+      "summary": "德黑兰--在接受《德黑兰时报》独家采访时，意大利地缘政治分析师兼特别欧亚董事总经理西尔维娅·博尔图克（ Silvia Boltuc ）探讨了华盛顿7月罢工后美伊备忘录的崩溃。",
+      "date": "2026-07-12T19:39:14Z",
+      "url": "https://www.tehrantimes.com/news/528112/Iran-s-Hormuz-leverage-is-a-genuine-asymmetric-equaliser-no",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528112/Iran-s-Hormuz-leverage-is-a-genuine-asymmetric-equaliser-no"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's Hormuz leverage is a \"genuine asymmetric equaliser\" no other card can match: Italian analyst"
+      }
+    },
+    {
+      "id": "evt_2006a2d5",
+      "title": "伊朗人相信领导人的殉难将唤醒伊斯兰世界",
+      "summary": "TEHRAN -伊朗的哀悼者聚集在城市、广场和清真寺的公共场所，悼念其领导人的殉难，并要求报复那些对他的殉难负有责任的人。他们还认为，此次活动将为穆斯林带来团结和觉醒。",
+      "date": "2026-07-12T19:25:22Z",
+      "url": "https://www.tehrantimes.com/news/528111/Iranians-believe-the-martyrdom-of-Leader-will-awaken-Islamic",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528111/Iranians-believe-the-martyrdom-of-Leader-will-awaken-Islamic"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranians believe the martyrdom of Leader will awaken Islamic world"
+      }
+    },
+    {
+      "id": "evt_18574d7c",
+      "title": "伊朗在2026年排球世界中击败波斯尼亚和黑塞哥维那",
+      "summary": "德黑兰--伊朗男子坐式排球队在周日的2026年坐式排球世界锦标赛上以3比1 （ 24-26、25-21、25-22、25-21 ）击败了波斯尼亚和黑塞哥维那。",
+      "date": "2026-07-12T17:49:29Z",
+      "url": "https://www.tehrantimes.com/news/528100/Iran-defeat-Bosnia-and-Herzegovina-at-2026-Sitting-Volleyball",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528100/Iran-defeat-Bosnia-and-Herzegovina-at-2026-Sitting-Volleyball"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran defeat Bosnia and Herzegovina at 2026 Sitting Volleyball Worlds"
+      }
+    },
+    {
+      "id": "evt_0188444b",
+      "title": "伊朗书店的「心灵之线」",
+      "summary": "TEHRAN--法国小说家卡罗尔·马丁内斯（ Carole Martinez ）的《心灵之线》（ The Threads of the Heart ）以波斯语出版。",
+      "date": "2026-07-12T17:49:05Z",
+      "url": "https://www.tehrantimes.com/news/528081/The-Threads-of-the-Heart-at-Iranian-bookstores",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528081/The-Threads-of-the-Heart-at-Iranian-bookstores"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“The Threads of the Heart” at Iranian bookstores"
+      }
+    },
+    {
+      "id": "evt_80ee0c9e",
+      "title": "ECO文化学院推出国际移动摄影节",
+      "summary": "TEHRAN - ECO文化研究所（ ECI ）已正式宣布招募首届ECO国际移动摄影节的参赛作品，名为“我们的遗产”。",
+      "date": "2026-07-12T17:48:29Z",
+      "url": "https://www.tehrantimes.com/news/528080/ECO-Cultural-Institute-launches-international-mobile-photography",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528080/ECO-Cultural-Institute-launches-international-mobile-photography"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "ECO Cultural Institute launches international mobile photography festival"
+      }
+    },
+    {
+      "id": "evt_7c69af1e",
+      "title": "电影博物馆，展出纳赛尔·塔格瓦伊（ Nasser Taghvai ）的“无规则纸”的修复版本",
+      "summary": "德黑兰--已故纳赛尔·塔格瓦伊（ Nasser Taghvai ）编剧和导演的电影《无序纸》（ Unruled Paper ）的修复版将首次在伊朗电影博物馆放映。",
+      "date": "2026-07-12T17:47:50Z",
+      "url": "https://www.tehrantimes.com/news/528078/Cinema-Museum-to-show-restored-version-of-Nasser-Taghvai-s-Unruled",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528078/Cinema-Museum-to-show-restored-version-of-Nasser-Taghvai-s-Unruled"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Cinema Museum to show restored version of Nasser Taghvai’s “Unruled Paper”"
+      }
+    },
+    {
+      "id": "evt_526d751b",
+      "title": "漫长的光明之路",
+      "summary": "从哀悼者聚集的德黑兰黑暗之门，\n黑潮东移，听见铁轮在颤抖。",
+      "date": "2026-07-12T17:47:20Z",
+      "url": "https://www.tehrantimes.com/news/528079/The-Long-Road-to-Light",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528079/The-Long-Road-to-Light"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The Long Road to Light"
+      }
+    },
+    {
+      "id": "evt_a13e756b",
+      "title": "五部伊朗电影在俄罗斯电影节上获奖",
+      "summary": "德黑兰--来自伊朗的五部电影是第21届家庭圈电影节的获奖者之一，该电影节在俄罗斯雅罗斯拉夫尔地区举行。",
+      "date": "2026-07-12T17:46:44Z",
+      "url": "https://www.tehrantimes.com/news/528077/Five-Iranian-films-win-awards-at-Russian-festival",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528077/Five-Iranian-films-win-awards-at-Russian-festival"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Five Iranian films win awards at Russian festival"
+      }
+    },
+    {
+      "id": "evt_ff4549a8",
+      "title": "霍尔木兹被锁定：伊朗击溃美国军事力量",
+      "summary": "德黑兰--美国公然违反最近的临时协议，对伊朗实施持续的军事打击，这标志着华盛顿对伊朗伊斯兰共和国的历史性敌对态度又一次出现了严重的误判。",
+      "date": "2026-07-12T17:45:25Z",
+      "url": "https://www.tehrantimes.com/news/528101/Hormuz-locked-Iran-crushes-US-military-might",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528101/Hormuz-locked-Iran-crushes-US-military-might"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hormuz locked: Iran crushes US military might"
+      }
+    },
+    {
+      "id": "evt_7ed46dde",
+      "title": "以对美国战略基础设施的沉重打击来应对敌人的攻击",
+      "summary": "Kayhan专门撰写了一篇文章，介绍了美国最近对伊朗基础设施的袭击。它写道，恐怖分子美国军方继续对伊朗进行侵略性打击，不仅针对波斯湾、阿曼海和南部岛屿的沿海基础设施，还针对伊朗东北部的两个走廊点。",
+      "date": "2026-07-12T17:43:25Z",
+      "url": "https://www.tehrantimes.com/news/528103/Responding-to-enemy-attacks-with-heavy-blows-to-US-strategic",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528103/Responding-to-enemy-attacks-with-heavy-blows-to-US-strategic"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Responding to enemy attacks with heavy blows to US strategic infrastructure"
+      }
+    },
+    {
+      "id": "evt_a50abef3",
+      "title": "谅解备忘录已经死亡，真正的战争继续",
+      "summary": "德黑兰-过去两天最重要的事件不是对波斯湾商业航运的攻击。正是政治框架的崩溃暂时抑制了军事升级。",
+      "date": "2026-07-12T17:42:41Z",
+      "url": "https://www.tehrantimes.com/news/528102/The-MoU-is-dead-the-real-war-resumes",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528102/The-MoU-is-dead-the-real-war-resumes"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The MoU is dead, the real war resumes"
+      }
+    },
+    {
+      "id": "evt_1956fc04",
+      "title": "伊朗加强对霍尔木兹海峡的控制，暂停海上交通",
+      "summary": "TEHRAN-伊朗暂停了通过霍尔木兹海峡的海上交通，并加强了对世界上最重要的战略能源走廊的控制，指责美国试图强加未经授权的航行路线并干扰水道管理，违反了伊斯兰堡谅解备忘录（ MoU ）。",
+      "date": "2026-07-12T17:41:59Z",
+      "url": "https://www.tehrantimes.com/news/528109/Iran-tightens-control-over-Strait-of-Hormuz-suspending-maritime",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528109/Iran-tightens-control-over-Strait-of-Hormuz-suspending-maritime"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran tightens control over Strait of Hormuz, suspending maritime traffic"
+      }
+    },
+    {
+      "id": "evt_00a739fe",
+      "title": "一只名叫“G夫人”的鸡鹰和无辜的生命被用来喂养他的帝国虐待狂",
+      "summary": "德黑兰--该声明将2026年7月11日的心脏骤停归咎于此，但几十年前，林赛·格雷厄姆（ Lindsey Graham ）的内心已经萎缩为一种帝国主义虐待狂的工具。这位来自南卡罗来纳州的71岁参议员从基辅的武器贩卖之旅返回国会山的家中，在他的房间里倒塌并“突然死亡”。",
+      "date": "2026-07-12T16:57:53Z",
+      "url": "https://www.tehrantimes.com/news/528108/A-chicken-hawk-named-Lady-G-and-the-innocent-lives-spent-to",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528108/A-chicken-hawk-named-Lady-G-and-the-innocent-lives-spent-to"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A chicken hawk named ‘Lady G’ and the innocent lives spent to feed his imperial sadism"
+      }
+    },
+    {
+      "id": "evt_de8b1093",
+      "title": "西岸：在被忽视和定居点扩张之间",
+      "summary": "德黑兰--随着该地区被战争和快速发展的事态发展所吞没，观察者难以跟上，对约旦河西岸正在发生的事情的关注稳步下降。公众的兴趣已经减弱。",
+      "date": "2026-07-12T16:15:11Z",
+      "url": "https://www.tehrantimes.com/news/528107/The-West-Bank-Between-neglect-and-settlement-expansion",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528107/The-West-Bank-Between-neglect-and-settlement-expansion"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The West Bank: Between neglect and settlement expansion"
       }
     },
     {
@@ -178,398 +794,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers"
-      }
-    },
-    {
-      "id": "evt_ce9f53ed",
-      "title": "国际民航组织负责人敦促媒体活动人士传达有关伊朗的现实情况",
-      "summary": "伊朗伊斯兰共和国伊斯兰文化与关系组织（ ICRO ）负责人Hojjatoleslam Mohammad-Mehdi Imanipour周二晚上主持了一场名为“向世界介绍伊朗”的高调聚会，以反击歪曲的叙述，展示伊朗伊斯兰共和国真实的文化和社会景观。",
-      "date": "2026-07-11T17:38:39Z",
-      "url": "https://www.tehrantimes.com/news/528039/ICRO-chief-urges-media-activists-to-convey-realities-about-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528039/ICRO-chief-urges-media-activists-to-convey-realities-about-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "ICRO chief urges media activists to convey realities about Iran"
-      }
-    },
-    {
-      "id": "evt_5f407bf8",
-      "title": "伊朗导演在德黑兰重演《等待戈多》",
-      "summary": "伊朗导演阿米尔·侯赛因·贾瓦尼（ Amir Hossein Javani ）正在德黑兰的Labkhand剧院大厅重演爱尔兰小说家和戏剧导演塞缪尔·贝克特（ Samuel Beckett ） 1953年的戏剧《等待戈多》（ Waiting for Godot ）。",
-      "date": "2026-07-11T17:37:35Z",
-      "url": "https://www.tehrantimes.com/news/528041/Iranian-director-restages-Waiting-for-Godot-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528041/Iranian-director-restages-Waiting-for-Godot-in-Tehran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian director restages “Waiting for Godot” in Tehran"
-      }
-    },
-    {
-      "id": "evt_99f9426b",
-      "title": "阿卜杜勒哈米德·加迪里安（ Abdolhamid Ghadirian ）的新画向烈士领袖告别",
-      "summary": "德黑兰--伊朗画家阿卜杜勒哈米德·加迪里安（ Abdolhamid Ghadirian ）的最新作品《光明之路》（ In the Path of Light ）已经揭幕。",
-      "date": "2026-07-11T17:37:03Z",
-      "url": "https://www.tehrantimes.com/news/528036/New-painting-by-Abdolhamid-Ghadirian-bids-farewell-to-Martyr",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528036/New-painting-by-Abdolhamid-Ghadirian-bids-farewell-to-Martyr"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "New painting by Abdolhamid Ghadirian bids farewell to Martyr Leader"
-      }
-    },
-    {
-      "id": "evt_c5bb956e",
-      "title": "掩盖失败的咆哮：特朗普的言论暴露了面对伊朗韧性的美以混乱",
-      "summary": "德黑兰--美国总统唐纳德·特朗普(Donald Trump)加大了对伊朗的军事威胁和言论力度，他正在努力寻找一条出路，以永久结束四个多月前最初开始的美以联合对伊朗的战争。",
-      "date": "2026-07-11T17:35:40Z",
-      "url": "https://www.tehrantimes.com/news/528060/Bluster-to-mask-defeat-Trump-s-rhetoric-exposes-US-Israeli-disarray",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528060/Bluster-to-mask-defeat-Trump-s-rhetoric-exposes-US-Israeli-disarray"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bluster to mask defeat: Trump’s rhetoric exposes US-Israeli disarray in face of Iranian resilience"
-      }
-    },
-    {
-      "id": "evt_685e8be2",
-      "title": "单边主义在下降",
-      "summary": "Jam-e-Jam在分析各国高级官员出席殉难的伊斯兰革命领袖的葬礼时援引Mohsen Pak-Ayeen的话说，世界上很大一部分国家对美国和以色列政权的战争驱动政策持批评态度。",
-      "date": "2026-07-11T17:35:09Z",
-      "url": "https://www.tehrantimes.com/news/528062/Unilateralism-on-the-decline",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528062/Unilateralism-on-the-decline"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Unilateralism on the decline"
-      }
-    },
-    {
-      "id": "evt_6fda450a",
-      "title": "在美以战争期间，伊朗的无人机产量增加了两倍：看守国防部长",
-      "summary": "德黑兰--伊朗看守国防部长周六表示，在美以侵略期间，各种类型的国产无人驾驶飞行器的产量增长了三倍。",
-      "date": "2026-07-11T17:34:17Z",
-      "url": "https://www.tehrantimes.com/news/528063/Iran-tripled-drone-production-during-US-Israeli-war-caretaker",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528063/Iran-tripled-drone-production-during-US-Israeli-war-caretaker"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran tripled drone production during US-Israeli war: caretaker defense minister"
-      }
-    },
-    {
-      "id": "evt_806be608",
-      "title": "伊朗继续审理针对美国和以色列的战争罪案件：最高法官",
-      "summary": "TEHRAN-伊朗司法部长Gholamhossein Mohseni Ejei表示，伊朗决心对那些对美国和以色列政权所犯战争罪行负责的人采取法律行动，并强调那些被认定负有责任的人必须面对惩罚，并为所造成的损害支付赔偿。",
-      "date": "2026-07-11T17:33:06Z",
-      "url": "https://www.tehrantimes.com/news/528068/Iran-pursuing-war-crimes-cases-against-US-Israel-top-judge",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528068/Iran-pursuing-war-crimes-cases-against-US-Israel-top-judge"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran pursuing war crimes cases against US, Israel: top judge"
-      }
-    },
-    {
-      "id": "evt_166f03b1",
-      "title": "Pezeshkian在与巴基斯坦总理的电话中警告破坏地区和平的努力",
-      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）周五警告说， “一些国家”正在寻求破坏西亚的稳定，破坏正在进行的外交努力，并强调只有通过相互尊重和全面遵守现有承诺才能实现持久和平。",
-      "date": "2026-07-11T17:24:15Z",
-      "url": "https://www.tehrantimes.com/news/528067/Pezeshkian-warns-of-efforts-to-undermine-regional-peace-in-a",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528067/Pezeshkian-warns-of-efforts-to-undermine-regional-peace-in-a"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian warns of efforts to undermine regional peace in a call with Pakistan's premier"
-      }
-    },
-    {
-      "id": "evt_cb2124e8",
-      "title": "以色列扩大其无国界选举盗窃帝国",
-      "summary": "德黑兰--虽然西方国家首都痴迷于捏造外国干涉的叙述，但对全球民主最有害的威胁却是直接在特拉维夫以外的地方肆无忌惮地进行结构性逍遥法外。",
-      "date": "2026-07-11T17:20:13Z",
-      "url": "https://www.tehrantimes.com/news/528061/Israel-expands-its-borderless-empire-of-election-theft",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528061/Israel-expands-its-borderless-empire-of-election-theft"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel expands its borderless empire of election theft"
-      }
-    },
-    {
-      "id": "evt_75f576e8",
-      "title": "Araghchi与阿曼同行会面，讨论霍尔木兹航运安排",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）周六在马斯喀特与阿曼外交部长赛义德·巴德尔·布赛义迪（ Sayyid Badr Al-Busaidi ）举行了会谈，重点讨论双边关系、地区发展和确保船只根据伊斯兰堡谅解备忘录（ MoU ）安全通过霍尔木兹海峡的机制。",
-      "date": "2026-07-11T17:11:47Z",
-      "url": "https://www.tehrantimes.com/news/528066/Araghchi-meets-Omani-counterpart-to-discuss-Hormuz-shipping-arrangements",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528066/Araghchi-meets-Omani-counterpart-to-discuss-Hormuz-shipping-arrangements"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Araghchi meets Omani counterpart to discuss Hormuz shipping arrangements"
-      }
-    },
-    {
-      "id": "evt_15bffb28",
-      "title": "殉道领袖的杀手永远不会平静地死去",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）发誓，伊朗国家将为他殉难的父亲被暗杀报仇。",
-      "date": "2026-07-11T17:05:16Z",
-      "url": "https://www.tehrantimes.com/news/528064/The-martyred-Leader-s-killers-will-never-die-in-peace",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528064/The-martyred-Leader-s-killers-will-never-die-in-peace"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The martyred Leader's killers will never die in peace"
-      }
-    },
-    {
-      "id": "evt_49fd9326",
-      "title": "伊玛目霍梅尼的孙子呼吁伸张正义，因为全国范围内对殉难领导人的哀悼仍在继续",
-      "summary": "德黑兰--伊朗伊斯兰共和国创始人的孙子赛义德·阿里·霍梅尼（ Seyed Ali Khomeini ）呼吁“为伊朗殉难的领导人阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的死亡伸张正义并进行报复” ，并表示官员必须继续致力于追究责任人。",
-      "date": "2026-07-11T16:59:09Z",
-      "url": "https://www.tehrantimes.com/news/528065/Imam-Khomeini-s-grandson-calls-for-justice-as-nationwide-mourning",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528065/Imam-Khomeini-s-grandson-calls-for-justice-as-nationwide-mourning"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Imam Khomeini's grandson calls for justice as nationwide mourning for martyred Leader continues"
-      }
-    },
-    {
-      "id": "evt_e84ed689",
-      "title": "烈士领袖如何塑造伊朗以人为本、以国防为导向的经济模式",
-      "summary": "TEHRAN-经济学家Danial Davoudi在这次采访中解释了殉难的阿亚图拉·哈梅内伊（ Ayatollah Khamenei ）思想中的经济民族主义是如何基于以人为本的生产、基础设施开发、核心技术、威慑性防御力量以及伊朗在全球秩序中的积极定位。",
-      "date": "2026-07-11T16:26:51Z",
-      "url": "https://www.tehrantimes.com/news/528055/How-Martyr-Leader-shapes-Iran-s-people-centric-defense-oriented",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528055/How-Martyr-Leader-shapes-Iran-s-people-centric-defense-oriented"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Martyr Leader shapes Iran's people-centric, defense-oriented economic model"
-      }
-    },
-    {
-      "id": "evt_4514826a",
-      "title": "加沙种族灭绝揭示了以色列政治的哪些方面？",
-      "summary": "德黑兰–旷日持久的战争考验着侵略者的政治制度，以产生有效的领导力，同时保持社会凝聚力。",
-      "date": "2026-07-11T15:22:16Z",
-      "url": "https://www.tehrantimes.com/news/528059/What-has-the-Gaza-genocide-revealed-about-Israeli-politics",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528059/What-has-the-Gaza-genocide-revealed-about-Israeli-politics"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What has the Gaza genocide revealed about Israeli politics?"
       }
     },
     {
