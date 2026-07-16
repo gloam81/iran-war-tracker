@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-15T01:46:43.674510Z
+// 自动生成的数据 - 更新时间: 2026-07-16T01:57:18.532444Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-15T01:46:43.674443Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-07-16T01:57:18.532388Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 19,
+      "international": 20,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_18adc5d1",
-      "title": "现场：特朗普说‘对伊朗的打击将继续，直到我说够了’",
-      "summary": "特朗普说，伊朗的桥梁、发电厂可能成为目标，伊斯兰革命卫队说，它袭击了驻科威特、巴林和约旦的美军。",
-      "date": "2026-07-15T00:00:15Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+      "id": "evt_099ede8c",
+      "title": "美国对伊朗发动新一轮打击，特朗普警告德黑兰“表现得更好”",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，他尚未决定是否会“结束”伊朗。",
+      "date": "2026-07-16T01:52:41Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'"
+      }
+    },
+    {
+      "id": "evt_f0575e38",
+      "title": "伊朗医生称美国罢工损坏了儿童癌症医院",
+      "summary": "伊朗人正在检查美国几天来对该国南部和西部主要城市的袭击造成的破坏。",
+      "date": "2026-07-16T01:36:58Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +65,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "LIVE: Trump says ‘strikes on Iran will continue until I say enough’"
+        "en": "Iranian doctor says US strike damaged children’s cancer hospital"
       }
     },
     {
-      "id": "evt_58c95749",
-      "title": "巴勒斯坦周刊：以色列在加沙血腥周袭击儿童和医院",
-      "summary": "以色列对被占领的约旦河西岸的控制通过前哨、拆除和军队支持的定居者袭击而加紧。",
-      "date": "2026-07-14T21:05:39Z",
-      "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+      "id": "evt_6b9300fe",
+      "title": "野火烟雾吞没加拿大多伦多，并使其天空变成橙色",
+      "summary": "野火烟雾在多伦多和安大略省其他地方变成了橙色。",
+      "date": "2026-07-16T00:47:07Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Wildfire smoke engulfs Toronto, Canada and turns its skies orange"
+      }
+    },
+    {
+      "id": "evt_bf2cfdc4",
+      "title": "伊朗战争现场：巴林、科威特的警笛声；美国“禁用”伊朗油轮",
+      "summary": "伊朗媒体报道了格什姆岛（ Geshm Island ）、阿巴斯港（ Bandar Abbas ）和恰巴哈尔（ Chabahar ）的爆炸事件，当时巴林和科威特的空袭警报响起。",
+      "date": "2026-07-16T00:00:48Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker"
+      }
+    },
+    {
+      "id": "evt_d41a4955",
+      "title": "伊朗称和平协议无效，在美国袭击后进行“生存战争”",
+      "summary": "美国周三晚间宣布了新一波袭击事件，据报道，阿巴斯港、恰巴哈尔和阿瓦士发生了爆炸。",
+      "date": "2026-07-15T21:46:57Z",
+      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says peace deal voided, fighting ‘existential war’ after US attacks"
+      }
+    },
+    {
+      "id": "evt_d1a03854",
+      "title": "以色列和黎巴嫩之间和平的障碍是什么？",
+      "summary": "以色列和黎巴嫩正在进行另一轮会谈，试图推进停火协议。",
+      "date": "2026-07-15T20:46:03Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +177,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza"
+        "en": "What are the obstacles to peace between Israel and Lebanon?"
       }
     },
     {
-      "id": "evt_96218491",
-      "title": "随着伊朗发射导弹和无人机，警笛在巴林响起",
-      "summary": "伊朗官方媒体报道称，德黑兰的目标是巴林首都的一个美国海军支援基地。",
-      "date": "2026-07-14T21:05:12Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+      "id": "evt_5b5aaac4",
+      "title": "《悉达多》波斯语版再版",
+      "summary": "TEHRAN-德国-瑞士小说家赫尔曼·黑塞（ Hermann Hesse ）的《悉达多》（ Siddhartha ）的第17版波斯语译本最近出版。",
+      "date": "2026-07-15T17:25:30Z",
+      "url": "https://www.tehrantimes.com/news/528170/Persian-edition-of-Siddhartha-republished",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528170/Persian-edition-of-Siddhartha-republished"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Persian edition of “Siddhartha” republished"
+      }
+    },
+    {
+      "id": "evt_1a8612ce",
+      "title": "伊朗导演上演契诃夫《万尼亚叔叔》改编",
+      "summary": "伊朗导演优素福·巴皮里（ Yousef Bapiri ）将于周四在德黑兰的Labkhand剧院大厅上演俄罗斯剧作家安东·契诃夫（ Anton Chekhov ）的戏剧《万尼亚叔叔》（ Uncle Vanya ）。",
+      "date": "2026-07-15T17:25:11Z",
+      "url": "https://www.tehrantimes.com/news/528167/Iranian-director-to-stage-adaptation-of-Chekhov-s-Uncle-Vanya",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528167/Iranian-director-to-stage-adaptation-of-Chekhov-s-Uncle-Vanya"
         }
       ],
       "category": "military",
@@ -93,20 +233,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones"
+        "en": "Iranian director to stage adaptation of Chekhov’s \"Uncle Vanya\""
       }
     },
     {
-      "id": "evt_2693562e",
-      "title": "什么是伊朗的镐山？",
-      "summary": "唐纳德·特朗普（ Donald Trump ）威胁要袭击镐山（ Pickaxe Mountain ） ，这是一个地下核相关建筑群",
-      "date": "2026-07-14T20:27:40Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "id": "evt_8089c876",
+      "title": "阿巴斯·基亚罗斯塔米将在电影博物馆举行纪念活动",
+      "summary": "德黑兰--国家外交智囊团在文化外交部门正式成立的同时，与伊朗电影博物馆合作，将举办一场纪念已故阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）的特别仪式。阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）是伊朗著名的电影制作人，也是伊朗文化和艺术的永恒人物。",
+      "date": "2026-07-15T17:24:23Z",
+      "url": "https://www.tehrantimes.com/news/528216/Abbas-Kiarostami-to-be-commemorated-at-Cinema-Museum",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528216/Abbas-Kiarostami-to-be-commemorated-at-Cinema-Museum"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Abbas Kiarostami to be commemorated at Cinema Museum"
+      }
+    },
+    {
+      "id": "evt_d07d59fe",
+      "title": "烈士领袖首届全球诗歌奖结束",
+      "summary": "德黑兰--首届殉道者领袖全球诗歌奖（ Martyr Leader Global Poetry Award ）的闭幕式于周一在德黑兰的伊斯兰文化与关系组织（ Islamic Culture and Relations Organization ）举行，文化官员、知识分子和著名国际诗人出席了颁奖典礼，旨在纪念殉道者伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyed Ali Khamenei ）的遗产和道路。",
+      "date": "2026-07-15T17:23:18Z",
+      "url": "https://www.tehrantimes.com/news/528218/Inaugural-Global-Poetry-Award-for-Martyr-Leader-concluded",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528218/Inaugural-Global-Poetry-Award-for-Martyr-Leader-concluded"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Inaugural Global Poetry Award for Martyr Leader concluded"
+      }
+    },
+    {
+      "id": "evt_2ceb84ec",
+      "title": "霍尔木兹海峡：地缘政治杠杆",
+      "summary": "著名的战略事务分析师Mashallah Shams-al-Vaezin告诉Etemad ，最近伊朗-美国在霍尔木兹海峡的紧张局势应该结合两国谅解备忘录的第5条来解释。",
+      "date": "2026-07-15T17:20:45Z",
+      "url": "https://www.tehrantimes.com/news/528217/Strait-of-Hormuz-A-geopolitical-lever",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528217/Strait-of-Hormuz-A-geopolitical-lever"
         }
       ],
       "category": "military",
@@ -121,76 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What is Iran’s Pickaxe Mountain?"
+        "en": "Strait of Hormuz: A geopolitical lever"
       }
     },
     {
-      "id": "evt_82882b8b",
-      "title": "为什么也门长期的“不战不和”僵局可能会结束",
-      "summary": "战斗人员的动员和袭击标志着也门脆弱的和平崩溃，区域影响迫在眉睫。",
-      "date": "2026-07-14T20:17:56Z",
-      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending"
-      }
-    },
-    {
-      "id": "evt_2a0cc52c",
-      "title": "林赛·格雷厄姆的错误逻辑：毁灭无辜人民的借口",
-      "summary": "TEHRAN-我必须指出，生活经历早就教会我永远不要为任何人的死亡而欢欣鼓舞，林赛·格雷厄姆参议员的逝世也是如此，尽管他犯了所有严重的错误。",
-      "date": "2026-07-14T18:29:09Z",
-      "url": "https://www.tehrantimes.com/news/528187/The-flawed-logic-of-Lindsay-Graham-A-pretext-for-destroying",
+      "id": "evt_b0f8fa5e",
+      "title": "伊朗提交正式的联合国投诉，详细说明美国数十起违反谅解备忘录的行为",
+      "summary": "德黑兰--伊朗已向联合国提交正式投诉，指责美国系统性地违反了最近签署的谅解备忘录（ MoU ）。伊朗常驻联合国代表阿米尔·赛义德·伊拉瓦尼（ Amir Saeid Iravani ）在给秘书长安东尼奥·古特雷斯（ António Guterres ）和安理会的一封信中详细介绍了42起单独的违规行为，坚称美国是侵略者而不是受害者。",
+      "date": "2026-07-15T17:19:08Z",
+      "url": "https://www.tehrantimes.com/news/528221/Iran-files-formal-UN-complaint-detailing-dozens-of-US-breaches",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528187/The-flawed-logic-of-Lindsay-Graham-A-pretext-for-destroying"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The flawed logic of Lindsay Graham: A pretext for destroying innocent people"
-      }
-    },
-    {
-      "id": "evt_2dc6df8f",
-      "title": "塔比亚特桥上的“未完成的家庭作业”艺术活动，纪念儿童烈士",
-      "summary": "TEHRAN--德黑兰的塔比亚特大桥（ Tabiat Bridge ）是该市最广阔的行人地标--本周将变成一个露天画廊，因为它举办了“Mashq-e Natamam” （未完成的家庭作业） ，这是一项文化和艺术活动，旨在纪念在最近的战争中失去生命的400多名伊朗儿童。",
-      "date": "2026-07-14T18:23:30Z",
-      "url": "https://www.tehrantimes.com/news/528155/Unfinished-Homework-artistic-event-to-honor-child-martyrs-on",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528155/Unfinished-Homework-artistic-event-to-honor-child-martyrs-on"
+          "url": "https://www.tehrantimes.com/news/528221/Iran-files-formal-UN-complaint-detailing-dozens-of-US-breaches"
         }
       ],
       "category": "military",
@@ -205,160 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "\"Unfinished Homework\" artistic event to honor child martyrs on Tabiat Bridge"
+        "en": "Iran files formal UN complaint detailing dozens of US breaches of MoU"
       }
     },
     {
-      "id": "evt_b17b1090",
-      "title": "“Ali, as Told by Ali”被翻译成土耳其语，以扩大全球影响力",
-      "summary": "TEHRAN -由Hojjatoleslam Mohammad Mohammadian撰写的备受赞誉的作品“Ali, as Told by Ali”已以土耳其语发行，标志着该书在国际上发行的最新一步。",
-      "date": "2026-07-14T18:23:02Z",
-      "url": "https://www.tehrantimes.com/news/528153/Ali-as-Told-by-Ali-translated-into-Turkish-to-expand-global",
+      "id": "evt_71b8dd3e",
+      "title": "伊朗抨击以色列在加沙和约旦河西岸的战争罪行",
+      "summary": "伊朗谴责以色列对加沙和约旦河西岸巴勒斯坦人民的袭击不断升级，要求国际社会采取行动制止杀戮并追究以色列领导人的责任。",
+      "date": "2026-07-15T17:18:06Z",
+      "url": "https://www.tehrantimes.com/news/528223/Iran-slams-Israeli-war-crimes-in-Gaza-and-West-Bank",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528153/Ali-as-Told-by-Ali-translated-into-Turkish-to-expand-global"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "\"Ali, as Told by Ali\" translated into Turkish to expand global reach"
-      }
-    },
-    {
-      "id": "evt_10514d76",
-      "title": "第25届德黑兰拍卖会上将展出100件艺术品",
-      "summary": "德黑兰–第25届德黑兰拍卖会将于7月17日星期五在德黑兰的Parsian Azadi酒店举行，展出100件艺术品，估计总价值在3540亿至4230亿托曼（ 200万至235万美元）之间。",
-      "date": "2026-07-14T18:22:23Z",
-      "url": "https://www.tehrantimes.com/news/528159/100-artworks-to-be-offered-at-25th-Tehran-Auction",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528159/100-artworks-to-be-offered-at-25th-Tehran-Auction"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "100 artworks to be offered at 25th Tehran Auction"
-      }
-    },
-    {
-      "id": "evt_9488fb41",
-      "title": "阿亚图拉·哈梅内伊欢呼公众大规模参与殉难领袖的葬礼",
-      "summary": "德黑兰--周二，殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在德黑兰伊玛目·霍梅尼（ Imam Khomeini ）的大摩萨拉（ Grand Mosalla ）举行了隆重的纪念仪式。首都的大规模集会吸引了来自各行各业的大量人群，凸显了伊朗和其他几个国家继续举行庄严的哀悼仪式。",
-      "date": "2026-07-14T18:20:49Z",
-      "url": "https://www.tehrantimes.com/news/528176/Ayatollah-Khamenei-hails-massive-public-participation-in-martyred",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528176/Ayatollah-Khamenei-hails-massive-public-participation-in-martyred"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ayatollah Khamenei hails massive public participation in martyred Leader’s funeral"
-      }
-    },
-    {
-      "id": "evt_ca4dec96",
-      "title": "伊朗谴责英国对伊斯兰革命卫队的指认，警告采取对等措施",
-      "summary": "德黑兰--伊朗谴责英国决定指定伊斯兰革命卫队（ IRGC ）为“英国《国家安全法》下的威胁”。",
-      "date": "2026-07-14T18:20:01Z",
-      "url": "https://www.tehrantimes.com/news/528175/Iran-condemns-UK-s-IRGC-designation-warns-of-reciprocal-measures",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528175/Iran-condemns-UK-s-IRGC-designation-warns-of-reciprocal-measures"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran condemns UK’s IRGC designation, warns of reciprocal measures"
-      }
-    },
-    {
-      "id": "evt_3bd6a4c1",
-      "title": "“特朗普的嘴必须闭上”",
-      "summary": "Kayhan在一篇讨论如何让特朗普沉默的文章中写道： “伊朗伊斯兰共和国勇敢而革命的武装力量的英勇防御是，这些夜晚在波斯湾和阿曼海，书写了大伊朗历史的黄金篇章。最近几天，波斯湾再次成为全球力量平衡的焦点--美国恐怖主义军队在战略绝望中疯狂地转向一系列盲目的侵略行为。",
-      "date": "2026-07-14T18:19:16Z",
-      "url": "https://www.tehrantimes.com/news/528178/Trump-s-mouth-must-be-shut",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528178/Trump-s-mouth-must-be-shut"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Trump’s mouth must be shut’"
-      }
-    },
-    {
-      "id": "evt_2322dda8",
-      "title": "以色列卡茨寻求赦免杀害巴勒斯坦人的士兵",
-      "summary": "据以色列媒体报道，以色列战争部长以色列·卡茨（ Israel Katz ）要求总统艾萨克·赫尔佐格（ Isaac Herzog ）赦免埃洛尔·阿扎里亚（ Elor Azaria ） ，他是一名前以色列士兵，因在希伯伦杀害一名无行为能力的巴勒斯坦人",
-      "date": "2026-07-14T18:17:20Z",
-      "url": "https://www.tehrantimes.com/news/528181/Israel-Katz-seeks-pardon-for-soldier-who-killed-Palestinian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528181/Israel-Katz-seeks-pardon-for-soldier-who-killed-Palestinian"
+          "url": "https://www.tehrantimes.com/news/528223/Iran-slams-Israeli-war-crimes-in-Gaza-and-West-Bank"
         }
       ],
       "category": "military",
@@ -373,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel Katz seeks pardon for soldier who killed Palestinian"
+        "en": "Iran slams Israeli war crimes in Gaza and West Bank"
       }
     },
     {
-      "id": "evt_97d8a9ac",
-      "title": "从马克龙到特朗普再到以色列：叙利亚的份额是多少？",
-      "summary": "德黑兰--法国总统马克龙作为第一位在大马士革会见自封总统艾哈迈德·沙拉的西方领导人访问叙利亚，令所有人感到惊讶。",
-      "date": "2026-07-14T18:16:09Z",
-      "url": "https://www.tehrantimes.com/news/528180/From-Macron-to-Trump-to-Israel-What-is-Syria-s-share",
+      "id": "evt_f9bc4ffc",
+      "title": "伊朗政府： 30多名平民在最近的美国袭击中丧生",
+      "summary": "德黑兰--伊朗政府发言人法特梅·莫哈杰拉尼（ Fatemeh Mohajerani ）周三表示，在最近美国针对伊朗南部的袭击中，有30多名平民丧生。Mohajerani在社交媒体平台X上发表声明，向受害者家属表示最深切的哀悼，并承诺政府将全力支持该地区受影响的社区。",
+      "date": "2026-07-15T17:16:49Z",
+      "url": "https://www.tehrantimes.com/news/528215/Iranian-government-Over-30-civilians-killed-in-recent-US-attacks",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528180/From-Macron-to-Trump-to-Israel-What-is-Syria-s-share"
+          "url": "https://www.tehrantimes.com/news/528215/Iranian-government-Over-30-civilians-killed-in-recent-US-attacks"
         }
       ],
       "category": "military",
@@ -401,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "From Macron to Trump to Israel: What is Syria’s share?"
+        "en": "Iranian government: Over 30 civilians killed in recent US attacks"
       }
     },
     {
-      "id": "evt_c27a8c1a",
-      "title": "也门在天空中划出一条强硬的线，强加了一个新的方程式",
-      "summary": "德黑兰--7月13日沙特对萨那国际机场的绝望轰炸适得其反，暴露了利雅得、华盛顿和特拉维夫轴心的深刻恐慌。",
-      "date": "2026-07-14T18:15:26Z",
-      "url": "https://www.tehrantimes.com/news/528177/Yemen-draws-a-hard-line-in-the-skies-imposes-a-new-equation",
+      "id": "evt_21767bab",
+      "title": "伊朗在2026年越南盾第3周输给乌克兰",
+      "summary": "德黑兰-伊朗于周三以3-1 （ 25-22、25-21、29-31、25-19 ）开启了2026年排球国家联盟（ VNL ）的第3周。",
+      "date": "2026-07-15T17:16:02Z",
+      "url": "https://www.tehrantimes.com/news/528224/Iran-lose-to-Ukraine-at-2026-VNL-Week-3",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528177/Yemen-draws-a-hard-line-in-the-skies-imposes-a-new-equation"
+          "url": "https://www.tehrantimes.com/news/528224/Iran-lose-to-Ukraine-at-2026-VNL-Week-3"
         }
       ],
       "category": "military",
@@ -429,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemen draws a hard line in the skies, imposes a new equation"
+        "en": "Iran lose to Ukraine at 2026 VNL Week 3"
       }
     },
     {
-      "id": "evt_7d6c5190",
-      "title": "180名议员呼吁终止谅解备忘录，要求对霍尔木兹海峡进行战略威慑",
-      "summary": "德黑兰--由于美国继续违反与德黑兰新签署的谅解备忘录（ MoU ） ，伊朗立法者强烈要求立即终止临时协议，要求革命性地改变该国的国防理论。",
-      "date": "2026-07-14T18:09:46Z",
-      "url": "https://www.tehrantimes.com/news/528174/180-MPs-call-for-terminating-MoU-demand-strategic-deterrence",
+      "id": "evt_594f36cb",
+      "title": "伊朗谴责英国指定伊斯兰革命卫队",
+      "summary": "TEHRAN-伊朗军队强烈谴责英国将伊斯兰革命卫队（ IRGC ）指定为“恐怖组织”的决定，称此举是出于政治动机，并重申其坚定不移地声援IRGC捍卫国家安全和主权。",
+      "date": "2026-07-15T17:15:53Z",
+      "url": "https://www.tehrantimes.com/news/528225/Iran-condemns-UK-designation-of-IRGC",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528174/180-MPs-call-for-terminating-MoU-demand-strategic-deterrence"
+          "url": "https://www.tehrantimes.com/news/528225/Iran-condemns-UK-designation-of-IRGC"
         }
       ],
       "category": "military",
@@ -457,20 +457,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "180 MPs call for terminating MoU, demand strategic deterrence over the Strait of Hormuz"
+        "en": "Iran condemns UK designation of IRGC"
       }
     },
     {
-      "id": "evt_56db86e7",
-      "title": "伊朗敦促联合国安理会追究美国违反谅解备忘录的责任",
-      "summary": "德黑兰--伊朗已正式呼吁联合国安理会“立即对美国采取果断行动” ，指责华盛顿系统地违反了《伊斯兰堡谅解备忘录》，并在数月的军事对抗后破坏了维护地区和平的努力。",
-      "date": "2026-07-14T18:08:01Z",
-      "url": "https://www.tehrantimes.com/news/528186/Iran-urges-UNSC-to-hold-US-accountable-for-breaches-of-MoU",
+      "id": "evt_8e726ca5",
+      "title": "专家大会要求对殉难的领导者进行报复",
+      "summary": "TEHRAN — Ayatollah Mohammad-Ali Movahedi Kermani, Chairman of the Assembly of Experts, said all planners and perpetrators behind the assassination of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, must be identified, prosecuted, and decisively punished.",
+      "date": "2026-07-15T17:03:40Z",
+      "url": "https://www.tehrantimes.com/news/528214/Assembly-of-Experts-demands-retribution-for-martyred-Leader",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528186/Iran-urges-UNSC-to-hold-US-accountable-for-breaches-of-MoU"
+          "url": "https://www.tehrantimes.com/news/528214/Assembly-of-Experts-demands-retribution-for-martyred-Leader"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Assembly of Experts demands retribution for martyred Leader"
+      }
+    },
+    {
+      "id": "evt_d5733b2f",
+      "title": "佩泽什基安总统：民族团结挫败敌人设计的最大资产",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）将“民族团结”描述为该国应对挑战和挫败敌人阴谋的关键资产。Pezeshkian在周三上午的内阁会议上发表了评论，他呼吁避免分裂性言论，并强调维护民族团结是一项集体责任。",
+      "date": "2026-07-15T17:03:05Z",
+      "url": "https://www.tehrantimes.com/news/528219/President-Pezeshkian-National-unity-greatest-asset-to-foil-enemy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528219/President-Pezeshkian-National-unity-greatest-asset-to-foil-enemy"
         }
       ],
       "category": "military",
@@ -485,20 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran urges UNSC to hold US accountable for breaches of MoU"
+        "en": "President Pezeshkian: National unity greatest asset to foil enemy designs"
       }
     },
     {
-      "id": "evt_b2300ab2",
-      "title": "Qomi ：对Soleimani暗杀事件的报复必须仍然是国家的优先事项",
-      "summary": "德黑兰--伊朗伊斯兰发展组织负责人穆罕默德·库米（ Hojjatoleslam Mohammad Qomi ）强调，对暗杀卡西姆·索莱马尼（ Qassem Soleimani ）中将的责任人进行报复仍然是一项基本义务，并表示，将美国驱逐出该地区等更广泛的战略目标并不能取代追究肇事者责任的必要性。",
-      "date": "2026-07-14T18:04:17Z",
-      "url": "https://www.tehrantimes.com/news/528185/Qomi-Retribution-for-Soleimani-assassination-must-remain-a-national",
+      "id": "evt_06d74640",
+      "title": "在霍尔木兹发射导弹，在美国摇晃选票",
+      "summary": "伊朗伊斯兰革命卫队（ IRGC ）周三宣布了针对美国在波斯湾的军事基础设施的大规模新一轮军事行动，称罢工是为了报复美国对伊朗领土的持续袭击以及违反伊朗-美国伊斯兰堡谅解备忘录（ MoU ）的行为。",
+      "date": "2026-07-15T17:00:54Z",
+      "url": "https://www.tehrantimes.com/news/528222/Missiles-fired-in-Hormuz-ballots-shaken-in-America",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528185/Qomi-Retribution-for-Soleimani-assassination-must-remain-a-national"
+          "url": "https://www.tehrantimes.com/news/528222/Missiles-fired-in-Hormuz-ballots-shaken-in-America"
         }
       ],
       "category": "military",
@@ -513,7 +541,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qomi: Retribution for Soleimani assassination must remain a national priority"
+        "en": "Missiles fired in Hormuz, ballots shaken in America"
+      }
+    },
+    {
+      "id": "evt_34ac38df",
+      "title": "特朗普威胁要轰炸桥梁和发电厂，除非伊朗恢复谈判",
+      "summary": "特朗普的言论在两国连续第四天交火，美国恢复封锁伊朗港口时播出。",
+      "date": "2026-07-15T09:06:52Z",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks"
+      }
+    },
+    {
+      "id": "evt_c8291505",
+      "title": "家人说，英国人的伊朗监禁延长了两年",
+      "summary": "克雷格·福尔曼（ Craig Foreman ）的亲属表示，他因在监狱中与媒体交谈而受到的惩罚正在延长。",
+      "date": "2026-07-15T08:33:27Z",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Briton's Iran jail sentence extended by two years, family says"
+      }
+    },
+    {
+      "id": "evt_5258cc0b",
+      "title": "特朗普因霍尔木兹收费而撤退表明他正在努力结束伊朗战争",
+      "summary": "这位美国总统的突然对峙是这场已经持续了四个多月的冲突的最新转折。",
+      "date": "2026-07-14T23:17:27Z",
+      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war"
+      }
+    },
+    {
+      "id": "evt_5205caa5",
+      "title": "霍尔木兹海峡的“断层线”暴露了美伊协议的弱点",
+      "summary": "随着停火协议的失败，对水道的控制已成为美国和伊朗之间争论的关键点。",
+      "date": "2026-07-14T19:13:49Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal"
       }
     },
     {
@@ -794,118 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say"
-      }
-    },
-    {
-      "id": "evt_fdcbbff0",
-      "title": "哈梅内伊被埋葬之际，美国和伊朗遭遇贸易攻击",
-      "summary": "Centcom表示，在最近一轮罢工中，它击中了90个伊朗目标，伊朗卫生部表示，自周二以来已有14人丧生。",
-      "date": "2026-07-10T04:18:14Z",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran trade attacks as Khamenei is buried"
-      }
-    },
-    {
-      "id": "evt_73841068",
-      "title": "马什哈德的巨大人群，因为伊朗已故的最高领导人被埋葬",
-      "summary": "阿里·哈梅内伊（ Ali Khamenei ）被埋葬在伊朗最神圣的什叶派穆斯林圣地伊玛目礼萨神殿（ Imam Reza shrine ） ，结束了为期六天的公开哀悼仪式。",
-      "date": "2026-07-09T23:18:18Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Huge crowds in Mashhad as Iran's late supreme leader is buried"
-      }
-    },
-    {
-      "id": "evt_c05be05a",
-      "title": "巴勒斯坦人哀悼加沙世界杯放映组织者在以色列罢工中丧生",
-      "summary": "在以色列-哈马斯战争期间，援助工作者穆罕默德·瓦希迪（ Mohammed al-Wahidi ）已成为一位杰出的人道主义人士。",
-      "date": "2026-07-09T21:04:09Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike"
-      }
-    },
-    {
-      "id": "evt_a70bb9fe",
-      "title": "特朗普威胁要对伊朗发动更多打击，因为德黑兰警告“无所畏惧”的反应",
-      "summary": "奥巴马在北约峰会上表示，美国“可能会”再次打击伊朗，但他补充说， “任何发生的事情都会很快结束”。",
-      "date": "2026-07-08T18:05:31Z",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response"
       }
     }
   ]
