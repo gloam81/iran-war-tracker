@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-16T01:57:18.532444Z
+// 自动生成的数据 - 更新时间: 2026-07-17T02:01:11.189633Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-16T01:57:18.532388Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-07-17T02:01:11.189575Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 20,
+      "international": 22,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,10 +13,374 @@ const siteData = {
   },
   "events": [
     {
+      "id": "evt_b814b127",
+      "title": "拦截到的伊朗罢工碎片在科威特引发火灾",
+      "summary": "瞬间，一枚炮弹击中了科威特和伊拉克之间的边境地区，引发了一场大火，并向天空喷出浓烟。",
+      "date": "2026-07-17T00:50:09Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait"
+      }
+    },
+    {
+      "id": "evt_f034a00b",
+      "title": "伊朗战争现场：美国对南部民用基础设施实施打击",
+      "summary": "官员报告停电，袭击班达尔的火车站，因为伊朗表示霍尔木兹不会恢复战前状态。",
+      "date": "2026-07-16T23:58:15Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US carries out strikes on civilian infrastructure in south"
+      }
+    },
+    {
+      "id": "evt_17cea149",
+      "title": "越南活动家Bao Ngoc罕见地将国家焦点放在加沙",
+      "summary": "活动人士包玉（ Bao Ngoc ）提请注意巴勒斯坦人在抗议活动受到严格控制的国家的困境。",
+      "date": "2026-07-16T23:39:36Z",
+      "url": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza"
+      }
+    },
+    {
+      "id": "evt_504e90e0",
+      "title": "卡塔尔否认以色列对伊朗采取军事行动的报道",
+      "summary": "卡塔尔拒绝接受以色列媒体声称卡塔尔人同意参与对伊朗的军事行动的报道。",
+      "date": "2026-07-16T23:07:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qatar rejects Israeli reports of military action against Iran"
+      }
+    },
+    {
+      "id": "evt_9ac8b28d",
+      "title": "伊朗称在最近的美国空袭中有7人丧生，并警告战争“将蔓延”",
+      "summary": "据报道，在桥梁、铁路和通信基础设施遭到袭击的同时，双方的立场都变得更加强硬。",
+      "date": "2026-07-16T21:02:11Z",
+      "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says seven killed in latest US strikes, warns war ‘will spread’"
+      }
+    },
+    {
+      "id": "evt_4cf00e91",
+      "title": "伊朗谈判中最难管理的一方不是伊朗",
+      "summary": "华盛顿的扰流板问题在于它自己的联盟内部，而扰流板剧本从来不是为朋友写的。",
+      "date": "2026-07-16T20:40:53Z",
+      "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The hardest party to manage in the Iran talks isn’t Iran"
+      }
+    },
+    {
+      "id": "evt_f709c718",
+      "title": "巴勒斯坦人在约旦河西岸的以色列定居者袭击中受伤",
+      "summary": "据报道，随着以色列加紧围困，在整个被占领土上逮捕了30多人。",
+      "date": "2026-07-16T20:37:23Z",
+      "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinians injured in Israeli settler attacks across West Bank"
+      }
+    },
+    {
+      "id": "evt_3af823da",
+      "title": "伊朗以2026越南盾击败德国",
+      "summary": "德黑兰-伊朗周四在2026年排球国家联盟（ VNL ）第三周以3-2 （ 25-22、26-28、18-25、25-20、15-12 ）击败德国。",
+      "date": "2026-07-16T18:48:39Z",
+      "url": "https://www.tehrantimes.com/news/528230/Iran-beat-Germany-at-2026-VNL",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528230/Iran-beat-Germany-at-2026-VNL"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran beat Germany at 2026 VNL"
+      }
+    },
+    {
+      "id": "evt_fb3570d4",
+      "title": "2026年亚洲青少年手球锦标赛韩国边缘伊朗",
+      "summary": "德黑兰--周四，伊朗在2026年亚洲青少年手球锦标赛的首场比赛中以29-28输给了韩国。",
+      "date": "2026-07-16T14:25:21Z",
+      "url": "https://www.tehrantimes.com/news/528229/S-Korea-edge-Iran-at-2026-Asian-Junior-Handball-Championship",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528229/S-Korea-edge-Iran-at-2026-Asian-Junior-Handball-Championship"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "S. Korea edge Iran at 2026 Asian Junior Handball Championship"
+      }
+    },
+    {
+      "id": "evt_296d79e7",
+      "title": "伊朗有资格参加2027年国际排联男排U19世界锦标赛",
+      "summary": "德黑兰–周四，伊朗在2026年AVC男子U18排球锦标赛上以3比1 （ 25-19、25-19、11-25、25-18 ）击败韩国。",
+      "date": "2026-07-16T14:20:00Z",
+      "url": "https://www.tehrantimes.com/news/528228/Iran-qualify-for-2027-FIVB-Volleyball-Boys-U19-World-Championship",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528228/Iran-qualify-for-2027-FIVB-Volleyball-Boys-U19-World-Championship"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran qualify for 2027 FIVB Volleyball Boys' U19 World Championship"
+      }
+    },
+    {
+      "id": "evt_eb4b88af",
+      "title": "伊朗男子坐排球安全2028年洛杉矶残奥会泊位",
+      "summary": "德黑兰--周四，伊朗男子在2026年坐式排球世界锦标赛半决赛中连续几盘（ 25-18、25-10、25-23 ）击败哈萨克斯坦。",
+      "date": "2026-07-16T14:10:31Z",
+      "url": "https://www.tehrantimes.com/news/528227/Iran-s-men-sitting-volleyball-secure-2028-LA-Paralympics-berth",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528227/Iran-s-men-sitting-volleyball-secure-2028-LA-Paralympics-berth"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s men sitting volleyball secure 2028 LA Paralympics berth"
+      }
+    },
+    {
+      "id": "evt_52ded86c",
+      "title": "美国在执行新的伊朗封锁时用导弹袭击油轮",
+      "summary": "美国军方瞄准了一艘空载的油轮，据称该油轮正驶向哈格岛上的关键伊朗石油码头。",
+      "date": "2026-07-16T12:09:26Z",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US strikes oil tanker with missiles as it enforces new Iran blockade"
+      }
+    },
+    {
+      "id": "evt_506229ce",
+      "title": "随着美国发动一波罢工，伊朗以军事基地为目标",
+      "summary": "在邻近的海湾国家开始报告袭击事件后不久，一夜之间在伊朗各地都听到了爆炸声。",
+      "date": "2026-07-16T11:48:49Z",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran targets military bases as US launches wave of strikes"
+      }
+    },
+    {
       "id": "evt_099ede8c",
       "title": "美国对伊朗发动新一轮打击，特朗普警告德黑兰“表现得更好”",
       "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，他尚未决定是否会“结束”伊朗。",
-      "date": "2026-07-16T01:52:41Z",
+      "date": "2026-07-16T04:06:11Z",
       "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -38,146 +402,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'"
-      }
-    },
-    {
-      "id": "evt_f0575e38",
-      "title": "伊朗医生称美国罢工损坏了儿童癌症医院",
-      "summary": "伊朗人正在检查美国几天来对该国南部和西部主要城市的袭击造成的破坏。",
-      "date": "2026-07-16T01:36:58Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian doctor says US strike damaged children’s cancer hospital"
-      }
-    },
-    {
-      "id": "evt_6b9300fe",
-      "title": "野火烟雾吞没加拿大多伦多，并使其天空变成橙色",
-      "summary": "野火烟雾在多伦多和安大略省其他地方变成了橙色。",
-      "date": "2026-07-16T00:47:07Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Wildfire smoke engulfs Toronto, Canada and turns its skies orange"
-      }
-    },
-    {
-      "id": "evt_bf2cfdc4",
-      "title": "伊朗战争现场：巴林、科威特的警笛声；美国“禁用”伊朗油轮",
-      "summary": "伊朗媒体报道了格什姆岛（ Geshm Island ）、阿巴斯港（ Bandar Abbas ）和恰巴哈尔（ Chabahar ）的爆炸事件，当时巴林和科威特的空袭警报响起。",
-      "date": "2026-07-16T00:00:48Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker"
-      }
-    },
-    {
-      "id": "evt_d41a4955",
-      "title": "伊朗称和平协议无效，在美国袭击后进行“生存战争”",
-      "summary": "美国周三晚间宣布了新一波袭击事件，据报道，阿巴斯港、恰巴哈尔和阿瓦士发生了爆炸。",
-      "date": "2026-07-15T21:46:57Z",
-      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says peace deal voided, fighting ‘existential war’ after US attacks"
-      }
-    },
-    {
-      "id": "evt_d1a03854",
-      "title": "以色列和黎巴嫩之间和平的障碍是什么？",
-      "summary": "以色列和黎巴嫩正在进行另一轮会谈，试图推进停火协议。",
-      "date": "2026-07-15T20:46:03Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What are the obstacles to peace between Israel and Lebanon?"
       }
     },
     {
@@ -430,118 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran lose to Ukraine at 2026 VNL Week 3"
-      }
-    },
-    {
-      "id": "evt_594f36cb",
-      "title": "伊朗谴责英国指定伊斯兰革命卫队",
-      "summary": "TEHRAN-伊朗军队强烈谴责英国将伊斯兰革命卫队（ IRGC ）指定为“恐怖组织”的决定，称此举是出于政治动机，并重申其坚定不移地声援IRGC捍卫国家安全和主权。",
-      "date": "2026-07-15T17:15:53Z",
-      "url": "https://www.tehrantimes.com/news/528225/Iran-condemns-UK-designation-of-IRGC",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528225/Iran-condemns-UK-designation-of-IRGC"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran condemns UK designation of IRGC"
-      }
-    },
-    {
-      "id": "evt_8e726ca5",
-      "title": "专家大会要求对殉难的领导者进行报复",
-      "summary": "TEHRAN — Ayatollah Mohammad-Ali Movahedi Kermani, Chairman of the Assembly of Experts, said all planners and perpetrators behind the assassination of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, must be identified, prosecuted, and decisively punished.",
-      "date": "2026-07-15T17:03:40Z",
-      "url": "https://www.tehrantimes.com/news/528214/Assembly-of-Experts-demands-retribution-for-martyred-Leader",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528214/Assembly-of-Experts-demands-retribution-for-martyred-Leader"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Assembly of Experts demands retribution for martyred Leader"
-      }
-    },
-    {
-      "id": "evt_d5733b2f",
-      "title": "佩泽什基安总统：民族团结挫败敌人设计的最大资产",
-      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）将“民族团结”描述为该国应对挑战和挫败敌人阴谋的关键资产。Pezeshkian在周三上午的内阁会议上发表了评论，他呼吁避免分裂性言论，并强调维护民族团结是一项集体责任。",
-      "date": "2026-07-15T17:03:05Z",
-      "url": "https://www.tehrantimes.com/news/528219/President-Pezeshkian-National-unity-greatest-asset-to-foil-enemy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528219/President-Pezeshkian-National-unity-greatest-asset-to-foil-enemy"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "President Pezeshkian: National unity greatest asset to foil enemy designs"
-      }
-    },
-    {
-      "id": "evt_06d74640",
-      "title": "在霍尔木兹发射导弹，在美国摇晃选票",
-      "summary": "伊朗伊斯兰革命卫队（ IRGC ）周三宣布了针对美国在波斯湾的军事基础设施的大规模新一轮军事行动，称罢工是为了报复美国对伊朗领土的持续袭击以及违反伊朗-美国伊斯兰堡谅解备忘录（ MoU ）的行为。",
-      "date": "2026-07-15T17:00:54Z",
-      "url": "https://www.tehrantimes.com/news/528222/Missiles-fired-in-Hormuz-ballots-shaken-in-America",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528222/Missiles-fired-in-Hormuz-ballots-shaken-in-America"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Missiles fired in Hormuz, ballots shaken in America"
       }
     },
     {
@@ -878,62 +990,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74"
-      }
-    },
-    {
-      "id": "evt_4136d57f",
-      "title": "美国民主党人罗·坎纳（ Ro Khanna ）说，他被武装的以色列定居者拘留",
-      "summary": "他说， 49岁的Khanna正在访问被占领的约旦河西岸，当时他被关押了90分钟。",
-      "date": "2026-07-11T18:00:09Z",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers"
-      }
-    },
-    {
-      "id": "evt_ad66cae8",
-      "title": "美国官员表示，伊朗必须承诺停止向霍尔木兹海峡的船只开枪",
-      "summary": "美国媒体称，伊朗已告诉美国官员，本周早些时候对穿越海峡的船只的袭击是“一个错误”。",
-      "date": "2026-07-11T16:55:57Z",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say"
       }
     }
   ]
