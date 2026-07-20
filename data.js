@@ -1,28 +1,140 @@
-// 自动生成的数据 - 更新时间: 2026-07-19T02:00:21.826848Z
+// 自动生成的数据 - 更新时间: 2026-07-20T03:23:32.258414Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-19T02:00:21.826806Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-07-20T03:23:32.258351Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 19,
-      "iranian": 14,
+      "international": 21,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_0b4c848a",
-      "title": "内塔尼亚胡在世界杯决赛前宣布支持阿根廷",
-      "summary": "阿根廷驻以色列大使在世界杯决赛前向本雅明·内塔尼亚胡赠送了一件足球衫。",
-      "date": "2026-07-19T00:33:31Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
+      "id": "evt_5756b828",
+      "title": "巴勒斯坦人庆祝西班牙世界杯胜利",
+      "summary": "加沙和被占领的约旦河西岸的巴勒斯坦人庆祝西班牙世界杯的胜利。",
+      "date": "2026-07-20T02:23:45Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinians celebrate Spain’s World Cup victory"
+      }
+    },
+    {
+      "id": "evt_b47067a9",
+      "title": "美国军人在伊拉克伊朗无人机爆炸中丧生",
+      "summary": "一名美国士兵在一架伊朗击落的无人机受控爆炸中在伊拉克北部被炸死。",
+      "date": "2026-07-20T02:11:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US service member killed during detonation of Iranian drone in Iraq"
+      }
+    },
+    {
+      "id": "evt_0407164d",
+      "title": "随着霍尔木兹紧张局势升级，美国连续第九晚轰炸伊朗",
+      "summary": "伊朗媒体报道了极北和极南城市的爆炸事件，包括大不里士和恰巴哈尔。",
+      "date": "2026-07-20T01:48:59Z",
+      "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate"
+      }
+    },
+    {
+      "id": "evt_7273d56b",
+      "title": "伊朗战争现场：美国军方完成对伊朗的第九夜罢工",
+      "summary": "美军连续第九晚袭击伊朗，一名美军士兵在伊拉克北部阵亡。",
+      "date": "2026-07-20T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US military completes ninth night of strikes on Iran"
+      }
+    },
+    {
+      "id": "evt_6a109500",
+      "title": "美国士兵在伊朗无人机“受控引爆”期间在伊拉克丧生",
+      "summary": "自美国-以色列对伊朗的战争开始以来，死亡人数使美国士兵死亡人数达到17人。",
+      "date": "2026-07-19T23:49:30Z",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +149,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu declares support for Argentina ahead of World Cup final"
+        "en": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone"
       }
     },
     {
-      "id": "evt_8374dfba",
-      "title": "伊朗袭击约旦后，两名美军死亡，一名失踪",
-      "summary": "随着本周敌对行动再次升级，伊朗和美国进行了罢工，德黑兰的目标是海湾地区的美国军事设施。",
-      "date": "2026-07-19T00:18:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_58d46443",
+      "title": "以色列部长联手向加沙游行，要求归还定居点",
+      "summary": "数百人聚集在边境附近，极右翼人士推动重建2005年拆除的定居点",
+      "date": "2026-07-19T20:55:11Z",
+      "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli ministers join march to Gaza to demand return of settlements"
+      }
+    },
+    {
+      "id": "evt_11496eba",
+      "title": "美国士兵在伊朗袭击伊拉克后死亡，一人受伤",
+      "summary": "美国军方报告称，其两名士兵在约旦被杀后一天又发生了一起死亡事件。",
+      "date": "2026-07-19T19:45:12Z",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US soldier killed and one injured after Iranian attack in Iraq"
+      }
+    },
+    {
+      "id": "evt_2524350c",
+      "title": "AEOI谴责美国对在建核电站的“恐怖袭击”",
+      "summary": "TEHRAN -伊朗原子能组织（ AEOI ）强烈谴责“美国对Darkhoveyn核电站的袭击” ，该核电站目前正在伊朗西南部的胡齐斯坦省建设中。",
+      "date": "2026-07-19T17:55:54Z",
+      "url": "https://www.tehrantimes.com/news/528346/AEOI-condemns-US-terrorist-attack-on-under-construction-nuclear",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528346/AEOI-condemns-US-terrorist-attack-on-under-construction-nuclear"
         }
       ],
       "category": "military",
@@ -65,27 +233,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Two US troops killed and one missing after Iranian attack in Jordan"
+        "en": "AEOI condemns US ‘terrorist attack’ on under-construction nuclear power plant"
       }
     },
     {
-      "id": "evt_1aaa9527",
-      "title": "伊朗战争现场：美国发动新罢工；特朗普哀悼阵亡士兵",
-      "summary": "美国总统表示，约旦士兵的死亡是一件“悲伤的事情” ，因为美国军队连续第八个晚上袭击伊朗。",
-      "date": "2026-07-19T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+      "id": "evt_c68eab1f",
+      "title": "伊朗无法超越美国在西亚的基地",
+      "summary": "TEHRAN-伊朗大大扩大了对美国在波斯湾及其周边地区重新开展行动的军事反应，将报复性无人机袭击、防空行动和更严格的霍尔木兹海峡控制相结合，开展了一场协调一致的行动，在保护自身军事资源的同时，对华盛顿施加越来越高的代价。",
+      "date": "2026-07-19T17:34:04Z",
+      "url": "https://www.tehrantimes.com/news/528339/No-U-S-base-in-West-Asia-is-beyond-Iran-s-reach",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528339/No-U-S-base-in-West-Asia-is-beyond-Iran-s-reach"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -93,20 +261,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US launches new strikes; Trump mourns killed soldiers"
+        "en": "No US base in West Asia is beyond Iran's reach"
       }
     },
     {
-      "id": "evt_21551d47",
-      "title": "巴勒斯坦少年足球运动员在以色列定居者袭击一周后死亡",
-      "summary": "法迪·纳桑（ Fadi al-Nassan ）在约旦河西岸村庄被枪杀一周后，定居者暴力事件激增。",
-      "date": "2026-07-18T20:24:51Z",
-      "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
+      "id": "evt_73ebdb6c",
+      "title": "所有不人道做法都旨在减少加沙的巴勒斯坦人口",
+      "summary": "德黑兰--以色列对巴勒斯坦人的种族灭绝运动，加上将他们赶出家园的努力，仍有增无减。",
+      "date": "2026-07-19T16:58:43Z",
+      "url": "https://www.tehrantimes.com/news/528344/All-inhumane-practices-aim-to-depopulate-Gaza-of-Palestinians",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528344/All-inhumane-practices-aim-to-depopulate-Gaza-of-Palestinians"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "All inhumane practices aim to depopulate Gaza of Palestinians"
+      }
+    },
+    {
+      "id": "evt_e70da2d0",
+      "title": "Mamdani探索如果他访问纽约，他是否可以逮捕“战争罪犯”内塔尼亚胡",
+      "summary": "据“卫报”报道，纽约市市长Zohran Mamdani表示，他正在审查他的政府是否可以逮捕本杰明内塔尼亚胡，如果以色列总理像预期的那样在9月份访问该市参加联合国大会。",
+      "date": "2026-07-19T16:47:42Z",
+      "url": "https://www.tehrantimes.com/news/528343/Mamdani-exploring-whether-he-can-arrest-war-criminal-Netanyahu",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528343/Mamdani-exploring-whether-he-can-arrest-war-criminal-Netanyahu"
         }
       ],
       "category": "military",
@@ -121,132 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinian teenage footballer dies a week after Israeli settler attack"
+        "en": "Mamdani exploring whether he can arrest 'war criminal' Netanyahu if he visits New York"
       }
     },
     {
-      "id": "evt_40b170af",
-      "title": "为什么加沙的“停火”未能阻止以色列的袭击？",
-      "summary": "经历过以色列种族灭绝战争的巴勒斯坦人仍然是目标。",
-      "date": "2026-07-18T19:55:16Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?"
-      }
-    },
-    {
-      "id": "evt_e88ec614",
-      "title": "基亚罗斯塔米纪念活动强调艺术外交作为国际关系的工具",
-      "summary": "TEHRAN-周四在伊朗电影博物馆举行了一场纪念已故电影大师阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）的特别纪念活动，名为“阿巴斯·基亚罗斯塔米：超越国界”。",
-      "date": "2026-07-18T18:15:08Z",
-      "url": "https://www.tehrantimes.com/news/528271/Kiarostami-commemoration-highlights-art-diplomacy-as-tool-for",
+      "id": "evt_a5e1174f",
+      "title": "袭击伊朗基础设施背后的误判",
+      "summary": "伊朗报纸在一篇文章中审查了美国最近的袭击事件，并认为针对公共基础设施与其说是实力的标志，不如说是华盛顿未能实现目标后战略转变的证据。当宣布的目标无法通过对抗实现时，努力就会转向将经济和心理代价强加给民众，以取代军事上的成功。",
+      "date": "2026-07-19T16:44:57Z",
+      "url": "https://www.tehrantimes.com/news/528318/Miscalculation-behind-attacks-on-Iran-s-infrastructure",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528271/Kiarostami-commemoration-highlights-art-diplomacy-as-tool-for"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Kiarostami commemoration highlights art diplomacy as tool for international relations"
-      }
-    },
-    {
-      "id": "evt_6acc6158",
-      "title": "Avaye Chirok发布“Aafrat”音频版",
-      "summary": "德黑兰--伊朗作家塔赫雷赫·拉法特（ Tahereh Rafat ）的小说《阿夫拉特》（ Aafrat ）的有声读物版本最近发布。",
-      "date": "2026-07-18T18:14:37Z",
-      "url": "https://www.tehrantimes.com/news/528272/Avaye-Chirok-releases-audio-edition-of-Aafrat",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528272/Avaye-Chirok-releases-audio-edition-of-Aafrat"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Avaye Chirok releases audio edition of “Aafrat”"
-      }
-    },
-    {
-      "id": "evt_dc7c42ea",
-      "title": "伊朗誓言对美国和以色列的罪行采取无情的法律行动",
-      "summary": "德黑兰--伊朗司法机构对美国和以色列发起了全面的法律诉讼，寻求对战争罪和对该国的军事侵略进行国际起诉和经济赔偿。",
-      "date": "2026-07-18T18:13:17Z",
-      "url": "https://www.tehrantimes.com/news/528282/Iran-vows-relentless-legal-action-over-US-and-Israeli-crimes",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528282/Iran-vows-relentless-legal-action-over-US-and-Israeli-crimes"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran vows relentless legal action over US and Israeli crimes"
-      }
-    },
-    {
-      "id": "evt_cc54967a",
-      "title": "向美国及其盟友传达的战略信息",
-      "summary": "呼罗珊分析了伊斯兰革命卫队导弹袭击后阿联酋富查伊拉港口的关闭情况，写道该港口一直是该地区最重要的油轮交通枢纽。最重要的一点是：美国的保护未能保护油轮和阿联酋的战略港口。",
-      "date": "2026-07-18T18:12:47Z",
-      "url": "https://www.tehrantimes.com/news/528283/Strategic-message-to-the-US-and-its-allies",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528283/Strategic-message-to-the-US-and-its-allies"
+          "url": "https://www.tehrantimes.com/news/528318/Miscalculation-behind-attacks-on-Iran-s-infrastructure"
         }
       ],
       "category": "military",
@@ -261,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Strategic message to the US and its allies"
+        "en": "Miscalculation behind attacks on Iran’s infrastructure"
       }
     },
     {
-      "id": "evt_1ae5df2d",
-      "title": "美国空袭后政府发言人访问阿瓦士医院",
-      "summary": "德黑兰--伊朗政府发言人Fatemeh Mohajerani周五晚上访问了Shahid Baqaei专科医院，视察附近美国空袭造成的严重破坏，并向受害者表示声援。Mohajerani走过主要儿科肿瘤学中心受严重影响的病房，与住院儿童及其家人面对面，为遭受袭击的创伤者提供安慰。",
-      "date": "2026-07-18T18:11:56Z",
-      "url": "https://www.tehrantimes.com/news/528285/Government-spokesperson-visits-Ahvaz-hospital-after-US-strike",
+      "id": "evt_b65d48c0",
+      "title": "美国前反恐负责人表示，伊朗在战后变得更强大，敦促政策转变",
+      "summary": "德黑兰--美国国家反恐中心（ NCTC ）前负责人认为，在经历了数月的军事对抗后，华盛顿必须承认伊朗的地区地位得到加强，并警告说，持续的袭击只会加深美国的战略挫折。",
+      "date": "2026-07-19T16:42:42Z",
+      "url": "https://www.tehrantimes.com/news/528334/Former-US-counterterrorism-chief-says-Iran-emerged-stronger-after",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528285/Government-spokesperson-visits-Ahvaz-hospital-after-US-strike"
+          "url": "https://www.tehrantimes.com/news/528334/Former-US-counterterrorism-chief-says-Iran-emerged-stronger-after"
         }
       ],
       "category": "military",
@@ -289,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Government spokesperson visits Ahvaz hospital after US strike"
+        "en": "Former US counterterrorism chief says Iran emerged stronger after war, urges policy shift"
       }
     },
     {
-      "id": "evt_8f8ee1cf",
-      "title": "领导人的军事顾问：如果美国继续罢工，伊朗将转向全面战争",
-      "summary": "德黑兰--伊斯兰革命领袖的一位高级军事顾问宣布，华盛顿“战争和谈判”的双重战略已经到了最后的死胡同，并警告说，如果美国的侵略不立即停止，伊朗已经做好了进入侵略和破坏阶段的充分准备。",
-      "date": "2026-07-18T18:05:20Z",
-      "url": "https://www.tehrantimes.com/news/528291/Leader-s-military-advisor-Iran-will-shift-to-full-scale-war",
+      "id": "evt_61e9c0e6",
+      "title": "卡利巴夫：击败“敌人”的团结关键",
+      "summary": "德黑兰--议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）强调，维护国家统一对于在战场上战胜美国和以色列至关重要。",
+      "date": "2026-07-19T16:42:20Z",
+      "url": "https://www.tehrantimes.com/news/528320/Qalibaf-Unity-key-to-defeating-the-enemy",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528291/Leader-s-military-advisor-Iran-will-shift-to-full-scale-war"
+          "url": "https://www.tehrantimes.com/news/528320/Qalibaf-Unity-key-to-defeating-the-enemy"
         }
       ],
       "category": "military",
@@ -317,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Leader’s military advisor: Iran will shift to full-scale war if US strikes continue"
+        "en": "Qalibaf: Unity key to defeating the ‘enemy’"
       }
     },
     {
-      "id": "evt_efec3114",
-      "title": "Pezeshkian呼吁加强伊朗在全球舞台上的法律威慑",
-      "summary": "德黑兰--总统马苏德·佩泽什基安（ Masoud Pezeshkian ）将对以色列和美国对伊朗的军事侵略的法律和司法层面进行系统审查描述为建立国际威慑的不可否认的必要性。",
-      "date": "2026-07-18T18:04:56Z",
-      "url": "https://www.tehrantimes.com/news/528284/Pezeshkian-calls-for-strengthening-Iran-s-legal-deterrence-on",
+      "id": "evt_7673418e",
+      "title": "Hojjatoleslam Qomi ：为殉难的领导者报仇是普遍的责任",
+      "summary": "德黑兰--伊朗伊斯兰意识形态传播组织负责人穆罕默德·库米（ Hojjatoleslam Mohammad Qomi ）加倍努力，呼吁为前伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）遇刺报仇。",
+      "date": "2026-07-19T16:41:58Z",
+      "url": "https://www.tehrantimes.com/news/528321/Hojjatoleslam-Qomi-Vengeance-for-martyred-Leader-is-universal",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528284/Pezeshkian-calls-for-strengthening-Iran-s-legal-deterrence-on"
+          "url": "https://www.tehrantimes.com/news/528321/Hojjatoleslam-Qomi-Vengeance-for-martyred-Leader-is-universal"
         }
       ],
       "category": "military",
@@ -345,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pezeshkian calls for strengthening Iran's legal deterrence on global stage"
+        "en": "Hojjatoleslam Qomi: Vengeance for martyred Leader is universal duty"
       }
     },
     {
-      "id": "evt_62d42687",
-      "title": "伊朗终止对美国违规行为的谅解备忘录承诺",
-      "summary": "德黑兰–伊朗已暂停其在伊斯兰堡谅解备忘录（ MoU ）下的所有承诺，宣布华盛顿持续的军事侵略行为实际上践踏并阻止了双边外交框架。",
-      "date": "2026-07-18T18:03:20Z",
-      "url": "https://www.tehrantimes.com/news/528294/Iran-halts-MoU-commitments-over-US-violations",
+      "id": "evt_d6f28929",
+      "title": "Asghar Farhadi将在第32届萨拉热窝电影节上获得荣誉",
+      "summary": "德黑兰--伊朗电影制片人阿斯加尔·法哈迪（ Asghar Farhadi ）为表彰他对电影艺术的杰出贡献，将于8月14日至21日在波斯尼亚和黑塞哥维那萨拉热窝举行的第32届萨拉热窝电影节上荣获萨拉热窝荣誉之心。",
+      "date": "2026-07-19T16:40:53Z",
+      "url": "https://www.tehrantimes.com/news/528322/Asghar-Farhadi-to-be-honored-at-32nd-Sarajevo-Film-Festival",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528294/Iran-halts-MoU-commitments-over-US-violations"
+          "url": "https://www.tehrantimes.com/news/528322/Asghar-Farhadi-to-be-honored-at-32nd-Sarajevo-Film-Festival"
         }
       ],
       "category": "military",
@@ -373,20 +457,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran halts MoU commitments over US violations"
+        "en": "Asghar Farhadi to be honored at 32nd Sarajevo Film Festival"
       }
     },
     {
-      "id": "evt_eabf971c",
-      "title": "美国引发霍尔木兹危机以掩盖战场失败：伊朗驻巴基斯坦特使",
-      "summary": "德黑兰--伊朗驻巴基斯坦大使礼萨·阿米里·莫加达姆（ Reza Amiri Moghadam ）指责美国在霍尔木兹海峡发起了一场鲁莽的破坏运动，以弥补其在战场上的军事失败。",
-      "date": "2026-07-18T18:02:55Z",
-      "url": "https://www.tehrantimes.com/news/528295/US-sparks-Hormuz-crisis-to-mask-battlefield-failure-Iranian",
+      "id": "evt_b69e20a6",
+      "title": "美国对伊拉克的金融扼杀",
+      "summary": "德黑兰--2003年入侵后二十多年来，伊拉克一直围绕一个不同寻常的金融现实重建经济：这个世界第五大石油生产国依靠外国势力获得维持其经济运行的货币。",
+      "date": "2026-07-19T16:40:11Z",
+      "url": "https://www.tehrantimes.com/news/528341/America-s-financial-stranglehold-on-Iraq",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528295/US-sparks-Hormuz-crisis-to-mask-battlefield-failure-Iranian"
+          "url": "https://www.tehrantimes.com/news/528341/America-s-financial-stranglehold-on-Iraq"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "America’s financial stranglehold on Iraq"
+      }
+    },
+    {
+      "id": "evt_ed425c84",
+      "title": "抵抗电影节呼吁为领袖的葬礼拍摄纪录片",
+      "summary": "TEHRAN-第19届抵抗运动国际电影节秘书处已正式呼吁纪录片制作人、导演和媒体活动家提交作品，捕捉伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊的告别和葬礼仪式。",
+      "date": "2026-07-19T16:40:10Z",
+      "url": "https://www.tehrantimes.com/news/528323/Resistance-Film-Festival-calls-for-documentaries-on-Leader-s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528323/Resistance-Film-Festival-calls-for-documentaries-on-Leader-s"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Resistance Film Festival calls for documentaries on Leader’s funeral"
+      }
+    },
+    {
+      "id": "evt_c947d851",
+      "title": "在莫斯科展出的伊朗微型作品",
+      "summary": "德黑兰--展览“从套索到线束” （ From Lasso to Harness ）在莫斯科季米里亚泽夫学院马匹育种博物馆（ Museum of Horse Breeding of the Timiryazev Academy ）举行，展出伊朗和俄罗斯艺术家的作品。",
+      "date": "2026-07-19T16:39:28Z",
+      "url": "https://www.tehrantimes.com/news/528325/Iranian-miniature-works-on-display-in-Moscow",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528325/Iranian-miniature-works-on-display-in-Moscow"
         }
       ],
       "category": "military",
@@ -401,20 +541,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US sparks Hormuz crisis to mask battlefield failure: Iranian envoy to Pakistan"
+        "en": "Iranian miniature works on display in Moscow"
       }
     },
     {
-      "id": "evt_fa1b7873",
-      "title": "“美国通过阿曼方面的军事转移威胁”",
-      "summary": "德黑兰--伊朗权宜之计委员会的一名成员为德黑兰有关霍尔木兹海峡海上安全的行动辩护，称对水路上的某些行动施加的限制旨在防止对伊朗国家安全构成威胁的美国军事装备的转让。",
-      "date": "2026-07-18T18:01:59Z",
-      "url": "https://www.tehrantimes.com/news/528306/US-military-transfers-through-Omani-side-threatening",
+      "id": "evt_8bccec3d",
+      "title": "领导人感谢伊拉克人的“历史性史诗”",
+      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）对伊拉克人民在殉难领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的葬礼游行中表现出的“宏伟而深刻的史诗”表示感谢，称赞公众的大规模参与是伊朗和伊拉克民族之间“团结、信仰和团结的象征”。",
+      "date": "2026-07-19T16:38:42Z",
+      "url": "https://www.tehrantimes.com/news/528342/Leader-thanks-Iraqis-for-historic-epic",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528306/US-military-transfers-through-Omani-side-threatening"
+          "url": "https://www.tehrantimes.com/news/528342/Leader-thanks-Iraqis-for-historic-epic"
         }
       ],
       "category": "military",
@@ -429,63 +569,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "'US military transfers through Omani side threatening'"
-      }
-    },
-    {
-      "id": "evt_fbd04c41",
-      "title": "伊朗表示，华盛顿的道德信誉正在崩溃",
-      "summary": "德黑兰--伊朗外交部发言人伊斯梅尔·巴凯伊（ Esmaeil Baqaei ）指责美国在对伊朗的军事行动中故意以民用基础设施为目标，称华盛顿的行动破坏了其捍卫国际法和打击恐怖主义的主张。",
-      "date": "2026-07-18T17:53:44Z",
-      "url": "https://www.tehrantimes.com/news/528305/Washington-s-moral-credibility-is-crumbling-says-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528305/Washington-s-moral-credibility-is-crumbling-says-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Washington's moral credibility is crumbling, says Iran"
-      }
-    },
-    {
-      "id": "evt_039d338e",
-      "title": "伊朗袭击美国阵地以应对对民用设施的袭击",
-      "summary": "德黑兰--伊朗周六报告称，由于美国军方瞄准伊朗南部沿海省份的民用基础设施，美国在该地区的军事设施遭到了一系列导弹和无人机袭击。",
-      "date": "2026-07-18T17:50:12Z",
-      "url": "https://www.tehrantimes.com/news/528304/Iran-hits-US-positions-in-response-to-raids-on-civilian-facilities",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528304/Iran-hits-US-positions-in-response-to-raids-on-civilian-facilities"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran hits US positions in response to raids on civilian facilities"
+        "en": "Leader thanks Iraqis for 'historic epic'"
       }
     },
     {
@@ -514,62 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US strikes hit Iran for seventh consecutive night"
-      }
-    },
-    {
-      "id": "evt_92034015",
-      "title": "Chaharmahal-Bakhtiari的传统服装：民族遗产的彩虹",
-      "summary": "Chaharmahal-Bakhtiari的传统服装是伊朗文化遗产最独特的表现形式之一。这些服装以充满活力的粉红色、绿色、红色、橙色、紫色、蓝色、黄色和白色色调为特色，形成了一道鲜艳的彩虹，反映了几个世纪以来的艺术、工艺和种族多样性。",
-      "date": "2026-07-18T17:41:40Z",
-      "url": "https://www.tehrantimes.com/news/528299/Traditional-clothing-of-Chaharmahal-Bakhtiari-A-rainbow-of-ethnic",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528299/Traditional-clothing-of-Chaharmahal-Bakhtiari-A-rainbow-of-ethnic"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Traditional clothing of Chaharmahal-Bakhtiari: A rainbow of ethnic heritage"
-      }
-    },
-    {
-      "id": "evt_cee42fa2",
-      "title": "研究表明，阿拉穆特城堡的作用超越了军事功能",
-      "summary": "德黑兰--大伊斯兰百科全书文献中心图书馆馆长表示，古老的阿拉穆特城堡（及其卫星堡垒和防御结构）长期以来主要被称为尼扎里伊斯玛仪国家的政治和军事据点，也可能是保存和生产科学知识的中心。",
-      "date": "2026-07-18T17:38:28Z",
-      "url": "https://www.tehrantimes.com/news/528302/Research-suggests-Alamut-Castle-s-role-extended-beyond-military",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528302/Research-suggests-Alamut-Castle-s-role-extended-beyond-military"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Research suggests Alamut Castle's role extended beyond military functions"
       }
     },
     {
