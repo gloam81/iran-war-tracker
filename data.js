@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-23T02:05:49.507437Z
+// 自动生成的数据 - 更新时间: 2026-07-24T02:01:03.560981Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-23T02:05:49.507372Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-07-24T02:01:03.560910Z",
+    "totalEvents": 38,
     "sources": {
-      "international": 22,
+      "international": 26,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,16 +13,72 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_359920f9",
-      "title": "美国众议院通过1.15万亿美元军事法案扩大以色列合作",
-      "summary": "为对伊朗的战争提供资金的法案以及特朗普的一些优先事项基本上是沿着党派路线通过的，面临着参议院的不确定性。",
-      "date": "2026-07-23T00:29:52Z",
-      "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+      "id": "evt_2e4e532e",
+      "title": "在国会听证会上，迈克·华尔兹（ Mike Waltz ）对半岛电视台（ Al Jazeera",
+      "summary": "泰德·刘（ Ted Lieu ）在播放半岛电视台播放的伊朗在约旦罢工的镜头后，挑战联合国大使迈克·华尔兹（ Mike",
+      "date": "2026-07-24T01:24:41Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mike Waltz pressed over Al Jazeera video during congressional hearing"
+      }
+    },
+    {
+      "id": "evt_91a219c5",
+      "title": "分析师：投票反对伊朗战争为国会提供艰难的销售资金",
+      "summary": "美国表示，到目前为止，它在伊朗战争中花费了超过375亿美元($)。",
+      "date": "2026-07-24T00:30:43Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Analyst: voting against Iran war funding a tough sell for Congress"
+      }
+    },
+    {
+      "id": "evt_5d081232",
+      "title": "以色列在流离失所令后轰炸加沙，杀害两名巴勒斯坦人",
+      "summary": "联合国官员表示，加沙的人道主义局势“令人绝望” ，因为以色列违反“停火”的行为正在加剧。",
+      "date": "2026-07-24T00:29:08Z",
+      "url": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,14 +93,378 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US House passes $1.15 trillion military bill expanding Israel cooperation"
+        "en": "Israel bombs Gaza after displacement orders, kills two Palestinians"
+      }
+    },
+    {
+      "id": "evt_2b108e04",
+      "title": "联合国也门问题特使对胡塞武装在红海发动的袭击感到“震惊” ，呼吁进行谈判",
+      "summary": "汉斯·格伦德伯格（ Hans Grundberg ）警告说，进一步的对抗可能会“加深也门人民的痛苦”。",
+      "date": "2026-07-24T00:03:25Z",
+      "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks"
+      }
+    },
+    {
+      "id": "evt_9232a248",
+      "title": "伊朗战争现场：美国完成第13个夜晚对伊朗的打击",
+      "summary": "特朗普表示，他正在考虑“大规模袭击” ，因为伊朗的Araghchi说“无意识的侵略”无助于达成协议。",
+      "date": "2026-07-24T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US completes 13th night of strikes on Iran"
+      }
+    },
+    {
+      "id": "evt_82ebe6c6",
+      "title": "两名巴勒斯坦人在以色列加紧对加沙城的袭击中丧生",
+      "summary": "在以色列对加沙城的新一波空袭中，两名巴勒斯坦人被打死，另有几人受伤。",
+      "date": "2026-07-23T23:53:13Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/two-palestinians-killed-as-israel-intensifies-strikes-on-gaza-city?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/two-palestinians-killed-as-israel-intensifies-strikes-on-gaza-city?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Two Palestinians killed as Israel intensifies strikes on Gaza City"
+      }
+    },
+    {
+      "id": "evt_42d90082",
+      "title": "胡塞红海封锁将如何影响世界",
+      "summary": "胡塞对Bab al-Mandeb的封锁威胁着一条重要的全球贸易路线。",
+      "date": "2026-07-23T23:10:04Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How the Houthi Red Sea blockade will impact the world"
+      }
+    },
+    {
+      "id": "evt_a843cea2",
+      "title": "阿拉伯和穆斯林国家谴责以色列袭击阿克萨清真寺",
+      "summary": "联合声明称，以色列定居者袭击伊斯兰圣地助长了“仇恨” ，阻碍了持久和平。",
+      "date": "2026-07-23T22:51:20Z",
+      "url": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque"
+      }
+    },
+    {
+      "id": "evt_9a9e6062",
+      "title": "美国对伊朗的战争： $ 1100亿的价格标签",
+      "summary": "美国对伊朗的战争给美国造成了近1100亿美元的损失。现在，特朗普政府希望再增加670亿美元。",
+      "date": "2026-07-23T22:04:23Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US war on Iran: The $110 billion price tag"
+      }
+    },
+    {
+      "id": "evt_e00699f5",
+      "title": "美国第13晚袭击伊朗，特朗普威胁要发动“更大规模”的袭击",
+      "summary": "美国总统的威胁是在伊朗又一天袭击巴林、科威特和约旦之后发出的。",
+      "date": "2026-07-23T21:43:28Z",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes"
+      }
+    },
+    {
+      "id": "evt_a91e2fc1",
+      "title": "美沙核协议取决于与以色列的关系正常化",
+      "summary": "特朗普总统表示，拟议的美沙民用核协议取决于沙特阿拉伯加入亚伯拉罕协议",
+      "date": "2026-07-23T21:41:25Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Saudi nuclear deal hinges on normalisation with Israel"
+      }
+    },
+    {
+      "id": "evt_c8cae83a",
+      "title": "特朗普表示，沙特必须承认以色列的核协议",
+      "summary": "这位美国总统表示，帮助沙特发展核能的具有里程碑意义的协议取决于它加入亚伯拉罕协议。",
+      "date": "2026-07-23T17:58:02Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Saudis must recognise Israel for nuclear deal, says Trump"
+      }
+    },
+    {
+      "id": "evt_a517abe9",
+      "title": "胡塞武装袭击引发对更广泛的中东冲突和更多全球经济损失的担忧",
+      "summary": "伊朗支持的也门集团威胁要在一条重要的航线上瞄准沙特船只。",
+      "date": "2026-07-23T17:06:08Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage"
+      }
+    },
+    {
+      "id": "evt_ada88185",
+      "title": "也门胡塞武装袭击沙特油轮，美国发动更多伊朗袭击",
+      "summary": "伊朗支持的团体此前宣布对沙特阿拉伯实施“海上禁运” ，也声称袭击了另一艘船。",
+      "date": "2026-07-23T16:50:59Z",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes"
+      }
+    },
+    {
+      "id": "evt_8f5c5a67",
+      "title": "油价自5月以来首次触及100 $",
+      "summary": "随着中东战争的持续升级，布伦特原油价格周四上涨超过6%。",
+      "date": "2026-07-23T15:31:00Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil prices hit $100 for the first time since May"
+      }
+    },
+    {
+      "id": "evt_66b01e77",
+      "title": "特朗普与沙特达成的核协议抛弃了美国长期以来的要求",
+      "summary": "在中东签署核协议是一个大胆的举动，引起了美国和以色列的批评。",
+      "date": "2026-07-23T12:58:40Z",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump's nuclear deal with Saudis jettisons longstanding US demands"
       }
     },
     {
       "id": "evt_d3ebd3fd",
       "title": "美国与沙特阿拉伯签署具有里程碑意义的核协议",
       "summary": "美国能源部表示， “和平”合作协议将使美国公司“大大获得”沙特核能计划。",
-      "date": "2026-07-23T00:21:53Z",
+      "date": "2026-07-23T09:17:50Z",
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -69,16 +489,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_083c0b36",
-      "title": "伊朗战争现场：美国发动新袭击；胡塞武装袭击2艘沙特油轮",
-      "summary": "随着包括斯里克（ Sirik ）、阿瓦士（ Ahvaz ）和布什尔（ Bushehr ）在内的伊朗城市发生更多爆炸事件，美国和伊朗面临新的威胁。",
-      "date": "2026-07-23T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
+      "id": "evt_b9413a78",
+      "title": "（他们犯了什么罪？ '：英国广播公司访问伊朗学校，罢工造成120名儿童死亡",
+      "summary": "近五个月过去了，作为一名教师，悲伤仍然是原始的，一位母亲回忆起米纳布袭击的恐怖。",
+      "date": "2026-07-23T04:49:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -93,35 +513,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers"
-      }
-    },
-    {
-      "id": "evt_20d7ab15",
-      "title": "也门的胡塞武装声称袭击了两艘沙特油轮",
-      "summary": "在胡塞武装宣布对沙特船只实施海上禁运的几天后，据称发生了袭击事件",
-      "date": "2026-07-22T22:26:14Z",
-      "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemen’s Houthis claim attack on two Saudi oil tankers"
+        "en": "'What was their crime?': BBC visits Iran school where strike killed 120 children"
       }
     },
     {
@@ -150,118 +542,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist"
-      }
-    },
-    {
-      "id": "evt_16768608",
-      "title": "在美伊战争升级之际，伊朗导弹显示出致命的精确性",
-      "summary": "在约旦基地杀害三名美国士兵表明，伊朗仍然有能力在激烈的冲突中造成致命伤亡。",
-      "date": "2026-07-22T22:03:13Z",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian missiles show deadly precision amid US-Iran war escalation"
-      }
-    },
-    {
-      "id": "evt_5ab2402c",
-      "title": "在伊朗警告地区动荡之际，美国发动新的罢工",
-      "summary": "德黑兰首席谈判代表表示，如果伊朗的“安全得不到保障，任何基础设施都不会安全”。",
-      "date": "2026-07-22T21:41:32Z",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US launches new strikes as Iran warns of regional turmoil"
-      }
-    },
-    {
-      "id": "evt_c72e40c6",
-      "title": "受伤的加沙记者呼吁紧急医疗后送",
-      "summary": "受伤和患有慢性病的巴勒斯坦记者举行抗议活动，呼吁从加沙紧急医疗后送。",
-      "date": "2026-07-22T21:36:37Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Wounded Gaza journalists call for urgent medical evacuation"
-      }
-    },
-    {
-      "id": "evt_6c224e1b",
-      "title": "美国和沙特阿拉伯宣布核合作协议",
-      "summary": "特朗普政府表示， “历史性”协议将“加强全球不扩散标准” ，并在美国创造就业机会。",
-      "date": "2026-07-22T21:30:25Z",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Saudi Arabia announce nuclear cooperation deal"
       }
     },
     {
@@ -601,34 +881,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_413b22e6",
-      "title": "Houthi航运威胁后油轮急转弯",
-      "summary": "船舶跟踪数据显示，所有船舶在改变航向之前都往返于沙特港口。",
-      "date": "2026-07-22T14:42:49Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tankers make sharp U-turns after Houthi shipping threat"
-      }
-    },
-    {
       "id": "evt_017fde03",
       "title": "Hegseth说，到目前为止，伊朗战争已经花费了375亿美元，因为五角大楼寻求数十亿美元",
       "summary": "正如Hegseth在战争的关键时刻作证的那样，听证会因抗议和大喊大叫而中断。",
@@ -822,146 +1074,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Hamas names Khalil al-Hayya as new overall leader"
-      }
-    },
-    {
-      "id": "evt_11496eba",
-      "title": "美国士兵在伊朗袭击伊拉克后死亡，一人受伤",
-      "summary": "美国军方报告称，其两名士兵在约旦被杀后一天又发生了一起死亡事件。",
-      "date": "2026-07-19T19:45:12Z",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US soldier killed and one injured after Iranian attack in Iraq"
-      }
-    },
-    {
-      "id": "evt_a49f8929",
-      "title": "三个月内第二艘油轮在也门被索马里海盗劫持",
-      "summary": "在一个海盗活动似乎正在卷土重来的地区，也发生了几起不成功的袭击事件。",
-      "date": "2026-07-17T17:01:16Z",
-      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Second tanker in three months hijacked off Yemen by suspected Somali pirates"
-      }
-    },
-    {
-      "id": "evt_52ded86c",
-      "title": "美国在执行新的伊朗封锁时用导弹袭击油轮",
-      "summary": "美国军方瞄准了一艘空载的油轮，据称该油轮正驶向哈格岛上的关键伊朗石油码头。",
-      "date": "2026-07-16T12:09:26Z",
-      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US strikes oil tanker with missiles as it enforces new Iran blockade"
-      }
-    },
-    {
-      "id": "evt_099ede8c",
-      "title": "美国对伊朗发动新一轮打击，特朗普警告德黑兰“表现得更好”",
-      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，他尚未决定是否会“结束”伊朗。",
-      "date": "2026-07-16T04:06:11Z",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'"
-      }
-    },
-    {
-      "id": "evt_34ac38df",
-      "title": "特朗普威胁要轰炸桥梁和发电厂，除非伊朗恢复谈判",
-      "summary": "特朗普的言论在两国连续第四天交火，美国恢复封锁伊朗港口时播出。",
-      "date": "2026-07-15T09:06:52Z",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks"
       }
     }
   ]
