@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-27T02:12:38.792720Z
+// 自动生成的数据 - 更新时间: 2026-07-28T01:53:35.289016Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-27T02:12:38.792640Z",
-    "totalEvents": 39,
+    "lastUpdate": "2026-07-28T01:53:35.288931Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 25,
+      "international": 20,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,212 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_03676193",
-      "title": "黎巴嫩人返回以色列在所谓试点地区留下的废墟家园",
-      "summary": "黎巴嫩军队指责以色列推平房屋，并阻碍其护送居民前往“试点区”的努力。",
-      "date": "2026-07-27T01:40:16Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss",
+      "id": "evt_014ec875",
+      "title": "胡塞武装希望复制伊朗在红海的霍尔木兹控制：也门调频",
+      "summary": "也门国际公认的政府在利雅得发表讲话时警告说，全球的自满情绪使胡塞武装更加胆大妄为。",
+      "date": "2026-07-28T00:51:50Z",
+      "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanese return to homes of rubble left by Israel in so-called pilot zones"
-      }
-    },
-    {
-      "id": "evt_8a4cab8a",
-      "title": "古特雷斯参观叙利亚Sednaya臭名昭著的“阿萨德监狱”",
-      "summary": "联合国秘书长安东尼奥·古特雷斯参观了Sednaya臭名昭著的前“阿萨德监狱”。",
-      "date": "2026-07-27T00:48:06Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya"
-      }
-    },
-    {
-      "id": "evt_3265dd0f",
-      "title": "伊朗战争现场：德黑兰在美国暂停袭击后停止报复性罢工",
-      "summary": "美国暂停了对伊朗为期两周的轰炸行动，促使德黑兰暂停其报复性袭击。",
-      "date": "2026-07-27T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks"
-      }
-    },
-    {
-      "id": "evt_79c9b5ec",
-      "title": "哈梅内伊将美伊和平协议与以色列联系起来，结束对黎巴嫩的袭击",
-      "summary": "伊朗最高领导人呼吁“绝对、无条件地终止”以色列对黎巴嫩的袭击。",
-      "date": "2026-07-26T23:44:29Z",
-      "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon"
-      }
-    },
-    {
-      "id": "evt_6c55a3e4",
-      "title": "以色列政府向加沙的国际稳定部队致敬",
-      "summary": "由“友好国家”组成的国际安全部队将在以色列军事控制之外的地区开展行动。",
-      "date": "2026-07-26T21:10:07Z",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli government nods to international stabilisation force in Gaza"
-      }
-    },
-    {
-      "id": "evt_e7570b7c",
-      "title": "巴勒斯坦人希望国际和平部队能够重建加沙",
-      "summary": "加沙的巴勒斯坦人谨慎地欢迎以色列批准国际稳定部队进入加沙地带。",
-      "date": "2026-07-26T21:01:18Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians hope international peace force can rebuild Gaza"
-      }
-    },
-    {
-      "id": "evt_8c541bc5",
-      "title": "美国和伊朗第二天暂停罢工",
-      "summary": "相对平静之际，有报道称正在重新努力恢复外交谈判。",
-      "date": "2026-07-26T20:55:52Z",
-      "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran hit pause on strikes for second day"
-      }
-    },
-    {
-      "id": "evt_69d38720",
-      "title": "胡塞武装声称沙特无人机在也门西北部上空坠毁",
-      "summary": "伊朗支持的胡塞武装声称，他们在也门西北部击落了一架沙特侦察无人机。",
-      "date": "2026-07-26T20:19:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Houthis claim Saudi drone downed over northwestern Yemen"
+        "en": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM"
       }
     },
     {
-      "id": "evt_e44469a9",
-      "title": "随着美国战争的范围扩大到霍尔木兹以外，伊朗经济前景如何？",
-      "summary": "调解努力仍在继续，但随着国际水道进一步中断的风险增加，不确定性仍然存在。",
-      "date": "2026-07-26T19:31:58Z",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "id": "evt_a37aaef5",
+      "title": "特朗普在埃尔多安，内塔尼亚胡和向土耳其出售战斗机",
+      "summary": "当被问及向安卡拉出售F-35战斗机时，美国总统唐纳德·特朗普称土耳其是“一个伟大的盟友”。",
+      "date": "2026-07-28T00:00:42Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye"
+      }
+    },
+    {
+      "id": "evt_f60074ee",
+      "title": "伊朗战争现场：特朗普吹捧“友好会谈” ；内塔尼亚胡抵达美国",
+      "summary": "伊朗表示，随着内塔尼亚胡抵达华盛顿特区与特朗普会谈，美国“努力”结束长达五个月的战争。",
+      "date": "2026-07-28T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -261,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?"
+        "en": "Iran war live: Trump touts ‘friendly talks’; Netanyahu arrives in US"
       }
     },
     {
-      "id": "evt_a564bc44",
-      "title": "Al-Sharaa概述了叙利亚与以色列和黎巴嫩的安全方针",
-      "summary": "叙利亚总统沙拉（ Ahmed al-Sharaa ）表示，大马士革正在努力与以色列达成安全协议。",
-      "date": "2026-07-26T19:27:57Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+      "id": "evt_9b48fcfb",
+      "title": "联合国抨击以色列在被占领的约旦河西岸扩建非法定居点",
+      "summary": "联合国秘书长古特雷斯表示，在暴力升级之际，定居点“公然违反”国际法。",
+      "date": "2026-07-27T21:17:15Z",
+      "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -289,104 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon"
+        "en": "UN slams Israel’s expansion of illegal settlements in occupied West Bank"
       }
     },
     {
-      "id": "evt_fd062b16",
-      "title": "韩国的后危机模式为伊朗的经济韧性提供了经验教训",
-      "summary": "TEHRAN -伊朗可以从韩国对西亚危机的战略反应中吸取宝贵的经验教训，并将其应用到自己的经济发展框架中。韩国从危机管理到未来经济架构的旅程为应对地缘政治不确定性、供应链脆弱性和技术转型的国家提供了一个引人注目的案例研究。",
-      "date": "2026-07-26T18:22:08Z",
-      "url": "https://www.tehrantimes.com/news/528590/South-Korea-s-Post-Crisis-Model-Offers-Lessons-for-Iran-s-Economic",
+      "id": "evt_27a1a6f4",
+      "title": "特朗普表示，伊朗战争谈判在罢工平静期间进行",
+      "summary": "这位美国总统表示， “很有可能发生一些事情” ，因为伊朗否认正在进行直接谈判。",
+      "date": "2026-07-27T21:10:56Z",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528590/South-Korea-s-Post-Crisis-Model-Offers-Lessons-for-Iran-s-Economic"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "South Korea's Post-Crisis Model Offers Lessons for Iran's Economic Resilience"
-      }
-    },
-    {
-      "id": "evt_adf7f014",
-      "title": "约旦河西岸局势升级引发以色列国内担忧",
-      "summary": "德黑兰--约旦河西岸正在目睹以色列侵略的急剧升级、定居点的扩张，以及大量军事营对约旦河西岸政权施加越来越大的压力。",
-      "date": "2026-07-26T18:15:23Z",
-      "url": "https://www.tehrantimes.com/news/528583/West-Bank-escalation-raises-concerns-within-Israel",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528583/West-Bank-escalation-raises-concerns-within-Israel"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "West Bank escalation raises concerns within Israel"
-      }
-    },
-    {
-      "id": "evt_7456ec71",
-      "title": "领导人的军事顾问：对手不能通过制裁或威胁来破坏伊朗的意愿",
-      "summary": "德黑兰--随着伊朗伊斯兰共和国继续成为抵御数十年西方胁迫和地区侵略的主要稳定支柱，一名高级军事官员周日证实，外国对手未能通过经济封锁或政治压力打破伊朗国家的决心。",
-      "date": "2026-07-26T18:13:28Z",
-      "url": "https://www.tehrantimes.com/news/528584/Leader-s-military-advisor-Adversaries-cannot-break-Iran-s-will",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528584/Leader-s-military-advisor-Adversaries-cannot-break-Iran-s-will"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Leader’s military advisor: Adversaries cannot break Iran’s will through sanctions or threats"
-      }
-    },
-    {
-      "id": "evt_dddae55a",
-      "title": "黑格塞斯的好莱坞梦想在斋月战争中被摧毁",
-      "summary": "Farhikhtegan在评论中写道， Pete Hegseth的梦想的痛苦结果：在现实世界中，战争不是用破坏的规模来衡量的，而是用结果来衡量的。战争四十天后，政权更迭的梦想都没有实现，伊朗进行有效防御的能力也没有被消除，人们也没有走上街头推翻政府。",
-      "date": "2026-07-26T18:11:49Z",
-      "url": "https://www.tehrantimes.com/news/528571/Hegseth-s-Hollywood-dream-destroyed-in-the-Ramadan-War",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528571/Hegseth-s-Hollywood-dream-destroyed-in-the-Ramadan-War"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -401,20 +149,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hegseth’s Hollywood dream destroyed in the Ramadan War"
+        "en": "Trump says Iran war talks taking place during lull in strikes"
       }
     },
     {
-      "id": "evt_a4fbf797",
-      "title": "Pezeshkian称美国基础设施攻击为“战争罪” ，要求采取国际司法行动",
-      "summary": "德黑兰--总统马苏德·佩泽什基安（ Masoud Pezeshkian ）周日表示，美国最近针对伊朗民用基础设施的空袭明显违反了国际法，构成了战争罪。",
-      "date": "2026-07-26T18:11:05Z",
-      "url": "https://www.tehrantimes.com/news/528572/Pezeshkian-calls-US-infrastructure-attacks-war-crimes-demands",
+      "id": "evt_9379b35a",
+      "title": "随着美国-伊朗第三天停火，恢复外交的希望",
+      "summary": "卡塔尔和巴基斯坦的调解人在敌对行动脆弱的停顿中努力重启停火谈判。",
+      "date": "2026-07-27T21:04:09Z",
+      "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hopes of return to diplomacy as US-Iran hold fire for third day"
+      }
+    },
+    {
+      "id": "evt_ba129c03",
+      "title": "英国法院驳回巴林阻止活动人士提起间谍软件诉讼的申请",
+      "summary": "裁决规定，对英国人使用间谍软件的国家可以被起诉。",
+      "date": "2026-07-27T20:32:59Z",
+      "url": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit"
+      }
+    },
+    {
+      "id": "evt_e9bf0a14",
+      "title": "巩固新帝国秩序的以色列和乌克兰的邪恶联盟",
+      "summary": "德黑兰--23岁的伊朗水手尼玛·莫拉迪（ Nima Moradi ）殉难，因为基辅政权的军方认为里海的一艘民用货船是合法的杀戮。7月下旬的罢工是一场冷血的升级，将一片相当安静的海域直接拖入了外国代理人战争的十字路口。",
+      "date": "2026-07-27T17:43:16Z",
+      "url": "https://www.tehrantimes.com/news/528629/The-unholy-alliance-of-Israel-and-Ukraine-anchoring-the-new-imperial",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528572/Pezeshkian-calls-US-infrastructure-attacks-war-crimes-demands"
+          "url": "https://www.tehrantimes.com/news/528629/The-unholy-alliance-of-Israel-and-Ukraine-anchoring-the-new-imperial"
         }
       ],
       "category": "military",
@@ -429,23 +233,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pezeshkian calls US infrastructure attacks 'war crimes,' demands intl legal action"
+        "en": "The unholy alliance of Israel and Ukraine anchoring the new imperial order"
       }
     },
     {
-      "id": "evt_ffa78f34",
-      "title": "捍卫真主党是伊朗的战略政策",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）宣布，根据6月17日与美国达成的14点谅解备忘录（ MoU ） ，全面维护黎巴嫩的领土完整并立即无条件结束犹太复国主义侵略仍然是伊朗不可谈判的先决条件。",
-      "date": "2026-07-26T18:10:19Z",
-      "url": "https://www.tehrantimes.com/news/528589/Defending-Hezbollah-is-Iran-s-strategic-policy",
+      "id": "evt_748084e7",
+      "title": "希拉吉剧院（ Hilaj Theater ）将对彼得·魏斯（ Peter Weiss ）的《邀请》（ The Invitation ）",
+      "summary": "德黑兰--德国剧作家彼得·韦斯（ Peter Weiss ）的戏剧《邀请》（ The Invitation ）的松散改编将于8月5日在德黑兰的希拉吉剧院（ Hilaj Theater ）上演。",
+      "date": "2026-07-27T17:42:15Z",
+      "url": "https://www.tehrantimes.com/news/528594/Hilaj-Theater-to-host-loose-adaptation-of-Peter-Weiss-s-The",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528589/Defending-Hezbollah-is-Iran-s-strategic-policy"
+          "url": "https://www.tehrantimes.com/news/528594/Hilaj-Theater-to-host-loose-adaptation-of-Peter-Weiss-s-The"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
         "lat": 35.6892,
         "lng": 51.389,
@@ -457,48 +261,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Defending Hezbollah is Iran’s strategic policy"
+        "en": "Hilaj Theater to host loose adaptation of Peter Weiss’s “The Invitation”"
       }
     },
     {
-      "id": "evt_30c9a491",
-      "title": "乌克兰的“肮脏工作” ：为谁服务？",
-      "summary": "德黑兰--上周末，乌克兰公然肆无忌惮地违反国际海事法，对一艘在里海主权水域作业的伊朗民用商船发动了直接军事攻击。这一犯罪行为在商船上引发了爆炸，导致一名伊朗水手殉难，另一人受重伤。",
-      "date": "2026-07-26T18:08:18Z",
-      "url": "https://www.tehrantimes.com/news/528573/Ukraine-s-dirty-work-For-whom",
+      "id": "evt_70413b81",
+      "title": "“Minab的眼泪”音乐致敬发布以纪念儿童烈士",
+      "summary": "TEHRAN - Rudaki基金会发布了“Minab的眼泪” ，这是一首献给霍尔木兹甘省Minab的Shajareh Tayyebeh小学学生烈士的单曲。",
+      "date": "2026-07-27T17:41:55Z",
+      "url": "https://www.tehrantimes.com/news/528599/Tears-of-Minab-musical-tribute-released-to-honor-child-martyrs",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528573/Ukraine-s-dirty-work-For-whom"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ukraine's 'dirty work': For whom?"
-      }
-    },
-    {
-      "id": "evt_f186303e",
-      "title": "科威特必须从沙巴辛迪加手中解放出来",
-      "summary": "德黑兰--科威特是人质。被一个将国家财富视为个人津贴和国家身份视为可撤销特权的家庭束缚、堵嘴并持有了数十年。沙巴家族管理着一个投资组合。它可以提取租金，安静噪音，并赢得时间来丰富内圈。",
-      "date": "2026-07-26T18:05:43Z",
-      "url": "https://www.tehrantimes.com/news/528586/Kuwait-must-be-liberated-from-the-Sabah-syndicate",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528586/Kuwait-must-be-liberated-from-the-Sabah-syndicate"
+          "url": "https://www.tehrantimes.com/news/528599/Tears-of-Minab-musical-tribute-released-to-honor-child-martyrs"
         }
       ],
       "category": "diplomatic",
@@ -513,48 +289,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Kuwait must be liberated from the Sabah syndicate"
+        "en": "“Tears of Minab” musical tribute released to honor child martyrs"
       }
     },
     {
-      "id": "evt_637f2aa8",
-      "title": "伊朗、阿曼结束关于霍尔木兹安全问题的“富有成效”的谈判",
-      "summary": "德黑兰--伊朗和阿曼官员在德黑兰结束了为期两天的高级别外交会谈，旨在保护通过霍尔木兹海峡的海上交通。",
-      "date": "2026-07-26T18:04:16Z",
-      "url": "https://www.tehrantimes.com/news/528570/Iran-Oman-conclude-productive-talks-on-Hormuz-security",
+      "id": "evt_b4b61850",
+      "title": "第15届国际100秒电影节在需求强劲后延长截止日期",
+      "summary": "TEHRAN -为响应电影制作人和观众的兴趣和众多要求，国际100秒电影节的组织者宣布将作品提交时间延长一周。",
+      "date": "2026-07-27T17:40:53Z",
+      "url": "https://www.tehrantimes.com/news/528600/15th-Intl-100-Second-Film-Festival-extends-deadline-following",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528570/Iran-Oman-conclude-productive-talks-on-Hormuz-security"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran, Oman conclude ‘productive’ talks on Hormuz security"
-      }
-    },
-    {
-      "id": "evt_564399f7",
-      "title": "《加利西亚风笛的秘密》波斯语译本揭幕",
-      "summary": "德黑兰--由Xose Lois Foxo撰写的《加利西亚风笛的秘密》一书的波斯语译本于7月25日星期六在德黑兰揭幕，著名风笛演奏家Liana Sharifian和她的父亲、著名风笛演奏家Mohsen Sharifian出席了仪式。",
-      "date": "2026-07-26T18:03:46Z",
-      "url": "https://www.tehrantimes.com/news/528551/Persian-translation-of-The-Secret-of-the-Galician-Bagpipe-unveiled",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528551/Persian-translation-of-The-Secret-of-the-Galician-Bagpipe-unveiled"
+          "url": "https://www.tehrantimes.com/news/528600/15th-Intl-100-Second-Film-Festival-extends-deadline-following"
         }
       ],
       "category": "diplomatic",
@@ -569,20 +317,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Persian translation of “The Secret of the Galician Bagpipe” unveiled"
+        "en": "15th Intl. 100-Second Film Festival extends deadline following strong demand"
       }
     },
     {
-      "id": "evt_918d04cd",
-      "title": "伊朗戏剧《三个小丑的安魂曲》在土耳其演出",
-      "summary": "德黑兰–由Sara Haddadi和Mostafa Pouryousef共同执导的戏剧《三个小丑的安魂曲》于7月24日在土耳其伊斯坦布尔首演，随后的演出计划在未来几周内在包括Yalova、Fethiye和Kuşadası在内的土耳其各个城市举行。",
-      "date": "2026-07-26T18:02:22Z",
-      "url": "https://www.tehrantimes.com/news/528552/Iranian-play-Requiem-for-Three-Clowns-performed-in-Turkey",
+      "id": "evt_5e76525d",
+      "title": "伊朗的力量使敌人屈服",
+      "summary": "Kayhan发表了一篇文章，评估了自战争开始以来伊朗的高水平复原力和力量。这篇论文写道，敌人的目标都没有实现。不仅没有发生政治，军事，经济或社会崩溃，而且-根据Kayhan的说法-八十年来前所未有的失败已经强加给美国。",
+      "date": "2026-07-27T17:37:16Z",
+      "url": "https://www.tehrantimes.com/news/528597/Iran-s-power-has-brought-the-enemy-to-its-knees",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528552/Iranian-play-Requiem-for-Three-Clowns-performed-in-Turkey"
+          "url": "https://www.tehrantimes.com/news/528597/Iran-s-power-has-brought-the-enemy-to-its-knees"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s power has brought the enemy to its knees"
+      }
+    },
+    {
+      "id": "evt_3b14c0e7",
+      "title": "Hojjatoleslam Qomi誓言伊朗将为这位殉难的领导人报仇，因为媒体人物尊重他的遗产",
+      "summary": "德黑兰--伊朗伊斯兰意识形态传播组织负责人穆罕默德·库米（ Hojjatoleslam Mohammad Qomi ）重申，伊朗民族和世界各地热爱自由的人民将不可避免地为伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的殉难报仇。",
+      "date": "2026-07-27T17:35:30Z",
+      "url": "https://www.tehrantimes.com/news/528598/Hojjatoleslam-Qomi-vows-Iran-will-avenge-the-martyred-Leader",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528598/Hojjatoleslam-Qomi-vows-Iran-will-avenge-the-martyred-Leader"
         }
       ],
       "category": "military",
@@ -597,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian play “Requiem for Three Clowns” performed in Turkey"
+        "en": "Hojjatoleslam Qomi vows Iran will avenge the martyred Leader as media figures honor his legacy"
       }
     },
     {
-      "id": "evt_d2ee20ba",
-      "title": "殉道领袖阿亚图拉·哈梅内伊在德黑兰揭幕的历史性手写笔记",
-      "summary": "TEHRAN -伊朗烈士领导人阿亚图拉·赛义德·阿里·侯赛尼·哈梅内伊（ Ayatollah Seyyed Ali Hosseini Khamenei ）的一份历史性手写笔记于周日在纪念野战医院在神圣防御中的作用的仪式上揭幕。",
-      "date": "2026-07-26T18:01:52Z",
-      "url": "https://www.tehrantimes.com/news/528561/Historic-handwritten-note-by-martyred-Leader-Ayatollah-Khamenei",
+      "id": "evt_c5c53147",
+      "title": "伊朗拒绝美国在制定战争条款方面的作用",
+      "summary": "德黑兰--伊朗周一宣布，它将不允许美国决定战争或和平的时机，重申所有国家安全决策都将完全基于伊朗的利益，同时还警告乌克兰有关其在里海袭击伊朗商船的报道，并强调与阿曼就霍尔木兹海峡正在进行的谈判纯粹是双边的，与华盛顿无关。",
+      "date": "2026-07-27T17:34:40Z",
+      "url": "https://www.tehrantimes.com/news/528631/Iran-rejects-US-role-in-setting-war-terms",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528561/Historic-handwritten-note-by-martyred-Leader-Ayatollah-Khamenei"
+          "url": "https://www.tehrantimes.com/news/528631/Iran-rejects-US-role-in-setting-war-terms"
         }
       ],
       "category": "military",
@@ -625,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Historic handwritten note by martyred Leader Ayatollah Khamenei unveiled in Tehran"
+        "en": "Iran rejects US role in setting war terms"
       }
     },
     {
-      "id": "evt_157478bc",
-      "title": "高级议员警告乌克兰袭击伊朗船只将招致回应",
-      "summary": "TEHRAN–伊朗一位高级议员警告说，德黑兰将对乌克兰在里海袭击伊朗商船后的“鲁莽行动”做出回应，称任何用于对伊朗发动侵略的地点都将被视为合法的军事目标。",
-      "date": "2026-07-26T17:45:18Z",
-      "url": "https://www.tehrantimes.com/news/528588/Senior-lawmaker-warns-Ukraine-attack-on-Iranian-vessel-will-draw",
+      "id": "evt_3a30dded",
+      "title": "法国和英国是否即将陷入特朗普制造的泥潭？",
+      "summary": "德黑兰--伊朗周一大力反击欧洲列强，指控英国和法国策划了一场“指责游戏” ，并与美国协调了一场针对伊朗伊斯兰共和国的侵略性“心理战”。",
+      "date": "2026-07-27T16:57:28Z",
+      "url": "https://www.tehrantimes.com/news/528626/Are-France-and-Britain-about-to-dive-into-the-quagmire-Trump",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528588/Senior-lawmaker-warns-Ukraine-attack-on-Iranian-vessel-will-draw"
+          "url": "https://www.tehrantimes.com/news/528626/Are-France-and-Britain-about-to-dive-into-the-quagmire-Trump"
         }
       ],
       "category": "military",
@@ -653,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Senior lawmaker warns Ukraine attack on Iranian vessel will draw response"
+        "en": "Are France and Britain about to dive into the quagmire Trump created?"
       }
     },
     {
-      "id": "evt_4aeb2b2f",
-      "title": "伊朗强调美国的损失，扩大军事准备",
-      "summary": "德黑兰--伊朗发布了迄今为止对美国军事资产在最新一轮敌对行动中遭受损失的最全面的描述，称伊朗军队在7月8日至7月22日期间袭击了广泛的美国指挥、防空、后勤和作战设施。",
-      "date": "2026-07-26T17:42:31Z",
-      "url": "https://www.tehrantimes.com/news/528587/Iran-highlights-US-losses-expanded-military-readiness",
+      "id": "evt_6de288e4",
+      "title": "对于年轻的水手：第一次航行，最后的告别",
+      "summary": "德黑兰–一名年轻的伊朗水手在里海袭击一艘商船时死亡，引发了伊朗的广泛谴责，官员们谴责这次罢工违反了国际法，社交媒体用户哀悼许多人所说的摧毁了一个有前途的年轻人的生命。",
+      "date": "2026-07-27T16:55:45Z",
+      "url": "https://www.tehrantimes.com/news/528630/For-a-young-sailor-First-voyage-final-farewell",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528587/Iran-highlights-US-losses-expanded-military-readiness"
+          "url": "https://www.tehrantimes.com/news/528630/For-a-young-sailor-First-voyage-final-farewell"
         }
       ],
       "category": "military",
@@ -681,7 +457,315 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran highlights US losses, expanded military readiness"
+        "en": "For a young sailor: First voyage, final farewell"
+      }
+    },
+    {
+      "id": "evt_ddcc4af5",
+      "title": "附庸的政治神学：波斯湾的核小说",
+      "summary": "马德里--7月22日，华盛顿和利雅得的能源官僚机构在双边保障协定的支持下，正式签署了一项民用核合作协议。",
+      "date": "2026-07-27T16:51:55Z",
+      "url": "https://www.tehrantimes.com/news/528624/The-political-theology-of-vassalage-Nuclear-fictions-in-the",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528624/The-political-theology-of-vassalage-Nuclear-fictions-in-the"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The political theology of vassalage: Nuclear fictions in the Persian Gulf"
+      }
+    },
+    {
+      "id": "evt_43d15ac0",
+      "title": "高级议员警告乌克兰在袭击伊朗船只后作出“令人遗憾的”反应",
+      "summary": "伊朗议会副议长警告乌克兰，该地区或里海的任何“恶作剧”行为都将受到德黑兰的“遗憾”回应。",
+      "date": "2026-07-27T16:50:56Z",
+      "url": "https://www.tehrantimes.com/news/528628/Senior-lawmaker-warns-Ukraine-of-regret-inducing-response-after",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528628/Senior-lawmaker-warns-Ukraine-of-regret-inducing-response-after"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Senior lawmaker warns Ukraine of ‘regret-inducing’ response after strike on Iranian vessel"
+      }
+    },
+    {
+      "id": "evt_e85ff68e",
+      "title": "乌克兰驳斥伊朗的威胁，因为里海罢工与战争直接相关",
+      "summary": "伊朗对该船的袭击作出了愤怒的反应，德黑兰外交部长表示“不能无动于衷”。",
+      "date": "2026-07-27T16:33:05Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars"
+      }
+    },
+    {
+      "id": "evt_05a94600",
+      "title": "以色列士兵袭击约旦河西岸20个城镇和村庄",
+      "summary": "随着阿拉伯国家谴责定居者不断升级对巴勒斯坦人及其财产的袭击，以色列士兵在被占领的约旦河西岸和东圣城加紧进攻，袭击了至少20个城镇和村庄以及联合国设施，拆毁了房屋，逮捕了数十名巴勒斯坦人。",
+      "date": "2026-07-27T16:29:28Z",
+      "url": "https://www.tehrantimes.com/news/528627/Israeli-soldiers-raid-20-towns-and-villages-in-the-West-Bank",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528627/Israeli-soldiers-raid-20-towns-and-villages-in-the-West-Bank"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli soldiers raid 20 towns and villages in the West Bank"
+      }
+    },
+    {
+      "id": "evt_d79ad56e",
+      "title": "德国对以色列不透明的武器出口政策再次受到审查",
+      "summary": "德黑兰–德国对以色列的武器出口政策再次面临审查，此前柏林在2026年前五个月悄悄批准了近8亿欧元（ 9.13亿美元）的军事出口许可证，超过了前20个月批准的总价值。这种急剧增加对德国出口管制的透明度和一致性提出了新的质疑，特别是在政府公开表达对加斯人道主义局势的关切之际",
+      "date": "2026-07-27T16:01:57Z",
+      "url": "https://www.tehrantimes.com/news/528625/Germany-s-opaque-arms-export-policy-toward-Israel-comes-under",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528625/Germany-s-opaque-arms-export-policy-toward-Israel-comes-under"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Germany’s opaque arms export policy toward Israel comes under renewed scrutiny"
+      }
+    },
+    {
+      "id": "evt_44f4d6d3",
+      "title": "新当选的哈马斯领导人：影响和优先事项",
+      "summary": "德黑兰--哈马斯在种族清洗和持续的种族灭绝中进行了领导投票。结果很接近，投票率是真实的，这个过程遵循了自己的规则手册。仅此一项就值得暂停。",
+      "date": "2026-07-27T15:49:18Z",
+      "url": "https://www.tehrantimes.com/news/528623/Al-Hayya-elected-Hamas-leader-implications-and-priorities",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528623/Al-Hayya-elected-Hamas-leader-implications-and-priorities"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New elected Hamas leader: Implications and priorities"
+      }
+    },
+    {
+      "id": "evt_de2200bc",
+      "title": "随着美国和伊朗暂停袭击，油价下跌",
+      "summary": "美国表示，对伊朗的袭击已经停止，以给“会谈一些空间” ，增加了解决冲突的希望。",
+      "date": "2026-07-27T15:08:37Z",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil price dives as US and Iran pause attacks"
+      }
+    },
+    {
+      "id": "evt_6cb527d3",
+      "title": "美国大使说，美国和伊朗暂停第三天晚上的罢工，以便为会谈腾出空间",
+      "summary": "美国和伊朗都没有在过去三个晚上发动袭击，此前近两周的针锋相对的罢工有可能破坏永久结束战争的谈判。",
+      "date": "2026-07-27T08:14:46Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Iran pause strikes for third night to make space for talks, US ambassador says"
+      }
+    },
+    {
+      "id": "evt_e14f2b4d",
+      "title": "巴勒斯坦人说，以色列定居者在约旦河西岸放火焚烧清真寺、汽车和农田",
+      "summary": "最近的袭击发生在定居者和巴勒斯坦人在Tal村附近发生冲突的两天后，造成四名巴勒斯坦人和两名以色列人死亡。",
+      "date": "2026-07-26T21:23:53Z",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say"
+      }
+    },
+    {
+      "id": "evt_140ef275",
+      "title": "英国广播公司与以色列定居者针对的巴勒斯坦人交谈",
+      "summary": "巴勒斯坦官员说，以色列定居者在被占领的约旦河西岸放火焚烧了两座清真寺，以及汽车和农田。",
+      "date": "2026-07-26T20:58:36Z",
+      "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BBC speaks to Palestinians targeted by Israeli settlers"
+      }
+    },
+    {
+      "id": "evt_743eae29",
+      "title": "伊朗支持的胡塞武装声称对沙特阿拉伯发动导弹袭击",
+      "summary": "美国军方表示，它摧毁了一艘试图逃避美国对伊朗港口封锁的油轮。",
+      "date": "2026-07-25T06:34:40Z",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran-backed Houthis claim missile attack on Saudi Arabia"
       }
     },
     {
@@ -769,34 +853,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_ada88185",
-      "title": "也门胡塞武装袭击沙特油轮，美国发动更多伊朗袭击",
-      "summary": "伊朗支持的团体此前宣布对沙特阿拉伯实施“海上禁运” ，也声称袭击了另一艘船。",
-      "date": "2026-07-23T16:50:59Z",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes"
-      }
-    },
-    {
       "id": "evt_8f5c5a67",
       "title": "油价自5月以来首次触及100 $",
       "summary": "随着中东战争的持续升级，布伦特原油价格周四上涨超过6%。",
@@ -881,34 +937,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_b9413a78",
-      "title": "（他们犯了什么罪？ '：英国广播公司访问伊朗学校，罢工造成120名儿童死亡",
-      "summary": "近五个月过去了，作为一名教师，悲伤仍然是原始的，一位母亲回忆起米纳布袭击的恐怖。",
-      "date": "2026-07-23T04:49:24Z",
-      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'What was their crime?': BBC visits Iran school where strike killed 120 children"
-      }
-    },
-    {
       "id": "evt_1593d8f3",
       "title": "如果霍尔木兹袭击持续下去，特朗普威胁要瞄准伊朗的桥梁和发电厂",
       "summary": "唐纳德·特朗普表示，只要伊朗军队在霍尔木兹海峡向一艘船开火，美国就会做出回应。",
@@ -934,174 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist"
-      }
-    },
-    {
-      "id": "evt_017fde03",
-      "title": "Hegseth说，到目前为止，伊朗战争已经花费了375亿美元，因为五角大楼寻求数十亿美元",
-      "summary": "正如Hegseth在战争的关键时刻作证的那样，听证会因抗议和大喊大叫而中断。",
-      "date": "2026-07-22T02:15:05Z",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more"
-      }
-    },
-    {
-      "id": "evt_725d0290",
-      "title": "黎巴嫩军队称在以色列撤军后在“试点区”部署部队",
-      "summary": "美国斡旋达成的协议应该会让以色列军队撤出在与真主党冲突期间占领的黎巴嫩一小部分地区。",
-      "date": "2026-07-21T18:07:34Z",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal"
-      }
-    },
-    {
-      "id": "evt_be875ab7",
-      "title": "医务人员说，以色列在加沙的袭击造成12人死亡，其中包括六口之家",
-      "summary": "Firas al-Masri ，他的妻子和他们的四个孩子在一次袭击中丧生，以色列军方称袭击目标是哈马斯特工。",
-      "date": "2026-07-21T15:54:11Z",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes in Gaza kill 12, including family of six, medics say"
-      }
-    },
-    {
-      "id": "evt_f750619b",
-      "title": "为什么伊朗在霍尔木兹海峡上冒着如此大的风险",
-      "summary": "由于与美国的冲突仍在继续，伊朗领导人面临的任何选择都不能提供通往胜利的明确道路。",
-      "date": "2026-07-21T14:36:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why Iran is risking so much over the Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_5258cc0b",
-      "title": "特朗普因霍尔木兹收费而撤退表明他正在努力结束伊朗战争",
-      "summary": "这位美国总统的突然对峙是这场已经持续了四个多月的冲突的最新转折。",
-      "date": "2026-07-14T23:17:27Z",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war"
-      }
-    },
-    {
-      "id": "evt_5b039a51",
-      "title": "鲍恩：尽管特朗普大肆咆哮，但他没有比与伊朗谈判更好的选择了",
-      "summary": "英国广播公司国际编辑杰里米·鲍恩（ Jeremy Bowen ）写道，谈判进程是脆弱的，最近的美国罢工表明达成协议将是多么困难。",
-      "date": "2026-07-08T15:30:00Z",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: For all his bluster, Trump has no better option than talks with Iran"
       }
     }
   ]
