@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-07-30T01:48:05.376605Z
+// 自动生成的数据 - 更新时间: 2026-07-31T02:06:02.502963Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-30T01:48:05.376542Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-07-31T02:06:02.502918Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 21,
+      "international": 20,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,72 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_ce697b54",
-      "title": "尽管以色列反对，特朗普仍推动向土耳其出售战斗机",
-      "summary": "美国总统唐纳德·特朗普再次表示支持向土耳其出售F-35战斗机。",
-      "date": "2026-07-30T01:04:42Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
+      "id": "evt_c30c39a2",
+      "title": "伦敦抗议者在街头游行，声援阿扎德克什米尔",
+      "summary": "周四，伦敦的抗议者从海德公园向巴基斯坦高级专员公署游行。",
+      "date": "2026-07-31T01:05:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition"
-      }
-    },
-    {
-      "id": "evt_2f5cf85b",
-      "title": "伊朗战争现场：美国在伊斯兰革命卫队袭击约旦后发动“强大”罢工",
-      "summary": "伊朗媒体报道称，四名伊朗人在美沙两国在伊拉克的联合袭击中丧生。",
-      "date": "2026-07-30T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan"
-      }
-    },
-    {
-      "id": "evt_6a3af18e",
-      "title": "沙特阿拉伯寻求国际联盟打击红海的胡塞武装",
-      "summary": "随着对能源油轮的罢工扩大，利雅得寻求合作伙伴来保护红海的航运，从而推高油价。",
-      "date": "2026-07-29T23:34:26Z",
-      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,76 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Saudi Arabia seeks international coalition against Houthis in Red Sea"
+        "en": "London protesters march through streets in solidarity with Azad Kashmir"
       }
     },
     {
-      "id": "evt_5fd07f7c",
-      "title": "以色列抨击加拿大发表声明反对扩建约旦河西岸定居点",
-      "summary": "加拿大表示，被占领巴勒斯坦领土上的非法定居点破坏了“和平、安全和稳定”。",
-      "date": "2026-07-29T23:29:24Z",
-      "url": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+      "id": "evt_0a458916",
+      "title": "美国前外交官警告称，美国与伊朗的冲突升级“毫无意义”",
+      "summary": "随着美伊冲突升级，美国前驻阿联酋大使芭芭拉·李夫（ Barbara Leaf ）警告称，升级“毫无意义”。",
+      "date": "2026-07-31T00:08:12Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel slams Canada for statement opposing West Bank settlement expansion"
-      }
-    },
-    {
-      "id": "evt_7fe6eecf",
-      "title": "伊拉克称沙特和美国的袭击是“公然侵犯主权”",
-      "summary": "总理阿里·扎伊迪（ Ali al-Zaidi ）取消了对沙特阿拉伯的首次正式访问，以示抗议。",
-      "date": "2026-07-29T23:10:15Z",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’"
-      }
-    },
-    {
-      "id": "evt_56e2912f",
-      "title": "特朗普威胁伊朗袭击约旦美军基地",
-      "summary": "“轮到我们了。唐纳德·特朗普总统表示，在约旦美军遭到袭击后，美国将“非常严厉”地打击伊朗",
-      "date": "2026-07-29T21:18:24Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump threatens Iran strikes after attack on US base in Jordan"
+        "en": "US Escalation with Iran is ‘pointless’, warns former US diplomat"
       }
     },
     {
-      "id": "evt_c2116bc4",
-      "title": "视频显示美沙两国对伊拉克PMF基地发动空袭的后果",
-      "summary": "美国和沙特军队针对伊朗支持的人民动员部队（ PMF ）基地发动了协调一致的空袭",
-      "date": "2026-07-29T20:31:10Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
+      "id": "evt_d07dc3af",
+      "title": "伊朗战争现场：特朗普说哈马斯解除武装，以色列逐渐离开加沙",
+      "summary": "哈马斯成员告诉半岛电视台，所有实施都将以以色列实施其部分协议为条件。",
+      "date": "2026-07-31T00:03:58Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -205,7 +93,175 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases"
+        "en": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually"
+      }
+    },
+    {
+      "id": "evt_2b9ee18d",
+      "title": "特朗普宣布哈马斯解除武装，为以色列撤出加沙铺平道路",
+      "summary": "美国总统唐纳德·特朗普在TruthSocial上表示，已经达成了哈马斯全面解除武装的协议。",
+      "date": "2026-07-30T23:51:40Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza"
+      }
+    },
+    {
+      "id": "evt_e2887ef1",
+      "title": "Pathirage挑战Chopra-Nadeem标枪在英联邦决赛中的竞争",
+      "summary": "在印度的Neeraj Chopra和巴基斯坦的Arshad Nadeem之间的竞争之前，斯里兰卡的Rumesh Pathirage是最受欢迎的。",
+      "date": "2026-07-30T23:25:48Z",
+      "url": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final"
+      }
+    },
+    {
+      "id": "evt_09bd5abb",
+      "title": "哈马斯与特朗普和平委员会达成加沙裁军协议",
+      "summary": "美国总统表示，一旦巴勒斯坦组织解除武装，以色列将从加沙撤军。",
+      "date": "2026-07-30T22:34:19Z",
+      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hamas reaches Gaza disarmament agreement with Trump’s Board of Peace"
+      }
+    },
+    {
+      "id": "evt_421a79f2",
+      "title": "美国在企图袭击美国军队后对伊朗发动“重型”打击",
+      "summary": "敌对行动暂停后，经过短暂的相对平静，双方现已重新开始导弹袭击。",
+      "date": "2026-07-30T10:49:14Z",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US launches 'heavy' strikes on Iran after attempted attack on American troops"
+      }
+    },
+    {
+      "id": "evt_a51e72ae",
+      "title": "“结束这场噩梦” ：在沙特阿拉伯被监禁的英国人的妻子呼吁释放",
+      "summary": "艾哈迈德·杜什（ Ahmed al-Doush ）自2024年以来一直被关押在沙特阿拉伯的监狱中，显然是在几年前的一些社交媒体帖子中。",
+      "date": "2026-07-30T06:51:46Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'End this nightmare': Wife of ailing Briton jailed in Saudi Arabia appeals for release"
+      }
+    },
+    {
+      "id": "evt_60565010",
+      "title": "以色列在加沙修建新的土地屏障并迫使家庭流离失所",
+      "summary": "专家告诉英国广播公司，土方工程表明以色列正在规划长期的内部边界。",
+      "date": "2026-07-30T05:05:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel building new land barriers in Gaza and displacing families"
       }
     },
     {
@@ -853,23 +909,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e14f2b4d",
-      "title": "巴勒斯坦人说，以色列定居者在约旦河西岸放火焚烧清真寺、汽车和农田",
-      "summary": "最近的袭击发生在定居者和巴勒斯坦人在Tal村附近发生冲突的两天后，造成四名巴勒斯坦人和两名以色列人死亡。",
-      "date": "2026-07-26T21:23:53Z",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_a517abe9",
+      "title": "胡塞武装袭击引发对更广泛的中东冲突和更多全球经济损失的担忧",
+      "summary": "伊朗支持的也门集团威胁要在一条重要的航线上瞄准沙特船只。",
+      "date": "2026-07-24T01:59:49Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
       },
       "languages": [
         "zh",
@@ -877,91 +933,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say"
-      }
-    },
-    {
-      "id": "evt_743eae29",
-      "title": "伊朗支持的胡塞武装声称对沙特阿拉伯发动导弹袭击",
-      "summary": "美国军方表示，它摧毁了一艘试图逃避美国对伊朗港口封锁的油轮。",
-      "date": "2026-07-25T06:34:40Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran-backed Houthis claim missile attack on Saudi Arabia"
-      }
-    },
-    {
-      "id": "evt_844c1075",
-      "title": "四名巴勒斯坦人和两名以色列人在约旦河西岸枪击事件中丧",
-      "summary": "巴勒斯坦人说，村民受到定居者的袭击，而以色列军方说，一名巴勒斯坦人偷了一件武器并向徒步旅行者开火。",
-      "date": "2026-07-24T22:49:59Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Four Palestinians and two Israelis killed in West Bank shooting"
-      }
-    },
-    {
-      "id": "evt_c8cae83a",
-      "title": "特朗普表示，沙特必须承认以色列的核协议",
-      "summary": "这位美国总统表示，帮助沙特发展核能的具有里程碑意义的协议取决于它加入亚伯拉罕协议。",
-      "date": "2026-07-23T17:58:02Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudis must recognise Israel for nuclear deal, says Trump"
+        "en": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage"
       }
     }
   ]
