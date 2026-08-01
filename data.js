@@ -1,84 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-07-31T02:06:02.502963Z
+// 自动生成的数据 - 更新时间: 2026-08-01T02:07:19.875376Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-07-31T02:06:02.502918Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-08-01T02:07:19.875327Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 20,
-      "iranian": 13,
+      "international": 18,
+      "iranian": 14,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_c30c39a2",
-      "title": "伦敦抗议者在街头游行，声援阿扎德克什米尔",
-      "summary": "周四，伦敦的抗议者从海德公园向巴基斯坦高级专员公署游行。",
-      "date": "2026-07-31T01:05:18Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
+      "id": "evt_df6940d8",
+      "title": "哈马斯同意解除武装一天后，以色列在加沙发动袭击",
+      "summary": "在哈马斯同意和平协议草案几小时后，以色列在加沙的袭击造成至少两名巴勒斯坦人死亡。",
+      "date": "2026-08-01T00:48:37Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "London protesters march through streets in solidarity with Azad Kashmir"
-      }
-    },
-    {
-      "id": "evt_0a458916",
-      "title": "美国前外交官警告称，美国与伊朗的冲突升级“毫无意义”",
-      "summary": "随着美伊冲突升级，美国前驻阿联酋大使芭芭拉·李夫（ Barbara Leaf ）警告称，升级“毫无意义”。",
-      "date": "2026-07-31T00:08:12Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US Escalation with Iran is ‘pointless’, warns former US diplomat"
-      }
-    },
-    {
-      "id": "evt_d07dc3af",
-      "title": "伊朗战争现场：特朗普说哈马斯解除武装，以色列逐渐离开加沙",
-      "summary": "哈马斯成员告诉半岛电视台，所有实施都将以以色列实施其部分协议为条件。",
-      "date": "2026-07-31T00:03:58Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,51 +37,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually"
+        "en": "Israel launches attacks across Gaza one day after Hamas agrees to disarm"
       }
     },
     {
-      "id": "evt_2b9ee18d",
-      "title": "特朗普宣布哈马斯解除武装，为以色列撤出加沙铺平道路",
-      "summary": "美国总统唐纳德·特朗普在TruthSocial上表示，已经达成了哈马斯全面解除武装的协议。",
-      "date": "2026-07-30T23:51:40Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+      "id": "evt_28bd000f",
+      "title": "伊朗战争现场：特朗普威胁罢工，伊朗表示有应对计划",
+      "summary": "塔斯尼姆援引一名伊朗官员的话说，已经制定了全面的计划来应对任何“疯狂”的美国罢工。",
+      "date": "2026-07-31T23:59:40Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss"
         }
       ],
       "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza"
-      }
-    },
-    {
-      "id": "evt_e2887ef1",
-      "title": "Pathirage挑战Chopra-Nadeem标枪在英联邦决赛中的竞争",
-      "summary": "在印度的Neeraj Chopra和巴基斯坦的Arshad Nadeem之间的竞争之前，斯里兰卡的Rumesh Pathirage是最受欢迎的。",
-      "date": "2026-07-30T23:25:48Z",
-      "url": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss"
-        }
-      ],
-      "category": "political",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -149,20 +65,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final"
+        "en": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond"
       }
     },
     {
-      "id": "evt_09bd5abb",
-      "title": "哈马斯与特朗普和平委员会达成加沙裁军协议",
-      "summary": "美国总统表示，一旦巴勒斯坦组织解除武装，以色列将从加沙撤军。",
-      "date": "2026-07-30T22:34:19Z",
-      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+      "id": "evt_d3cbfaea",
+      "title": "分析师：美国在伊朗面临战略“死胡同”",
+      "summary": "美国国会前分析师表示，华盛顿已与伊朗陷入战略僵局。",
+      "date": "2026-07-31T23:30:54Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Analyst: the US faces a strategic ‘dead end’ in Iran"
+      }
+    },
+    {
+      "id": "evt_11cff0cc",
+      "title": "以色列定居者破坏约旦河西岸的巴勒斯坦墓地",
+      "summary": "以色列定居者破坏约旦河西岸的巴勒斯坦墓地",
+      "date": "2026-07-31T22:12:48Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,7 +121,511 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hamas reaches Gaza disarmament agreement with Trump’s Board of Peace"
+        "en": "Israeli settlers vandalise Palestinian cemetery in West Bank"
+      }
+    },
+    {
+      "id": "evt_798532b7",
+      "title": "也门封锁海军时，安萨鲁拉领导人将利雅得与爱泼斯坦联系起来",
+      "summary": "德黑兰--周五，萨那及周边地区数十万居民在暴雨中聚集在萨宾广场，高呼捍卫抵抗运动和也门武装部队。",
+      "date": "2026-07-31T18:15:57Z",
+      "url": "https://www.tehrantimes.com/news/528745/Ansarullah-leader-ties-Riyadh-to-Epstein-as-Yemen-locks-in-naval",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528745/Ansarullah-leader-ties-Riyadh-to-Epstein-as-Yemen-locks-in-naval"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ansarullah leader ties Riyadh to Epstein as Yemen locks in naval blockade"
+      }
+    },
+    {
+      "id": "evt_eb15c550",
+      "title": "油价不再对战争言论做出反应，而是对实际供应削减做出反应",
+      "summary": "Hamshahri分析了当前的石油市场，并写道：在最近的美伊冲突期间，石油市场再次揭示了一个重要的现实：战争本身并不能决定油价。",
+      "date": "2026-07-31T17:57:15Z",
+      "url": "https://www.tehrantimes.com/news/528730/Oil-prices-no-longer-react-to-war-rhetoric-but-to-real-supply",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528730/Oil-prices-no-longer-react-to-war-rhetoric-but-to-real-supply"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil prices no longer react to war rhetoric, but to real supply cuts"
+      }
+    },
+    {
+      "id": "evt_caa9c53f",
+      "title": "高级神职人员：巩固谈判桌上的军事成果有利于伊朗",
+      "summary": "德黑兰--一名伊朗高级神职人员表示，针对美国和以色列的外交成功与战场实力密不可分，他赞扬伊朗最近对该地区美军基地的报复性打击。",
+      "date": "2026-07-31T17:55:53Z",
+      "url": "https://www.tehrantimes.com/news/528727/Senior-cleric-Consolidating-military-gains-at-negotiating-table",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528727/Senior-cleric-Consolidating-military-gains-at-negotiating-table"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Senior cleric: Consolidating military gains at negotiating table favors Iran"
+      }
+    },
+    {
+      "id": "evt_8192ccac",
+      "title": "殉难的伊朗空军飞行员在设拉子安息",
+      "summary": "德黑兰--勇敢的伊朗空军飞行员马吉德·卡泽米（ Majid Kazemi ）准将的尸体被埋葬在设拉子市，他在对美军基地的军事任务中殉难。来自社会各界的许多人都来向这位堕落的英雄致敬。",
+      "date": "2026-07-31T17:55:11Z",
+      "url": "https://www.tehrantimes.com/news/528735/Martyred-Iranian-Air-Force-pilot-laid-to-rest-in-Shiraz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528735/Martyred-Iranian-Air-Force-pilot-laid-to-rest-in-Shiraz"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Martyred Iranian Air Force pilot laid to rest in Shiraz"
+      }
+    },
+    {
+      "id": "evt_14edc18e",
+      "title": "揭露西方和以色列针对伊朗-埃及关系的阴谋",
+      "summary": "德黑兰--最近在地中海沿岸的埃及达米埃塔港（ Damietta Port ）发生了无人认领的无人机袭击，袭击的目标是天然气储存船只，随后几乎立即在西方媒体上展开了协调一致的虚假宣传活动。文章咄咄逼人地试图在没有一丝法医证据或官方核实的情况下将伊朗与袭击联系起来。",
+      "date": "2026-07-31T17:54:47Z",
+      "url": "https://www.tehrantimes.com/news/528729/Exposing-Western-and-Israeli-plots-against-Iran-Egypt-relations",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528729/Exposing-Western-and-Israeli-plots-against-Iran-Egypt-relations"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Exposing Western and Israeli plots against Iran-Egypt relations"
+      }
+    },
+    {
+      "id": "evt_e129d4bb",
+      "title": "撕下美国占领约旦面具的信",
+      "summary": "德黑兰--数百名约旦公众人物终于说出了约旦王国统治者迫切希望保持沉默的话语。他们公开点名外国军事纠缠的价格。",
+      "date": "2026-07-31T17:52:15Z",
+      "url": "https://www.tehrantimes.com/news/528741/The-letter-that-tore-the-mask-off-US-occupation-of-Jordan",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528741/The-letter-that-tore-the-mask-off-US-occupation-of-Jordan"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The letter that tore the mask off US occupation of Jordan"
+      }
+    },
+    {
+      "id": "evt_680f707c",
+      "title": "《樱花树》木偶戏为年轻观众带来阿舒拉节的经验教训",
+      "summary": "TEHRAN -由Sharareh Tayyar执导的木偶现场表演“The Cherry Tree”目前正在德黑兰艺术局的Mehr剧院上演。",
+      "date": "2026-07-31T17:51:14Z",
+      "url": "https://www.tehrantimes.com/news/528714/The-Cherry-Tree-puppet-play-brings-lessons-of-Ashura-to-young",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528714/The-Cherry-Tree-puppet-play-brings-lessons-of-Ashura-to-young"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“The Cherry Tree” puppet play brings lessons of Ashura to young audiences"
+      }
+    },
+    {
+      "id": "evt_46cde8f6",
+      "title": "第9届东京伊朗电影节纪念米纳布的殉道儿童",
+      "summary": "德黑兰--第九届伊朗电影节于周五在日本东京港区性别平等中心的天秤座大厅举行。",
+      "date": "2026-07-31T17:50:25Z",
+      "url": "https://www.tehrantimes.com/news/528713/9th-Iranian-Film-Festival-in-Tokyo-honors-martyred-children-of",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528713/9th-Iranian-Film-Festival-in-Tokyo-honors-martyred-children-of"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "9th Iranian Film Festival in Tokyo honors martyred children of Minab"
+      }
+    },
+    {
+      "id": "evt_68a507a1",
+      "title": "美国有线电视新闻网：特朗普寻求从伊朗战争中退出",
+      "summary": "德黑兰--唐纳德·特朗普总统再次加强了对伊朗的军事威胁，发誓要继续罢工。特朗普在周五的内阁会议上对记者说，当被问及他对未来四周的预期时，华盛顿将“非常严厉”地打击伊朗。“在某种程度上，他们会说我们再也受不了了，”他说。",
+      "date": "2026-07-31T17:48:43Z",
+      "url": "https://www.tehrantimes.com/news/528740/CNN-Trump-seeks-an-exit-ramp-from-the-Iran-war",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528740/CNN-Trump-seeks-an-exit-ramp-from-the-Iran-war"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "CNN: Trump seeks an exit ramp from the Iran war"
+      }
+    },
+    {
+      "id": "evt_615cd791",
+      "title": "卫报：美国军方在伊朗罢工后放弃了受伤的部队",
+      "summary": "德黑兰--在2月28日开始的美以战争期间，围绕伊朗报复性精确打击的后果的详细披露之后，美国军事机构内部结构混乱和内部掩盖的证据越来越多。根据“卫报”发表的一份报告，华盛顿的国会立法者要求战争部长皮特·黑格塞特就严重医疗疏忽受伤的美国人员和",
+      "date": "2026-07-31T17:46:38Z",
+      "url": "https://www.tehrantimes.com/news/528734/Guardian-US-military-abandons-wounded-troops-after-Iran-strike",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528734/Guardian-US-military-abandons-wounded-troops-after-Iran-strike"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Guardian: US military abandons wounded troops after Iran strike"
+      }
+    },
+    {
+      "id": "evt_2322ff0b",
+      "title": "美国挣扎，但霍尔木兹在伊朗人手中幸存",
+      "summary": "德黑兰--周五，伊朗大大加强了其在波斯湾的军事态势，宣布了一系列协调一致的军事和海上行动，这突显了其加强对霍尔木兹海峡控制的决心，同时扩大了对该地区美国军事设施的报复性打击。",
+      "date": "2026-07-31T17:44:44Z",
+      "url": "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US writhes, but Hormuz survives—in Iranian hands"
+      }
+    },
+    {
+      "id": "evt_231948ed",
+      "title": "针对替代品的娱乐",
+      "summary": "TEHRAN -从表面上看，《偷窃》是一部关于“世纪抢劫”和金融腐败的犯罪惊悚短剧，似乎是反资本主义文本对不平等的警告。然而，它的信息的最终层支撑着同样的战争驱动的资本主义秩序：它将爱泼斯坦阶级隐藏在一个牺牲的身体后面，并通过杀死他来赦免该阶级；使战争经纪人正常化；以吉田达伦的形象讽刺抵抗运动的知识分子和国防领导人；并留下个人",
+      "date": "2026-07-31T17:43:02Z",
+      "url": "https://www.tehrantimes.com/news/528715/Entertainment-against-alternatives",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528715/Entertainment-against-alternatives"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Entertainment against alternatives"
+      }
+    },
+    {
+      "id": "evt_3ac269ae",
+      "title": "Araghchi警告不要支持美国的军事行动",
+      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）在过去两天加强了德黑兰的外交接触，与保加利亚、塞浦路斯、英国和印度的外交部长进行了一系列电话交谈，伊朗试图劝阻外国政府支持正在进行的美国军事行动，并在地区紧张局势升级中加强外交接触。",
+      "date": "2026-07-31T17:30:25Z",
+      "url": "https://www.tehrantimes.com/news/528742/Araghchi-warns-against-support-for-US-military-operations",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528742/Araghchi-warns-against-support-for-US-military-operations"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Araghchi warns against support for US military operations"
+      }
+    },
+    {
+      "id": "evt_9b027a67",
+      "title": "特朗普关于伊拉克知道PMF突袭的虚假说法暴露了他的欺骗",
+      "summary": "德黑兰--伊拉克政府周四宣布，它事先不了解美国和沙特对民众动员部队（ PMF ）阵地的打击，这与美国总统唐纳德·特朗普关于该行动与巴格达协调的声明相矛盾。",
+      "date": "2026-07-31T16:36:58Z",
+      "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump’s false claim that Iraq knew about PMF raids exposes his deceit"
+      }
+    },
+    {
+      "id": "evt_345604d6",
+      "title": "加沙和平协议路线图中有什么？",
+      "summary": "哈马斯表示，它已接受加沙的解除武装计划，该计划将使它放下武器，以色列军队撤出该领土。",
+      "date": "2026-07-31T16:00:56Z",
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What's in the Gaza peace deal roadmap?"
+      }
+    },
+    {
+      "id": "evt_3e0319f4",
+      "title": "鲍恩：哈马斯解除武装的计划面临巨大障碍，但它为加沙带来了难得的希望",
+      "summary": "政治、战争、零信任、数千人死亡和加沙被摧毁的现实将使任何协议变得非常复杂。",
+      "date": "2026-07-31T15:18:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza"
+      }
+    },
+    {
+      "id": "evt_0b6c9ef1",
+      "title": "如果哈马斯的解除武装计划得以实施，它将标志着结束加沙战争的第一个可信步骤",
+      "summary": "该计划如果成功，可能会消除推动特朗普支持的加沙和平倡议的最重要障碍。",
+      "date": "2026-07-31T04:25:49Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war"
+      }
+    },
+    {
+      "id": "evt_314fa893",
+      "title": "为什么与美国的有限战争可能比和平更适合伊朗",
+      "summary": "伊朗可能认为它可以足够谨慎地控制其冲突，以保持对美国的压力，同时避免全面战争。",
+      "date": "2026-07-30T17:26:01Z",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why limited war with the US may suit Iran better than peace"
       }
     },
     {
@@ -290,370 +738,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war"
-      }
-    },
-    {
-      "id": "evt_63c094f5",
-      "title": "安东尼·洛温斯坦（ Antony Loewenstein ）以波斯语出版的“巴勒斯坦实验室”",
-      "summary": "德黑兰--安东尼·洛温斯坦（ Antony Loewenstein ）撰写的《巴勒斯坦实验室：以色列如何将占领技术出口到世界各地》一书的波斯语译本已在全国各地的书店发行。",
-      "date": "2026-07-29T18:23:58Z",
-      "url": "https://www.tehrantimes.com/news/528685/Antony-Loewenstein-s-The-Palestine-Laboratory-published-in",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528685/Antony-Loewenstein-s-The-Palestine-Laboratory-published-in"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Antony Loewenstein’s “The Palestine Laboratory” published in Persian"
-      }
-    },
-    {
-      "id": "evt_c9779475",
-      "title": "伊朗动画“Sepehr传奇”将在俄罗斯电影院上映",
-      "summary": "德黑兰--由埃马德·拉赫马尼（ Emad Rahmani ）和迈赫达德·梅赫拉比（ Mehrdad Mehrabi ）执导的伊朗动画故事片《Sepehr的传奇》（ Legend of Sepehr ）在伊朗上映后将在俄罗斯广泛上映。",
-      "date": "2026-07-29T18:23:19Z",
-      "url": "https://www.tehrantimes.com/news/528687/Iranian-animation-Legend-of-Sepehr-to-be-released-in-Russian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528687/Iranian-animation-Legend-of-Sepehr-to-be-released-in-Russian"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian animation “Legend of Sepehr” to be released in Russian cinemas"
-      }
-    },
-    {
-      "id": "evt_952b4cb1",
-      "title": "古波斯语翻译古兰经在伊朗国家图书馆揭幕",
-      "summary": "TEHRAN -周二，在伊朗国家图书馆和档案馆举行的仪式上，推出了高质量的《Zaferani古兰经》传真版，被学者们认为是已知最古老的完整和过时的《古兰经》手稿，并附有波斯语翻译。",
-      "date": "2026-07-29T18:23:00Z",
-      "url": "https://www.tehrantimes.com/news/528675/Ancient-Persian-translated-Quran-unveiled-at-Iran-National-Library",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528675/Ancient-Persian-translated-Quran-unveiled-at-Iran-National-Library"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ancient Persian-translated Quran unveiled at Iran National Library"
-      }
-    },
-    {
-      "id": "evt_227699c5",
-      "title": "伊朗：美沙两国对伊拉克的犯罪袭击符合特拉维夫-华盛顿的野心",
-      "summary": "德黑兰--伊朗强烈谴责美国和沙特阿拉伯对伊拉克目标进行的联合空袭。",
-      "date": "2026-07-29T18:21:45Z",
-      "url": "https://www.tehrantimes.com/news/528697/Iran-Criminal-US-Saudi-strikes-on-Iraq-align-with-Tel-Aviv-Washington",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528697/Iran-Criminal-US-Saudi-strikes-on-Iraq-align-with-Tel-Aviv-Washington"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran: Criminal US-Saudi strikes on Iraq align with Tel Aviv–Washington ambitions"
-      }
-    },
-    {
-      "id": "evt_062d4fae",
-      "title": "胜利的幻觉：特朗普在内塔尼亚胡会晤后威胁伊朗，因为空的美国武器库暴露了限制",
-      "summary": "德黑兰--在华盛顿与以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）进行高风险会谈后，美国总统唐纳德·特朗普（ Donald Trump ）试图制造一种对伊朗的胜利感。周二的白宫会议标志着特朗普和内塔尼亚胡自2月28日美国和以色列联合对伊朗发动全面战争以来首次面对面坐下来。这次会议是在一个关键时刻举行的，因为美国总统和以色列总理都面临着",
-      "date": "2026-07-29T18:18:50Z",
-      "url": "https://www.tehrantimes.com/news/528695/Illusion-of-victory-Trump-threatens-Iran-after-Netanyahu-meeting",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528695/Illusion-of-victory-Trump-threatens-Iran-after-Netanyahu-meeting"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Illusion of victory: Trump threatens Iran after Netanyahu meeting as empty US arsenal exposes limits"
-      }
-    },
-    {
-      "id": "evt_6b83d96d",
-      "title": "俄罗斯谴责乌克兰在里海袭击伊朗船只是“恐怖行为”",
-      "summary": "德黑兰--俄罗斯外交部谴责乌克兰在里海袭击一艘伊朗商船，称其为“真正的恐怖行为”。",
-      "date": "2026-07-29T18:15:34Z",
-      "url": "https://www.tehrantimes.com/news/528698/Russia-denounces-Ukraine-s-attack-on-Iranian-ship-in-the-Caspian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528698/Russia-denounces-Ukraine-s-attack-on-Iranian-ship-in-the-Caspian"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Russia denounces Ukraine's attack on Iranian ship in the Caspian Sea as a ‘terrorist act’"
-      }
-    },
-    {
-      "id": "evt_3fcefd65",
-      "title": "胜利阵线恐怖分子现任叙利亚驻美国临时代办",
-      "summary": "德黑兰--值得注意的是，叙利亚恐怖组织的一名成员现已成为美国的外交官。",
-      "date": "2026-07-29T18:13:38Z",
-      "url": "https://www.tehrantimes.com/news/528708/Al-Nusra-Front-terrorist-is-now-Syria-s-charg%C3%A9-d-affaires-in",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528708/Al-Nusra-Front-terrorist-is-now-Syria-s-charg%C3%A9-d-affaires-in"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Al-Nusra Front terrorist is now Syria’s chargé d'affaires in US"
-      }
-    },
-    {
-      "id": "evt_74458a5d",
-      "title": "伊拉克抵抗：我们对美国的反应正在进行中-可能在沙特阿拉伯",
-      "summary": "德黑兰--伊拉克国家安全委员会谴责美国和沙特在武装部队总司令阿里·扎伊迪总理主持的紧急会议后对该国发动的联合袭击。",
-      "date": "2026-07-29T18:06:08Z",
-      "url": "https://www.tehrantimes.com/news/528707/Iraqi-resistance-Our-response-to-America-is-on-the-way-perhaps",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528707/Iraqi-resistance-Our-response-to-America-is-on-the-way-perhaps"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iraqi resistance: Our response to America is on the way—perhaps in Saudi Arabia"
-      }
-    },
-    {
-      "id": "evt_28ad39f2",
-      "title": "一只老鹰的归来：向将天空遗赠给祖国的人致敬",
-      "summary": "TEHRAN -历史上有一些时刻，一个国家的生存是用其最高贵的儿子的生命来购买的-当面对舒适和牺牲之间的选择时，他们毫不犹豫地选择了通往天堂的道路。他们的名字不仅刻在石头上，而且永远铭刻在历史的良知中。",
-      "date": "2026-07-29T17:58:07Z",
-      "url": "https://www.tehrantimes.com/news/528706/The-return-of-an-eagle-A-tribute-to-the-man-who-bequeathed-the",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528706/The-return-of-an-eagle-A-tribute-to-the-man-who-bequeathed-the"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The return of an eagle: A tribute to the man who bequeathed the sky to his homeland"
-      }
-    },
-    {
-      "id": "evt_9c2ea0a5",
-      "title": "伊朗议会就潜在的英国IRGC黑名单制定互惠法案",
-      "summary": "伊朗议会一名高级议员周三表示，伊朗立法者提交了立法草案，概述了对等措施，以回应英国政府报告的将伊斯兰革命卫队（ IRGC ）指定为恐怖组织的计划。",
-      "date": "2026-07-29T17:52:33Z",
-      "url": "https://www.tehrantimes.com/news/528705/Iranian-parliament-prepares-reciprocal-bill-over-potential-UK",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528705/Iranian-parliament-prepares-reciprocal-bill-over-potential-UK"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian parliament prepares reciprocal bill over potential UK IRGC blacklisting"
-      }
-    },
-    {
-      "id": "evt_a850d009",
-      "title": "伊朗拒绝霍尔木兹海峡南部航线",
-      "summary": "德黑兰--伊朗法律和国际事务部副部长卡齐姆·加里巴巴迪（ Kazem Gharibabadi ）表示，伊朗不会承认通过霍尔木兹海峡（ Strait of Hormuz ）的南部航运走廊， “即使是一个小时” ，他认为，未来管理世界上最关键的海上咽喉之一的任何安排都必须基于伊朗的安全要求和伊斯兰堡谅解备忘录的条款。",
-      "date": "2026-07-29T17:50:27Z",
-      "url": "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran rejects southern Strait of Hormuz shipping route"
-      }
-    },
-    {
-      "id": "evt_279bf69b",
-      "title": "伊朗警告美国继续采取行动威胁霍尔木兹海峡安全",
-      "summary": "伊朗警告说，美国持续的军事行动对霍尔木兹海峡的安全、区域稳定和航行自由构成严重威胁，同时指责美国和以色列破坏国际和平与安全。",
-      "date": "2026-07-29T17:48:19Z",
-      "url": "https://www.tehrantimes.com/news/528702/Iran-warns-continued-US-actions-threaten-security-of-Hormuz-Strait",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528702/Iran-warns-continued-US-actions-threaten-security-of-Hormuz-Strait"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns continued US actions threaten security of Hormuz Strait"
-      }
-    },
-    {
-      "id": "evt_8b2bb300",
-      "title": "国际刑事法院与美以例外论：为正义而战",
-      "summary": "美国和以色列政权在第二次和第三次战争期间侵略伊朗的行动和威胁-除其他外，包括暗杀伊朗公民，暗杀伊朗殉难的领导人，他的暗杀使数百万人深感悲痛，特别是对Shadjareh Tayebeh小孩的屠杀， Shadjareh Tayebeh是Minab市的一所小学和Lamerd市的平民，无论是在伊朗南部，还是在SYS",
-      "date": "2026-07-29T17:40:08Z",
-      "url": "https://www.tehrantimes.com/news/528703/ICC-vs-US-Israeli-Exceptionalism-The-Fight-for-Justice",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528703/ICC-vs-US-Israeli-Exceptionalism-The-Fight-for-Justice"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "ICC vs. US-Israeli Exceptionalism: The Fight for Justice"
       }
     },
     {
@@ -794,118 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "As the US pauses the war with Iran, is Trump really running out of weapons?"
-      }
-    },
-    {
-      "id": "evt_e85ff68e",
-      "title": "乌克兰驳斥伊朗的威胁，因为里海罢工与战争直接相关",
-      "summary": "伊朗对该船的袭击作出了愤怒的反应，德黑兰外交部长表示“不能无动于衷”。",
-      "date": "2026-07-27T16:33:05Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars"
-      }
-    },
-    {
-      "id": "evt_de2200bc",
-      "title": "随着美国和伊朗暂停袭击，油价下跌",
-      "summary": "美国表示，对伊朗的袭击已经停止，以给“会谈一些空间” ，增加了解决冲突的希望。",
-      "date": "2026-07-27T15:08:37Z",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil price dives as US and Iran pause attacks"
-      }
-    },
-    {
-      "id": "evt_23500842",
-      "title": "自2月伊朗战争开始以来， 600多名美国军人受伤",
-      "summary": "最新数字包括“愤怒行动”的伤亡人数和一个名为“海外行动”的新类别。",
-      "date": "2026-07-27T13:31:57Z",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "More than 600 US military service members injured since Iran War began in February"
-      }
-    },
-    {
-      "id": "evt_6cb527d3",
-      "title": "美国大使说，美国和伊朗暂停第三天晚上的罢工，以便为会谈腾出空间",
-      "summary": "美国和伊朗都没有在过去三个晚上发动袭击，此前近两周的针锋相对的罢工有可能破坏永久结束战争的谈判。",
-      "date": "2026-07-27T08:14:46Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US and Iran pause strikes for third night to make space for talks, US ambassador says"
       }
     },
     {
