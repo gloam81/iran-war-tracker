@@ -1,28 +1,84 @@
-// 自动生成的数据 - 更新时间: 2026-08-01T02:07:19.875376Z
+// 自动生成的数据 - 更新时间: 2026-08-02T02:03:53.760260Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-01T02:07:19.875327Z",
+    "lastUpdate": "2026-08-02T02:03:53.760198Z",
     "totalEvents": 32,
     "sources": {
-      "international": 18,
-      "iranian": 14,
+      "international": 19,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_df6940d8",
-      "title": "哈马斯同意解除武装一天后，以色列在加沙发动袭击",
-      "summary": "在哈马斯同意和平协议草案几小时后，以色列在加沙的袭击造成至少两名巴勒斯坦人死亡。",
-      "date": "2026-08-01T00:48:37Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+      "id": "evt_4974f8c6",
+      "title": "伊朗战争现场：德黑兰警告对任何美国“侵略”的“果断”回应",
+      "summary": "伊朗的Araghchi在与土耳其、巴基斯坦和沙特阿拉伯外交部长的单独电话中发出警告。",
+      "date": "2026-08-02T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’"
+      }
+    },
+    {
+      "id": "evt_5ec95e5e",
+      "title": "密歇根州与明尼苏达州一起报告网络攻击，联邦调查局正在调查",
+      "summary": "在当局警告可能有伊朗阴谋之后，没有发现任何袭击事件的罪魁祸首。",
+      "date": "2026-08-01T22:34:36Z",
+      "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating"
+      }
+    },
+    {
+      "id": "evt_8985384f",
+      "title": "尽管AIPAC受到攻击，美国阿拉伯人的眼睛仍然为阿卜杜勒·埃尔·赛义德赢得了“历史性的”参议院",
+      "summary": "密歇根州的参议院竞选体现了民主党对以色列的分歧，因为AIPAC花费大量资金来对抗进步的医生。",
+      "date": "2026-08-01T22:31:52Z",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,76 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel launches attacks across Gaza one day after Hamas agrees to disarm"
+        "en": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks"
       }
     },
     {
-      "id": "evt_28bd000f",
-      "title": "伊朗战争现场：特朗普威胁罢工，伊朗表示有应对计划",
-      "summary": "塔斯尼姆援引一名伊朗官员的话说，已经制定了全面的计划来应对任何“疯狂”的美国罢工。",
-      "date": "2026-07-31T23:59:40Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+      "id": "evt_2392b535",
+      "title": "为什么休达移民的混乱已经冷却了冷淡的以色列-西班牙关系？",
+      "summary": "是什么原因导致5万多名移民袭击了西班牙在非洲的飞地，以色列是否与此有关？",
+      "date": "2026-08-01T21:42:26Z",
+      "url": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond"
-      }
-    },
-    {
-      "id": "evt_d3cbfaea",
-      "title": "分析师：美国在伊朗面临战略“死胡同”",
-      "summary": "美国国会前分析师表示，华盛顿已与伊朗陷入战略僵局。",
-      "date": "2026-07-31T23:30:54Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Analyst: the US faces a strategic ‘dead end’ in Iran"
-      }
-    },
-    {
-      "id": "evt_11cff0cc",
-      "title": "以色列定居者破坏约旦河西岸的巴勒斯坦墓地",
-      "summary": "以色列定居者破坏约旦河西岸的巴勒斯坦墓地",
-      "date": "2026-07-31T22:12:48Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +121,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli settlers vandalise Palestinian cemetery in West Bank"
+        "en": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?"
       }
     },
     {
-      "id": "evt_798532b7",
-      "title": "也门封锁海军时，安萨鲁拉领导人将利雅得与爱泼斯坦联系起来",
-      "summary": "德黑兰--周五，萨那及周边地区数十万居民在暴雨中聚集在萨宾广场，高呼捍卫抵抗运动和也门武装部队。",
-      "date": "2026-07-31T18:15:57Z",
-      "url": "https://www.tehrantimes.com/news/528745/Ansarullah-leader-ties-Riyadh-to-Epstein-as-Yemen-locks-in-naval",
+      "id": "evt_33d05918",
+      "title": "雪崩遇难者中的破纪录登山者Nirmal Purja",
+      "summary": "14 Peaks明星Nirmal Purja在带领10名登山者登上巴基斯坦Broad Peak山时死于雪崩。",
+      "date": "2026-08-01T20:10:01Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Record-breaking climber Nirmal Purja among those killed in avalanche"
+      }
+    },
+    {
+      "id": "evt_7481fd0d",
+      "title": "第13届广岛-伊朗爱与和平电影节在日本开幕",
+      "summary": "德黑兰--第13届广岛-伊朗爱与和平电影节于周六在日本广岛启动。",
+      "date": "2026-08-01T17:55:24Z",
+      "url": "https://www.tehrantimes.com/news/528762/13th-Hiroshima-Iran-Love-Peace-Film-Festival-launched-in-Japan",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528745/Ansarullah-leader-ties-Riyadh-to-Epstein-as-Yemen-locks-in-naval"
+          "url": "https://www.tehrantimes.com/news/528762/13th-Hiroshima-Iran-Love-Peace-Film-Festival-launched-in-Japan"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "13th Hiroshima-Iran Love & Peace Film Festival launched in Japan"
+      }
+    },
+    {
+      "id": "evt_3175a905",
+      "title": "德黑兰的艺术画廊",
+      "summary": "Ech画廊正在举办Masih Ghasemian的绘画展览。  \n名为“The Silent Frame”的展览将于8月14日在位于Shariati大道Dowlat街对面的Mirza Taraj 10号的画廊展出。",
+      "date": "2026-08-01T17:54:51Z",
+      "url": "https://www.tehrantimes.com/news/528763/What-s-in-Tehran-art-galleries",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528763/What-s-in-Tehran-art-galleries"
         }
       ],
       "category": "diplomatic",
@@ -149,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Ansarullah leader ties Riyadh to Epstein as Yemen locks in naval blockade"
+        "en": "What’s in Tehran art galleries"
       }
     },
     {
-      "id": "evt_eb15c550",
-      "title": "油价不再对战争言论做出反应，而是对实际供应削减做出反应",
-      "summary": "Hamshahri分析了当前的石油市场，并写道：在最近的美伊冲突期间，石油市场再次揭示了一个重要的现实：战争本身并不能决定油价。",
-      "date": "2026-07-31T17:57:15Z",
-      "url": "https://www.tehrantimes.com/news/528730/Oil-prices-no-longer-react-to-war-rhetoric-but-to-real-supply",
+      "id": "evt_26a36609",
+      "title": "美国措手不及",
+      "summary": "Kayhan分析了伊朗对约旦的突然袭击。根据Kayhan的说法，伊朗对美国在约旦的军事后勤的先发制人打击完全让华盛顿和特拉维夫的智囊团感到惊讶，迫使特朗普承认“伊朗的袭击是出乎意料的。“ Kayhan将这次罢工描述为一次明智的打击，再次向世界展示了伊朗的优势地位和战场主动性。",
+      "date": "2026-08-01T17:53:37Z",
+      "url": "https://www.tehrantimes.com/news/528772/America-was-caught-off-guard",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528730/Oil-prices-no-longer-react-to-war-rhetoric-but-to-real-supply"
+          "url": "https://www.tehrantimes.com/news/528772/America-was-caught-off-guard"
         }
       ],
       "category": "military",
@@ -177,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Oil prices no longer react to war rhetoric, but to real supply cuts"
+        "en": "America was caught off guard"
       }
     },
     {
-      "id": "evt_caa9c53f",
-      "title": "高级神职人员：巩固谈判桌上的军事成果有利于伊朗",
-      "summary": "德黑兰--一名伊朗高级神职人员表示，针对美国和以色列的外交成功与战场实力密不可分，他赞扬伊朗最近对该地区美军基地的报复性打击。",
-      "date": "2026-07-31T17:55:53Z",
-      "url": "https://www.tehrantimes.com/news/528727/Senior-cleric-Consolidating-military-gains-at-negotiating-table",
+      "id": "evt_e5721107",
+      "title": "对美国侵略的严厉报复：伊朗寻求三名英雄飞行员的命运",
+      "summary": "德黑兰--伊朗陆军宣布，仍在进行全面的外交和情报工作，以确定今年早些时候对美国在卡塔尔运营的乌代德空军基地进行高精度空袭后失踪的三名空军苏-24飞行员的命运。",
+      "date": "2026-08-01T17:51:49Z",
+      "url": "https://www.tehrantimes.com/news/528771/Crushing-retaliation-against-US-aggression-Iran-seeks-the-fate",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528727/Senior-cleric-Consolidating-military-gains-at-negotiating-table"
+          "url": "https://www.tehrantimes.com/news/528771/Crushing-retaliation-against-US-aggression-Iran-seeks-the-fate"
         }
       ],
       "category": "military",
@@ -205,20 +261,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Senior cleric: Consolidating military gains at negotiating table favors Iran"
+        "en": "Crushing retaliation against US aggression: Iran seeks the fate of three heroic aviators"
       }
     },
     {
-      "id": "evt_8192ccac",
-      "title": "殉难的伊朗空军飞行员在设拉子安息",
-      "summary": "德黑兰--勇敢的伊朗空军飞行员马吉德·卡泽米（ Majid Kazemi ）准将的尸体被埋葬在设拉子市，他在对美军基地的军事任务中殉难。来自社会各界的许多人都来向这位堕落的英雄致敬。",
-      "date": "2026-07-31T17:55:11Z",
-      "url": "https://www.tehrantimes.com/news/528735/Martyred-Iranian-Air-Force-pilot-laid-to-rest-in-Shiraz",
+      "id": "evt_d830b602",
+      "title": "另一个联盟在红海与其坟墓相遇",
+      "summary": "德黑兰--在一个令人窒息的下午，沙特国防部为来自43个国家的代表铺开了红地毯，渴望宣布重大的外交和军事复苏。只有13个政府和沙特支持的亚丁政权在虚线上签字，以支持新成立的“多国海上防御联盟”。",
+      "date": "2026-08-01T17:47:50Z",
+      "url": "https://www.tehrantimes.com/news/528776/Another-coalition-meets-its-grave-in-the-Red-Sea",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528735/Martyred-Iranian-Air-Force-pilot-laid-to-rest-in-Shiraz"
+          "url": "https://www.tehrantimes.com/news/528776/Another-coalition-meets-its-grave-in-the-Red-Sea"
         }
       ],
       "category": "military",
@@ -233,20 +289,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Martyred Iranian Air Force pilot laid to rest in Shiraz"
+        "en": "Another coalition meets its grave in the Red Sea"
       }
     },
     {
-      "id": "evt_14edc18e",
-      "title": "揭露西方和以色列针对伊朗-埃及关系的阴谋",
-      "summary": "德黑兰--最近在地中海沿岸的埃及达米埃塔港（ Damietta Port ）发生了无人认领的无人机袭击，袭击的目标是天然气储存船只，随后几乎立即在西方媒体上展开了协调一致的虚假宣传活动。文章咄咄逼人地试图在没有一丝法医证据或官方核实的情况下将伊朗与袭击联系起来。",
-      "date": "2026-07-31T17:54:47Z",
-      "url": "https://www.tehrantimes.com/news/528729/Exposing-Western-and-Israeli-plots-against-Iran-Egypt-relations",
+      "id": "evt_f29513ec",
+      "title": "随着战略成本的增加，美国立法者要求退出伊朗战争",
+      "summary": "德黑兰--美国政治机构内部的裂痕继续扩大，因为美国立法者公开批评华盛顿对伊朗的未经授权的军事行动，指出伤亡人数增加，国内能源价格飙升，储备迅速枯竭。不断增加的压力促使民主党和共和党人要求立即停止华盛顿的敌对行动。",
+      "date": "2026-08-01T17:29:16Z",
+      "url": "https://www.tehrantimes.com/news/528773/US-lawmakers-demand-exit-from-Iran-war-as-strategic-costs-mount",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528729/Exposing-Western-and-Israeli-plots-against-Iran-Egypt-relations"
+          "url": "https://www.tehrantimes.com/news/528773/US-lawmakers-demand-exit-from-Iran-war-as-strategic-costs-mount"
         }
       ],
       "category": "military",
@@ -261,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Exposing Western and Israeli plots against Iran-Egypt relations"
+        "en": "US lawmakers demand exit from Iran war as strategic costs mount"
       }
     },
     {
-      "id": "evt_e129d4bb",
-      "title": "撕下美国占领约旦面具的信",
-      "summary": "德黑兰--数百名约旦公众人物终于说出了约旦王国统治者迫切希望保持沉默的话语。他们公开点名外国军事纠缠的价格。",
-      "date": "2026-07-31T17:52:15Z",
-      "url": "https://www.tehrantimes.com/news/528741/The-letter-that-tore-the-mask-off-US-occupation-of-Jordan",
+      "id": "evt_835ab5d6",
+      "title": "伊朗的空袭削弱了以色列的长期军事优势：约翰·赫尔默",
+      "summary": "德黑兰--随着华盛顿再次对伊朗南部发动罢工，以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和乌克兰总统沃洛德米尔·泽伦斯基（ Volodymyr Zelensky ）都对特朗普总统进行了高层访问，人们对推动美国在中东及其他地区政策的国内政治计算提出了越来越多的质疑。",
+      "date": "2026-08-01T17:12:40Z",
+      "url": "https://www.tehrantimes.com/news/528736/Iran-s-strikes-undermined-Israel-s-long-standing-military-superiority",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528741/The-letter-that-tore-the-mask-off-US-occupation-of-Jordan"
+          "url": "https://www.tehrantimes.com/news/528736/Iran-s-strikes-undermined-Israel-s-long-standing-military-superiority"
         }
       ],
       "category": "military",
@@ -289,48 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The letter that tore the mask off US occupation of Jordan"
+        "en": "Iran's strikes undermined Israel's long-standing military superiority: John Helmer"
       }
     },
     {
-      "id": "evt_680f707c",
-      "title": "《樱花树》木偶戏为年轻观众带来阿舒拉节的经验教训",
-      "summary": "TEHRAN -由Sharareh Tayyar执导的木偶现场表演“The Cherry Tree”目前正在德黑兰艺术局的Mehr剧院上演。",
-      "date": "2026-07-31T17:51:14Z",
-      "url": "https://www.tehrantimes.com/news/528714/The-Cherry-Tree-puppet-play-brings-lessons-of-Ashura-to-young",
+      "id": "evt_8e48689c",
+      "title": "卡利巴夫呼吁将军事成果转化为政治成功",
+      "summary": "伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）表示，伊朗在最近的战争中取得了胜利，并呼吁将其军事成就转化为持久的政治和法律收益，并强调民族团结对于加强国家至关重要。",
+      "date": "2026-08-01T17:10:13Z",
+      "url": "https://www.tehrantimes.com/news/528777/Qalibaf-calls-for-converting-military-gains-into-political-success",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528714/The-Cherry-Tree-puppet-play-brings-lessons-of-Ashura-to-young"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“The Cherry Tree” puppet play brings lessons of Ashura to young audiences"
-      }
-    },
-    {
-      "id": "evt_46cde8f6",
-      "title": "第9届东京伊朗电影节纪念米纳布的殉道儿童",
-      "summary": "德黑兰--第九届伊朗电影节于周五在日本东京港区性别平等中心的天秤座大厅举行。",
-      "date": "2026-07-31T17:50:25Z",
-      "url": "https://www.tehrantimes.com/news/528713/9th-Iranian-Film-Festival-in-Tokyo-honors-martyred-children-of",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528713/9th-Iranian-Film-Festival-in-Tokyo-honors-martyred-children-of"
+          "url": "https://www.tehrantimes.com/news/528777/Qalibaf-calls-for-converting-military-gains-into-political-success"
         }
       ],
       "category": "military",
@@ -345,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "9th Iranian Film Festival in Tokyo honors martyred children of Minab"
+        "en": "Qalibaf calls for converting military gains into political success"
       }
     },
     {
-      "id": "evt_68a507a1",
-      "title": "美国有线电视新闻网：特朗普寻求从伊朗战争中退出",
-      "summary": "德黑兰--唐纳德·特朗普总统再次加强了对伊朗的军事威胁，发誓要继续罢工。特朗普在周五的内阁会议上对记者说，当被问及他对未来四周的预期时，华盛顿将“非常严厉”地打击伊朗。“在某种程度上，他们会说我们再也受不了了，”他说。",
-      "date": "2026-07-31T17:48:43Z",
-      "url": "https://www.tehrantimes.com/news/528740/CNN-Trump-seeks-an-exit-ramp-from-the-Iran-war",
+      "id": "evt_8ba58c98",
+      "title": "伊朗警告霍尔木兹对峙升级，誓言对任何新的美国领导的袭击进行报复",
+      "summary": "德黑兰--伊朗政治、军事和安全高级官员已发出一系列警告，称美国再次采取军事行动或继续干涉霍尔木兹海峡将引发更广泛的报复，这表明如果紧张局势加剧，德黑兰准备升级应对措施。",
+      "date": "2026-08-01T17:05:46Z",
+      "url": "https://www.tehrantimes.com/news/528775/Iran-warns-of-escalation-in-Hormuz-standoff-vows-retaliation",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528740/CNN-Trump-seeks-an-exit-ramp-from-the-Iran-war"
+          "url": "https://www.tehrantimes.com/news/528775/Iran-warns-of-escalation-in-Hormuz-standoff-vows-retaliation"
         }
       ],
       "category": "military",
@@ -373,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "CNN: Trump seeks an exit ramp from the Iran war"
+        "en": "Iran warns of escalation in Hormuz standoff, vows retaliation against any new US-led attack"
       }
     },
     {
-      "id": "evt_615cd791",
-      "title": "卫报：美国军方在伊朗罢工后放弃了受伤的部队",
-      "summary": "德黑兰--在2月28日开始的美以战争期间，围绕伊朗报复性精确打击的后果的详细披露之后，美国军事机构内部结构混乱和内部掩盖的证据越来越多。根据“卫报”发表的一份报告，华盛顿的国会立法者要求战争部长皮特·黑格塞特就严重医疗疏忽受伤的美国人员和",
-      "date": "2026-07-31T17:46:38Z",
-      "url": "https://www.tehrantimes.com/news/528734/Guardian-US-military-abandons-wounded-troops-after-Iran-strike",
+      "id": "evt_ab520b08",
+      "title": "佩泽什基安总统称赞伊朗人是塑造国家未来的“真正英雄”",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）称赞伊朗人民是“真正的英雄” ，并坚称尽管受到美国和以色列的“强加战争”和压力，该国的未来仍属于其公民。",
+      "date": "2026-08-01T16:33:30Z",
+      "url": "https://www.tehrantimes.com/news/528774/President-Pezeshkian-hails-Iranians-as-true-heroes-shaping",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528734/Guardian-US-military-abandons-wounded-troops-after-Iran-strike"
+          "url": "https://www.tehrantimes.com/news/528774/President-Pezeshkian-hails-Iranians-as-true-heroes-shaping"
         }
       ],
       "category": "military",
@@ -401,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Guardian: US military abandons wounded troops after Iran strike"
+        "en": "President Pezeshkian hails Iranians as ‘true heroes’ shaping the nation’s future"
       }
     },
     {
-      "id": "evt_2322ff0b",
-      "title": "美国挣扎，但霍尔木兹在伊朗人手中幸存",
-      "summary": "德黑兰--周五，伊朗大大加强了其在波斯湾的军事态势，宣布了一系列协调一致的军事和海上行动，这突显了其加强对霍尔木兹海峡控制的决心，同时扩大了对该地区美国军事设施的报复性打击。",
-      "date": "2026-07-31T17:44:44Z",
-      "url": "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands",
+      "id": "evt_9c90a46f",
+      "title": "沙特-美国在袭击伊拉克PMF阵地时犯下的严重错误",
+      "summary": "德黑兰--周三凌晨，美沙两国联合对伊拉克领土发动空中侵略，这不是展示实力，而是深刻的战略误判。它凸显了美国军事信誉的瓦解以及伊朗在该地区实力的稳步上升。",
+      "date": "2026-08-01T16:05:18Z",
+      "url": "https://www.tehrantimes.com/news/528770/The-grave-Saudi-US-mistake-in-attacking-PMF-positions-in-Iraq",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands"
+          "url": "https://www.tehrantimes.com/news/528770/The-grave-Saudi-US-mistake-in-attacking-PMF-positions-in-Iraq"
         }
       ],
       "category": "military",
@@ -429,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US writhes, but Hormuz survives—in Iranian hands"
+        "en": "The grave Saudi-US mistake in attacking PMF positions in Iraq"
       }
     },
     {
-      "id": "evt_231948ed",
-      "title": "针对替代品的娱乐",
-      "summary": "TEHRAN -从表面上看，《偷窃》是一部关于“世纪抢劫”和金融腐败的犯罪惊悚短剧，似乎是反资本主义文本对不平等的警告。然而，它的信息的最终层支撑着同样的战争驱动的资本主义秩序：它将爱泼斯坦阶级隐藏在一个牺牲的身体后面，并通过杀死他来赦免该阶级；使战争经纪人正常化；以吉田达伦的形象讽刺抵抗运动的知识分子和国防领导人；并留下个人",
-      "date": "2026-07-31T17:43:02Z",
-      "url": "https://www.tehrantimes.com/news/528715/Entertainment-against-alternatives",
+      "id": "evt_a56bff34",
+      "title": "帕多瓦尼在2026年世界杯上赞扬伊朗的精神",
+      "summary": "德黑兰—前埃斯特格拉尔后卫莱安德罗·帕多瓦尼（ Leandro Padovani ）赞扬了伊朗在2026年世界杯足球赛上的表现，称尽管面临远离球场的分心，梅利队仍然表现出了韧性和自豪感。",
+      "date": "2026-08-01T14:31:15Z",
+      "url": "https://www.tehrantimes.com/news/528768/Padovani-praises-Iran-s-spirit-at-2026-World-Cup",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528715/Entertainment-against-alternatives"
+          "url": "https://www.tehrantimes.com/news/528768/Padovani-praises-Iran-s-spirit-at-2026-World-Cup"
         }
       ],
       "category": "military",
@@ -457,27 +485,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Entertainment against alternatives"
+        "en": "Padovani praises Iran's spirit at 2026 World Cup"
       }
     },
     {
-      "id": "evt_3ac269ae",
-      "title": "Araghchi警告不要支持美国的军事行动",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）在过去两天加强了德黑兰的外交接触，与保加利亚、塞浦路斯、英国和印度的外交部长进行了一系列电话交谈，伊朗试图劝阻外国政府支持正在进行的美国军事行动，并在地区紧张局势升级中加强外交接触。",
-      "date": "2026-07-31T17:30:25Z",
-      "url": "https://www.tehrantimes.com/news/528742/Araghchi-warns-against-support-for-US-military-operations",
+      "id": "evt_5dc2528d",
+      "title": "Mahalat ：探索伊朗的荷兰",
+      "summary": "Mahalat坐落在伊朗的马尔卡齐省，是一座迷人的城市，以其温和的气候、自然美景和丰富的历史遗产而闻名。马哈拉特被全国称为花卉之城，通常被称为“伊朗的荷兰” ，已成为该国最具特色的旅游目的地之一，以其丰富多彩的景观、古迹、治疗温泉和蓬勃发展的园艺产业吸引着游客。",
+      "date": "2026-08-01T14:12:15Z",
+      "url": "https://www.tehrantimes.com/news/528765/Mahalat-Discover-the-Netherlands-of-Iran",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528742/Araghchi-warns-against-support-for-US-military-operations"
+          "url": "https://www.tehrantimes.com/news/528765/Mahalat-Discover-the-Netherlands-of-Iran"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -485,27 +513,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Araghchi warns against support for US military operations"
+        "en": "Mahalat: Discover the Netherlands of Iran"
       }
     },
     {
-      "id": "evt_9b027a67",
-      "title": "特朗普关于伊拉克知道PMF突袭的虚假说法暴露了他的欺骗",
-      "summary": "德黑兰--伊拉克政府周四宣布，它事先不了解美国和沙特对民众动员部队（ PMF ）阵地的打击，这与美国总统唐纳德·特朗普关于该行动与巴格达协调的声明相矛盾。",
-      "date": "2026-07-31T16:36:58Z",
-      "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his",
+      "id": "evt_fb847163",
+      "title": "以色列约旦河西岸定居者告诉英国广播公司，袭击巴勒斯坦人是合理的报复",
+      "summary": "随着定居点和前哨的扩大，定居者对巴勒斯坦人的暴力行为在约旦河西岸呈上升趋势。",
+      "date": "2026-08-01T05:01:56Z",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -513,7 +541,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump’s false claim that Iraq knew about PMF raids exposes his deceit"
+        "en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge"
       }
     },
     {
@@ -822,34 +850,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack"
-      }
-    },
-    {
-      "id": "evt_27a1a6f4",
-      "title": "特朗普表示，伊朗战争谈判在罢工平静期间进行",
-      "summary": "这位美国总统表示， “很有可能发生一些事情” ，因为伊朗否认正在进行直接谈判。",
-      "date": "2026-07-27T21:10:56Z",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says Iran war talks taking place during lull in strikes"
       }
     },
     {
