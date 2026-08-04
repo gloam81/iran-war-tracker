@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-03T02:06:06.804132Z
+// 自动生成的数据 - 更新时间: 2026-08-04T01:51:52.072204Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-03T02:06:06.804068Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-08-04T01:51:52.072145Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 21,
+      "international": 19,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_faf1c96e",
-      "title": "巴基斯坦斯瓦特山谷发生自杀式炸弹袭击至少14人死亡",
-      "summary": "镜头显示，自杀式爆炸事件发生后，爆炸受害者匆匆进入巴基斯坦西北部的一家医院。",
-      "date": "2026-08-03T00:18:50Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+      "id": "evt_1a4d665c",
+      "title": "伊朗战争现场：德黑兰否认美国会谈，特朗普警告“最后机会”",
+      "summary": "美国总统表示，与伊朗的谈判正在进行中，并警告说，谈判是德黑兰达成协议的“最后机会”。",
+      "date": "2026-08-04T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley"
-      }
-    },
-    {
-      "id": "evt_66839711",
-      "title": "伊朗战争现场：特朗普表示将恢复谈判；德黑兰敦促美国遵守谅解备忘录",
-      "summary": "美国总统唐纳德·特朗普表示，即将与伊朗达成协议，谈判将于周一开始。",
-      "date": "2026-08-03T00:00:15Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,76 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU"
+        "en": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’"
       }
     },
     {
-      "id": "evt_2ba3334f",
-      "title": "特朗普表示新一轮伊朗会谈将于周一开始",
-      "summary": "这位美国总统说，海湾盟友和德黑兰敦促他推迟计划中的罢工。",
-      "date": "2026-08-02T23:48:08Z",
-      "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+      "id": "evt_96ebb61c",
+      "title": "从特朗普到El-Sayed ：密歇根州的美国阿拉伯人在政治上以巴勒斯坦为中心",
+      "summary": "密歇根州的阿拉伯裔美国人在2024年拒绝支持卡马拉·哈里斯（ Kamala Harris ） ，他们表示不会支持亲以色列的候选人。",
+      "date": "2026-08-03T22:35:47Z",
+      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says new round of Iran talks will begin Monday"
-      }
-    },
-    {
-      "id": "evt_9a5c3374",
-      "title": "当地志愿者帮助重建黎巴嫩被摧毁的基督教修道院",
-      "summary": "跨宗教志愿者在黎巴嫩的Zawtar al-Gharbiyeh重建受战争破坏的天主教寺院。",
-      "date": "2026-08-02T21:18:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Local volunteers help rebuild destroyed Christian monastery in Lebanon"
-      }
-    },
-    {
-      "id": "evt_cfeb8dc3",
-      "title": "AIPAC对密歇根州的Abdul El-Sayed花了多少钱？为什么？",
-      "summary": "亲以色列集团释放其消费能力，帮助选举海莉·史蒂文斯（ Haley Stevens ）进入美国参议院，反对进步医生。",
-      "date": "2026-08-02T20:00:45Z",
-      "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?"
+        "en": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics"
       }
     },
     {
-      "id": "evt_e9477d8f",
-      "title": "以色列袭击耶路撒冷老城的亚美尼亚修道院",
-      "summary": "六名以色列犹太人在耶路撒冷老城圣詹姆斯修道院的入口处随地吐痰。",
-      "date": "2026-08-02T19:39:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+      "id": "evt_604a0c55",
+      "title": "如果哈马斯解除武装，以色列会从加沙撤军吗？",
+      "summary": "以色列表示，它对巴勒斯坦组织放下武器持怀疑态度。",
+      "date": "2026-08-03T21:05:11Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,23 +93,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israelis attack Armenian monastery in Jerusalem’s Old City"
+        "en": "Will Israel withdraw from Gaza if Hamas disarms?"
       }
     },
     {
-      "id": "evt_b4fd16ae",
-      "title": "登山者Nirmal Purja的尸体，其他六人在巴基斯坦雪崩后恢复",
-      "summary": "在雪崩杀死所有10名登山者几天后，继续在布罗德峰上寻找最后三名登山者的遗骸。",
-      "date": "2026-08-02T19:30:25Z",
-      "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
+      "id": "evt_dcae110c",
+      "title": "神职人员在参议院办公室抗议时被捕",
+      "summary": "神职人员在参议院办公室抗议伊朗战争和投票权问题时被捕。",
+      "date": "2026-08-03T19:53:59Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -205,7 +121,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche"
+        "en": "Clergy members arrested while protesting at Senate office"
+      }
+    },
+    {
+      "id": "evt_85087790",
+      "title": "特朗普表示，与伊朗的谈判是达成协议的“最后机会”",
+      "summary": "美国总统唐纳德·特朗普表示，伊朗有达成核协议的“最后机会”。",
+      "date": "2026-08-03T19:45:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says talks with Iran are ‘last chance’ to forge a deal"
+      }
+    },
+    {
+      "id": "evt_170011fc",
+      "title": "伊朗表示正在与阿曼进行谈判，但在特朗普表示恢复谈判后，伊朗没有与美国进行谈判",
+      "summary": "伊朗表示没有与美国进行谈判，这促使唐纳德·特朗普对其领导层发出强烈谴责。",
+      "date": "2026-08-03T19:42:55Z",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume"
+      }
+    },
+    {
+      "id": "evt_b696dc50",
+      "title": "分析人士称，自伊朗战争开始以来对中东油轮的威胁最严重",
+      "summary": "分析师表示，对替代航线的新一轮袭击使油轮面临日益复杂的局面。",
+      "date": "2026-08-03T15:57:27Z",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say"
       }
     },
     {
@@ -713,6 +713,34 @@ const siteData = {
       }
     },
     {
+      "id": "evt_f85ef6d5",
+      "title": "什么是伊朗的镐山？为什么特朗普说他想轰炸它？",
+      "summary": "BBC Verify与专家进行了交谈，并分析了卫星图像，以拼凑我们对该网站的了解以及美国空袭的潜在影响。",
+      "date": "2026-08-01T05:01:19Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?"
+      }
+    },
+    {
       "id": "evt_f58a8075",
       "title": "以色列官员表示，如果没有“真正的”哈马斯解除武装，部队就不会撤回加沙",
       "summary": "唐纳德特朗普坚持认为，以色列对巴勒斯坦集团放弃武器以换取以色列撤军的提议“非常满意”。",
@@ -853,34 +881,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_a51e72ae",
-      "title": "“结束这场噩梦” ：在沙特阿拉伯被监禁的英国人的妻子呼吁释放",
-      "summary": "艾哈迈德·杜什（ Ahmed al-Doush ）自2024年以来一直被关押在沙特阿拉伯的监狱中，显然是在几年前的一些社交媒体帖子中。",
-      "date": "2026-07-30T06:51:46Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ckg4jxxn4ggo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'End this nightmare': Wife of ailing Briton jailed in Saudi Arabia appeals for release"
-      }
-    },
-    {
       "id": "evt_60565010",
       "title": "以色列在加沙修建新的土地屏障并迫使家庭流离失所",
       "summary": "专家告诉英国广播公司，土方工程表明以色列正在规划长期的内部边界。",
@@ -909,34 +909,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_88db9369",
-      "title": "沙特阿拉伯试图避开美伊战争的困境",
-      "summary": "沙特面临着一个选择，是继续反击以起到威慑作用，还是试图缓和局势。",
-      "date": "2026-07-29T18:41:31Z",
-      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war"
-      }
-    },
-    {
       "id": "evt_5dfebed2",
       "title": "沙特阿拉伯与美国一道打击伊朗支持的伊拉克民兵",
       "summary": "美国中央司令部表示，代理组织对美国基地和沙特能源基础设施发动了攻击。",
@@ -962,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq"
-      }
-    },
-    {
-      "id": "evt_7cb4bb32",
-      "title": "“以色列定居者包围了我们的家园” ：巴勒斯坦村庄每周遭到袭击",
-      "summary": "位于al-Mughayyir边缘的房屋已成为被占领的约旦河西岸战役的每周前线。",
-      "date": "2026-07-29T05:01:12Z",
-      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack"
       }
     }
   ]
