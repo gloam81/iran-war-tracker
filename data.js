@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-04T01:51:52.072204Z
+// 自动生成的数据 - 更新时间: 2026-08-05T01:52:26.284969Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-04T01:51:52.072145Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-08-05T01:52:26.284833Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 19,
+      "international": 18,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_1a4d665c",
-      "title": "伊朗战争现场：德黑兰否认美国会谈，特朗普警告“最后机会”",
-      "summary": "美国总统表示，与伊朗的谈判正在进行中，并警告说，谈判是德黑兰达成协议的“最后机会”。",
-      "date": "2026-08-04T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "id": "evt_d4b97867",
+      "title": "伊朗战争现场：德黑兰-阿曼谈判霍尔木兹“积极”;船只在红海被击中",
+      "summary": "伊朗表示，由于美国官员表示可能很快达成协议，与阿曼的谈判正在“积极”进行。",
+      "date": "2026-08-05T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’"
+        "en": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea"
       }
     },
     {
-      "id": "evt_96ebb61c",
-      "title": "从特朗普到El-Sayed ：密歇根州的美国阿拉伯人在政治上以巴勒斯坦为中心",
-      "summary": "密歇根州的阿拉伯裔美国人在2024年拒绝支持卡马拉·哈里斯（ Kamala Harris ） ，他们表示不会支持亲以色列的候选人。",
-      "date": "2026-08-03T22:35:47Z",
-      "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+      "id": "evt_113ddb40",
+      "title": "炮弹击沉也门沿海悬挂印度国旗的船只",
+      "summary": "印度外交部表示，这艘悬挂印度国旗的船只上的14人全部安全获救。",
+      "date": "2026-08-04T21:24:50Z",
+      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
       },
       "languages": [
         "zh",
@@ -65,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics"
+        "en": "Projectile sinks Indian-flagged ship off Yemen coast"
       }
     },
     {
-      "id": "evt_604a0c55",
-      "title": "如果哈马斯解除武装，以色列会从加沙撤军吗？",
-      "summary": "以色列表示，它对巴勒斯坦组织放下武器持怀疑态度。",
-      "date": "2026-08-03T21:05:11Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+      "id": "evt_2cd89093",
+      "title": "美国在伊朗格什姆岛罢工中丧生的家人葬礼",
+      "summary": "一对夫妇和他们的蹒跚学步的孩子在美国对伊朗格什姆岛的袭击中丧生后举行了葬礼。",
+      "date": "2026-08-04T21:11:50Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Will Israel withdraw from Gaza if Hamas disarms?"
-      }
-    },
-    {
-      "id": "evt_dcae110c",
-      "title": "神职人员在参议院办公室抗议时被捕",
-      "summary": "神职人员在参议院办公室抗议伊朗战争和投票权问题时被捕。",
-      "date": "2026-08-03T19:53:59Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Clergy members arrested while protesting at Senate office"
+        "en": "Funeral for family killed in US strike on Iran’s Qeshm Island"
       }
     },
     {
-      "id": "evt_85087790",
-      "title": "特朗普表示，与伊朗的谈判是达成协议的“最后机会”",
-      "summary": "美国总统唐纳德·特朗普表示，伊朗有达成核协议的“最后机会”。",
-      "date": "2026-08-03T19:45:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+      "id": "evt_330ea76a",
+      "title": "六年过去了，贝鲁特爆炸事件的家庭仍在等待正义",
+      "summary": "贝鲁特港口爆炸事件的受害者家属要求提供真相和问责，这标志着爆炸发生六周年。",
+      "date": "2026-08-04T21:03:15Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Six years on, Beirut blast families still await justice"
+      }
+    },
+    {
+      "id": "evt_28e24b12",
+      "title": "美国表示与伊朗达成协议重新开放霍尔木兹，阿曼举行“积极”谈判",
+      "summary": "谈判代表正在努力扩大通过海峡的安全航运，但主要分歧仍未解决。",
+      "date": "2026-08-04T20:59:32Z",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,7 +149,483 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says talks with Iran are ‘last chance’ to forge a deal"
+        "en": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks"
+      }
+    },
+    {
+      "id": "evt_9ba6ddba",
+      "title": "卡尔巴拉最大的复仇红旗崛起",
+      "summary": "德黑兰—卡尔巴拉星期二在闷热的八月天空下醒来，地平线上闪烁着复仇的深红色。随着数以百万计的黑衣朝圣者聚集在今年的阿尔巴因朝圣的高潮，伊玛目侯赛因（ AS ）和他的兄弟阿巴斯（ AS ）的孪生神社之间的空间成为仪式与地缘政治反抗融合悲伤的中心。",
+      "date": "2026-08-04T17:49:33Z",
+      "url": "https://www.tehrantimes.com/news/528850/The-Biggest-Red-Banner-of-Vengeance-Rises-in-Karbala",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528850/The-Biggest-Red-Banner-of-Vengeance-Rises-in-Karbala"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The Biggest Red Banner of Vengeance Rises in Karbala"
+      }
+    },
+    {
+      "id": "evt_7157d386",
+      "title": "第21届德黑兰-莫巴拉克国际木偶戏剧节在TMoCA拉开帷幕",
+      "summary": "TEHRAN-第21届德黑兰-莫巴拉克国际木偶戏剧节（ Tehran-Mobarak International Puppet Theater Festival ）的初步活动将于周五在德黑兰当代艺术博物馆（ TMoCA ）的电影博物馆举行开幕式。",
+      "date": "2026-08-04T17:44:06Z",
+      "url": "https://www.tehrantimes.com/news/528832/21st-Tehran-Mobarak-International-Puppet-Theater-Festival-to",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528832/21st-Tehran-Mobarak-International-Puppet-Theater-Festival-to"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "21st Tehran-Mobarak International Puppet Theater Festival to kick off at TMoCA"
+      }
+    },
+    {
+      "id": "evt_ffc80e61",
+      "title": "伊朗、斯里兰卡热衷于扩大联合媒体、文化合作",
+      "summary": "德黑兰--在斯里兰卡科伦坡举行的一次会议上，伊朗伊斯兰共和国大使馆文化参赞Ali Kebriaeizadeh和斯里兰卡鲁帕瓦希尼公司（国家电视台）总裁Kehan De Silva探讨了扩大媒体和文化合作的方法。",
+      "date": "2026-08-04T17:42:06Z",
+      "url": "https://www.tehrantimes.com/news/528834/Iran-Sri-Lanka-keen-on-expanding-joint-media-cultural-cooperation",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528834/Iran-Sri-Lanka-keen-on-expanding-joint-media-cultural-cooperation"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran, Sri Lanka keen on expanding joint media, cultural cooperation"
+      }
+    },
+    {
+      "id": "evt_31fd4aeb",
+      "title": "Sohrab Pournazeri加入格莱美唱片学院",
+      "summary": "德黑兰--伊朗作曲家和音乐家索拉布·波尔纳泽里（ Sohrab Pournazeri ）已成为唱片学院（ Recording Academy ）的成员，该学院是组织和监督年度格莱美奖的机构。",
+      "date": "2026-08-04T17:41:36Z",
+      "url": "https://www.tehrantimes.com/news/528833/Sohrab-Pournazeri-joins-Grammy-Recording-Academy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528833/Sohrab-Pournazeri-joins-Grammy-Recording-Academy"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Sohrab Pournazeri joins Grammy Recording Academy"
+      }
+    },
+    {
+      "id": "evt_c27de92f",
+      "title": "嘲笑特朗普伊朗政策的纽约艺术装置获得国际关注",
+      "summary": "TEHRAN-一个讽刺性的艺术装置，嘲笑美国总统唐纳德·特朗普在最近对伊朗的战争中所扮演的角色，在纽约出现后引起了国际媒体的广泛关注，主要媒体包括《欧洲新闻》、《华盛顿邮报》、《时代》和NBC纽约报道了展览及其引发的公众辩论。",
+      "date": "2026-08-04T17:40:59Z",
+      "url": "https://www.tehrantimes.com/news/528831/New-York-art-installation-mocking-Trump-s-Iran-policy-gains-international",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528831/New-York-art-installation-mocking-Trump-s-Iran-policy-gains-international"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New York art installation mocking Trump’s Iran policy gains international attention"
+      }
+    },
+    {
+      "id": "evt_fe77c654",
+      "title": "特朗普的无效威胁",
+      "summary": "Kayhan分析了唐纳德·特朗普退出对伊朗的威胁。根据Kayhan的说法，特朗普退出基础设施战争以及未能打开霍尔木兹和Bab al-Mandab的战略动脉，再次证明了面对伊朗伊斯兰共和国的可信威慑，强制性威胁的无效性。",
+      "date": "2026-08-04T17:40:27Z",
+      "url": "https://www.tehrantimes.com/news/528829/Trump-s-ineffective-threats",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528829/Trump-s-ineffective-threats"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump’s ineffective threats"
+      }
+    },
+    {
+      "id": "evt_eaa96450",
+      "title": "领导人的顾问在霍尔木兹划定伊朗的红线，警告美国不要进行海上挑衅",
+      "summary": "德黑兰--伊斯兰革命领袖兼伊斯兰革命卫队（ IRGC ）前指挥官穆赫森·雷扎伊（ Mohsen Rezaei ）概述的战略态势标志着伊朗对霍尔木兹海峡主权的决定性重申。",
+      "date": "2026-08-04T17:40:01Z",
+      "url": "https://www.tehrantimes.com/news/528830/Leader-s-advisor-draws-Iran-s-red-line-in-Hormuz-warns-US-against",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528830/Leader-s-advisor-draws-Iran-s-red-line-in-Hormuz-warns-US-against"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Leader’s advisor draws Iran’s red line in Hormuz, warns US against maritime provocation"
+      }
+    },
+    {
+      "id": "evt_ad0f8454",
+      "title": "西方赢得头条新闻-伊朗改变了历史",
+      "summary": "COA-战争会打两次。第一场战斗是用导弹、轰炸机和士兵进行的。第二种是与头条新闻、电视工作室、智囊团和官方简报作斗争。第一个破坏城市。第二个构建记忆。几十年来，西方在赢得两场比赛方面都表现出色。信息优势强化了军事优势。华盛顿及其盟友不仅在各大洲投射权力；他们在很大程度上塑造了理解这种权力的语言。",
+      "date": "2026-08-04T17:39:29Z",
+      "url": "https://www.tehrantimes.com/news/528828/The-West-won-the-headlines-Iran-changed-history",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528828/The-West-won-the-headlines-Iran-changed-history"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The West won the headlines - Iran changed history"
+      }
+    },
+    {
+      "id": "evt_69eb2575",
+      "title": "特朗普的“最后机会”言论暴露了伊朗决定条款时美国杠杆的萎缩",
+      "summary": "德黑兰--美国总统唐纳德·特朗普(Donald Trump)周一再次发出威胁，警告伊朗，它面临“斩首前的最后一次机会” ，即同意美国的条款。",
+      "date": "2026-08-04T17:38:15Z",
+      "url": "https://www.tehrantimes.com/news/528839/Trump-s-last-chance-rhetoric-exposes-shrinking-US-leverage",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528839/Trump-s-last-chance-rhetoric-exposes-shrinking-US-leverage"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump’s ‘last chance’ rhetoric exposes shrinking US leverage as Iran dictates terms"
+      }
+    },
+    {
+      "id": "evt_0dff5a55",
+      "title": "渐进式减员：美国对真主党新战略的基石",
+      "summary": "德黑兰--美国和以色列战略界目前正在讨论的关于黎巴嫩的计划不仅仅是一项旨在遏制武装分子的安全倡议；相反，它构成了重塑该国权力平衡的多层战略的一部分。",
+      "date": "2026-08-04T17:36:25Z",
+      "url": "https://www.tehrantimes.com/news/528845/Gradual-attrition-The-cornerstone-of-the-new-US-strategy-against",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528845/Gradual-attrition-The-cornerstone-of-the-new-US-strategy-against"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gradual attrition: The cornerstone of the new US strategy against Hezbollah"
+      }
+    },
+    {
+      "id": "evt_2dae478b",
+      "title": "在以色列对加沙的袭击发生三年后， 112个家庭被埋葬",
+      "summary": "巴勒斯坦人在上个月从瓦砾下找到遗体后，于2023年11月在以色列空袭中丧生的一个部落的112名成员于周二被埋葬。",
+      "date": "2026-08-04T17:35:57Z",
+      "url": "https://www.tehrantimes.com/news/528847/Families-bury-112-recovered-three-years-after-Israeli-strikes",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528847/Families-bury-112-recovered-three-years-after-Israeli-strikes"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Families bury 112 recovered three years after Israeli strikes on Gaza"
+      }
+    },
+    {
+      "id": "evt_921996d4",
+      "title": "领导人办公室拒绝接受有关Pezeshkian涉嫌辞职的评论",
+      "summary": "德黑兰--伊斯兰革命领袖公共关系办公室正式驳斥了阿亚图拉塞耶德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）涉嫌总统马苏德·佩泽什基安（ Masoud Pezeshkian ）辞职的说法，谴责这种说法是“根本错误的” ，完全没有事实根据。",
+      "date": "2026-08-04T17:33:18Z",
+      "url": "https://www.tehrantimes.com/news/528844/Leader-s-office-rejects-attributed-comments-on-Pezeshkian-s-alleged",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528844/Leader-s-office-rejects-attributed-comments-on-Pezeshkian-s-alleged"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Leader's office rejects attributed comments on Pezeshkian's alleged resignation"
+      }
+    },
+    {
+      "id": "evt_b7314af7",
+      "title": "没有灵丹妙药，但承认伊朗的权力，尊重其合法权利",
+      "summary": "德黑兰--中央司令部呼吁军事分析家提出新的建议，让美国摆脱对伊朗的战争引发的危机，这表明五角大楼已经用尽了处理冲突的选择。",
+      "date": "2026-08-04T17:32:50Z",
+      "url": "https://www.tehrantimes.com/news/528843/No-panacea-but-acknowledging-Iran-s-power-respecting-its-legal",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528843/No-panacea-but-acknowledging-Iran-s-power-respecting-its-legal"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "No panacea but acknowledging Iran’s power, respecting its legal rights"
+      }
+    },
+    {
+      "id": "evt_1917b008",
+      "title": "Araghchi与巴基斯坦、阿曼同行举行单独会谈",
+      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）分别与巴基斯坦和阿曼外长进行了电话交谈，讨论了最新的区域和国际事态发展，并强调了持续外交协调对促进西亚西亚持久和平与稳定的重要性。",
+      "date": "2026-08-04T17:29:46Z",
+      "url": "https://www.tehrantimes.com/news/528849/Araghchi-holds-separate-talks-with-Pakistani-Omani-counterparts",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528849/Araghchi-holds-separate-talks-with-Pakistani-Omani-counterparts"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Araghchi holds separate talks with Pakistani, Omani counterparts"
+      }
+    },
+    {
+      "id": "evt_c7d46caa",
+      "title": "卡塔尔称美伊调解努力仍在继续，但未计划直接会谈",
+      "summary": "美国和伊朗发出了相互矛盾的信号，德黑兰否认特朗普总统关于谈判正在进行的说法。",
+      "date": "2026-08-04T15:11:51Z",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qatar says US-Iran mediation efforts continuing but no direct talks planned"
+      }
+    },
+    {
+      "id": "evt_913f9abb",
+      "title": "2023年以色列罢工中丧生的112名巴勒斯坦人在加沙举行的大规模葬礼",
+      "summary": "这些尸体属于两个大家庭的成员，直到最近才从加沙市的废墟中找到。",
+      "date": "2026-08-04T15:07:52Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike"
+      }
+    },
+    {
+      "id": "evt_1c1c2fe1",
+      "title": "“数字生命线” --加沙技术人员展望未来",
+      "summary": "随着加沙地带更广泛的复苏停滞，成千上万的加沙年轻人正在数字经济中发挥作用。",
+      "date": "2026-08-03T23:13:03Z",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future"
       }
     },
     {
@@ -209,370 +685,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e6accfd2",
-      "title": "伊斯兰革命卫队说，哈马斯的解除武装努力注定要失败",
-      "summary": "德黑兰--伊朗伊斯兰革命卫队（ IRGC ）宣布，任何解除哈马斯武装的努力都“注定要失败” ，同时重申，对杀害伊斯梅尔·哈尼亚和“伊斯兰革命烈士”的报复仍然是不可避免的。",
-      "date": "2026-08-02T17:42:29Z",
-      "url": "https://www.tehrantimes.com/news/528814/Hamas-disarmament-efforts-are-doomed-to-fail-IRGC-says",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528814/Hamas-disarmament-efforts-are-doomed-to-fail-IRGC-says"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hamas disarmament efforts are doomed to fail, IRGC says"
-      }
-    },
-    {
-      "id": "evt_c16feb06",
-      "title": "伊朗警告对任何新的袭击作出果断反应",
-      "summary": "德黑兰--伊朗最近几周发出了最强烈的警告之一，宣布美国或以色列的任何新军事行动都将引发其武装部队的“果断和适度”回应，同时坚称它将继续对美国正在进行的侵略采取“合法的防御行动”。",
-      "date": "2026-08-02T17:34:38Z",
-      "url": "https://www.tehrantimes.com/news/528813/Iran-warns-of-decisive-response-to-any-new-attack",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528813/Iran-warns-of-decisive-response-to-any-new-attack"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns of decisive response to any new attack"
-      }
-    },
-    {
-      "id": "evt_58f1deff",
-      "title": "司法部门和外交部正在追查殉难领导人的暗杀案",
-      "summary": "德黑兰--伊朗外交部和司法机构签署了一份谅解备忘录（ MoU ） ，旨在加强在国际法律诉讼方面的合作，并扩大联合法律、技术和教育举措。",
-      "date": "2026-08-02T17:29:19Z",
-      "url": "https://www.tehrantimes.com/news/528811/Judiciary-and-MFA-are-pursuing-assassination-case-of-martyred",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528811/Judiciary-and-MFA-are-pursuing-assassination-case-of-martyred"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Judiciary and MFA are pursuing assassination case of martyred leader"
-      }
-    },
-    {
-      "id": "evt_e7257369",
-      "title": "伊朗的坚定立场如何暴露了特朗普总统的墨西哥卷饼模式",
-      "summary": "德黑兰--伊朗和美国之间持续不断的冲突再次凸显了唐纳德·特朗普总统独特的外交政策模式，即众所周知的玉米饼现象-- “特朗普总是胆小鬼出局”的简称。",
-      "date": "2026-08-02T17:22:43Z",
-      "url": "https://www.tehrantimes.com/news/528805/How-Iran-s-unyielding-stance-exposed-President-Trump-s-TACO-pattern",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528805/How-Iran-s-unyielding-stance-exposed-President-Trump-s-TACO-pattern"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Iran's unyielding stance exposed President Trump's TACO pattern"
-      }
-    },
-    {
-      "id": "evt_ef4912d6",
-      "title": "战场上的人工智能： Palantir是针对伊朗的战争罪的同谋吗？",
-      "summary": "德黑兰--人工智能从根本上改变了现代战争。军事优势不仅取决于武器，还取决于实时收集、整合和分析大量数据的能力。",
-      "date": "2026-08-02T17:22:04Z",
-      "url": "https://www.tehrantimes.com/news/528801/AI-on-the-battlefield-Is-Palantir-complicit-in-war-crimes-against",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528801/AI-on-the-battlefield-Is-Palantir-complicit-in-war-crimes-against"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "AI on the battlefield: Is Palantir complicit in war crimes against Iran?"
-      }
-    },
-    {
-      "id": "evt_99cce4c2",
-      "title": "对于许多Arbaeen朝圣者来说，每一步都向殉难的阿亚图拉哈梅内伊致敬",
-      "summary": "德黑兰--美以战争的策划者预计会陷入瘫痪。他们计算出，暗杀伊斯兰革命领袖将破坏抵抗运动。他们能流利地使用无菌的斩首语言。他们对殉难的机制视而不见。看看从纳杰夫到卡尔巴拉的路。这是自美国和以色列战机点燃当前战争以来的第一次Arbaeen。朝圣者没有散去。",
-      "date": "2026-08-02T17:20:54Z",
-      "url": "https://www.tehrantimes.com/news/528810/For-Many-Arbaeen-Pilgrims-Every-Step-Honors-Martyred-Ayatollah",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528810/For-Many-Arbaeen-Pilgrims-Every-Step-Honors-Martyred-Ayatollah"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "For many Arbaeen pilgrims, every step honors martyred Ayatollah Khamenei"
-      }
-    },
-    {
-      "id": "evt_ab739f17",
-      "title": "美国将军的警告凸显了伊朗的战略成功",
-      "summary": "德黑兰--《华盛顿邮报》刊登的美国欧洲司令部司令亚历克苏斯·格林克维奇（ Alexus Grynkewich ）将军的机构承认，标志着最初于2月28日开始的美以伊朗战争的一个重要转折点。",
-      "date": "2026-08-02T17:20:00Z",
-      "url": "https://www.tehrantimes.com/news/528800/US-general-s-warning-underscores-Iran-s-strategic-success",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528800/US-general-s-warning-underscores-Iran-s-strategic-success"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US general's warning underscores Iran's strategic success"
-      }
-    },
-    {
-      "id": "evt_5528077f",
-      "title": "伊朗的红线保持不变：特朗普被迫屈辱地撤退",
-      "summary": "德黑兰--美国总统唐纳德·特朗普（ Donald Trump ）取消了对伊朗能源资产的军事打击，在德黑兰承诺做出毁灭性回应并敦促主要地区大国立即停止军事打击后，他从早先的威胁中撤退。",
-      "date": "2026-08-02T17:16:16Z",
-      "url": "https://www.tehrantimes.com/news/528799/Iran-s-red-line-holds-Trump-forced-into-humiliating-retreat",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528799/Iran-s-red-line-holds-Trump-forced-into-humiliating-retreat"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s red line holds: Trump forced into humiliating retreat"
-      }
-    },
-    {
-      "id": "evt_bd41ff95",
-      "title": "威胁或攻击都不会迫使伊朗撤退或投降",
-      "summary": "Sobh-e-No提出了美国需要接受伊朗的条件并退出当前危机的观点。伊朗对霍尔木兹海峡危机的立场是明确和不可谈判的： “接受伊朗对该海峡的主权是停火和任何协议的条件。“这一条件并不是最大限度的要求，而是来自实地现实和伊斯兰堡备忘录的规定，该备忘录此前已通过巴基斯坦的调解达成一致。",
-      "date": "2026-08-02T17:14:37Z",
-      "url": "https://www.tehrantimes.com/news/528798/Neither-threat-nor-attack-will-force-Iran-to-retreat-or-surrender",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528798/Neither-threat-nor-attack-will-force-Iran-to-retreat-or-surrender"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Neither threat nor attack will force Iran to retreat or surrender"
-      }
-    },
-    {
-      "id": "evt_e0ba5226",
-      "title": "在以色列继续侵略期间，五名黎巴嫩士兵在南部城镇爆炸中受伤",
-      "summary": "德黑兰--根据黎巴嫩军队的一份声明，周日，一枚可疑爆炸装置在南部城镇Kafra引爆，五名黎巴嫩军队士兵受伤，当时他们的军车护送当地居民穿过动荡的Bint Jbeil区。",
-      "date": "2026-08-02T17:13:29Z",
-      "url": "https://www.tehrantimes.com/news/528809/Five-Lebanese-soldiers-wounded-in-southern-town-blast-amid-ongoing",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528809/Five-Lebanese-soldiers-wounded-in-southern-town-blast-amid-ongoing"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Five Lebanese soldiers wounded in southern town blast amid ongoing Israeli aggression"
-      }
-    },
-    {
-      "id": "evt_4c63af3c",
-      "title": "纪念Ismail Haniyeh的壁画在德黑兰揭幕",
-      "summary": "TEHRAN-在哈马斯巴勒斯坦抵抗运动政治局前局长伊斯梅尔·哈尼亚（ Ismail Haniyeh ）殉难两周年之际，在艺术局的支持下，周五在德黑兰Jomhouri大道和Valiasr大道的十字路口推出了一幅新壁画。",
-      "date": "2026-08-02T17:11:12Z",
-      "url": "https://www.tehrantimes.com/news/528781/Mural-honoring-Ismail-Haniyeh-unveiled-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528781/Mural-honoring-Ismail-Haniyeh-unveiled-in-Tehran"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mural honoring Ismail Haniyeh unveiled in Tehran"
-      }
-    },
-    {
-      "id": "evt_e73ead17",
-      "title": "本·麦金太尔的《间谍与叛徒》波斯语版",
-      "summary": "德黑兰--本·麦金太尔（ Ben Macintyre ）撰写的《间谍与叛徒》（ The Spy and the Traitor ）一书的波斯语译本已在全国各地的书店发行，该书讲述了冷战中最重要的英国特工。",
-      "date": "2026-08-02T17:09:44Z",
-      "url": "https://www.tehrantimes.com/news/528791/Ben-Macintyre-s-The-Spy-and-the-Traitor-available-in-Persian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528791/Ben-Macintyre-s-The-Spy-and-the-Traitor-available-in-Persian"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ben Macintyre’s “The Spy and the Traitor” available in Persian"
-      }
-    },
-    {
-      "id": "evt_dd7a32e5",
-      "title": "2026年爱情国际电影节伊朗12项提名",
-      "summary": "德黑兰--参加2026年爱情国际电影节（ LIFF ）的伊朗电影获得了多项提名。",
-      "date": "2026-08-02T17:07:38Z",
-      "url": "https://www.tehrantimes.com/news/528790/12-nominations-for-Iran-at-2026-Love-International-Film-Festival",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528790/12-nominations-for-Iran-at-2026-Love-International-Film-Festival"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "12 nominations for Iran at 2026 Love International Film Festival"
-      }
-    },
-    {
       "id": "evt_9815a3b5",
       "title": "乌干达揭幕在恩德培救援任务中牺牲的以色列总理的兄弟雕像",
       "summary": "约纳坦·内塔尼亚胡（ Yonatan Netanyahu ）是唯一死亡的以色列士兵，他领导了一项解救100多名人质的任务。",
@@ -598,34 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission"
-      }
-    },
-    {
-      "id": "evt_3032bbc1",
-      "title": "混合战争抵达西班牙",
-      "summary": "马德里--西班牙在非洲大陆的领土之一休达发生的事件引发了双重争论。在国内，右翼和极右翼指责佩德罗·桑切斯政府“在面对入侵时玩忽职守”。总统反过来称其为“侵犯西班牙领土完整” ，并表示： “休达是西班牙城市，昨天的事件应受到我们的彻底谴责。“然而，从地缘政治的角度来看，最引人注目的辩论-以及本文的重点",
-      "date": "2026-08-02T16:21:09Z",
-      "url": "https://www.tehrantimes.com/news/528808/Hybrid-war-arrives-against-Spain",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528808/Hybrid-war-arrives-against-Spain"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hybrid war arrives against Spain"
       }
     },
     {
@@ -769,62 +853,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_345604d6",
-      "title": "加沙和平协议路线图中有什么？",
-      "summary": "哈马斯表示，它已接受加沙的解除武装计划，该计划将使它放下武器，以色列军队撤出该领土。",
-      "date": "2026-07-31T16:00:56Z",
-      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What's in the Gaza peace deal roadmap?"
-      }
-    },
-    {
-      "id": "evt_3e0319f4",
-      "title": "鲍恩：哈马斯解除武装的计划面临巨大障碍，但它为加沙带来了难得的希望",
-      "summary": "政治、战争、零信任、数千人死亡和加沙被摧毁的现实将使任何协议变得非常复杂。",
-      "date": "2026-07-31T15:18:31Z",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza"
-      }
-    },
-    {
       "id": "evt_0b6c9ef1",
       "title": "如果哈马斯的解除武装计划得以实施，它将标志着结束加沙战争的第一个可信步骤",
       "summary": "该计划如果成功，可能会消除推动特朗普支持的加沙和平倡议的最重要障碍。",
@@ -878,62 +906,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Why limited war with the US may suit Iran better than peace"
-      }
-    },
-    {
-      "id": "evt_60565010",
-      "title": "以色列在加沙修建新的土地屏障并迫使家庭流离失所",
-      "summary": "专家告诉英国广播公司，土方工程表明以色列正在规划长期的内部边界。",
-      "date": "2026-07-30T05:05:24Z",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel building new land barriers in Gaza and displacing families"
-      }
-    },
-    {
-      "id": "evt_5dfebed2",
-      "title": "沙特阿拉伯与美国一道打击伊朗支持的伊拉克民兵",
-      "summary": "美国中央司令部表示，代理组织对美国基地和沙特能源基础设施发动了攻击。",
-      "date": "2026-07-29T13:48:41Z",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq"
       }
     }
   ]
