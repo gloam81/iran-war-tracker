@@ -1,28 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-08-07T02:16:18.049047Z
+// 自动生成的数据 - 更新时间: 2026-08-08T01:04:09.098457Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-07T02:16:18.048981Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-08-08T01:04:09.098412Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 20,
-      "iranian": 14,
+      "international": 18,
+      "iranian": 12,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_f4a2134a",
-      "title": "伊朗战争现场：特朗普说战争不能“持续太久”;霍尔木兹交易接近尾声",
-      "summary": "美国、伊朗和阿曼即将达成一项临时协议，重新开放霍尔木兹海峡。",
-      "date": "2026-08-07T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+      "id": "evt_b797de50",
+      "title": "伊朗战争现场：霍尔木兹协议迫在眉睫，三边麦加防务协议签署",
+      "summary": "沙特王储、土耳其总统和巴基斯坦总理在麦加签署了一项联合防务协议。",
+      "date": "2026-08-08T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close"
+        "en": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms"
       }
     },
     {
-      "id": "evt_29a9094e",
-      "title": "来自以色列和欧洲的旅行限制使加沙的学生陷入困境",
-      "summary": "封锁和官僚主义将教育变成了有才华的加沙学生寻求更光明未来的艰难旅程。",
-      "date": "2026-08-06T23:49:21Z",
-      "url": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
+      "id": "evt_bb1d0d15",
+      "title": "巴基斯坦-沙特-土耳其联盟真的会创造一个新的区域秩序吗？",
+      "summary": "《麦加联合防务条约》将伊朗和以色列之间的国家聚集在一起，但它是否有效？",
+      "date": "2026-08-07T23:18:14Z",
+      "url": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Travel restrictions – from Israel and Europe – trap students in Gaza"
+        "en": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?"
       }
     },
     {
-      "id": "evt_25706948",
-      "title": "“没有红线” ：南黎巴嫩居民对以色列恢复罢工感到愤怒",
-      "summary": "随着以色列发动更多的袭击和流离失所命令，黎巴嫩南部的人们对其政府的做法提出质疑。",
-      "date": "2026-08-06T23:46:37Z",
-      "url": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
+      "id": "evt_d574f7d4",
+      "title": "在以色列对约旦河西岸的袭击中受伤的六名巴勒斯坦人",
+      "summary": "官员们说，自1月以来，巴勒斯坦人报告说，以色列在被占领的约旦河西岸发动了11,000多次袭击。",
+      "date": "2026-08-07T23:15:01Z",
+      "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes"
+        "en": "Medics among six Palestinians injured in Israeli attacks across West Bank"
       }
     },
     {
-      "id": "evt_34d3b841",
-      "title": "伊朗的加利巴夫指责特朗普“循环”进行表演外交",
-      "summary": "美国总统表示，他正在参与谈判，战争将“很快”结束，声称伊朗不能“走得更远”。",
-      "date": "2026-08-06T23:34:47Z",
-      "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
+      "id": "evt_02c04a9e",
+      "title": "黎巴嫩指出边界问题取得“积极进展” ，以色列囚犯会谈",
+      "summary": "据报道，在第七轮讨论之后，以色列在黎巴嫩南部发动了新的袭击，贝鲁特对此表示乐观。",
+      "date": "2026-08-07T21:02:31Z",
+      "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks"
+      }
+    },
+    {
+      "id": "evt_bbc4da85",
+      "title": "沙特阿拉伯、土耳其和巴基斯坦签署防务协议",
+      "summary": "巴基斯坦表示，在中东冲突期间，对三人中的任何一人的袭击都将构成对所有人的袭击。",
+      "date": "2026-08-07T17:42:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,20 +149,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’"
+        "en": "Saudi Arabia, Turkey and Pakistan sign defence pact"
       }
     },
     {
-      "id": "evt_6f72889d",
-      "title": "阿卜杜勒·赛义德（ Abdul El-Sayed ）的“非凡”胜利如何震惊了亲以色列机构",
-      "summary": "支持者说，密歇根进步党击退了AIPAC以及美国参议院竞选中的民主党机构。",
-      "date": "2026-08-06T22:59:29Z",
-      "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss",
+      "id": "evt_a2ba5e22",
+      "title": "卡利巴夫抨击特朗普对伊朗的“戏剧外交”",
+      "summary": "德黑兰--伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）批评美国总统唐纳德·特朗普（ Donald Trump ）关于军事威胁和与伊朗谈判的声明不断变化，称其为“战区外交”。",
+      "date": "2026-08-07T17:31:50Z",
+      "url": "https://www.tehrantimes.com/news/528924/Qalibaf-slams-Trump-s-theater-diplomacy-toward-Iran",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528924/Qalibaf-slams-Trump-s-theater-diplomacy-toward-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qalibaf slams Trump’s ‘theater diplomacy’ toward Iran"
+      }
+    },
+    {
+      "id": "evt_8c7c9c1a",
+      "title": "特朗普发誓要因弹药短缺的报道而监禁“泄密者”",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）驳斥了有关美国因美以对伊朗的战争而面临弹药短缺的报道，并发誓要监禁那些涉嫌泄露信息的人。",
+      "date": "2026-08-07T17:30:33Z",
+      "url": "https://www.tehrantimes.com/news/528920/Trump-vows-to-jail-leakers-over-reports-of-munitions-shortage",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528920/Trump-vows-to-jail-leakers-over-reports-of-munitions-shortage"
         }
       ],
       "category": "military",
@@ -149,7 +205,287 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment"
+        "en": "Trump vows to jail ‘leakers’ over reports of munitions shortage"
+      }
+    },
+    {
+      "id": "evt_78f0ac6c",
+      "title": "以色列通过逐营战略扩大约旦河西岸攻势",
+      "summary": "德黑兰--周四晚些时候，以色列军队从被占领的圣城（耶路撒冷）以北的加兰迪亚难民营撤出，此前发生了为期两天的残酷袭击，造成51名巴勒斯坦人受伤， 60多人被拘留，但撤军并没有带来任何缓解。机器简单地转向别处。",
+      "date": "2026-08-07T17:30:15Z",
+      "url": "https://www.tehrantimes.com/news/528921/Israel-expands-West-Bank-offensive-with-camp-by-camp-strategy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528921/Israel-expands-West-Bank-offensive-with-camp-by-camp-strategy"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel expands West Bank offensive with camp-by-camp strategy"
+      }
+    },
+    {
+      "id": "evt_4644157b",
+      "title": "伊朗为冲突设定节奏",
+      "summary": "马德里--早在2月份，分析人士就质疑是否有任何可行的军事解决方案可以保证美国的战略目标：政权更迭、摧毁铀浓缩能力、结束伊朗对安萨鲁拉（ Ansarullah ）、哈马斯（ Hamas ）和真主党（ Hezbollah ）等组织的支持，以及拆除弹道导弹计划。敌对行动已经进行了几个月，现实已经说话了。华盛顿不仅没有实现这些目标；伊朗现在控制着霍尔木兹海峡，",
+      "date": "2026-08-07T17:26:25Z",
+      "url": "https://www.tehrantimes.com/news/528913/Iran-sets-the-tempo-of-the-conflict",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528913/Iran-sets-the-tempo-of-the-conflict"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran sets the tempo of the conflict"
+      }
+    },
+    {
+      "id": "evt_0b6ffacb",
+      "title": "“谦逊、理智、耐心” ： Pezeshkian总统谈论新领导人的美德",
+      "summary": "德黑兰--总统马苏德·佩泽什基安（ Masoud Pezeshkian ）赞扬军队、官员和公众在面对美以侵略和外国支持的旨在引发国内动乱的阴谋时提升了伊朗的全球地位。伊朗总统在电视转播中发表了这些言论，标志着他就职两周年。",
+      "date": "2026-08-07T17:24:45Z",
+      "url": "https://www.tehrantimes.com/news/528910/Humble-reasonable-and-patient-President-Pezeshkian-on-the",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528910/Humble-reasonable-and-patient-President-Pezeshkian-on-the"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Humble, reasonable, and patient’: President Pezeshkian on the new Leader’s virtues"
+      }
+    },
+    {
+      "id": "evt_4c468c34",
+      "title": "也门在沙特阿拉伯翻转战场",
+      "summary": "德黑兰--8月6日的视频片段毋庸置疑。火焰吞噬了一个沙漠营地。一排装甲车被压缩成扭曲的金属。也门武装部队先发制人。",
+      "date": "2026-08-07T17:23:21Z",
+      "url": "https://www.tehrantimes.com/news/528922/Yemen-flips-the-battlefield-on-Saudi-Arabia",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528922/Yemen-flips-the-battlefield-on-Saudi-Arabia"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen flips the battlefield on Saudi Arabia"
+      }
+    },
+    {
+      "id": "evt_77f8b61a",
+      "title": "德黑兰的艺术画廊",
+      "summary": "Keiman画廊正在举办一场由一群艺术家创作的绘画展览。 \n展览名为“夏季” ，将于8月16日在Elahieh街区Akhgari街10号的画廊举行。",
+      "date": "2026-08-07T17:22:41Z",
+      "url": "https://www.tehrantimes.com/news/528890/What-s-in-Tehran-art-galleries",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528890/What-s-in-Tehran-art-galleries"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What’s in Tehran art galleries"
+      }
+    },
+    {
+      "id": "evt_e8775c1f",
+      "title": "摩萨德解雇了失败的政权更迭梦的建筑师",
+      "summary": "TEHRAN -在美以战争爆发前几个月，伊朗最后一任国王的儿子礼萨·巴列维（ Reza Pahlavi ）访问了被占领土。在这次访问期间，他与本雅明·内塔尼亚胡、摩萨德高级官员和一些有影响力的议会成员举行了会晤。",
+      "date": "2026-08-07T17:20:05Z",
+      "url": "https://www.tehrantimes.com/news/528925/Mossad-sacks-architects-of-its-failed-regime-change-dream",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528925/Mossad-sacks-architects-of-its-failed-regime-change-dream"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mossad sacks architects of its failed regime change dream"
+      }
+    },
+    {
+      "id": "evt_a6f35390",
+      "title": "伊朗军方，官员强调坚定立场，因为与美国的紧张关系持续存在",
+      "summary": "德黑兰--在过去的48小时里，伊朗高级军事指挥官和政府官员发表了一系列声明，强调伊朗伊斯兰共和国加强了军事准备状态，并坚决反对美国持续施压，因为德黑兰和华盛顿之间的紧张关系没有减弱的迹象。",
+      "date": "2026-08-07T17:16:10Z",
+      "url": "https://www.tehrantimes.com/news/528926/Iranian-military-officials-stress-firm-stance-as-tension-with",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528926/Iranian-military-officials-stress-firm-stance-as-tension-with"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian military, officials stress firm stance as tension with US persist"
+      }
+    },
+    {
+      "id": "evt_fe70d54d",
+      "title": "随着喀山加入文化周计划，伊朗和俄罗斯寻求更深层次的文化联系",
+      "summary": "TEHRAN -伊朗驻俄罗斯大使宣布，俄罗斯鞑靼斯坦共和国首都喀山市已被添加到俄罗斯伊朗文化周的主办城市名单中，将活动扩展到莫斯科和圣彼得堡以外。",
+      "date": "2026-08-07T16:59:35Z",
+      "url": "https://www.tehrantimes.com/news/528889/Iran-Russia-seek-deeper-cultural-ties-as-Kazan-added-to-Cultural",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528889/Iran-Russia-seek-deeper-cultural-ties-as-Kazan-added-to-Cultural"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran, Russia seek deeper cultural ties as Kazan added to Cultural Week program"
+      }
+    },
+    {
+      "id": "evt_665330a6",
+      "title": "伊朗建筑师， 2026年世界建筑节项目呈现",
+      "summary": "德黑兰--伊朗的一个项目是今年世界建筑节（ WAF ）的提名项目之一。",
+      "date": "2026-08-07T16:57:47Z",
+      "url": "https://www.tehrantimes.com/news/528911/Iranian-architects-project-present-at-World-Architecture-Festival",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528911/Iranian-architects-project-present-at-World-Architecture-Festival"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian architects, project present at World Architecture Festival 2026"
+      }
+    },
+    {
+      "id": "evt_1de7be56",
+      "title": "伊朗的袭击给数百名美国军人留下了持久的脑部创伤",
+      "summary": "德黑兰--据美联社报道，伊朗无情的无人机和导弹袭击造成近700名美国军人受伤，创伤性脑损伤迅速成为美以联合战争的主要受害者。",
+      "date": "2026-08-07T16:53:48Z",
+      "url": "https://www.tehrantimes.com/news/528912/Iranian-attacks-leave-hundreds-of-US-service-members-with-enduring",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/528912/Iranian-attacks-leave-hundreds-of-US-service-members-with-enduring"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian attacks leave hundreds of US service members with enduring brain trauma"
       }
     },
     {
@@ -178,34 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Houthi attacks reportedly kill at least 30 Yemeni government forces"
-      }
-    },
-    {
-      "id": "evt_53c50c9c",
-      "title": "火灾吞噬了土耳其地震房屋现场",
-      "summary": "土耳其哈塔伊（ Hatay ）地震房屋建筑工地的工人住宿营地发生火灾。",
-      "date": "2026-08-06T20:55:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/fire-engulfs-earthquake-housing-site-in-turkiye?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/fire-engulfs-earthquake-housing-site-in-turkiye?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Fire engulfs earthquake housing site in Turkiye"
       }
     },
     {
@@ -346,398 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran says deal with Oman on Strait of Hormuz is in final stages"
-      }
-    },
-    {
-      "id": "evt_b6ce9313",
-      "title": "伊朗、阿曼采取行动敲定新的霍尔木兹航运走廊",
-      "summary": "德黑兰--在与伊朗进行了数月的军事对抗后，美国的战略资源日益减少，因此越来越寄希望于德黑兰和马斯喀特之间的谈判，以确保通过霍尔木兹海峡的未来航行。霍尔木兹海峡是世界上最具战略意义的海上走廊之一。",
-      "date": "2026-08-05T18:24:17Z",
-      "url": "https://www.tehrantimes.com/news/528884/Iran-Oman-move-to-finalize-new-Hormuz-shipping-corridor",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528884/Iran-Oman-move-to-finalize-new-Hormuz-shipping-corridor"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran, Oman move to finalize new Hormuz shipping corridor"
-      }
-    },
-    {
-      "id": "evt_bba49887",
-      "title": "伊朗书店的「幸运之旅」",
-      "summary": "TEHRAN--德黑兰Milkan Publications最近出版了日本作家Yasushi Kitagawa的书《The Lucky Ride: A Novel Full of Opportunity》的波斯语译本。",
-      "date": "2026-08-05T18:22:15Z",
-      "url": "https://www.tehrantimes.com/news/528862/The-Lucky-Ride-at-Iranian-bookstores",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528862/The-Lucky-Ride-at-Iranian-bookstores"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“The Lucky Ride” at Iranian bookstores"
-      }
-    },
-    {
-      "id": "evt_4b19f461",
-      "title": "瓦伊迪·穆瓦瓦德（ Wajdi Mouawad ）在城市剧院舞台上的“燃烧物”",
-      "summary": "德黑兰--黎巴嫩裔加拿大作家瓦伊迪·穆瓦瓦德（ Wajdi Mouawad ）于2003年在德黑兰城市剧院上演了名为《燃烧弹》（ Incendies ）的戏剧。",
-      "date": "2026-08-05T18:21:27Z",
-      "url": "https://www.tehrantimes.com/news/528867/Wajdi-Mouawad-s-Incendies-on-stage-at-City-Theater",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528867/Wajdi-Mouawad-s-Incendies-on-stage-at-City-Theater"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Wajdi Mouawad’s “Incendies” on stage at City Theater"
-      }
-    },
-    {
-      "id": "evt_9a86ade8",
-      "title": "ICRO负责人在纳杰夫的“最后的钟声”展览期间概述了战略文化外交目标",
-      "summary": "德黑兰--伊斯兰文化与关系组织（ ICRO ）负责人Hojjatoleslam Mohammad Mehdi Imanipour参观了伊拉克纳杰夫的“最后的钟声”艺术和摄影展，该展览旨在纪念米纳布Shajarah Tayyebeh学校的烈士。",
-      "date": "2026-08-05T18:20:57Z",
-      "url": "https://www.tehrantimes.com/news/528866/Head-of-ICRO-outlines-strategic-cultural-diplomacy-goals-during",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528866/Head-of-ICRO-outlines-strategic-cultural-diplomacy-goals-during"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Head of ICRO outlines strategic cultural diplomacy goals during “Last Bell” exhibition in Najaf"
-      }
-    },
-    {
-      "id": "evt_4fbc11d3",
-      "title": "收到超过16,000份Minab学校文学奖参赛作品",
-      "summary": "TEHRAN -名为“Minab学校– 168个未完成的短篇故事”的第一个国际六字故事奖的秘书处宣布，对其首次征集参赛作品做出了压倒性的回应，吸引了来自全球的参与者。",
-      "date": "2026-08-05T18:20:41Z",
-      "url": "https://www.tehrantimes.com/news/528861/Over-16-000-entries-received-for-Minab-school-literary-award",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528861/Over-16-000-entries-received-for-Minab-school-literary-award"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Over 16,000 entries received for Minab school literary award"
-      }
-    },
-    {
-      "id": "evt_a507eef9",
-      "title": "为美国在伊朗格什姆岛罢工中丧生的家人举行葬礼",
-      "summary": "德黑兰--成千上万的哀悼者参加了上周美国对伊朗格什姆岛的袭击中丧生的一个三口之家的葬礼。",
-      "date": "2026-08-05T18:18:07Z",
-      "url": "https://www.tehrantimes.com/news/528877/Funeral-held-for-family-killed-in-US-strike-on-Iran-s-Qeshm-Island",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528877/Funeral-held-for-family-killed-in-US-strike-on-Iran-s-Qeshm-Island"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Funeral held for family killed in US strike on Iran's Qeshm Island"
-      }
-    },
-    {
-      "id": "evt_07c3f650",
-      "title": "鲁哈尼：美国、以色列对伊朗的韧性做出“根本性误判”",
-      "summary": "德黑兰--伊朗前总统哈桑·鲁哈尼（ Hassan Rouhani ）强调，美国和以色列严重低估了伊朗民族坚定不移的韧性，从而做出了“根本性的误判” ，同时赞扬了烈士阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）在击败侵略者阴谋方面的历史性立场和遗产。",
-      "date": "2026-08-05T18:16:16Z",
-      "url": "https://www.tehrantimes.com/news/528869/Rouhani-US-Israel-made-fundamental-miscalculation-over-Iran-s",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528869/Rouhani-US-Israel-made-fundamental-miscalculation-over-Iran-s"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Rouhani: US, Israel made 'fundamental miscalculation' over Iran's resilience"
-      }
-    },
-    {
-      "id": "evt_8c40a960",
-      "title": "伊朗卫生部长谴责美国-以色列对拉默德体育场的袭击是“明显的罪行”",
-      "summary": "德黑兰--伊朗卫生部长穆罕默德-礼萨·扎法尔坎迪（ Mohammad-Reza Zafarqandi ）前往南部的拉默德县（ Lamerd ） ，视察当地医疗设施，并在五个多月前开始的美以联合战争的影响下评估紧急应对措施。在访问期间，他强烈谴责美国对当地体育场馆的导弹袭击，谴责军事行动是“对手无寸铁的人的明显罪行和深刻的人类悲剧”。",
-      "date": "2026-08-05T18:15:24Z",
-      "url": "https://www.tehrantimes.com/news/528875/Iran-s-health-minister-denounces-US-Israeli-strike-against-Lamerd",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528875/Iran-s-health-minister-denounces-US-Israeli-strike-against-Lamerd"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s health minister denounces US-Israeli strike against Lamerd stadium as ‘clear crime’"
-      }
-    },
-    {
-      "id": "evt_43d6ec6b",
-      "title": "调查报告：美国弹药严重枯竭迫使特朗普停止伊朗战争",
-      "summary": "德黑兰--在美以联合军事行动在“史诗般的愤怒行动”的旗帜下席卷伊朗五个多月后，路透社、哥伦比亚广播公司新闻和美国有线电视新闻网发表的调查报道显示，华盛顿的战略预测架构已经触及了一堵前所未有的墙。",
-      "date": "2026-08-05T18:12:00Z",
-      "url": "https://www.tehrantimes.com/news/528874/Investigative-reports-Severe-US-munition-depletion-forces-Trump",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528874/Investigative-reports-Severe-US-munition-depletion-forces-Trump"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Investigative reports: Severe US munition depletion forces Trump to halt Iran war"
-      }
-    },
-    {
-      "id": "evt_b750e8a6",
-      "title": "Pezeshkian重申巴勒斯坦是穆斯林的首要任务",
-      "summary": "TEHRAN—伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）重申，巴勒斯坦事业仍然是穆斯林世界的首要问题，并表示最近的地区事态发展和军事紧张局势并未改变德黑兰长期以来对支持巴勒斯坦人民的承诺。",
-      "date": "2026-08-05T17:48:02Z",
-      "url": "https://www.tehrantimes.com/news/528882/Pezeshkian-reaffirms-Palestine-as-Muslim-s-top-priority",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528882/Pezeshkian-reaffirms-Palestine-as-Muslim-s-top-priority"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian reaffirms Palestine as Muslim's top priority"
-      }
-    },
-    {
-      "id": "evt_ecdf9948",
-      "title": "和平委员会厌倦了和平，渴望征服",
-      "summary": "德黑兰--7月30日，唐纳德·特朗普宣布，和平委员会已就“彻底解除哈马斯武装”达成“历史性协议”。“白宫称这是一个巨大的步骤，尽管以色列和哈马斯都没有立即表示完全结盟。",
-      "date": "2026-08-05T17:25:51Z",
-      "url": "https://www.tehrantimes.com/news/528881/The-Board-of-Peace-is-bored-of-peace-and-hungry-for-conquest",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528881/The-Board-of-Peace-is-bored-of-peace-and-hungry-for-conquest"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The Board of Peace is bored of peace and hungry for conquest"
-      }
-    },
-    {
-      "id": "evt_64217e42",
-      "title": "伊朗与美国和以色列的法律斗争",
-      "summary": "德黑兰--2025年美国和以色列对伊朗发动的为期12天的战争，以及今年2月开始的战争，其特点是对学校、医院、住宅、道路、桥梁、发电厂和海水淡化厂的前所未有的袭击--根据国际法，这些行为被视为战争罪。",
-      "date": "2026-08-05T17:19:44Z",
-      "url": "https://www.tehrantimes.com/news/528878/Attorney-details-efforts-to-document-US-Israeli-war-crimes-plans",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528878/Attorney-details-efforts-to-document-US-Israeli-war-crimes-plans"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s legal battle against the US and Israel"
-      }
-    },
-    {
-      "id": "evt_eced2d82",
-      "title": "对批评以色列的巴黎政治学院学生的监视显示，法国的言论自由戒指是空洞的",
-      "summary": "德黑兰--无论对错，普通人曾经称赞法国是西方最民主的国家。他们声称它重视抗议的权利，并容忍言论或见解自由。然而，这个名称已被证明是空洞的。",
-      "date": "2026-08-05T17:15:33Z",
-      "url": "https://www.tehrantimes.com/news/528880/Surveillance-of-Sciences-Po-students-critical-of-Israel-shows",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528880/Surveillance-of-Sciences-Po-students-critical-of-Israel-shows"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Surveillance of Sciences Po students critical of Israel shows free speech rings hollow in France"
-      }
-    },
-    {
-      "id": "evt_53efee39",
-      "title": "也门袭击红海沙特油轮",
-      "summary": "也门的安萨鲁拉运动周三宣布，它在延布海岸附近的红海北部用几枚弹道导弹袭击了沙特油轮Wafaa。",
-      "date": "2026-08-05T17:09:13Z",
-      "url": "https://www.tehrantimes.com/news/528879/Yemen-strikes-Saudi-oil-tanker-in-Red-Sea",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/528879/Yemen-strikes-Saudi-oil-tanker-in-Red-Sea"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemen strikes Saudi oil tanker in Red Sea"
       }
     },
     {
@@ -906,34 +822,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say"
-      }
-    },
-    {
-      "id": "evt_aaf9e045",
-      "title": "在哈马斯同意解除武装协议后，至少有13人在以色列对加沙的袭击中丧生",
-      "summary": "以色列表示，它正在袭击加沙城、汗尤尼斯和代尔拜拉的军事人员。",
-      "date": "2026-08-02T15:50:59Z",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal"
       }
     },
     {
