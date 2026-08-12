@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-11T01:09:16.671084Z
+// 自动生成的数据 - 更新时间: 2026-08-12T01:16:51.252003Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-11T01:09:16.671027Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-08-12T01:16:51.251937Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 18,
+      "international": 24,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_5d2b3270",
-      "title": "内塔尼亚胡能否藐视特朗普的加沙和平计划？",
-      "summary": "内塔尼亚胡能否冒险继续违抗特朗普？",
-      "date": "2026-08-11T00:00:19Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+      "id": "evt_c0811b47",
+      "title": "伊朗战争现场：美国向违反伊朗封锁的货船发射导弹",
+      "summary": "美军禁止一艘悬挂巴拿马国旗的货船驶向伊朗港口。",
+      "date": "2026-08-12T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Can Netanyahu defy Trump on his Gaza peace plan?"
-      }
-    },
-    {
-      "id": "evt_53c1a634",
-      "title": "伊朗战争现场：特朗普声称霍尔木兹海峡开放，要求伊朗赔偿",
-      "summary": "美国总统唐纳德·特朗普表示，他将就战争中的伤亡向伊朗寻求赔偿。",
-      "date": "2026-08-11T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +37,343 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation"
+        "en": "Iran war live: US fires missiles at cargo ship violating Iran blockade"
+      }
+    },
+    {
+      "id": "evt_272241e5",
+      "title": "胡塞武装在Bab al-Mandeb海峡发动袭击后货船起火",
+      "summary": "镜头显示，在怀疑胡塞武装袭击后，一艘埃及拥有的货船在Bab al-Mandeb海峡起火。",
+      "date": "2026-08-11T23:57:55Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait"
+      }
+    },
+    {
+      "id": "evt_67c18905",
+      "title": "父亲和儿子被迫手动清理加沙的瓦砾",
+      "summary": "一名父亲和他的儿子被迫依靠基本工具，正在清理他们在加沙被摧毁的房屋的废墟。",
+      "date": "2026-08-11T21:24:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Father and sons forced to manually clear rubble in Gaza"
+      }
+    },
+    {
+      "id": "evt_bacecb6a",
+      "title": "亲属哀悼巴基斯坦雪崩受害者",
+      "summary": "亲戚们聚集在一起哀悼三名尼泊尔登山者： Kili Pemba Sherpa、Gyalu Sherpa和Nima Sherpa。",
+      "date": "2026-08-11T20:56:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Relatives mourn victims of Pakistan avalanche"
+      }
+    },
+    {
+      "id": "evt_4b299cc5",
+      "title": "巴基斯坦内政部长正在德黑兰进行重开霍尔木兹的谈判",
+      "summary": "巴基斯坦内政部长莫辛·纳克维（ Mohsin Naqvi ）在德黑兰与伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）举行了",
+      "date": "2026-08-11T20:35:50Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan interior minister in Tehran amid talks to reopen Hormuz"
+      }
+    },
+    {
+      "id": "evt_73a709db",
+      "title": "在加沙的帐篷里，寡妇独自面对战争最严峻的现实",
+      "summary": "加沙的寡妇独自在流离失所的情况下挣扎，承受着损失、不安全和日常生存斗争的负担。",
+      "date": "2026-08-11T20:30:11Z",
+      "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "In Gaza’s tents, widows face war’s harshest realities alone"
+      }
+    },
+    {
+      "id": "evt_a59b2810",
+      "title": "也门红海成为战区，渔民面临致命危险",
+      "summary": "由于红海变得太危险，许多也门渔民放弃了贸易，寻求更安全的生计。",
+      "date": "2026-08-11T20:29:34Z",
+      "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone"
+      }
+    },
+    {
+      "id": "evt_52e4b24f",
+      "title": "以色列拆毁在定居者袭击中丧生的巴勒斯坦人家园",
+      "summary": "视频显示，以色列军队炸毁了7月份被杀害的巴勒斯坦男子法鲁克·拉马丹（ Farouk Ramadan ）的家。",
+      "date": "2026-08-11T20:18:51Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel demolishes home of Palestinian killed during settler attack"
+      }
+    },
+    {
+      "id": "evt_3528fee9",
+      "title": "美国军方向货船开火，称其试图打破对伊朗的封锁",
+      "summary": "中央司令部表示，由于美国-伊朗外交仍然停滞不前，直升机向悬挂巴拿马国旗的Vela Nova的引擎室开火。",
+      "date": "2026-08-11T19:58:12Z",
+      "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US military fires on cargo vessel it said sought to break Iran blockade"
+      }
+    },
+    {
+      "id": "evt_ae38b6c4",
+      "title": "据报道，胡塞武装在自伊朗战争开始以来的首次致命袭击中杀死了6人",
+      "summary": "伊朗的代理人表示，由于美伊战争的紧张局势仍然很高，伊朗在红海击中了一艘载有沙特军事装备的船只。",
+      "date": "2026-08-11T19:27:17Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Houthis reportedly kill six in first deadly attack since start of Iran war"
+      }
+    },
+    {
+      "id": "evt_18d55094",
+      "title": "黎巴嫩议会投票废除死刑",
+      "summary": "新法律（接下来将提交内阁批准）将使黎巴嫩成为中东第一个废除死刑的国家。",
+      "date": "2026-08-11T15:24:07Z",
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon parliament votes to abolish death penalty"
+      }
+    },
+    {
+      "id": "evt_f0343eb5",
+      "title": "被驱逐的叙利亚独裁者巴沙尔·阿萨德被缺席判处死刑",
+      "summary": "前总统被判在该国内战期间犯有战争罪和危害人类罪。",
+      "date": "2026-08-11T14:50:10Z",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia"
+      }
+    },
+    {
+      "id": "evt_b89fdb3c",
+      "title": "韩国大使以热情、传统、乐观的态度向记者致敬",
+      "summary": "德黑兰--周一晚上，大韩民国驻伊朗大使金俊平阁下在他位于德黑兰的住所接待了一批记者。这次集会是在伊朗国家记者日（星期六）前夕举行的，是对记者团的热情和衷心的感谢。",
+      "date": "2026-08-11T05:47:54Z",
+      "url": "https://www.tehrantimes.com/news/529027/Korean-ambassador-honors-journalists-with-warmth-tradition",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529027/Korean-ambassador-honors-journalists-with-warmth-tradition"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Korean ambassador honors journalists with warmth, tradition, optimism"
       }
     },
     {
@@ -125,34 +433,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_a8c002b8",
-      "title": "特朗普表示，即使内塔尼亚胡拒绝加沙和平计划，关系也很好",
-      "summary": "美国总统唐纳德•特朗普(Donald Trump)坚称，他与以色列总理本雅明•内塔尼亚胡(Benjamin Netanyahu)",
-      "date": "2026-08-10T21:03:53Z",
-      "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan"
-      }
-    },
-    {
       "id": "evt_3ce67e9d",
       "title": "私营部门可以成为任何潜在协议的可持续性支柱： ICCIMA负责人",
       "summary": "德黑兰--伊朗商会、工业、矿业和农业（ ICCIMA ）负责人强调：私营部门可以成为任何潜在协议的可持续性支柱之一，因为各国之间健康、平衡的经济联系和共同利益越深，恢复紧张局势的成本就越高。",
@@ -178,34 +458,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Private sector can be a pillar of sustainability for any potential agreement: ICCIMA head"
-      }
-    },
-    {
-      "id": "evt_3161acd0",
-      "title": "特朗普要求赔偿德黑兰的“冲突”",
-      "summary": "唐纳德·特朗普总统表示，他将要求伊朗赔偿在美国对伊朗的战争中伤亡的人员。",
-      "date": "2026-08-10T20:55:21Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump to demand compensation for Tehran’s ‘conflicts’"
       }
     },
     {
@@ -458,34 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran says regional defense pact signals shift toward indigenous security"
-      }
-    },
-    {
-      "id": "evt_71e60139",
-      "title": "伊朗学生在2026年机器人挑战赛中脱颖而出",
-      "summary": "德黑兰--在中国北京举行的2026年机器人挑战赛（ RobotChallenge 2026 ）中， 13名12岁以下的伊朗学生展示了他们的科学、技术能力和创造力，分别排名第二和第三。",
-      "date": "2026-08-10T17:59:21Z",
-      "url": "https://www.tehrantimes.com/news/529016/Iranian-students-shine-at-RobotChallenge-2026",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529016/Iranian-students-shine-at-RobotChallenge-2026"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian students shine at RobotChallenge 2026"
       }
     },
     {
@@ -822,62 +1046,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Projectile sinks Indian-flagged ship off Yemen coast"
-      }
-    },
-    {
-      "id": "evt_913f9abb",
-      "title": "2023年以色列罢工中丧生的112名巴勒斯坦人在加沙举行的大规模葬礼",
-      "summary": "这些尸体属于两个大家庭的成员，直到最近才从加沙市的废墟中找到。",
-      "date": "2026-08-04T15:07:52Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike"
-      }
-    },
-    {
-      "id": "evt_1c1c2fe1",
-      "title": "“数字生命线” --加沙技术人员展望未来",
-      "summary": "随着加沙地带更广泛的复苏停滞，成千上万的加沙年轻人正在数字经济中发挥作用。",
-      "date": "2026-08-03T23:13:03Z",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future"
       }
     }
   ]
