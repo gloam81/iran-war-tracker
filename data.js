@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-12T01:16:51.252003Z
+// 自动生成的数据 - 更新时间: 2026-08-13T01:18:41.595484Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-12T01:16:51.251937Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-08-13T01:18:41.595435Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 24,
+      "international": 20,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,128 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_c0811b47",
-      "title": "伊朗战争现场：美国向违反伊朗封锁的货船发射导弹",
-      "summary": "美军禁止一艘悬挂巴拿马国旗的货船驶向伊朗港口。",
-      "date": "2026-08-12T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+      "id": "evt_f97fcf3e",
+      "title": "伊朗战争现场：美国，德黑兰交换反对对霍尔木兹控制权的主张",
+      "summary": "特朗普总统再次坚称美国“完全控制”海峡，而德黑兰则坚决要求美国必须满足其要求。",
+      "date": "2026-08-13T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US fires missiles at cargo ship violating Iran blockade"
-      }
-    },
-    {
-      "id": "evt_272241e5",
-      "title": "胡塞武装在Bab al-Mandeb海峡发动袭击后货船起火",
-      "summary": "镜头显示，在怀疑胡塞武装袭击后，一艘埃及拥有的货船在Bab al-Mandeb海峡起火。",
-      "date": "2026-08-11T23:57:55Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait"
-      }
-    },
-    {
-      "id": "evt_67c18905",
-      "title": "父亲和儿子被迫手动清理加沙的瓦砾",
-      "summary": "一名父亲和他的儿子被迫依靠基本工具，正在清理他们在加沙被摧毁的房屋的废墟。",
-      "date": "2026-08-11T21:24:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Father and sons forced to manually clear rubble in Gaza"
-      }
-    },
-    {
-      "id": "evt_bacecb6a",
-      "title": "亲属哀悼巴基斯坦雪崩受害者",
-      "summary": "亲戚们聚集在一起哀悼三名尼泊尔登山者： Kili Pemba Sherpa、Gyalu Sherpa和Nima Sherpa。",
-      "date": "2026-08-11T20:56:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Relatives mourn victims of Pakistan avalanche"
-      }
-    },
-    {
-      "id": "evt_4b299cc5",
-      "title": "巴基斯坦内政部长正在德黑兰进行重开霍尔木兹的谈判",
-      "summary": "巴基斯坦内政部长莫辛·纳克维（ Mohsin Naqvi ）在德黑兰与伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）举行了",
-      "date": "2026-08-11T20:35:50Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pakistan interior minister in Tehran amid talks to reopen Hormuz"
+        "en": "Iran war live: US, Tehran exchange opposing claims over Hormuz control"
       }
     },
     {
-      "id": "evt_73a709db",
-      "title": "在加沙的帐篷里，寡妇独自面对战争最严峻的现实",
-      "summary": "加沙的寡妇独自在流离失所的情况下挣扎，承受着损失、不安全和日常生存斗争的负担。",
-      "date": "2026-08-11T20:30:11Z",
-      "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+      "id": "evt_b5649b16",
+      "title": "五角大楼评论称，美国在也门的空袭在2025年造成153名平民死亡",
+      "summary": "五角大楼的非机密审查揭示了美国针对也门胡塞武装运动对平民造成的伤害。",
+      "date": "2026-08-12T21:53:17Z",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "In Gaza’s tents, widows face war’s harshest realities alone"
-      }
-    },
-    {
-      "id": "evt_a59b2810",
-      "title": "也门红海成为战区，渔民面临致命危险",
-      "summary": "由于红海变得太危险，许多也门渔民放弃了贸易，寻求更安全的生计。",
-      "date": "2026-08-11T20:29:34Z",
-      "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone"
+        "en": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review"
       }
     },
     {
-      "id": "evt_52e4b24f",
-      "title": "以色列拆毁在定居者袭击中丧生的巴勒斯坦人家园",
-      "summary": "视频显示，以色列军队炸毁了7月份被杀害的巴勒斯坦男子法鲁克·拉马丹（ Farouk Ramadan ）的家。",
-      "date": "2026-08-11T20:18:51Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+      "id": "evt_43c8b01a",
+      "title": "11岁男孩在加沙被以色列军队开枪打死",
+      "summary": "一名11岁男孩的父亲说，以色列军队在汗尤尼斯枪杀了他的儿子的头部和腿部。",
+      "date": "2026-08-12T21:06:12Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel demolishes home of Palestinian killed during settler attack"
+        "en": "11-year-old boy shot by Israeli forces in Gaza"
       }
     },
     {
-      "id": "evt_3528fee9",
-      "title": "美国军方向货船开火，称其试图打破对伊朗的封锁",
-      "summary": "中央司令部表示，由于美国-伊朗外交仍然停滞不前，直升机向悬挂巴拿马国旗的Vela Nova的引擎室开火。",
-      "date": "2026-08-11T19:58:12Z",
-      "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
+      "id": "evt_0bde1e65",
+      "title": "以色列空袭在加沙北部造成一人死亡",
+      "summary": "在拜特拉希耶（ Beit Lahiya ）的一辆嘟嘟车上发生的袭击造成一人死亡，在以色列一周内的第一次空中轰炸中受伤五人",
+      "date": "2026-08-12T20:58:42Z",
+      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -261,7 +121,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US military fires on cargo vessel it said sought to break Iran blockade"
+        "en": "Israeli air strike kills one in northern Gaza"
+      }
+    },
+    {
+      "id": "evt_b2dbc175",
+      "title": "叙利亚能否提供过渡时期司法？",
+      "summary": "一家法院缺席判处被驱逐的前领导人巴沙尔·阿萨德和其他人死刑。",
+      "date": "2026-08-12T20:53:26Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Can Syria deliver transitional justice?"
+      }
+    },
+    {
+      "id": "evt_7fc14694",
+      "title": "以色列定居者围困西岸村庄的巴勒斯坦家庭",
+      "summary": "据报道，以色列安全部队已经撤离，据说自周日以来，大约有十几名定居者留在了两个家庭被围困的地点。",
+      "date": "2026-08-12T16:14:08Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli settlers besieging Palestinian families in West Bank village"
       }
     },
     {
@@ -1018,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "UN rights chief alarmed by rise in Iran executions since March"
-      }
-    },
-    {
-      "id": "evt_113ddb40",
-      "title": "炮弹击沉也门沿海悬挂印度国旗的船只",
-      "summary": "印度外交部表示，这艘悬挂印度国旗的船只上的14人全部安全获救。",
-      "date": "2026-08-04T21:24:50Z",
-      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Projectile sinks Indian-flagged ship off Yemen coast"
       }
     }
   ]
