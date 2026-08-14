@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-13T01:18:41.595484Z
+// 自动生成的数据 - 更新时间: 2026-08-14T01:18:00.316510Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-13T01:18:41.595435Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-08-14T01:18:00.316446Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 20,
+      "international": 21,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_f97fcf3e",
-      "title": "伊朗战争现场：美国，德黑兰交换反对对霍尔木兹控制权的主张",
-      "summary": "特朗普总统再次坚称美国“完全控制”海峡，而德黑兰则坚决要求美国必须满足其要求。",
-      "date": "2026-08-13T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+      "id": "evt_19b97698",
+      "title": "以色列的卡茨欢呼定居者“控制”巴勒斯坦土地",
+      "summary": "以色列国防部长以色列·卡茨（ Israel Katz ）赞扬激进的山顶青年定居者“占领”巴勒斯坦土地。",
+      "date": "2026-08-14T00:39:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US, Tehran exchange opposing claims over Hormuz control"
+        "en": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land"
       }
     },
     {
-      "id": "evt_b5649b16",
-      "title": "五角大楼评论称，美国在也门的空袭在2025年造成153名平民死亡",
-      "summary": "五角大楼的非机密审查揭示了美国针对也门胡塞武装运动对平民造成的伤害。",
-      "date": "2026-08-12T21:53:17Z",
-      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+      "id": "evt_6e988ad0",
+      "title": "阿联酋指责伊朗袭击霍尔木兹海峡的两艘ADNOC船只",
+      "summary": "这次袭击没有造成人员伤亡，阿联酋称之为“盗版” ，是对全球能源安全的威胁。",
+      "date": "2026-08-14T00:33:48Z",
+      "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_39e0bde8",
+      "title": "联合国警告，自2022年停战以来，也门面临着重返战争的最高风险",
+      "summary": "据报道，最近几天也门前线爆发了战斗，造成平民和军事人员伤亡。",
+      "date": "2026-08-14T00:02:22Z",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review"
+        "en": "Yemen faces highest risk of returning to war since 2022 truce, UN warns"
       }
     },
     {
-      "id": "evt_43c8b01a",
-      "title": "11岁男孩在加沙被以色列军队开枪打死",
-      "summary": "一名11岁男孩的父亲说，以色列军队在汗尤尼斯枪杀了他的儿子的头部和腿部。",
-      "date": "2026-08-12T21:06:12Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
+      "id": "evt_d1d0d532",
+      "title": "伊朗战争现场：美国无限期封锁伊朗海军",
+      "summary": "美国国防部长皮特·赫格塞斯（ Pete Hegseth ）表示，美国可以“无限期”维持对伊朗的封锁。",
+      "date": "2026-08-14T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US eyes indefinite Iran naval blockade"
+      }
+    },
+    {
+      "id": "evt_77ee309f",
+      "title": "加沙市警察局长在以色列发动致命罢工时遇害",
+      "summary": "以色列最近的袭击造成加沙市警方官员贾迈勒·阿布·卡米尔（ Jamal Abu Kamil ）和汗尤尼斯（ Khan Youn",
+      "date": "2026-08-13T23:09:15Z",
+      "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "11-year-old boy shot by Israeli forces in Gaza"
+        "en": "Gaza City police chief killed as Israel pushes on with deadly strikes"
       }
     },
     {
-      "id": "evt_0bde1e65",
-      "title": "以色列空袭在加沙北部造成一人死亡",
-      "summary": "在拜特拉希耶（ Beit Lahiya ）的一辆嘟嘟车上发生的袭击造成一人死亡，在以色列一周内的第一次空中轰炸中受伤五人",
-      "date": "2026-08-12T20:58:42Z",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
+      "id": "evt_871b8e75",
+      "title": "以色列在加沙的罢工造成两人死亡，其中包括警察局长",
+      "summary": "周四，以色列无人机袭击在加沙造成至少2人死亡，数人受伤。",
+      "date": "2026-08-13T21:10:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,27 +177,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli air strike kills one in northern Gaza"
+        "en": "Israeli strikes in Gaza kill two, including police chief"
       }
     },
     {
-      "id": "evt_b2dbc175",
-      "title": "叙利亚能否提供过渡时期司法？",
-      "summary": "一家法院缺席判处被驱逐的前领导人巴沙尔·阿萨德和其他人死刑。",
-      "date": "2026-08-12T20:53:26Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+      "id": "evt_4f721e2a",
+      "title": "巴勒斯坦人被告知离开以色列定居者围困房屋的村庄",
+      "summary": "库斯拉市市长说，以色列军队一直在告诉一些家庭离开他们的房子，其中一些被用作军营。",
+      "date": "2026-08-13T20:12:17Z",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -149,7 +205,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Can Syria deliver transitional justice?"
+        "en": "Palestinians told to leave homes in village where Israeli settlers besieged houses"
       }
     },
     {
@@ -906,34 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran says deal with Oman on Strait of Hormuz is in final stages"
-      }
-    },
-    {
-      "id": "evt_021bfd28",
-      "title": "联合国人权事务主管对3月以来伊朗处决人数增加感到震惊",
-      "summary": "Volker Türk表示，已有56人因与国家安全有关的指控被处决，其中27人与1月份的抗议活动有关。",
-      "date": "2026-08-05T14:04:09Z",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN rights chief alarmed by rise in Iran executions since March"
       }
     }
   ]
