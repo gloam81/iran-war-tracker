@@ -1,35 +1,35 @@
-// 自动生成的数据 - 更新时间: 2026-08-14T01:18:00.316510Z
+// 自动生成的数据 - 更新时间: 2026-08-15T00:49:22.377430Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-14T01:18:00.316446Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-08-15T00:49:22.377386Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 21,
-      "iranian": 13,
+      "international": 23,
+      "iranian": 14,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_19b97698",
-      "title": "以色列的卡茨欢呼定居者“控制”巴勒斯坦土地",
-      "summary": "以色列国防部长以色列·卡茨（ Israel Katz ）赞扬激进的山顶青年定居者“占领”巴勒斯坦土地。",
-      "date": "2026-08-14T00:39:26Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss",
+      "id": "evt_9355e23a",
+      "title": "联合国敦促支持阿富汗妇女在塔利班统治五年后的援助",
+      "summary": "在阿富汗运作的妇女组织中，一半以上可能在明年内停止运作：联合国妇女署。",
+      "date": "2026-08-15T00:23:26Z",
+      "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land"
+        "en": "UN urges support for Afghan women’s aid five years into Taliban rule"
       }
     },
     {
-      "id": "evt_6e988ad0",
-      "title": "阿联酋指责伊朗袭击霍尔木兹海峡的两艘ADNOC船只",
-      "summary": "这次袭击没有造成人员伤亡，阿联酋称之为“盗版” ，是对全球能源安全的威胁。",
-      "date": "2026-08-14T00:33:48Z",
-      "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
+      "id": "evt_89522ec3",
+      "title": "伊朗战争现场：特朗普誓言“很快”让霍尔木兹成为美国领土",
+      "summary": "美国总统特朗普表示，一旦伊朗被击败，他将“很快”宣布霍尔木兹海峡为美国领土。",
+      "date": "2026-08-15T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +65,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz"
+        "en": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’"
       }
     },
     {
-      "id": "evt_39e0bde8",
-      "title": "联合国警告，自2022年停战以来，也门面临着重返战争的最高风险",
-      "summary": "据报道，最近几天也门前线爆发了战斗，造成平民和军事人员伤亡。",
-      "date": "2026-08-14T00:02:22Z",
-      "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "id": "evt_03a04558",
+      "title": "黎巴嫩总理敦促以色列撤军时间表，真主党猛烈抨击协议",
+      "summary": "真主党批评贝鲁特的做法，指责官员让黎巴嫩军队面临风险和以色列的压力。",
+      "date": "2026-08-14T23:02:55Z",
+      "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal"
+      }
+    },
+    {
+      "id": "evt_34656c2f",
+      "title": "胡塞武装袭击港口，与也门政府达成四项破坏性停火协议",
+      "summary": "六枚胡塞弹道导弹袭击了也门政府控制的al-Makha港口，造成至少四人死亡。",
+      "date": "2026-08-14T22:58:58Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +121,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemen faces highest risk of returning to war since 2022 truce, UN warns"
+        "en": "Houthi attack on port kills four eroding truce with Yemen’s government"
       }
     },
     {
-      "id": "evt_d1d0d532",
-      "title": "伊朗战争现场：美国无限期封锁伊朗海军",
-      "summary": "美国国防部长皮特·赫格塞斯（ Pete Hegseth ）表示，美国可以“无限期”维持对伊朗的封锁。",
-      "date": "2026-08-14T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
+      "id": "evt_1ea315db",
+      "title": "也门政府表示，胡塞武装对al-Makha的袭击造成至少4人死亡",
+      "summary": "伊朗支持的胡塞武装与国际公认的也门政府之间的敌对行动正在上升。",
+      "date": "2026-08-14T22:45:19Z",
+      "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen’s government says Houthi attack on al-Makha kills at least four"
+      }
+    },
+    {
+      "id": "evt_bc16fa26",
+      "title": "特朗普表示，在伊朗战争期间，他将宣布霍尔木兹海峡为美国“领土”",
+      "summary": "对海峡的控制一直是美国和伊朗之间正在进行的停火谈判的症结所在。",
+      "date": "2026-08-14T21:50:46Z",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US eyes indefinite Iran naval blockade"
+        "en": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war"
       }
     },
     {
-      "id": "evt_77ee309f",
-      "title": "加沙市警察局长在以色列发动致命罢工时遇害",
-      "summary": "以色列最近的袭击造成加沙市警方官员贾迈勒·阿布·卡米尔（ Jamal Abu Kamil ）和汗尤尼斯（ Khan Youn",
-      "date": "2026-08-13T23:09:15Z",
-      "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "id": "evt_2663c125",
+      "title": "以色列士兵被指控支持Qusra的“恐怖分子”定居者",
+      "summary": "以色列士兵被指控支持Qusra的“恐怖分子”定居者",
+      "date": "2026-08-14T21:45:20Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,20 +205,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Gaza City police chief killed as Israel pushes on with deadly strikes"
+        "en": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra"
       }
     },
     {
-      "id": "evt_871b8e75",
-      "title": "以色列在加沙的罢工造成两人死亡，其中包括警察局长",
-      "summary": "周四，以色列无人机袭击在加沙造成至少2人死亡，数人受伤。",
-      "date": "2026-08-13T21:10:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+      "id": "evt_a46bf567",
+      "title": "新的空中视频显示阿曼发生了大规模的石油泄漏",
+      "summary": "一场潜在的环境灾难正在阿曼附近展开，一艘停飞的油轮正在泄漏受制裁的俄罗斯石油。",
+      "date": "2026-08-14T19:36:45Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New aerial video reveals huge scale of oil spill off Oman"
+      }
+    },
+    {
+      "id": "evt_95ff689c",
+      "title": "给华盛顿的有意义信息",
+      "summary": "Javan分析了沙特阿拉伯、巴基斯坦和土耳其签署的《麦加协议》背后的目的。《麦加协定》无疑是近年来中东最重要的安全事态发展之一。",
+      "date": "2026-08-14T17:35:47Z",
+      "url": "https://www.tehrantimes.com/news/529045/Meaningful-message-to-Washington",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529045/Meaningful-message-to-Washington"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Meaningful message to Washington"
+      }
+    },
+    {
+      "id": "evt_6f0cae1a",
+      "title": "德黑兰的艺术画廊",
+      "summary": "Homa画廊的展览中展出了Bijan Nemati Sharif的绘画作品。  \n名为“童年恐惧”的展览将于8月25日在位于Sanai St., Karim Khan Ave.第四巷8号的画廊举行。",
+      "date": "2026-08-14T17:34:48Z",
+      "url": "https://www.tehrantimes.com/news/529030/What-s-in-Tehran-art-galleries",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529030/What-s-in-Tehran-art-galleries"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What’s in Tehran art galleries"
+      }
+    },
+    {
+      "id": "evt_41a51946",
+      "title": "ECI将在德黑兰主办媒体素养国际会议",
+      "summary": "TEHRAN -生态文化研究所（ ECI ）与土耳其广播电视最高委员会（ RTÜK ）合作，计划于8月18日在德黑兰举办一次媒体素养国际会议。",
+      "date": "2026-08-14T17:34:30Z",
+      "url": "https://www.tehrantimes.com/news/529029/ECI-to-host-international-conference-on-media-literacy-in-Tehran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529029/ECI-to-host-international-conference-on-media-literacy-in-Tehran"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "ECI to host international conference on media literacy in Tehran"
+      }
+    },
+    {
+      "id": "evt_16f16be0",
+      "title": "音乐爱好者告别传统歌手Iraj",
+      "summary": "德黑兰--伊朗著名音乐歌手侯赛因·哈杰·阿米里（ Hossein Khajeh-Amiri ）的葬礼于周五上午在德黑兰瓦赫达特音乐厅（ Vahdat Hall ）前举行，他的众多歌迷和音乐界人士出席了葬礼。",
+      "date": "2026-08-14T17:33:55Z",
+      "url": "https://www.tehrantimes.com/news/529032/Music-fans-bid-farewell-to-traditional-singer-Iraj",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529032/Music-fans-bid-farewell-to-traditional-singer-Iraj"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Music fans bid farewell to traditional singer Iraj"
+      }
+    },
+    {
+      "id": "evt_7b8adad9",
+      "title": "Mohsen Sharifian回应伊朗在广岛的和平、友谊信息",
+      "summary": "德黑兰--伊朗地区音乐家兼研究员穆赫森·谢里菲安（ Mohsen Sharifian ）在广岛的音乐表演中呼应了伊朗人和平与友谊的信息，恰逢原子弹爆炸周年纪念日。",
+      "date": "2026-08-14T17:31:15Z",
+      "url": "https://www.tehrantimes.com/news/529033/Mohsen-Sharifian-echoes-Iranians-message-of-peace-friendship",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529033/Mohsen-Sharifian-echoes-Iranians-message-of-peace-friendship"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mohsen Sharifian echoes Iranians’ message of peace, friendship in Hiroshima"
+      }
+    },
+    {
+      "id": "evt_64aafa9e",
+      "title": "美国战败后的世界",
+      "summary": "马德里--四十日战争的余波并未停止，可以说它们不仅影响了西亚，也影响了整个世界。这个故事是众所周知的：唐纳德特朗普发动了一场战争，期待美国和以色列的罢工最终会消灭伊斯兰共和国。相反，他目睹了他的国家的历史性失败。",
+      "date": "2026-08-14T17:29:13Z",
+      "url": "https://www.tehrantimes.com/news/529047/The-world-after-the-US-defeat",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529047/The-world-after-the-US-defeat"
         }
       ],
       "category": "military",
@@ -177,20 +401,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli strikes in Gaza kill two, including police chief"
+        "en": "The world after the US defeat"
       }
     },
     {
-      "id": "evt_4f721e2a",
-      "title": "巴勒斯坦人被告知离开以色列定居者围困房屋的村庄",
-      "summary": "库斯拉市市长说，以色列军队一直在告诉一些家庭离开他们的房子，其中一些被用作军营。",
-      "date": "2026-08-13T20:12:17Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_74a5c099",
+      "title": "舒默敦促Hegseth在伊朗战争期间因林肯号航母状况恶化而下台",
+      "summary": "德黑兰--亚伯拉罕·林肯号航空母舰漂浮在闷热的北阿拉伯海，在没有港口停靠的情况下，在海上部署了250多天，连续200多天。",
+      "date": "2026-08-14T17:26:51Z",
+      "url": "https://www.tehrantimes.com/news/529046/Schumer-urges-Hegseth-ouster-over-deteriorating-USS-Lincoln-conditions",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529046/Schumer-urges-Hegseth-ouster-over-deteriorating-USS-Lincoln-conditions"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Schumer urges Hegseth ouster over deteriorating USS Lincoln conditions amid Iran war"
+      }
+    },
+    {
+      "id": "evt_bf58ad4f",
+      "title": "美国军方失去25 ％的MQ-9无人机，因为伊朗战争中的库存减少",
+      "summary": "德黑兰--在与伊朗的冲突中，美国军方的MQ-9收割者无人机机队减少了25% ，损失了至少45架飞机，总价值超过13亿美元。",
+      "date": "2026-08-14T17:25:58Z",
+      "url": "https://www.tehrantimes.com/news/529057/US-military-loses-25-of-its-MQ-9-drones-as-stocks-dwindle-in",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529057/US-military-loses-25-of-its-MQ-9-drones-as-stocks-dwindle-in"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US military loses 25% of its MQ-9 drones as stocks dwindle in Iran war"
+      }
+    },
+    {
+      "id": "evt_7e02ce5f",
+      "title": "美国声称，伊朗控制霍尔木兹",
+      "summary": "德黑兰--德黑兰和华盛顿之间关于霍尔木兹海峡控制权的争端不断扩大，这条战略航道不仅在海上，而且在围绕冲突的叙事战争中都变成了战场。",
+      "date": "2026-08-14T17:25:09Z",
+      "url": "https://www.tehrantimes.com/news/529060/US-Claims-Iran-Controls-Hormuz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529060/US-Claims-Iran-Controls-Hormuz"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US Claims, Iran Controls Hormuz"
+      }
+    },
+    {
+      "id": "evt_f4412886",
+      "title": "“美食车一号”、可扩展的诱饵和宣传废墟",
+      "summary": "德黑兰--官方的叙述持续了一个月。它描绘了一位美国总统在安卡拉举行的北约峰会后，于7月8日登上空军一号，向摄像机挥手，向西飞行。现实要羞辱得多。",
+      "date": "2026-08-14T17:24:09Z",
+      "url": "https://www.tehrantimes.com/news/529059/Food-Truck-One-expandable-decoys-and-the-propaganda-ruin",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529059/Food-Truck-One-expandable-decoys-and-the-propaganda-ruin"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Food Truck One,’ expandable decoys, and the propaganda ruin"
+      }
+    },
+    {
+      "id": "evt_845cbf10",
+      "title": "伊朗在联合国安理会驳斥美国关于破坏也门稳定的指控",
+      "summary": "TEHRAN -伊朗拒绝接受美国关于德黑兰破坏也门稳定或违反联合国安理会第2216号决议利用商业航班前往萨那运送军事人员或设备的“毫无根据和毫无根据”的指控。",
+      "date": "2026-08-14T17:22:30Z",
+      "url": "https://www.tehrantimes.com/news/529062/Iran-rejects-US-allegations-of-destabilizing-Yemen-at-UNSC",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529062/Iran-rejects-US-allegations-of-destabilizing-Yemen-at-UNSC"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran rejects US allegations of destabilizing Yemen at UNSC"
+      }
+    },
+    {
+      "id": "evt_523d06a4",
+      "title": "Araghchi指责欧盟对人权采取“双重标准”",
+      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）指责欧盟及其几个成员国对人权和国际法采取双重标准，认为它们在加沙战争期间对以色列的支持以及对针对伊朗的军事行动的支持削弱了它们批评德黑兰的可信度。",
+      "date": "2026-08-14T17:15:12Z",
+      "url": "https://www.tehrantimes.com/news/529061/Araghchi-accuses-EU-of-double-standards-on-human-rights",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529061/Araghchi-accuses-EU-of-double-standards-on-human-rights"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Araghchi accuses EU of ‘double standards’ on human rights"
+      }
+    },
+    {
+      "id": "evt_9f0f40b7",
+      "title": "活动人士试图向被以色列定居者围困的巴勒斯坦人提供援助",
+      "summary": "两个家庭在被占领的约旦河西岸的家中被困了几天。",
+      "date": "2026-08-14T17:03:17Z",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,27 +597,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinians told to leave homes in village where Israeli settlers besieged houses"
+        "en": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers"
       }
     },
     {
-      "id": "evt_7fc14694",
-      "title": "以色列定居者围困西岸村庄的巴勒斯坦家庭",
-      "summary": "据报道，以色列安全部队已经撤离，据说自周日以来，大约有十几名定居者留在了两个家庭被围困的地点。",
-      "date": "2026-08-12T16:14:08Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_545c02a9",
+      "title": "从特朗普到黎巴嫩：决策妄想",
+      "summary": "德黑兰--当政治与现实失去联系时，事实很快就会被虚构所取代。特朗普模式提供了一个例子；它在黎巴嫩的回响提供了另一个例子。",
+      "date": "2026-08-14T15:48:19Z",
+      "url": "https://www.tehrantimes.com/news/529058/From-Trump-to-Lebanon-Delusion-of-decision-making",
       "sources": [
         {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529058/From-Trump-to-Lebanon-Delusion-of-decision-making"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -233,7 +625,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli settlers besieging Palestinian families in West Bank village"
+        "en": "From Trump to Lebanon: Delusion of decision-making"
+      }
+    },
+    {
+      "id": "evt_c3658561",
+      "title": "美食车、失败的战争和超级大国的羞辱",
+      "summary": "德黑兰--从来没有一位总统让美国遭受如此全球性的羞辱。对于一个习惯于投射力量的国家来说，这是一颗痛苦的药丸，但当地的事实描绘了一场历史性的战略灾难。",
+      "date": "2026-08-14T15:31:14Z",
+      "url": "https://www.tehrantimes.com/news/529056/A-food-truck-a-failed-war-and-the-humiliation-of-a-superpower",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529056/A-food-truck-a-failed-war-and-the-humiliation-of-a-superpower"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A food truck, a failed war, and the humiliation of a superpower"
       }
     },
     {
@@ -318,370 +738,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia"
-      }
-    },
-    {
-      "id": "evt_b89fdb3c",
-      "title": "韩国大使以热情、传统、乐观的态度向记者致敬",
-      "summary": "德黑兰--周一晚上，大韩民国驻伊朗大使金俊平阁下在他位于德黑兰的住所接待了一批记者。这次集会是在伊朗国家记者日（星期六）前夕举行的，是对记者团的热情和衷心的感谢。",
-      "date": "2026-08-11T05:47:54Z",
-      "url": "https://www.tehrantimes.com/news/529027/Korean-ambassador-honors-journalists-with-warmth-tradition",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529027/Korean-ambassador-honors-journalists-with-warmth-tradition"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Korean ambassador honors journalists with warmth, tradition, optimism"
-      }
-    },
-    {
-      "id": "evt_c22fe07b",
-      "title": "25%的农业水井配备智能水表",
-      "summary": "TEHRAN-农业部农业水务办公室主任宣布了将水管理责任转移给运营商后向农业部门输送体积水的基础工作，并表示：只有25%的农业水井配备了智能水表。",
-      "date": "2026-08-10T21:32:41Z",
-      "url": "https://www.tehrantimes.com/news/529026/25-of-agricultural-water-wells-equipped-with-smart-meters",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529026/25-of-agricultural-water-wells-equipped-with-smart-meters"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "25% of agricultural water wells equipped with smart meters"
-      }
-    },
-    {
-      "id": "evt_9631c9c0",
-      "title": "融资体系应加快生产扶持：财政部长",
-      "summary": "TEHRAN -经济事务和财政部长在国家银行协调委员会会议上强调，需要加强银行之间的协调，改善银行网络的纪律，并加快对生产部门和经济企业的支持。",
-      "date": "2026-08-10T21:08:03Z",
-      "url": "https://www.tehrantimes.com/news/529024/Production-support-should-be-accelerated-in-financing-system",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529024/Production-support-should-be-accelerated-in-financing-system"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Production support should be accelerated in financing system: finance minister"
-      }
-    },
-    {
-      "id": "evt_3ce67e9d",
-      "title": "私营部门可以成为任何潜在协议的可持续性支柱： ICCIMA负责人",
-      "summary": "德黑兰--伊朗商会、工业、矿业和农业（ ICCIMA ）负责人强调：私营部门可以成为任何潜在协议的可持续性支柱之一，因为各国之间健康、平衡的经济联系和共同利益越深，恢复紧张局势的成本就越高。",
-      "date": "2026-08-10T21:00:36Z",
-      "url": "https://www.tehrantimes.com/news/529023/Private-sector-can-be-a-pillar-of-sustainability-for-any-potential",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529023/Private-sector-can-be-a-pillar-of-sustainability-for-any-potential"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Private sector can be a pillar of sustainability for any potential agreement: ICCIMA head"
-      }
-    },
-    {
-      "id": "evt_e01387e7",
-      "title": "美国战败的文件",
-      "summary": "呼罗珊分析了美国在伊朗问题上的失败。根据呼罗珊的说法，关于伊斯兰堡理解的争议与其说是关于它的条款，不如说是关于胜利和失败的不同定义。批评者称这是一项软弱的协议，而支持者则认为这是一项重大成就。",
-      "date": "2026-08-10T18:49:30Z",
-      "url": "https://www.tehrantimes.com/news/529006/The-document-of-America-s-defeat",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529006/The-document-of-America-s-defeat"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The document of America’s defeat"
-      }
-    },
-    {
-      "id": "evt_7ce45e90",
-      "title": "美国参议员承认特朗普“输掉”了伊朗战争",
-      "summary": "德黑兰--民主党参议员克里斯·墨菲（ Chris Murphy ）承认美国在与伊朗冲突中的立场不断恶化，称唐纳德·特朗普总统“输掉了这场战争” ，延长战斗对德黑兰有利。",
-      "date": "2026-08-10T18:49:25Z",
-      "url": "https://www.tehrantimes.com/news/529010/US-senator-admits-Trump-has-lost-Iran-war",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529010/US-senator-admits-Trump-has-lost-Iran-war"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US senator admits Trump has ‘lost’ Iran war"
-      }
-    },
-    {
-      "id": "evt_31ad03c1",
-      "title": "30位伊朗艺术家的作品将在荷兰的虚拟展览中展出",
-      "summary": "TEHRAN--一场名为“Idea”的视觉艺术和手工艺品群展将于周二晚上在荷兰上线，展出30位伊朗艺术家的作品。",
-      "date": "2026-08-10T18:48:00Z",
-      "url": "https://www.tehrantimes.com/news/529002/Works-of-30-Iranian-artists-to-be-showcased-in-virtual-exhibition",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529002/Works-of-30-Iranian-artists-to-be-showcased-in-virtual-exhibition"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Works of 30 Iranian artists to be showcased in virtual exhibition in Netherlands"
-      }
-    },
-    {
-      "id": "evt_abf7deb2",
-      "title": "伊朗平台使用人工智能支持外国学生学习波斯语",
-      "summary": "TEHRAN -国际学生在伊朗大学的日益增加重新引起了对一个实际问题的关注：如何使波斯语教育更容易为可能在很少或根本不懂语言的情况下开始学习的学生所接受？",
-      "date": "2026-08-10T18:46:14Z",
-      "url": "https://www.tehrantimes.com/news/529000/Iranian-platform-uses-AI-to-support-Persian-language-learning",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529000/Iranian-platform-uses-AI-to-support-Persian-language-learning"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian platform uses AI to support Persian language learning for foreign students"
-      }
-    },
-    {
-      "id": "evt_68424266",
-      "title": "议员：对殉难领导人被暗杀的报复将在各方面进行",
-      "summary": "德黑兰--伊朗议会主席团的一名成员强调，伊朗将对这位殉难领导人的暗杀进行报复和报复，并表示必须通过军事安全、国际法律和政治渠道同时进行这一努力。",
-      "date": "2026-08-10T18:41:13Z",
-      "url": "https://www.tehrantimes.com/news/529022/MP-Retaliation-for-martyred-leader-s-assassination-to-be-pursued",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529022/MP-Retaliation-for-martyred-leader-s-assassination-to-be-pursued"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "MP: Retaliation for martyred leader’s assassination to be pursued on all fronts"
-      }
-    },
-    {
-      "id": "evt_ffec270c",
-      "title": "前部长：美国、以色列失去了无敌的光环",
-      "summary": "德黑兰--伊朗官员侯赛因·德汗（ Hossein Dehghan ）表示，美国和以色列已经失去了无敌的光环和神话，他认为最近的战争表明了华盛顿及其盟国在为自己或他人提供安全方面的局限性。",
-      "date": "2026-08-10T18:27:46Z",
-      "url": "https://www.tehrantimes.com/news/529018/Former-minister-US-Israel-have-lost-their-aura-of-invincibility",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529018/Former-minister-US-Israel-have-lost-their-aura-of-invincibility"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Former minister: US, Israel have lost their aura of invincibility"
-      }
-    },
-    {
-      "id": "evt_a5bb7f5f",
-      "title": "伊朗领导人任命六名高级军事指挥官",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）周一发布了单独的法令，任命六名高级军事指挥官和官员担任武装部队、伊斯兰革命卫队（ IRGC ）和巴斯基组织的总参谋部的关键职位。",
-      "date": "2026-08-10T18:17:54Z",
-      "url": "https://www.tehrantimes.com/news/529012/Iran-s-Leader-appoints-six-top-military-commanders",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529012/Iran-s-Leader-appoints-six-top-military-commanders"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s Leader appoints six top military commanders"
-      }
-    },
-    {
-      "id": "evt_510b4b7f",
-      "title": "Rezaei的任命突出了伊朗军事和政治领导层之间的同步协调",
-      "summary": "德黑兰--某些西方和地区媒体试图对伊朗最高安全机构秘书穆赫森·雷扎伊（ Mohsen Rezaei ）少将被任命后伊朗军事和政治领导层之间据称存在的分歧进行新的关注。",
-      "date": "2026-08-10T18:14:39Z",
-      "url": "https://www.tehrantimes.com/news/529007/Rezaei-appointment-highlights-lockstep-coordination-between-Iran-s",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529007/Rezaei-appointment-highlights-lockstep-coordination-between-Iran-s"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Rezaei appointment highlights lockstep coordination between Iran’s military and political leadership"
-      }
-    },
-    {
-      "id": "evt_b158aef4",
-      "title": "伊朗表示区域防御协议标志着向本土安全的转变",
-      "summary": "德黑兰--伊朗对沙特阿拉伯、巴基斯坦和土耳其之间正在形成的国防谅解表示欢迎，认为这是区域安全思维发生更广泛转变的证据，认为该地区各国越来越认识到依靠外部力量提供保护的局限性。",
-      "date": "2026-08-10T18:13:22Z",
-      "url": "https://www.tehrantimes.com/news/529017/Iran-says-regional-defense-pact-signals-shift-toward-indigenous",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529017/Iran-says-regional-defense-pact-signals-shift-toward-indigenous"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says regional defense pact signals shift toward indigenous security"
       }
     },
     {
@@ -962,6 +1018,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran says deal with Oman on Strait of Hormuz is in final stages"
+      }
+    },
+    {
+      "id": "evt_021bfd28",
+      "title": "联合国人权事务主管对3月以来伊朗处决人数增加感到震惊",
+      "summary": "Volker Türk表示，已有56人因与国家安全有关的指控被处决，其中27人与1月份的抗议活动有关。",
+      "date": "2026-08-05T14:04:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UN rights chief alarmed by rise in Iran executions since March"
       }
     }
   ]
