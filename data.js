@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-16T00:52:45.222352Z
+// 自动生成的数据 - 更新时间: 2026-08-17T00:50:40.161618Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-16T00:52:45.222262Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-08-17T00:50:40.161552Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 20,
+      "international": 23,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_e985de46",
-      "title": "伊朗战争现场：关于霍尔木兹海峡的会谈仍在继续；以色列在黎巴嫩杀害了11人",
-      "summary": "随着伊朗和阿曼继续就霍尔木兹问题进行谈判，以色列在6月停战以来对黎巴嫩最致命的袭击中杀死了11人。",
-      "date": "2026-08-16T00:00:45Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+      "id": "evt_b274287c",
+      "title": "以色列释放35名巴勒斯坦囚犯返回加沙",
+      "summary": "情感聚会迎接了被以色列释放到加沙的35名巴勒斯坦囚犯。",
+      "date": "2026-08-17T00:05:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon"
+        "en": "Israel releases 35 Palestinian prisoners back into Gaza"
       }
     },
     {
-      "id": "evt_4fe6f76b",
-      "title": "也门政府称胡塞袭击袭击了马里卜的居民区",
-      "summary": "也门信息部谴责对马里卜的袭击是“升级” ，威胁生命并增加痛苦。",
-      "date": "2026-08-15T23:27:10Z",
-      "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "id": "evt_26343649",
+      "title": "伊朗战争现场：德黑兰-美国谅解备忘录即将到期；哈马斯的al-Khayya与库什纳会面",
+      "summary": "哈马斯呼吁和平委员会在开罗会晤贾里德·库什纳后“迫使”以色列接受加沙和平计划。",
+      "date": "2026-08-17T00:00:35Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -65,14 +65,602 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemen’s government says Houthi strikes hit residential areas in Marib"
+        "en": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner"
+      }
+    },
+    {
+      "id": "evt_5fa1018a",
+      "title": "联合国的阿尔巴尼亚人：以色列将胁迫外包给约旦河西岸的定居者",
+      "summary": "联合国特别报告员弗朗西斯卡·阿尔巴尼亚斯（ Francesca Albanese ）表示，以色列负有责任，并将胁迫外包给定居者。",
+      "date": "2026-08-16T23:58:45Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank"
+      }
+    },
+    {
+      "id": "evt_76200c9c",
+      "title": "以色列部长呼吁每晚在加沙杀害30至40名巴勒斯坦人",
+      "summary": "极右翼国家安全部长本-格维尔（ Ben-Gvir ）是以色列安全内阁的成员，这有助于制定战争和政策。",
+      "date": "2026-08-16T23:58:34Z",
+      "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly"
+      }
+    },
+    {
+      "id": "evt_66f49e0c",
+      "title": "什么可以阻止以色列定居者对巴勒斯坦人的袭击？",
+      "summary": "在以色列极右翼内塔尼亚胡政府领导下，被占领的约旦河西岸的暴力事件加剧。",
+      "date": "2026-08-16T21:54:58Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What could stop Israeli settler attacks on Palestinians?"
+      }
+    },
+    {
+      "id": "evt_62141698",
+      "title": "以色列人骚扰冰岛的巴勒斯坦咖啡馆，拆除巴勒斯坦地图",
+      "summary": "冰岛一家巴勒斯坦人拥有的咖啡馆的闭路电视监控录像显示，似乎是以色列游客撕毁了一幅巴勒斯坦的框架地图",
+      "date": "2026-08-16T21:02:08Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map"
+      }
+    },
+    {
+      "id": "evt_67055b47",
+      "title": "埃尔多安说，哈马斯采取了真诚的行动，批评以色列的袭击",
+      "summary": "埃尔多安说，哈马斯已经表现出一切可能的真诚团结，而以色列则继续对加沙发动侵略性攻击。",
+      "date": "2026-08-16T20:55:19Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Erdogan says Hamas acted sincerely, criticises Israeli attacks"
+      }
+    },
+    {
+      "id": "evt_a9fd7392",
+      "title": "美伊谅解备忘录即将到期：须知事项",
+      "summary": "双方都指责对方在6月协议签署后不久就违反了协议。",
+      "date": "2026-08-16T20:28:21Z",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Iran MoU is set to expire: What to know"
+      }
+    },
+    {
+      "id": "evt_0af7cc59",
+      "title": "特朗普特使库什纳会见哈马斯领导人推动加沙和平计划",
+      "summary": "这次罕见的会议是在以色列拒绝唐纳德·特朗普的加沙和平计划一周后举行的。",
+      "date": "2026-08-16T19:58:14Z",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan"
+      }
+    },
+    {
+      "id": "evt_16b6df10",
+      "title": "也门袭击与沙特有关的雇佣军集中在莫哈",
+      "summary": "德黑兰--也门武装部队通过发射一波毁灭性的弹道导弹和无人机打击沙特在莫哈和马里卜的附属军事集结，打破了冻结冲突的幻觉。",
+      "date": "2026-08-16T17:17:12Z",
+      "url": "https://www.tehrantimes.com/news/529127/Yemen-strikes-Saudi-linked-mercenary-concentrations-in-Mokha",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529127/Yemen-strikes-Saudi-linked-mercenary-concentrations-in-Mokha"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen strikes Saudi-linked mercenary concentrations in Mokha"
+      }
+    },
+    {
+      "id": "evt_65efa878",
+      "title": "伊朗艺术家论坛，放映卡普拉的《砷与老花边》",
+      "summary": "德黑兰--伊朗艺术家论坛（ IAF ）将于周一放映由弗兰克·卡普拉（ Frank Capra ）执导、加里·格兰特（ Cary Grant ）主演的1944年美国黑色喜剧犯罪电影《砷与老花边》（ Arsenic and Old Lace ）。",
+      "date": "2026-08-16T17:16:19Z",
+      "url": "https://www.tehrantimes.com/news/529103/Iranian-Artists-Forum-to-screen-Capra-s-Arsenic-and-Old-Lace",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529103/Iranian-Artists-Forum-to-screen-Capra-s-Arsenic-and-Old-Lace"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian Artists Forum to screen Capra’s “Arsenic and Old Lace”"
+      }
+    },
+    {
+      "id": "evt_7a7a9c6a",
+      "title": "伊朗与俄罗斯在安卡拉讨论文化合作",
+      "summary": "德黑兰--在土耳其安卡拉举行的一次会议上，伊朗驻安卡拉文化专员阿斯加尔·波斯（ Asghar Farsi ）和俄罗斯安卡拉科学与文化中心（ Russian House Ankara ）主席亚历山大·索特尼琴科（ Alexander Sotnichenko ）达成了一项协议，旨在发展电影合作和联合文化项目。",
+      "date": "2026-08-16T17:15:44Z",
+      "url": "https://www.tehrantimes.com/news/529104/Iran-Russia-discuss-cultural-cooperation-in-Ankara",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529104/Iran-Russia-discuss-cultural-cooperation-in-Ankara"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran, Russia discuss cultural cooperation in Ankara"
+      }
+    },
+    {
+      "id": "evt_ece48e51",
+      "title": "《卡霍的故事》出现在伊朗书店",
+      "summary": "TEHRAN--日本作家村上春树（ Haruki Murakami ）的最新小说《KAHO的故事》（ The Tale of KAHO ）最近被翻译成波斯语。",
+      "date": "2026-08-16T17:15:17Z",
+      "url": "https://www.tehrantimes.com/news/529070/The-Tale-of-KAHO-appears-at-Iranian-bookstores",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529070/The-Tale-of-KAHO-appears-at-Iranian-bookstores"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“The Tale of KAHO” appears at Iranian bookstores"
+      }
+    },
+    {
+      "id": "evt_2fa31643",
+      "title": "摩萨德和中央情报局如何严重误判伊朗的复原力",
+      "summary": "德黑兰--美以针对伊朗的联合军事行动暴露了西方国家安全机构内部前所未有的权威危机。在唐纳德·特朗普总统根据以色列对德黑兰核计划的保证授权发动战争近六个月后，冲突的操作和政治理由已经完全瓦解。",
+      "date": "2026-08-16T17:15:02Z",
+      "url": "https://www.tehrantimes.com/news/529120/How-Mossad-and-the-CIA-grossly-miscalculated-Iran-s-resilience",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529120/How-Mossad-and-the-CIA-grossly-miscalculated-Iran-s-resilience"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How Mossad and the CIA grossly miscalculated Iran’s resilience"
+      }
+    },
+    {
+      "id": "evt_02f31338",
+      "title": "伊朗将纪念殉难领导人下葬40天",
+      "summary": "德黑兰--伊朗首都德黑兰以及圣城库姆（ Qom ）和马什哈德（ Mashhad ）正准备举行全国哀悼仪式，纪念殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）下葬后的第40天。",
+      "date": "2026-08-16T17:14:26Z",
+      "url": "https://www.tehrantimes.com/news/529121/Iran-to-mark-40-days-since-burial-of-martyred-Leader",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529121/Iran-to-mark-40-days-since-burial-of-martyred-Leader"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran to mark 40 days since burial of martyred Leader"
+      }
+    },
+    {
+      "id": "evt_b82600ea",
+      "title": "Rezaei少将：领导人的军事任命扰乱了美国，以色列的计算",
+      "summary": "德黑兰--伊朗最高国家安全委员会（ SNSC ）秘书赞扬了伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）最近决定任命伊朗武装部队新的最高指挥官。",
+      "date": "2026-08-16T17:13:57Z",
+      "url": "https://www.tehrantimes.com/news/529124/Major-General-Rezaei-Leader-s-military-appointments-disrupted",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529124/Major-General-Rezaei-Leader-s-military-appointments-disrupted"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Major General Rezaei: Leader’s military appointments disrupted US, Israeli calculations"
+      }
+    },
+    {
+      "id": "evt_9c41d60c",
+      "title": "伊朗悬赏$ 30,000俘虏或杀害美国军人",
+      "summary": "TEHRAN-伊朗陆军总司令阿米尔·哈塔米（ Amir Hatami ）少将宣布，为任何俘虏或杀害美国军事人员的伊朗人颁发3万美元的奖励，称该倡议是针对公众广泛要求支持该国武装部队的要求而准备的。",
+      "date": "2026-08-16T17:13:16Z",
+      "url": "https://www.tehrantimes.com/news/529133/Iran-Offers-30-000-Reward-for-Capturing-or-Killing-US-Military",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529133/Iran-Offers-30-000-Reward-for-Capturing-or-Killing-US-Military"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran Offers $30,000 Reward for Capturing or Killing US Military Personnel"
+      }
+    },
+    {
+      "id": "evt_9a61688b",
+      "title": "伊朗武装部队誓言在“彻底击败”美国和以色列之前不撤退",
+      "summary": "TEHRAN -伊朗武装部队总参谋部发誓要继续对抗美国和以色列，直到其对手被“彻底击败”并实现伊朗人民的合法要求。",
+      "date": "2026-08-16T17:10:21Z",
+      "url": "https://www.tehrantimes.com/news/529132/Iran-s-armed-forces-vow-no-retreat-until-complete-defeat-of",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529132/Iran-s-armed-forces-vow-no-retreat-until-complete-defeat-of"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s armed forces vow no retreat until ‘complete defeat’ of US and Israel"
+      }
+    },
+    {
+      "id": "evt_12aa1584",
+      "title": "伊朗在战场上和政治谈判中都取得了胜利",
+      "summary": "伊朗议会议长穆罕默德-巴盖尔·卡利巴夫（ Mohammad-Baqer Qalibaf ）将伊朗和美国之间的伊斯兰堡谅解备忘录（ MoU ）描述为一项外交成就，他说如果给伊朗民族带来荣誉并巩固伊斯兰共和国在外交战线上的胜利。",
+      "date": "2026-08-16T17:03:54Z",
+      "url": "https://www.tehrantimes.com/news/529130/Iran-achieved-victories-both-on-battlefield-and-in-political",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529130/Iran-achieved-victories-both-on-battlefield-and-in-political"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran achieved victories both on battlefield and in political negotiations in the war"
+      }
+    },
+    {
+      "id": "evt_82f06df2",
+      "title": "以尊严和力量追求伊朗-美国协议：总统",
+      "summary": "TEHRAN-总统马苏德·佩泽什基安（ Masoud Pezeshkian ）表示，伊朗和美国最近达成的协议是有尊严和力量的，以已故领导人阐述的原则为基础，并且没有向对手做出任何让步。",
+      "date": "2026-08-16T16:58:42Z",
+      "url": "https://www.tehrantimes.com/news/529129/Iran-US-agreement-pursued-with-dignity-and-strength-President",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529129/Iran-US-agreement-pursued-with-dignity-and-strength-President"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran-US agreement pursued with dignity, and strength: President"
+      }
+    },
+    {
+      "id": "evt_3b8b8787",
+      "title": "3名伊朗飞行员的案例是对卡塔尔在战争中作用的严峻考验",
+      "summary": "德黑兰--一名伊朗高级军官呼吁卡塔尔当局允许伊朗伊斯兰共和国空军（ IRIAF ）的一个专门代表团进入卡塔尔，调查被拘留在卡塔尔的三名伊朗战斗机飞行员的状况。",
+      "date": "2026-08-16T16:55:22Z",
+      "url": "https://www.tehrantimes.com/news/529123/Case-of-3-Iranian-pilots-is-a-serious-test-to-determine-Qatar-s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529123/Case-of-3-Iranian-pilots-is-a-serious-test-to-determine-Qatar-s"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Case of 3 Iranian pilots is a serious test to determine Qatar’s role in the war"
+      }
+    },
+    {
+      "id": "evt_5b9a1c9f",
+      "title": "对黎巴嫩的历史犹太复国主义看法",
+      "summary": "德黑兰--在黎巴嫩南部，以色列占领政权正在通过拆除和推平房屋、建筑物、坟墓和树木来抹去该地区的整个文明景观。",
+      "date": "2026-08-16T16:40:43Z",
+      "url": "https://www.tehrantimes.com/news/529128/Historic-Zionist-perceptions-of-Lebanon",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529128/Historic-Zionist-perceptions-of-Lebanon"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Historic Zionist perceptions of Lebanon"
+      }
+    },
+    {
+      "id": "evt_d4e58d67",
+      "title": "以色列是休达危机的幕后黑手吗？",
+      "summary": "马德里--西班牙最近经历了一场混合战争，其特点是60多万人（主要来自摩洛哥）大规模入境，这场战争正在从政治投机转变为有案可查的地缘政治现实。以色列和美国情报部门策划这场危机的早期假设越来越多地得到具体证据和结构分析的证实。",
+      "date": "2026-08-16T15:34:45Z",
+      "url": "https://www.tehrantimes.com/news/529126/Was-Israel-behind-the-Ceuta-crisis",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529126/Was-Israel-behind-the-Ceuta-crisis"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Was Israel behind the Ceuta crisis?"
       }
     },
     {
       "id": "evt_c4ec5792",
       "title": "卡塔尔否认在击落战斗机后俘获三名伊朗飞行员",
       "summary": "伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们一直被关押。",
-      "date": "2026-08-15T21:03:57Z",
+      "date": "2026-08-16T09:27:58Z",
       "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -94,34 +682,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Qatar denies capturing three Iranian pilots after downing fighter jets"
-      }
-    },
-    {
-      "id": "evt_669cea1d",
-      "title": "卡塔尔否认扣留三名伊朗轰炸机飞行员",
-      "summary": "伊朗说，卡塔尔扣留了3名3月份被击落的飞行员。多哈谴责“误导性陈述”。",
-      "date": "2026-08-15T20:55:29Z",
-      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Qatar denies it is detaining three Iranian bomber pilots"
       }
     },
     {
@@ -150,454 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Eleven killed in Israeli strikes on southern Lebanon, authorities say"
-      }
-    },
-    {
-      "id": "evt_8ee44621",
-      "title": "健康保险组织、ICOPH委员会讨论促进关系的方法",
-      "summary": "德黑兰--伊朗健康保险组织负责人Mohammad-Mehdi Nasehi和国际公共卫生会议（ ICOPH ）委员会的官员探讨了加强合作的途径。",
-      "date": "2026-08-15T18:31:25Z",
-      "url": "https://www.tehrantimes.com/news/529100/Health-Insurance-Organization-ICOPH-committee-discuss-ways-to",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529100/Health-Insurance-Organization-ICOPH-committee-discuss-ways-to"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Health Insurance Organization, ICOPH committee discuss ways to foster ties"
-      }
-    },
-    {
-      "id": "evt_90031edb",
-      "title": "支持伊朗的禁毒工作得到了超越国界的回报：联合国毒品和犯罪问题办公室",
-      "summary": "德黑兰--联合国毒品和犯罪问题办公室（ UNODC ）发布了一份报告，强调必须支持伊朗打击毒品。",
-      "date": "2026-08-15T18:28:43Z",
-      "url": "https://www.tehrantimes.com/news/529098/Supporting-Iran-s-counter-narcotics-work-pays-off-beyond-its",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529098/Supporting-Iran-s-counter-narcotics-work-pays-off-beyond-its"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Supporting Iran’s counter-narcotics work pays off beyond its borders: UNODC"
-      }
-    },
-    {
-      "id": "evt_5d6389d5",
-      "title": "伊朗在国际经济、信息学奥林匹克竞赛中脱颖而出",
-      "summary": "德黑兰–伊朗学生在7月12日至20日在中国深圳举行的第九届国际经济奥林匹克竞赛（ IEO 2026 ）和8月9日至16日在乌兹别克斯坦塔什干举行的第38届国际信息学奥林匹克竞赛（ IOI ）中获得奖牌和荣誉提名。",
-      "date": "2026-08-15T18:22:00Z",
-      "url": "https://www.tehrantimes.com/news/529097/Iran-shines-at-Intl-economics-informatics-Olympiads",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529097/Iran-shines-at-Intl-economics-informatics-Olympiads"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran shines at Intl. economics, informatics Olympiads"
-      }
-    },
-    {
-      "id": "evt_37231326",
-      "title": "Maryam Salour的作品在Iranshahr画廊展出",
-      "summary": "德黑兰--Maryam Salour的个展正在德黑兰的Iranshahr画廊举行。",
-      "date": "2026-08-15T18:18:01Z",
-      "url": "https://www.tehrantimes.com/news/529074/Maryam-Salour-s-artworks-on-display-at-Iranshahr-Gallery",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529074/Maryam-Salour-s-artworks-on-display-at-Iranshahr-Gallery"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Maryam Salour’s artworks on display at Iranshahr Gallery"
-      }
-    },
-    {
-      "id": "evt_12429232",
-      "title": "“National Theater Live: Nye”将在希拉吉剧院上映",
-      "summary": "德黑兰–德黑兰的Hilaj剧院将于8月16日星期日放映拍摄的剧院“National Theater Live: Nye”。",
-      "date": "2026-08-15T18:17:06Z",
-      "url": "https://www.tehrantimes.com/news/529075/National-Theater-Live-Nye-to-be-shown-at-Hilaj-Theater",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529075/National-Theater-Live-Nye-to-be-shown-at-Hilaj-Theater"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“National Theater Live: Nye” to be shown at Hilaj Theater"
-      }
-    },
-    {
-      "id": "evt_12af316e",
-      "title": "伊朗公共图书馆为儿童和青少年举办「Toward Minab」阅读俱乐部",
-      "summary": "TEHRAN -伊朗各地的公共图书馆目前正在举办一个名为“Toward Minab”的特别阅读俱乐部，恰逢美国原子弹轰炸广岛和长崎的周年纪念日，以纪念在袭击Minab的Shajareh Tayyebeh小学时遇难的儿童。",
-      "date": "2026-08-15T18:16:09Z",
-      "url": "https://www.tehrantimes.com/news/529067/Iranian-public-libraries-host-Toward-Minab-reading-club-for",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529067/Iranian-public-libraries-host-Toward-Minab-reading-club-for"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian public libraries host “Toward Minab” reading club for children, teenagers"
-      }
-    },
-    {
-      "id": "evt_aed94ff3",
-      "title": "没有固定的战略目标",
-      "summary": "Ettelaat研究了唐纳德·特朗普矛盾行为背后的原因。该报指出，特朗普一再声称在无理侵略中获胜，甚至声称霍尔木兹海峡是开放的，而伊朗继续对这条重要的水道行使战略控制。",
-      "date": "2026-08-15T18:15:39Z",
-      "url": "https://www.tehrantimes.com/news/529079/No-fixed-strategic-objective",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529079/No-fixed-strategic-objective"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "No fixed strategic objective"
-      }
-    },
-    {
-      "id": "evt_ff9582c2",
-      "title": "“法国不应将公民的税款浪费在非法干涉伊朗事务上”",
-      "summary": "德黑兰--周六，伊朗伊斯兰共和国对巴黎做出了强烈反应，两名法国外交官参与了伊朗的外国渗透项目。",
-      "date": "2026-08-15T18:14:08Z",
-      "url": "https://www.tehrantimes.com/news/529095/France-should-not-waste-its-citizens-tax-money-on-illegal-interference",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529095/France-should-not-waste-its-citizens-tax-money-on-illegal-interference"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘France should not waste its citizens’ tax money on illegal interference in Iran’s affairs’"
-      }
-    },
-    {
-      "id": "evt_2bcb01b3",
-      "title": "随着俄罗斯石油泄漏到达阿曼海岸线，清理工作正在进行中",
-      "summary": "在停泊的油轮溢油后，清理人员正在沿着阿曼12公里的海岸线作出反应。",
-      "date": "2026-08-15T18:11:12Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Cleanup underway as Russian oil spill reaches Oman’s coastline"
-      }
-    },
-    {
-      "id": "evt_d526b9be",
-      "title": "卡利巴夫：特朗普在谅解备忘录中承认“抵抗阵线”",
-      "summary": "德黑兰—议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）周六表示，唐纳德·特朗普总统在最近达成的谅解备忘录（ MoU ）中签署了对“抵抗阵线”的正式承认。",
-      "date": "2026-08-15T18:09:19Z",
-      "url": "https://www.tehrantimes.com/news/529080/Qalibaf-Trump-recognized-Resistance-Front-in-MoU",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529080/Qalibaf-Trump-recognized-Resistance-Front-in-MoU"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Qalibaf: Trump recognized 'Resistance Front' in MoU"
-      }
-    },
-    {
-      "id": "evt_b172a2bd",
-      "title": "前三名官员强调团结，在外部压力下的协调",
-      "summary": "德黑兰--伊朗行政、立法和司法部门负责人周六召开了一次高级别三边会议，旨在精简治理和加强内部凝聚力。",
-      "date": "2026-08-15T18:08:41Z",
-      "url": "https://www.tehrantimes.com/news/529089/Top-three-officials-stress-unity-coordination-amid-external",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529089/Top-three-officials-stress-unity-coordination-amid-external"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Top three officials stress unity, coordination amid external pressures"
-      }
-    },
-    {
-      "id": "evt_6636d82c",
-      "title": "瓦希迪少将：伊朗让世界上全副武装的军队屈服",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）总司令表示，伊朗已经让世界上全副武装的军队屈服。艾哈迈德·瓦希迪（ Ahmad Vahidi ）少将在猛烈炮火下对美国进行了数月的成功进攻和防御行动后发表声明。",
-      "date": "2026-08-15T18:07:47Z",
-      "url": "https://www.tehrantimes.com/news/529081/Major-General-Vahidi-Iran-brought-the-world-s-most-heavily-armed",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529081/Major-General-Vahidi-Iran-brought-the-world-s-most-heavily-armed"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Major General Vahidi: Iran brought the world's most heavily armed military to its knees"
-      }
-    },
-    {
-      "id": "evt_72a35b5d",
-      "title": "军方官员：三名伊朗飞行员在卡塔尔被俘近六个月",
-      "summary": "德黑兰--一名伊朗军方官员周六表示，卡塔尔部队在近六个月前对美国基地的报复性打击中击落了三架苏-24战斗机，三名伊朗飞行员被卡塔尔部队活捉。",
-      "date": "2026-08-15T18:07:22Z",
-      "url": "https://www.tehrantimes.com/news/529088/Military-official-Three-Iranian-pilots-held-captive-in-Qatar",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529088/Military-official-Three-Iranian-pilots-held-captive-in-Qatar"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Military official: Three Iranian pilots held captive in Qatar for nearly six months"
-      }
-    },
-    {
-      "id": "evt_97a4868c",
-      "title": "Pezeshkian强调致力于加强与印度的关系",
-      "summary": "德黑兰--伊朗总统重申，德黑兰决心深化与新德里的关系。",
-      "date": "2026-08-15T18:06:44Z",
-      "url": "https://www.tehrantimes.com/news/529091/Pezeshkian-underscores-commitment-to-stronger-ties-with-India",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529091/Pezeshkian-underscores-commitment-to-stronger-ties-with-India"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian underscores commitment to stronger ties with India"
-      }
-    },
-    {
-      "id": "evt_a81545d5",
-      "title": "伊朗警告特朗普不要在霍尔木兹进行“冒险主义”",
-      "summary": "德黑兰--伊朗强烈反对美国总统唐纳德·特朗普（ Donald Trump ）最近关于华盛顿可以宣布霍尔木兹海峡为美国领土的说法，伊朗高级官员警告说，任何挑战德黑兰在战略航道上的地位的企图都将面临果断的回应。",
-      "date": "2026-08-15T18:05:55Z",
-      "url": "https://www.tehrantimes.com/news/529096/Iran-warns-Trump-against-adventurism-in-Hormuz",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529096/Iran-warns-Trump-against-adventurism-in-Hormuz"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns Trump against ‘adventurism’ in Hormuz"
-      }
-    },
-    {
-      "id": "evt_603ea30e",
-      "title": "美国航母有望在中东解救林肯号",
-      "summary": "华盛顿号航空母舰的行动是在伊朗战争期间林肯号航空母舰面临严峻条件的报道之际。",
-      "date": "2026-08-15T17:49:42Z",
-      "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US aircraft carrier expected to relieve USS Lincoln in Middle East"
       }
     },
     {
@@ -710,34 +822,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia"
-      }
-    },
-    {
-      "id": "evt_09d7a914",
-      "title": "内塔尼亚胡拒绝特朗普的15点加沙计划不太可能成为最终决定",
-      "summary": "据说特朗普政府对以色列总理拒绝该协议感到不安，认为这是大选前的竞选言论。",
-      "date": "2026-08-10T14:43:08Z",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word"
       }
     },
     {
