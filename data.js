@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-08-18T00:48:47.934327Z
+// 自动生成的数据 - 更新时间: 2026-08-19T00:49:23.490155Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-18T00:48:47.934264Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-08-19T00:49:23.490093Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 21,
+      "international": 20,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,184 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_6dd86c25",
-      "title": "伊朗战争现场：特朗普拒绝延长谅解备忘录，因为美国声称控制霍尔木兹",
-      "summary": "美国总统表示，伊朗应该“升起投降的白旗” ，因为两国的谅解备忘录将于周一到期。",
-      "date": "2026-08-18T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+      "id": "evt_a8472179",
+      "title": "伊朗战争现场：特朗普否认伊朗谈判，德黑兰声称美国“乞讨”",
+      "summary": "特朗普表示没有安排与德黑兰的会谈；伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）声称美国“乞求”谈判。",
+      "date": "2026-08-19T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz"
-      }
-    },
-    {
-      "id": "evt_e772ce35",
-      "title": "库什纳说： “在哈马斯解除武装之前，我们不会允许重建加沙”",
-      "summary": "特朗普的女婿兼特使表示，随着对加沙的罢工的继续，美国不会“限制以色列自卫的权利”。",
-      "date": "2026-08-17T23:25:17Z",
-      "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says"
-      }
-    },
-    {
-      "id": "evt_90c406e3",
-      "title": "随着以色列军方在黎巴嫩增加赌注，平民正在付出代价：联黎部队",
-      "summary": "根据联合国维和部队的记录，在过去两周里，该地区平均每天发射137枚炮弹。",
-      "date": "2026-08-17T20:54:03Z",
-      "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL"
-      }
-    },
-    {
-      "id": "evt_2d4660cc",
-      "title": "特朗普表示伊朗不会达成他认为必要的协议",
-      "summary": "特朗普表示伊朗不会达成他认为必要的协议",
-      "date": "2026-08-17T20:49:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump says Iran will not make the deal he believes is necessary"
-      }
-    },
-    {
-      "id": "evt_4b6dce38",
-      "title": "特朗普的支持率降至33%的新低",
-      "summary": "新的民意调查发现，大多数美国公民对美国对伊朗的战争感到担忧。",
-      "date": "2026-08-17T20:41:31Z",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump’s approval rating sinks to new low at 33 percent"
-      }
-    },
-    {
-      "id": "evt_b260c3c4",
-      "title": "加沙船队从英国启航，以打破以色列的围困",
-      "summary": "作为打破以色列封锁并向加沙运送援助的更广泛运动的一部分，一艘船离开了布里斯托尔。",
-      "date": "2026-08-17T19:32:06Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gaza flotilla sets sail from the UK in bid to break Israeli siege"
-      }
-    },
-    {
-      "id": "evt_4f85c608",
-      "title": "在本-格维尔敦促加沙每日屠宰配额后，伊朗要求全球法庭",
-      "summary": "德黑兰--将屠杀巴勒斯坦人制度化的可怕提议剥夺了保护以色列的任何剩余外交外表。",
-      "date": "2026-08-17T18:30:46Z",
-      "url": "https://www.tehrantimes.com/news/529157/Iran-demands-global-tribunals-after-Ben-Gvir-urges-daily-slaughter",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529157/Iran-demands-global-tribunals-after-Ben-Gvir-urges-daily-slaughter"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,20 +37,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran demands global tribunals after Ben-Gvir urges daily slaughter quota in Gaza"
+        "en": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’"
       }
     },
     {
-      "id": "evt_b1745ed5",
-      "title": "也门-沙特局势升级：核心问题和关键解决方案",
-      "summary": "德黑兰--也门方程式基于应对升级的升级和应对压力的压力，迫使沙特阿拉伯履行和平义务并结束侵略和封锁。",
-      "date": "2026-08-17T18:29:55Z",
-      "url": "https://www.tehrantimes.com/news/529156/Yemeni-Saudi-escalation-The-core-problem-and-key-solution",
+      "id": "evt_3590be3f",
+      "title": "民主党人呼吁对林肯号进行调查，质疑美国海军的准备状态",
+      "summary": "立法者质疑航母的状况是否表明伊朗战争期间规划不善的“模式”。",
+      "date": "2026-08-18T23:45:16Z",
+      "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Democrats call for USS Lincoln probe, question US Navy’s readiness"
+      }
+    },
+    {
+      "id": "evt_43f70b21",
+      "title": "叙利亚向联合国调查开放阿萨德时代的核计划",
+      "summary": "联合国监察机构报告说，它在叙利亚的未披露地点发现了大量材料。",
+      "date": "2026-08-18T21:25:06Z",
+      "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Syria opens Assad-era nuclear programme to UN probe"
+      }
+    },
+    {
+      "id": "evt_484dcf2f",
+      "title": "特朗普表示，由于对伊朗-阿曼霍尔木兹协议的愤怒，没有计划与伊朗进行谈判",
+      "summary": "美国总统抨击霍尔木兹海峡沿岸各州继续就管理战略航道进行谈判。",
+      "date": "2026-08-18T21:03:59Z",
+      "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal"
+      }
+    },
+    {
+      "id": "evt_15781175",
+      "title": "据报道，以色列的罢工在加沙市造成至少6人死亡",
+      "summary": "罢工发生之际，旨在推动旨在结束敌对行动的协议的努力仍然停滞不前。",
+      "date": "2026-08-18T21:03:04Z",
+      "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli strike reported to kill at least six in Gaza City"
+      }
+    },
+    {
+      "id": "evt_0cb49351",
+      "title": "克里斯托弗·贝克维斯（ Christopher Beckwith ）以波斯语出版的“丝绸之路帝国",
+      "summary": "德黑兰--克里斯托弗·贝克威斯（ Christopher I. Beckwith ）的著作《丝绸之路的帝国：从青铜时代到现在的中欧史》（ Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present ）的波斯语译本已在伊朗各地的书店",
+      "date": "2026-08-18T17:17:48Z",
+      "url": "https://www.tehrantimes.com/news/529180/Christopher-Beckwith-s-Empires-of-the-Silk-Road-published-in",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529156/Yemeni-Saudi-escalation-The-core-problem-and-key-solution"
+          "url": "https://www.tehrantimes.com/news/529180/Christopher-Beckwith-s-Empires-of-the-Silk-Road-published-in"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Christopher Beckwith’s “Empires of the Silk Road” published in Persian"
+      }
+    },
+    {
+      "id": "evt_d39145c7",
+      "title": "伊朗广播剧改编自斯蒂芬·金的《苦难》",
+      "summary": "TEHRAN-六部电台剧《护士的噩梦》改编自美国作家斯蒂芬·金的广受赞誉的小说《苦难》，由伊朗的Namayesh电台制作和播出。",
+      "date": "2026-08-18T17:17:19Z",
+      "url": "https://www.tehrantimes.com/news/529071/Iranian-radio-drama-adapts-Stephen-King-s-Misery",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529071/Iranian-radio-drama-adapts-Stephen-King-s-Misery"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian radio drama adapts Stephen King’s “Misery”"
+      }
+    },
+    {
+      "id": "evt_0d70b2e0",
+      "title": "第15届国际百秒电影节将在9个国家举办专业研讨会",
+      "summary": "德黑兰--第15届国际100秒电影节将在九个国家举办一系列专门的国际研讨会，旨在提高媒体素养、电影制作和解释新的叙事。",
+      "date": "2026-08-18T17:16:46Z",
+      "url": "https://www.tehrantimes.com/news/529183/15th-International-100-Second-Film-Festival-to-organize-specialized",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529183/15th-International-100-Second-Film-Festival-to-organize-specialized"
         }
       ],
       "category": "diplomatic",
@@ -233,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemeni-Saudi escalation: The core problem and key solution"
+        "en": "15th International 100-Second Film Festival to organize specialized workshops in 9 countries"
       }
     },
     {
-      "id": "evt_bd0febe0",
-      "title": "伊斯兰革命卫队副局长：自战争开始以来，伊朗已击落200多架敌机",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）高级指挥官表示，伊朗成功击败了对手，但只将对手分配的资源中的一小部分用于武器和军事行动。",
-      "date": "2026-08-17T18:29:07Z",
-      "url": "https://www.tehrantimes.com/news/529152/IRGC-deputy-chief-Iran-has-downed-over-200-enemy-aircraft-since",
+      "id": "evt_c6a0f24c",
+      "title": "莎拉与其他文明的战争",
+      "summary": "德黑兰--莎拉·利特尔（ Sarah Little ）在《经济学人》（ The Economist ）上撰写了关于阿富汗“对女性的战争”的文章。如果只看塔利班有关妇女的规定，这句话似乎并不合理。但这正是问题的起点。为什么塔利班通过法律、警务和直接指挥所做的事情被描述为“战争” ，而西方社会的主导经济结构通过媒体、文化、时尚、市场、美容行业和欲望的产生所做的事情很少被置于",
+      "date": "2026-08-18T17:14:55Z",
+      "url": "https://www.tehrantimes.com/news/529199/Sarah-s-war-against-the-rest-of-civilization",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529152/IRGC-deputy-chief-Iran-has-downed-over-200-enemy-aircraft-since"
+          "url": "https://www.tehrantimes.com/news/529199/Sarah-s-war-against-the-rest-of-civilization"
         }
       ],
       "category": "military",
@@ -261,20 +261,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "IRGC deputy chief: Iran has downed over 200 enemy aircraft since war began"
+        "en": "Sarah’s war against the rest of civilization"
       }
     },
     {
-      "id": "evt_61463273",
-      "title": "“The Murder of Mr. Haversham”重返舞台进行第四轮演出",
-      "summary": "德黑兰--8月26日，由萨贾德·阿夫沙里安（ Sajjad Afsharian ）制作、法拉兹·戈拉米（ Faraz Gholami ）执导的神秘喜剧《哈弗舍姆先生的谋杀》（ The Murder of Mr. Haversham ）将重返德黑兰舞台，在沙赫扎德剧院大厅（ Shahr",
-      "date": "2026-08-17T18:24:23Z",
-      "url": "https://www.tehrantimes.com/news/529072/The-Murder-of-Mr-Haversham-to-return-to-stage-for-fourth-run",
+      "id": "evt_ee1959b7",
+      "title": "伊拉克抵抗组织对武器设置条件",
+      "summary": "德黑兰--伊拉克抵抗组织真主党（ Kataeb Hezbollah ）的一名官员发表了一份措辞严厉的声明，为今后与伊拉克政府就抵抗力量持有的武器问题进行合作设定了条件。",
+      "date": "2026-08-18T17:14:15Z",
+      "url": "https://www.tehrantimes.com/news/529200/Iraqi-resistance-group-sets-conditions-over-weapons",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529072/The-Murder-of-Mr-Haversham-to-return-to-stage-for-fourth-run"
+          "url": "https://www.tehrantimes.com/news/529200/Iraqi-resistance-group-sets-conditions-over-weapons"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iraqi resistance group sets conditions over weapons"
+      }
+    },
+    {
+      "id": "evt_7b672b04",
+      "title": "尽管al-Jolani安抚，但以色列袭击了叙利亚机场，警告安卡拉",
+      "summary": "德黑兰--周二早些时候，以色列喷气式飞机轰炸了伊德利卜东部的阿布杜胡尔军事空军基地。连续八次撞击撞击了跑道，摧毁了仓储设施。",
+      "date": "2026-08-18T17:13:43Z",
+      "url": "https://www.tehrantimes.com/news/529201/Despite-al-Jolani-s-appeasement-Israel-strikes-Syrian-airfield",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529201/Despite-al-Jolani-s-appeasement-Israel-strikes-Syrian-airfield"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Despite al-Jolani’s appeasement, Israel strikes Syrian airfield, warning Ankara"
+      }
+    },
+    {
+      "id": "evt_ff20dcb3",
+      "title": "特朗普威胁轰炸阿曼，在阿拉伯世界和美国引发强烈反对",
+      "summary": "德黑兰--唐纳德·特朗普在威胁对阿曼发动军事打击后引发了国际反弹，据报道，他因与伊朗谈判海上交通安排而惩罚了这个波斯湾国家。",
+      "date": "2026-08-18T17:13:25Z",
+      "url": "https://www.tehrantimes.com/news/529204/Trump-s-threat-to-bomb-Oman-triggers-backlash-across-Arab-world",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529204/Trump-s-threat-to-bomb-Oman-triggers-backlash-across-Arab-world"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump’s threat to bomb Oman triggers backlash across Arab world and US"
+      }
+    },
+    {
+      "id": "evt_a13fbf9a",
+      "title": "哈马斯官员：解除抵抗武装不能成为任何协议的先决条件",
+      "summary": "TEHRAN-哈马斯驻德黑兰代表哈立德·卡杜米（ Khaled Qaddoumi ）表示，解除巴勒斯坦抵抗组织武装不能成为达成任何协议的先决条件，并认为包括武器在内的战略问题最终必须通过巴勒斯坦集体进程来解决，而不是从外部强加。",
+      "date": "2026-08-18T17:12:40Z",
+      "url": "https://www.tehrantimes.com/news/529202/Hamas-official-Disarming-Resistance-cannot-be-a-precondition",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529202/Hamas-official-Disarming-Resistance-cannot-be-a-precondition"
         }
       ],
       "category": "diplomatic",
@@ -289,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "“The Murder of Mr. Haversham” to return to stage for fourth run"
+        "en": "Hamas official: Disarming Resistance cannot be a precondition for any agreement"
       }
     },
     {
-      "id": "evt_5581aca4",
-      "title": "Genevieve Mackenzie关于多动症儿童的故事书，以波斯语提供",
-      "summary": "德黑兰--吉纳维芙·麦肯齐（ Genevieve Mackenzie ）的《深圳农科兰花背后的奥秘》（ The Mystery Behind the Shenzhen Nongke Orchid ）一书的波斯语译本已在伊朗图书市场发行。",
-      "date": "2026-08-17T18:23:38Z",
-      "url": "https://www.tehrantimes.com/news/529138/Genevieve-Mackenzie-s-storybook-about-children-with-ADHD-available",
+      "id": "evt_5b488597",
+      "title": "特朗普的受欢迎程度崩溃暴露了对伊朗战争的战略失败",
+      "summary": "德黑兰--唐纳德·特朗普（ Donald Trump ）总统的支持率不断下降，使他的工作支持率降至33%的历史低点，这直接表明了美以联合军事战略对伊朗的失败。",
+      "date": "2026-08-18T17:10:45Z",
+      "url": "https://www.tehrantimes.com/news/529187/Trump-s-collapsing-popularity-exposes-strategic-failure-in-the",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529138/Genevieve-Mackenzie-s-storybook-about-children-with-ADHD-available"
+          "url": "https://www.tehrantimes.com/news/529187/Trump-s-collapsing-popularity-exposes-strategic-failure-in-the"
         }
       ],
       "category": "military",
@@ -317,20 +401,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Genevieve Mackenzie’s storybook about children with ADHD available in Persian"
+        "en": "Trump’s collapsing popularity exposes strategic failure in the war against Iran"
       }
     },
     {
-      "id": "evt_cc787fb2",
-      "title": "伊朗、乌兹别克斯坦讨论扩大联合艺术合作",
-      "summary": "德黑兰--在伊朗伊斯兰共和国驻乌兹别克斯坦文化参赞哈桑·萨法尔哈尼（ Hassan Safarkhani ）和乌兹别克斯坦艺术学院院长阿克马尔·努里迪诺夫（ Akmal Nuriddinov ）教授的会晤中，双方讨论了扩大两国艺术机构之间的合作。",
-      "date": "2026-08-17T18:23:00Z",
-      "url": "https://www.tehrantimes.com/news/529139/Iran-Uzbekistan-discuss-expanding-joint-artistic-cooperation",
+      "id": "evt_a926a4fe",
+      "title": "在德黑兰伊玛目霍梅尼莫萨拉举行的烈士领袖第40天纪念仪式",
+      "summary": "德黑兰--周二下午，在德黑兰的伊玛目霍梅尼·莫萨拉（ Imam Khomeini Mosalla ）举行了一场大规模的全国纪念活动，纪念殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）下葬40周年。",
+      "date": "2026-08-18T17:10:05Z",
+      "url": "https://www.tehrantimes.com/news/529196/40th-day-memorial-ceremony-for-martyred-Leader-held-at-Tehran-s",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529139/Iran-Uzbekistan-discuss-expanding-joint-artistic-cooperation"
+          "url": "https://www.tehrantimes.com/news/529196/40th-day-memorial-ceremony-for-martyred-Leader-held-at-Tehran-s"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "40th-day memorial ceremony for martyred Leader held at Tehran’s Imam Khomeini Mosalla"
+      }
+    },
+    {
+      "id": "evt_cb56b3ee",
+      "title": "埃尔比勒假旗袭击：外国破坏伊朗-伊拉克团结",
+      "summary": "德黑兰--最近针对库尔德斯坦地区政府（ KRG ）总理马斯鲁尔·巴尔扎尼（ Masrour Barzani ）私人办公室和埃尔比勒安全局官邸的无人机事件是一起可疑的升级事件，旨在破坏脆弱的地区外交。发生在德黑兰和伊拉克当局在边境安全协议上取得切实进展的时刻，这些罢工的时机和执行指向外部行为者有计划地试图破坏邻国",
+      "date": "2026-08-18T17:07:42Z",
+      "url": "https://www.tehrantimes.com/news/529185/Erbil-false-flag-attack-Foreign-sabotage-against-Iran-Iraq-unity",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529185/Erbil-false-flag-attack-Foreign-sabotage-against-Iran-Iraq-unity"
         }
       ],
       "category": "military",
@@ -345,20 +457,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran, Uzbekistan discuss expanding joint artistic cooperation"
+        "en": "Erbil false-flag attack: Foreign sabotage against Iran-Iraq unity"
       }
     },
     {
-      "id": "evt_a3a9491b",
-      "title": "特朗普在对伊朗的军事赌博失败后寻找替罪羊",
-      "summary": "德黑兰--美国-以色列精心策划的对伊朗伊斯兰共和国的无端军事侵略所带来的地缘政治影响不断显现，暴露了华盛顿国际联盟网络中深刻的、无法弥补的裂痕，揭示了陷入战略失败和绝望误判的单方面干预。",
-      "date": "2026-08-17T18:17:08Z",
-      "url": "https://www.tehrantimes.com/news/529153/Trump-seeking-scapegoats-after-failed-military-gamble-on-Iran",
+      "id": "evt_5dcfffc1",
+      "title": "新的美国骨刺",
+      "summary": "德黑兰--美国总统唐纳德·特朗普肆无忌惮地将战略性霍尔木兹海峡宣布为美国领土，这明显显示了帝国的咆哮与地缘政治现实脱节。",
+      "date": "2026-08-18T17:06:50Z",
+      "url": "https://www.tehrantimes.com/news/529186/New-US-bone-spur",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529153/Trump-seeking-scapegoats-after-failed-military-gamble-on-Iran"
+          "url": "https://www.tehrantimes.com/news/529186/New-US-bone-spur"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New US bone spur"
+      }
+    },
+    {
+      "id": "evt_dba963c1",
+      "title": "伊朗将坚定维护其管理霍尔木兹海峡的权利：副总统",
+      "summary": "TEHRAN-第一副总统穆罕默德·雷扎·阿雷夫（ Mohammad Reza Aref ）周二表示，伊朗已进入一个新阶段，并将坚持其管理霍尔木兹海峡的权利。",
+      "date": "2026-08-18T17:04:48Z",
+      "url": "https://www.tehrantimes.com/news/529206/Iran-will-stand-firm-on-its-rights-in-managing-Strait-of-Hormuz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529206/Iran-will-stand-firm-on-its-rights-in-managing-Strait-of-Hormuz"
         }
       ],
       "category": "military",
@@ -373,20 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump seeking scapegoats after failed military gamble on Iran"
+        "en": "Iran will stand firm on its rights in managing Strait of Hormuz: VP"
       }
     },
     {
-      "id": "evt_ffb3beb6",
-      "title": "伊朗军方发言人警告美国不要在谅解备忘录到期时“误判”",
-      "summary": "德黑兰--伊朗军队发言人穆罕默德·阿克拉米-尼亚准将警告美国不要有任何误判，并强调伊朗武装部队比以往任何时候都更有准备应对任何新的侵略行为。",
-      "date": "2026-08-17T18:16:40Z",
-      "url": "https://www.tehrantimes.com/news/529154/Iranian-Army-spokesman-warns-US-against-miscalculation-as-MoU",
+      "id": "evt_3bb883ea",
+      "title": "卡利巴夫：霍尔木兹将继续关闭，直到美国履行谅解备忘录承诺",
+      "summary": "伊朗议会议长穆罕默德·巴克尔·卡利巴夫（ Mohammad Baqer Qalibaf ）周二表示，在美国履行其在伊斯兰堡谅解备忘录下的承诺之前，霍尔木兹海峡将继续关闭，包括解除对伊朗石油出口的封锁和制裁。",
+      "date": "2026-08-18T17:02:48Z",
+      "url": "https://www.tehrantimes.com/news/529205/Qalibaf-Hormuz-to-remain-closed-until-US-fulfills-MoU-commitments",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529154/Iranian-Army-spokesman-warns-US-against-miscalculation-as-MoU"
+          "url": "https://www.tehrantimes.com/news/529205/Qalibaf-Hormuz-to-remain-closed-until-US-fulfills-MoU-commitments"
         }
       ],
       "category": "military",
@@ -401,147 +541,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian Army spokesman warns US against ‘miscalculation’ as MoU expires"
-      }
-    },
-    {
-      "id": "evt_33f4b5f2",
-      "title": "谅解备忘录签署60天后：为什么和平仍然难以实现，接下来会发生什么？",
-      "summary": "德黑兰--六十天前，伊朗和美国签署了一份谅解备忘录（ MoU ） ，但由于华盛顿一再和系统性的违规行为，该备忘录已于周一到期。",
-      "date": "2026-08-17T18:14:48Z",
-      "url": "https://www.tehrantimes.com/news/529158/60-days-after-the-MoU-Why-has-peace-remained-elusive-and-what",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529158/60-days-after-the-MoU-Why-has-peace-remained-elusive-and-what"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "60 days after the MoU: Why has peace remained elusive, and what comes next?"
-      }
-    },
-    {
-      "id": "evt_98e643c2",
-      "title": "黎巴嫩真主党抵抗运动在国际法中的法律地位",
-      "summary": "准军事组织的法律地位因国内法律制度而异。本评论旨在审查抵抗运动的合法性和合法性，重点关注黎巴嫩真主党抵抗运动在阿拉伯国家法律和政治秩序中的地位。",
-      "date": "2026-08-17T18:11:15Z",
-      "url": "https://www.tehrantimes.com/news/529161/Legal-status-of-Lebanese-Hezbollah-resistance-movement-under",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529161/Legal-status-of-Lebanese-Hezbollah-resistance-movement-under"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Legal status of Lebanese Hezbollah resistance movement under international law"
-      }
-    },
-    {
-      "id": "evt_078c9f41",
-      "title": "伊朗经济部长将美国“前所未有的”威胁视为政策挫折的迹象",
-      "summary": "TEHRAN -针对美国财政部长斯科特·贝森特（ Scott Bessent ）最近发出的警告，即华盛顿将对伊朗采取“前所未有的”措施，伊朗经济部长赛义德·阿里·马达尼扎德（ Seyed Ali Madanizadeh ）将这些言论描述为不是显示美国的实力，而是表明政策沮丧，因为一再的压力运动未能产生预期的结果。",
-      "date": "2026-08-17T18:09:26Z",
-      "url": "https://www.tehrantimes.com/news/529160/Iran-economy-minister-dismisses-U-S-unprecedented-threat-as",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529160/Iran-economy-minister-dismisses-U-S-unprecedented-threat-as"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran economy minister dismisses U.S. \"unprecedented\" threat as policy frustration sign"
-      }
-    },
-    {
-      "id": "evt_d1b9e40a",
-      "title": "伊朗排除延长伊斯兰堡谅解备忘录的谈判",
-      "summary": "德黑兰--在周一的每周新闻发布会上，伊朗外交部发言人Esmaeil Baqaei谈到了多个关键问题，坚决排除了延长伊斯兰堡谅解备忘录（ MoU ）规定的60天期限的任何谈判，同时强调美国从一开始就违反了该协议。",
-      "date": "2026-08-17T18:03:17Z",
-      "url": "https://www.tehrantimes.com/news/529159/Iran-rules-out-talks-on-extension-of-Islamabad-MoU",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529159/Iran-rules-out-talks-on-extension-of-Islamabad-MoU"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran rules out talks on extension of Islamabad MoU"
-      }
-    },
-    {
-      "id": "evt_3689465d",
-      "title": "尽管美国声称进行调解，但以色列仍在黎巴嫩的Jabal Amel扩大袭击范围",
-      "summary": "德黑兰--周一，以色列军方在黎巴嫩南部发动了大规模暴力浪潮。据当地媒体报道，无人机在Ali al-Taher高地投掷炸药。炮兵炮击了Mansouri、Shihin和Wadi al-Salouqi。两枚炮弹击中了Zebqin和Yater之间的地形。一架侦察无人机在Haddatha投掷了一枚声波炸弹，随后对当地居民进行了猛烈的机枪射击。",
-      "date": "2026-08-17T16:33:02Z",
-      "url": "https://www.tehrantimes.com/news/529155/Israel-expands-assaults-across-Lebanon-s-Jabal-Amel-despite-US",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529155/Israel-expands-assaults-across-Lebanon-s-Jabal-Amel-despite-US"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel expands assaults across Lebanon’s Jabal Amel despite US mediation claims"
+        "en": "Qalibaf: Hormuz to remain closed until US fulfills MoU commitments"
       }
     },
     {
@@ -570,34 +570,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan"
-      }
-    },
-    {
-      "id": "evt_6c335238",
-      "title": "与Shakiba一起探索德黑兰：这是一张超越明信片的德黑兰--真实、丰富多彩、充满故事",
-      "summary": "",
-      "date": "2026-08-17T14:41:10Z",
-      "url": "https://www.tehrantimes.com/news/529151/Tehran-with-Shakiba-This-is-Tehran-beyond-the-postcards-real",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529151/Tehran-with-Shakiba-This-is-Tehran-beyond-the-postcards-real"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran with Shakiba: This is Tehran beyond the postcards—real, colorful, and full of stories"
       }
     },
     {
