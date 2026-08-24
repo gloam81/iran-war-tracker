@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-08-23T00:53:57.014107Z
+// 自动生成的数据 - 更新时间: 2026-08-24T00:52:18.933073Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-23T00:53:57.013993Z",
+    "lastUpdate": "2026-08-24T00:52:18.933017Z",
     "totalEvents": 37,
     "sources": {
       "international": 23,
@@ -13,359 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_89924360",
-      "title": "伊朗战争现场：德黑兰警告邻国不要加入美国经济战争",
-      "summary": "官员表示，任何加入美国的国家都将被视为敌人，德黑兰将针对他们的利益进行报复。",
-      "date": "2026-08-23T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "id": "evt_2233e184",
+      "title": "安卡拉住宅区附近的大型森林火灾",
+      "summary": "一场大型森林火灾威胁到土耳其首都郊区马马克居民区附近的房屋。",
+      "date": "2026-08-24T00:30:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran warns neighbours against joining US economic war"
-      }
-    },
-    {
-      "id": "evt_6c196c0a",
-      "title": "伊朗威胁加入美国“经济D日”的国家",
-      "summary": "伊朗警告说，加入美国对伊朗经济战争的国家将面临“针锋相对”的行动。",
-      "date": "2026-08-22T23:56:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran threatens countries that join US ‘economic D-Day’"
-      }
-    },
-    {
-      "id": "evt_2ca134c6",
-      "title": "伊朗警告周边国家不要加入美国的“经济战争”",
-      "summary": "这一警告是在美国总统唐纳德·特朗普威胁要在经济上孤立伊朗以削弱其政府之际发出的。",
-      "date": "2026-08-22T23:26:15Z",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns nearby nations against joining US ‘economic war’ efforts"
-      }
-    },
-    {
-      "id": "evt_a7e5565e",
-      "title": "以色列军队和定居者在约旦河西岸各地打伤数名巴勒斯坦人",
-      "summary": "随着定居者在军事袭击和不作为的支持下扩大控制，巴勒斯坦人面临袭击和被迫流离失所。",
-      "date": "2026-08-22T21:02:29Z",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli army and settlers injure several Palestinians across West Bank"
-      }
-    },
-    {
-      "id": "evt_b49b3b85",
-      "title": "伊朗允许一些伊拉克油轮通过霍尔木兹",
-      "summary": "伊拉克总统尼扎尔·阿米迪（ Nizar Amidi ）表示，他的国家的领土不会被用来对任何其他国家发动袭击。",
-      "date": "2026-08-22T20:05:52Z",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz"
-      }
-    },
-    {
-      "id": "evt_83facb8e",
-      "title": "以色列为什么要建造新的非法定居点？",
-      "summary": "以色列开始在被占领的约旦河西岸建造新的非法住房单元。",
-      "date": "2026-08-22T19:40:58Z",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why is Israel building new illegal settlements?"
-      }
-    },
-    {
-      "id": "evt_988febb1",
-      "title": "随着加沙袭击的继续，以色列的罢工造成两人死亡，其他人受伤",
-      "summary": "以色列无人驾驶飞机袭击了Deir el-Balah市中心的一个家庭，造成一人死亡，多人受伤。",
-      "date": "2026-08-22T19:24:51Z",
-      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes kill two and injure others as Gaza attacks continue"
-      }
-    },
-    {
-      "id": "evt_ecc41cca",
-      "title": "特使说，以色列在袭击叙利亚基地之前没有通知美国",
-      "summary": "美国官员汤姆·巴拉克（ Tom Barrack ）批评以色列未能向以色列发出足够的警告，特拉维夫否认了这一说法。",
-      "date": "2026-08-22T19:18:02Z",
-      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Envoy says Israel did not give the US notice before strikes on Syrian base"
-      }
-    },
-    {
-      "id": "evt_2ff397fa",
-      "title": "德黑兰的艺术画廊",
-      "summary": "萨莱斯画廊正在展出穆罕默德·马斯坦·达希（ Mohammad Mastan Dahi ）的绘画作品。 \n名为“入口”的展览将于9月1日在位于148 Karim Khan Ave的画廊举行。",
-      "date": "2026-08-22T17:45:17Z",
-      "url": "https://www.tehrantimes.com/news/529300/What-s-in-Tehran-art-galleries",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529300/What-s-in-Tehran-art-galleries"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What’s in Tehran art galleries"
-      }
-    },
-    {
-      "id": "evt_3c57e2cc",
-      "title": "伊朗艺术家在美国展览中展示“伊朗宪法革命”",
-      "summary": "TEHRAN -伊朗摄影师和电影制片人Armin Amirian将以其作品“伊朗宪法革命”参加在美国举行的第13届国际FL3TCH3R展览。",
-      "date": "2026-08-22T17:44:56Z",
-      "url": "https://www.tehrantimes.com/news/529299/Iranian-artist-showcases-Constitutional-Revolution-of-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529299/Iranian-artist-showcases-Constitutional-Revolution-of-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian artist showcases “Constitutional Revolution of Iran” at US exhibition"
-      }
-    },
-    {
-      "id": "evt_80d944a5",
-      "title": "邓肯·麦克米伦（ Duncan Macmillan ）的《人、地、物》（ People, Places and Things ）在",
-      "summary": "德黑兰--英国剧作家邓肯·麦克米伦（ Duncan Macmillan ）的戏剧《人、地、物》（ People, Places and Things ）目前正在德黑兰艺术宫（ Art Palace ）上演。",
-      "date": "2026-08-22T17:44:30Z",
-      "url": "https://www.tehrantimes.com/news/529290/Duncan-Macmillan-s-People-Places-and-Things-on-stage-at-Art",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529290/Duncan-Macmillan-s-People-Places-and-Things-on-stage-at-Art"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Duncan Macmillan’s “People, Places and Things” on stage at Art Palace"
-      }
-    },
-    {
-      "id": "evt_12f054f4",
-      "title": "伊朗电影，导演参加第39届赫尔采格诺维电影节",
-      "summary": "德黑兰--一名伊朗电影和一名电影制片人正在参加第39届赫尔采格诺维电影节，该电影节于周六在黑山拉开帷幕。",
-      "date": "2026-08-22T17:44:00Z",
-      "url": "https://www.tehrantimes.com/news/529289/Iranian-movie-filmmaker-participating-in-39th-Herceg-Novi-Film",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529289/Iranian-movie-filmmaker-participating-in-39th-Herceg-Novi-Film"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian movie, filmmaker participating in 39th Herceg Novi Film Festival"
-      }
-    },
-    {
-      "id": "evt_71f7945a",
-      "title": "西亚政治动态的常数和变量",
-      "summary": "伦敦--西亚地区的政策是基于政治动态制定的。这些要么是不会改变的常量，要么是变量。特别是在黎巴嫩和叙利亚的政治局势以及政治方向的区域或国际赞助方面。",
-      "date": "2026-08-22T17:42:37Z",
-      "url": "https://www.tehrantimes.com/news/529314/The-constants-and-variables-in-the-political-dynamics-of-West",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529314/The-constants-and-variables-in-the-political-dynamics-of-West"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss"
         }
       ],
       "category": "political",
       "location": {
-        "lat": 33.8938,
-        "lng": 35.5018,
-        "name": "黎巴嫩"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -373,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The constants and variables in the political dynamics of West Asia"
+        "en": "Large forest fire burns close to residential areas in Ankara"
       }
     },
     {
-      "id": "evt_4e275d0a",
-      "title": "以色列在叙利亚各地升级罢工和地面袭击",
-      "summary": "德黑兰--以色列加强了对叙利亚主权的攻击，发动了无人机袭击、炮击和地面入侵的协调行动。",
-      "date": "2026-08-22T17:41:55Z",
-      "url": "https://www.tehrantimes.com/news/529315/Israel-escalates-strikes-and-ground-raids-across-Syria",
+      "id": "evt_2c0510c1",
+      "title": "伊朗战争现场：伊朗议会推进霍尔木兹服务费计划",
+      "summary": "法律草案规定，获准通过霍尔木兹海峡的国家的船只将支付德黑兰的服务费用。",
+      "date": "2026-08-24T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529315/Israel-escalates-strikes-and-ground-raids-across-Syria"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -401,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel escalates strikes and ground raids across Syria"
+        "en": "Iran war live: Iranian parliament advances plans for Hormuz service fees"
       }
     },
     {
-      "id": "evt_7628f487",
-      "title": "以色列军队在杰宁杀害烈士之父；定居者在希伯伦附近杀害青少年",
-      "summary": "德黑兰--8月21日和22日，以色列军队和武装定居者团体在被占领的约旦河西岸发动了同步暴力浪潮。袭击从杰宁延伸到希伯伦。巴勒斯坦社区面临着加速的领土征服和致命武力运动。",
-      "date": "2026-08-22T17:41:42Z",
-      "url": "https://www.tehrantimes.com/news/529317/Israeli-troops-kill-father-of-martyrs-in-Jenin-settlers-murder",
+      "id": "evt_7a792e27",
+      "title": "唐纳德·特朗普对伊朗的新制裁会起作用吗？",
+      "summary": "美国总统表示，他将对德黑兰实施“镇压措施”。",
+      "date": "2026-08-23T21:34:53Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529317/Israeli-troops-kill-father-of-martyrs-in-Jenin-settlers-murder"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -429,27 +93,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli troops kill father of martyrs in Jenin; settlers murder teenager near Hebron"
+        "en": "Will Donald Trump’s new sanctions against Iran work?"
       }
     },
     {
-      "id": "evt_622cb9d4",
-      "title": "库什纳与海亚（ al-Hayya ）和内塔尼亚胡（ Netanyahu ）会面之后会发生什么",
-      "summary": "德黑兰--加沙仍然夹在以色列的顽固态度和选举计算、美国的压力以及巴勒斯坦维护协议的努力之间。这使得该地区在即将到来的选举结果变得清晰之前，既不处于战争状态，也不处于和平状态。",
-      "date": "2026-08-22T17:40:26Z",
-      "url": "https://www.tehrantimes.com/news/529316/What-follows-Kushner-s-meetings-with-al-Hayya-and-Netanyahu",
+      "id": "evt_7a43cc0d",
+      "title": "美国特使汤姆·巴拉克撤回关于叙利亚戈兰被占领的评论",
+      "summary": "土耳其驻土耳其大使表示，美国承认以色列对叙利亚领土主权的政策“没有改变”。",
+      "date": "2026-08-23T21:23:05Z",
+      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529316/What-follows-Kushner-s-meetings-with-al-Hayya-and-Netanyahu"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -457,51 +121,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "What follows Kushner’s meetings with al-Hayya and Netanyahu?"
+        "en": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied"
       }
     },
     {
-      "id": "evt_cd4dc393",
-      "title": "美国不能把失败的政策变成中奖牌",
-      "summary": "在失败的“最大压力”政策的最新行动中，唐纳德特朗普现在谈到对伊朗发起历史上最严重的经济行动，旨在开辟一条反对伊朗经济的新战线。华盛顿试图通过威胁与德黑兰合作的国家、银行和公司，在经济上孤立伊朗。",
-      "date": "2026-08-22T17:39:49Z",
-      "url": "https://www.tehrantimes.com/news/529307/America-cannot-turn-a-failed-policy-into-a-winning-card",
+      "id": "evt_1fd7e423",
+      "title": "几内亚首都大雨后垃圾填埋场坍塌致30人死亡",
+      "summary": "在几内亚科纳克里的一个垃圾填埋场，一堆垃圾在夜间大雨后倒塌，吞没了附近的房屋。",
+      "date": "2026-08-23T21:08:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529307/America-cannot-turn-a-failed-policy-into-a-winning-card"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
         }
       ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "America cannot turn a failed policy into a winning card"
-      }
-    },
-    {
-      "id": "evt_32560f27",
-      "title": "从违背承诺到公开战争：特朗普伊朗政策的矛盾",
-      "summary": "伊斯兰堡--唐纳德·特朗普对伊朗的态度是有节奏的。\n发出警告。 市场做出反应。军事资产就位。 外交官寻找机会。 然后，正如对抗似乎不可避免的那样，华盛顿退后一步。",
-      "date": "2026-08-22T17:39:21Z",
-      "url": "https://www.tehrantimes.com/news/529306/From-broken-promises-to-open-war-The-contradictions-of-Trump-s",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529306/From-broken-promises-to-open-war-The-contradictions-of-Trump-s"
-        }
-      ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -513,20 +149,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "From broken promises to open war: The contradictions of Trump’s Iran policy"
+        "en": "Landfill collapse kills 30 in Guinea’s capital after heavy rains"
       }
     },
     {
-      "id": "evt_b0a29feb",
-      "title": "格鲁吉亚拒绝欧盟对伊朗的制裁，优先考虑主权和实用主义",
-      "summary": "德黑兰--格鲁吉亚坚定地宣布其独立的外交政策，正式拒绝与欧盟最近对伊朗实施的强制性制裁保持一致。这一决定反映了各国拒绝以牺牲自身国家利益为代价盲目遵循西方经济压力策略的日益增长的趋势。",
-      "date": "2026-08-22T17:37:37Z",
-      "url": "https://www.tehrantimes.com/news/529305/Georgia-rejects-EU-sanctions-against-Iran-prioritizes-sovereignty",
+      "id": "evt_b3383e98",
+      "title": "以色列是否即将把被占领的约旦河西岸一分为二？",
+      "summary": "以色列正在推进其“E1”计划。它是什么，为什么会威胁到巴勒斯坦国的未来？",
+      "date": "2026-08-23T20:23:01Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Is Israel about to split the occupied West Bank in half?"
+      }
+    },
+    {
+      "id": "evt_9328ed71",
+      "title": "随着医疗保健接近崩溃，加沙的医院正在耗尽氧气",
+      "summary": "加沙的医院面临氧气短缺，危及早产儿和危重病人的生命。",
+      "date": "2026-08-23T19:40:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse"
+      }
+    },
+    {
+      "id": "evt_d3d39b7c",
+      "title": "在被占领的约旦河西岸埋葬的以色列袭击中丧生的巴勒斯坦青少年",
+      "summary": "数百人参加了14岁的伊斯兰·艾哈迈德·马希尔·阿茹里（ Islam Ahmad Maher Ajouri ）的葬礼，他在一次袭击中被以色列枪杀。",
+      "date": "2026-08-23T18:47:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian teen killed in Israeli raid buried in Occupied West Bank"
+      }
+    },
+    {
+      "id": "evt_34f7506f",
+      "title": "伊朗艺术家在悉尼战争与和平展览中展示作品",
+      "summary": "TEHRAN -仁慈的伊朗妇女协会将于9月初参加在澳大利亚悉尼举行的艺术展，在探索战争和破坏的人类后果的活动中展示伊朗艺术家的精选作品。",
+      "date": "2026-08-23T17:23:09Z",
+      "url": "https://www.tehrantimes.com/news/529327/Iranian-artists-to-showcase-works-at-Sydney-exhibition-on-war",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529305/Georgia-rejects-EU-sanctions-against-Iran-prioritizes-sovereignty"
+          "url": "https://www.tehrantimes.com/news/529327/Iranian-artists-to-showcase-works-at-Sydney-exhibition-on-war"
         }
       ],
       "category": "military",
@@ -541,20 +261,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Georgia rejects EU sanctions against Iran, prioritizes sovereignty and pragmatism"
+        "en": "Iranian artists to showcase works at Sydney exhibition on war and peace"
       }
     },
     {
-      "id": "evt_9ed019fd",
-      "title": "随着美国战争机器的崩溃，伊朗的国防力量激增",
-      "summary": "德黑兰--面对美国的军事和经济压力，伊朗继续系统地加强其防御和进攻能力。随着美国和以色列在军事行动中面临战略僵局，伊朗的国防工业正在迅速扩张，展示了一个自力更生国家的韧性。",
-      "date": "2026-08-22T17:37:21Z",
-      "url": "https://www.tehrantimes.com/news/529310/Iran-s-defense-surges-as-US-war-machine-crumbles",
+      "id": "evt_5c56d028",
+      "title": "VIVO乐团在Paniz Faryousefi的德黑兰Rudaki音乐厅演出",
+      "summary": "TEHRAN- VIVO管弦乐队由Paniz Faryousefi指挥，定于周一晚上在德黑兰的Rudaki音乐厅演出，节目涵盖伊朗和国际知名作曲家的作品。",
+      "date": "2026-08-23T17:22:42Z",
+      "url": "https://www.tehrantimes.com/news/529331/VIVO-Orchestra-to-perform-at-Tehran-s-Rudaki-Hall-under-Paniz",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529310/Iran-s-defense-surges-as-US-war-machine-crumbles"
+          "url": "https://www.tehrantimes.com/news/529331/VIVO-Orchestra-to-perform-at-Tehran-s-Rudaki-Hall-under-Paniz"
         }
       ],
       "category": "military",
@@ -569,20 +289,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran's defense surges as US war machine crumbles"
+        "en": "VIVO Orchestra to perform at Tehran’s Rudaki Hall under Paniz Faryousefi"
       }
     },
     {
-      "id": "evt_ffce1741",
-      "title": "哈什米内贾德：伊朗几十年来一直忍受着恐怖主义的严酷现实",
-      "summary": "德黑兰--哈比伦基金会（ Habilian Foundation ）秘书长穆罕默德·贾瓦德·哈什米内贾德（ Mohammad Javad Hashminejad ）在纪念恐怖主义受害者的仪式上表示，伊朗几十年来一直承受着恐怖主义的破坏性后果，针对平民、官员和关键基础设施的袭击。",
-      "date": "2026-08-22T17:35:20Z",
-      "url": "https://www.tehrantimes.com/news/529323/Hashminejad-Iran-has-endured-the-bitter-reality-of-terrorism",
+      "id": "evt_c4ea8530",
+      "title": "伊朗参加第十一届伊斯坦布尔国际阿拉伯语书展",
+      "summary": "德黑兰--第十一届伊斯坦布尔国际阿拉伯语书展于周日在伊斯坦布尔闭幕，来自包括伊朗在内的30多个国家的300多家出版商参加了此次书展。",
+      "date": "2026-08-23T17:22:09Z",
+      "url": "https://www.tehrantimes.com/news/529335/Iran-attends-11th-Istanbul-International-Arabic-Book-Fair",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529323/Hashminejad-Iran-has-endured-the-bitter-reality-of-terrorism"
+          "url": "https://www.tehrantimes.com/news/529335/Iran-attends-11th-Istanbul-International-Arabic-Book-Fair"
         }
       ],
       "category": "military",
@@ -597,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Hashminejad: Iran has endured the bitter reality of terrorism for decades"
+        "en": "Iran attends 11th Istanbul International Arabic Book Fair"
       }
     },
     {
-      "id": "evt_51309892",
-      "title": "国际人民大会：声援伊朗意味着对抗侵略者",
-      "summary": "德黑兰--8月20日，《卫报》发表了一封公开信，批评伊朗、美国和以色列对伊朗发动战争，批评人士称这是一个在道德上具有误导性的框架。",
-      "date": "2026-08-22T17:31:11Z",
-      "url": "https://www.tehrantimes.com/news/529320/International-Peoples-Assembly-Solidarity-with-Iran-means-confronting",
+      "id": "evt_e00e16ae",
+      "title": "以色列在约旦河西岸的暴力事件加剧后，在al-Auja附近发生刺伤事件",
+      "summary": "德黑兰--周日，一名以色列定居者在被占领的约旦河谷巴勒斯坦村庄al-Auja附近的一次刺伤行动中受轻伤。",
+      "date": "2026-08-23T17:20:42Z",
+      "url": "https://www.tehrantimes.com/news/529357/Stabbing-near-al-Auja-follows-deepening-Israeli-violence-across",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529320/International-Peoples-Assembly-Solidarity-with-Iran-means-confronting"
+          "url": "https://www.tehrantimes.com/news/529357/Stabbing-near-al-Auja-follows-deepening-Israeli-violence-across"
         }
       ],
       "category": "military",
@@ -625,7 +345,287 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "International Peoples’ Assembly: Solidarity with Iran means confronting the aggressor"
+        "en": "Stabbing near al-Auja follows deepening Israeli violence across West Bank"
+      }
+    },
+    {
+      "id": "evt_99e51239",
+      "title": "以色列再次用违禁白磷轰炸黎巴嫩村庄",
+      "summary": "德黑兰--周六晚上，以色列军队在黎巴嫩南部发动了大规模的炮击和空袭，用禁用的白磷弹药淹没了几个居民区。",
+      "date": "2026-08-23T17:20:09Z",
+      "url": "https://www.tehrantimes.com/news/529355/Once-again-Israel-bombs-populated-Lebanese-villages-with-prohibited",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529355/Once-again-Israel-bombs-populated-Lebanese-villages-with-prohibited"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Once again, Israel bombs populated Lebanese villages with prohibited white phosphorus"
+      }
+    },
+    {
+      "id": "evt_4232e5e0",
+      "title": "特朗普破坏美国外交和全球对美国的信任",
+      "summary": "德黑兰--从以谈判作为突然袭击的借口，到绑架和暗杀国家元首以及违背美国的承诺，包括他自己的承诺，特朗普对美国外交的损害在未来许多年都将显而易见。",
+      "date": "2026-08-23T17:19:27Z",
+      "url": "https://www.tehrantimes.com/news/529356/Trump-destroys-U-S-diplomacy-and-global-trust-in-America",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529356/Trump-destroys-U-S-diplomacy-and-global-trust-in-America"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump destroys U.S. diplomacy and global trust in America"
+      }
+    },
+    {
+      "id": "evt_646a0098",
+      "title": "美元的自杀笔记：华盛顿的金融傲慢如何摧毁自己的帝国",
+      "summary": "德黑兰--当美国财政部在8月20日宣布将增加对长期债券的回购时，金融界应该感到震惊。相反，市场的反应是唯一理性的：他们卖出美元。",
+      "date": "2026-08-23T17:18:50Z",
+      "url": "https://www.tehrantimes.com/news/529354/The-dollar-s-suicide-note-How-Washington-s-financial-arrogance",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529354/The-dollar-s-suicide-note-How-Washington-s-financial-arrogance"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The dollar's suicide note: How Washington's financial arrogance is destroying its own empire"
+      }
+    },
+    {
+      "id": "evt_06014390",
+      "title": "阿联酋仍然迷失在妄想中",
+      "summary": "Siasat-e-Rooz的社论专门讨论了阿联酋的地区行为。根据这篇文章，阿布扎比的行动表明，该国仍然坚持这样一种幻想，即美国和以色列的支持将保证其政治生存，并确保其在该地区发挥作用。",
+      "date": "2026-08-23T17:18:06Z",
+      "url": "https://www.tehrantimes.com/news/529352/UAE-remains-lost-in-its-delusions",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529352/UAE-remains-lost-in-its-delusions"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UAE remains lost in its delusions"
+      }
+    },
+    {
+      "id": "evt_1b9b4a43",
+      "title": "陆军元帅阿西姆·穆尼尔访问德黑兰，以促进地区和平",
+      "summary": "德黑兰--巴基斯坦国防军总司令赛义德·阿西姆·穆尼尔（ Syed Asim Munir ）陆军元帅将于周一前往德黑兰，率领一个高级别官方代表团进行旨在加强双边合作和推进地区安全的重要战略会谈。",
+      "date": "2026-08-23T17:16:48Z",
+      "url": "https://www.tehrantimes.com/news/529349/Field-Marshal-Asim-Munir-visiting-Tehran-to-bolster-regional",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529349/Field-Marshal-Asim-Munir-visiting-Tehran-to-bolster-regional"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Field Marshal Asim Munir visiting Tehran to bolster regional peace"
+      }
+    },
+    {
+      "id": "evt_b8fdc0cf",
+      "title": "伊朗核负责人称，美以空袭袭击了医疗和核设施",
+      "summary": "TEHRAN-伊朗原子能组织（ AEOI ）负责人穆罕默德·埃斯拉米（ Mohammad Eslami ）表示，过去一年，美国和以色列的军事打击不仅针对与伊朗核计划有关的设施，还针对全国患者使用的医疗和诊断材料的生产。",
+      "date": "2026-08-23T17:16:00Z",
+      "url": "https://www.tehrantimes.com/news/529361/US-Israeli-strikes-hit-medical-and-nuclear-facilities-Iran-nuclear",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529361/US-Israeli-strikes-hit-medical-and-nuclear-facilities-Iran-nuclear"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Israeli strikes hit medical and nuclear facilities, Iran nuclear chief says"
+      }
+    },
+    {
+      "id": "evt_aff1e8ba",
+      "title": "Araghchi表示，随着伊朗扩大区域外交，美国的施压策略已经失败",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）指责美国恢复了对德黑兰失败的经济和军事压力策略，同时强调伊朗与该地区国家为缓解紧张局势和加强双边关系而做出的平行外交努力。",
+      "date": "2026-08-23T17:13:31Z",
+      "url": "https://www.tehrantimes.com/news/529360/Araghchi-says-US-pressure-tactics-have-failed-as-Iran-expands",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529360/Araghchi-says-US-pressure-tactics-have-failed-as-Iran-expands"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Araghchi says US pressure tactics have failed as Iran expands regional diplomacy"
+      }
+    },
+    {
+      "id": "evt_f7568094",
+      "title": "德黑兰警告称，将伊朗外交官驱逐出巴黎可能会损害双边关系",
+      "summary": "TEHRAN-伊朗警告说，法国驱逐两名伊朗外交官可能会严重损害德黑兰和巴黎之间的关系，因为两国在指责外交干涉伊朗内政的情况下采取了互惠措施。",
+      "date": "2026-08-23T17:11:41Z",
+      "url": "https://www.tehrantimes.com/news/529359/Expulsion-of-Iranian-diplomats-from-Paris-could-damage-bilateral",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529359/Expulsion-of-Iranian-diplomats-from-Paris-could-damage-bilateral"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Expulsion of Iranian diplomats from Paris could damage bilateral ties, Tehran warns"
+      }
+    },
+    {
+      "id": "evt_86325cf2",
+      "title": "伊朗的韧性在“全面战争”中挫败了对手的计划： Pezeshkian",
+      "summary": "TEHRAN-伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）周日表示，伊朗的韧性和民族团结违背了人们对该国在持续的军事、经济和政治压力下崩溃的预期，他认为尽管发生了“全面的经济、军事和安全战争” ，德黑兰已经变得更加强大。",
+      "date": "2026-08-23T17:09:19Z",
+      "url": "https://www.tehrantimes.com/news/529358/Iran-s-resilience-has-foiled-adversaries-plans-amid-full-scale",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529358/Iran-s-resilience-has-foiled-adversaries-plans-amid-full-scale"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s resilience has foiled adversaries’ plans amid ‘full-scale war’: Pezeshkian"
+      }
+    },
+    {
+      "id": "evt_4ffe6c82",
+      "title": "伊朗转向进攻性姿态",
+      "summary": "德黑兰--新任命的伊朗最高国家安全委员会（ SNSC ）秘书穆赫森·雷扎伊（ Mohsen Rezaei ）少将周六警告说，伊朗伊斯兰共和国将果断回应任何加入华盛顿经济战的国家。",
+      "date": "2026-08-23T17:06:45Z",
+      "url": "https://www.tehrantimes.com/news/529353/Iran-shifts-to-offensive-posture",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529353/Iran-shifts-to-offensive-posture"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran shifts to offensive posture"
       }
     },
     {
