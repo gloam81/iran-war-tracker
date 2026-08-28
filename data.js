@@ -1,17 +1,241 @@
-// 自动生成的数据 - 更新时间: 2026-08-27T06:31:39.766841Z
+// 自动生成的数据 - 更新时间: 2026-08-28T08:22:10.416836Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-27T06:31:39.766780Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-08-28T08:22:10.416777Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 20,
+      "international": 17,
       "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
+    {
+      "id": "evt_e0553a35",
+      "title": "加沙的救生员手持哨子，竭尽全力拯救游泳者",
+      "summary": "随着巴勒斯坦人涌向海滩，短缺使加沙的救生员没有必要的救援设备。",
+      "date": "2026-08-28T06:45:10Z",
+      "url": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers"
+      }
+    },
+    {
+      "id": "evt_60247344",
+      "title": "六个月过去了，伊朗仍然屹立不倒，但生存成本越来越高",
+      "summary": "经济压力正在考验伊朗最弱的地方，并加剧了其领导层内部的分歧。",
+      "date": "2026-08-28T06:35:08Z",
+      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Six months on, Iran is still standing, but survival is becoming more costly"
+      }
+    },
+    {
+      "id": "evt_f936b71e",
+      "title": "达比尔：如果哪怕一个成员被拒绝签发美国签证，伊朗也会抵制世界",
+      "summary": "德黑兰-伊朗摔跤联合会主席阿利雷扎·达比尔（ Alireza Dabir ）警告说，如果国家队的一名成员被拒签，伊朗将退出即将在美国举行的UWW U23世界锦标赛。",
+      "date": "2026-08-28T06:32:54Z",
+      "url": "https://www.tehrantimes.com/news/529454/Dabir-Iran-to-boycott-worlds-if-even-one-member-is-denied-a",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529454/Dabir-Iran-to-boycott-worlds-if-even-one-member-is-denied-a"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Dabir: Iran to boycott worlds if even one member is denied a U.S. visa"
+      }
+    },
+    {
+      "id": "evt_55eb647f",
+      "title": "六个月后，特朗普的伊朗战略开始得到回报",
+      "summary": "美国没有赢得这场战争，但持续的压力正在削弱德黑兰，并让华盛顿拥有更强大的力量。",
+      "date": "2026-08-28T06:31:47Z",
+      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Six months on, Trump’s Iran strategy is starting to pay off"
+      }
+    },
+    {
+      "id": "evt_a6f9cb7e",
+      "title": "伊朗和美国之间长达六个月的战争让阿拉伯国家面临棘手的问题",
+      "summary": "伊朗战争正在陷入消耗，政权没有崩溃，海湾经济体面临越来越大的不确定性。",
+      "date": "2026-08-28T05:37:45Z",
+      "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Six months of war between Iran, US leave Arab states facing tough questions"
+      }
+    },
+    {
+      "id": "evt_4c04e16e",
+      "title": "前英以哈马斯人质在特拉维夫结婚",
+      "summary": "Emily Damari被关押了15个月，在由其他前人质参加的仪式上与伴侣Dani Amit结婚。",
+      "date": "2026-08-28T01:43:23Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Former British-Israeli Hamas hostage married in Tel Aviv"
+      }
+    },
+    {
+      "id": "evt_d0155800",
+      "title": "1953年8月19日：伊朗主权斗争的转折点",
+      "summary": "德黑兰--1953年8月19日，在伊朗现代史上仍然是一个关键且备受争议的日子。围绕推翻总理穆罕默德·摩萨德的事件以及随后的政治发展继续塑造伊朗对外国干预、国家主权和独立的看法。",
+      "date": "2026-08-27T21:45:00Z",
+      "url": "https://www.tehrantimes.com/news/529483/August-19-1953-A-turning-point-in-Iran-s-struggle-for-sovereignty",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529483/August-19-1953-A-turning-point-in-Iran-s-struggle-for-sovereignty"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "August 19, 1953: A turning point in Iran’s struggle for sovereignty"
+      }
+    },
+    {
+      "id": "evt_03e55f13",
+      "title": "和平委员会加沙特使批评以色列罢工和哈马斯行动",
+      "summary": "尼古拉·姆拉德诺夫（ Nickolay Mladenov ）警告说，去年10月停火的崩溃将成为该地区的“不归路”。",
+      "date": "2026-08-27T14:17:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions"
+      }
+    },
     {
       "id": "evt_b0543741",
       "title": "伊朗驻乌拉圭大使会见卡内洛内斯市长讨论扩大合作事宜",
@@ -41,118 +265,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_3fc80dae",
-      "title": "巴勒斯坦儿童在以色列拆除的威胁下重返学校",
-      "summary": "随着新学年的开始，约旦河西岸马萨费尔亚塔（ Masafer Yatta ）的儿童面临着学校可能无法继续上学的威胁。",
-      "date": "2026-08-27T06:01:17Z",
-      "url": "https://www.aljazeera.com/features/2026/8/27/palestinian-children-return-to-school-under-threat-of-israel-demolition?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/8/27/palestinian-children-return-to-school-under-threat-of-israel-demolition?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian children return to school under threat of Israel demolition"
-      }
-    },
-    {
-      "id": "evt_91e6774e",
-      "title": "沉没的船只引发了以色列对民兵暴力遗产的争论",
-      "summary": "Altalena残骸加剧了内塔尼亚胡-本-格维尔的竞争，每个人都声称是Irgun民兵的继承人。",
-      "date": "2026-08-27T06:00:18Z",
-      "url": "https://www.aljazeera.com/news/2026/8/27/sunken-ship-sparks-fight-on-israels-right-over-militias-violent-legacy?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/27/sunken-ship-sparks-fight-on-israels-right-over-militias-violent-legacy?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Sunken ship sparks fight on Israel’s right over militia’s violent legacy"
-      }
-    },
-    {
-      "id": "evt_a186bc72",
-      "title": "尽管美国推动外交努力，以色列仍在继续袭击叙利亚和黎巴嫩",
-      "summary": "以色列的炮击、空袭和入侵仍在继续，因为人们对美国结束罢工的承诺产生了越来越多的疑问。",
-      "date": "2026-08-27T04:25:44Z",
-      "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy"
-      }
-    },
-    {
-      "id": "evt_baff90e8",
-      "title": "巴基斯坦婴儿火灾受害者的父母要求答案的愤怒和悲伤",
-      "summary": "在伊斯兰堡医学科学研究所大火中丧生的14名婴儿的葬礼已经开始。",
-      "date": "2026-08-27T04:16:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/fury-and-grief-as-parents-of-pakistan-infant-fire-victims-demand-answers?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/fury-and-grief-as-parents-of-pakistan-infant-fire-victims-demand-answers?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Fury and grief as parents of Pakistan infant fire victims demand answers"
-      }
-    },
-    {
       "id": "evt_75c8fceb",
       "title": "从战争中重建希望：韩国的遗产战略为伊朗提供了重要的经验教训",
       "summary": "TEHRAN -历史古迹不仅仅是一个国家身份的象征；它们也证明了该国对历史变迁和过去经历的叙述者的复原力。尽管近年来，特别是在两次世界大战之后，历史遗迹已成为国际保护的保护伞，使交战各方有义务在彼此的领土上保护这些遗址，但战争的固有破坏性",
@@ -178,62 +290,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Rebuilding Hope from War: South Korea's Heritage Strategy Offers Iran Key Lessons"
-      }
-    },
-    {
-      "id": "evt_00521a61",
-      "title": "卡塔尔总理访问德黑兰，寻求重启美伊会谈",
-      "summary": "谢赫·穆罕默德（ Sheikh Mohammed ）的访问恰逢美国-以色列对伊朗的战争接近第六个月，看不到任何外交突破。",
-      "date": "2026-08-27T02:54:04Z",
-      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks"
-      }
-    },
-    {
-      "id": "evt_072ba925",
-      "title": "美国将巴勒斯坦行动标记为恐怖组织，创始人说“这很有钱”",
-      "summary": "巴勒斯坦行动联合创始人Huda Ammori告诉半岛电视台，美国制裁将该组织指定为恐怖组织。",
-      "date": "2026-08-27T02:07:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US labels Palestine Action a terror group, founder says ‘that’s rich’"
       }
     },
     {
@@ -489,62 +545,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_7bdce59d",
-      "title": "佩泽什基安总统：美国经济压力仍将徒劳",
-      "summary": "德黑兰—总统马苏德·佩泽什基安（ Masoud Pezeshkian ）宣布，美国将无法通过经济压力实现其目标，并强调伊朗将继续坚定不移地抵抗。",
-      "date": "2026-08-26T17:41:47Z",
-      "url": "https://www.tehrantimes.com/news/529461/President-Pezeshkian-US-economic-pressure-will-remain-futile",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529461/President-Pezeshkian-US-economic-pressure-will-remain-futile"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "President Pezeshkian: US economic pressure will remain futile"
-      }
-    },
-    {
-      "id": "evt_d588ea5c",
-      "title": "伊朗敦促联合国成员国拒绝美国制裁并谴责海上压力",
-      "summary": "TEHRAN-伊朗敦促所有国家拒绝美国单方面制裁的“域外适用” ，认为华盛顿正在寻求向主权国家施加压力，使其经济利益和外交政策服从美国的要求。",
-      "date": "2026-08-26T17:41:01Z",
-      "url": "https://www.tehrantimes.com/news/529474/Iran-urges-UN-states-to-reject-US-sanctions-and-condemns-maritime",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529474/Iran-urges-UN-states-to-reject-US-sanctions-and-condemns-maritime"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran urges UN states to reject US sanctions and condemns maritime pressure"
-      }
-    },
-    {
       "id": "evt_ffa74973",
       "title": "以色列在东耶路撒冷夺取近东救济工程处培训学院受到谴责",
       "summary": "这标志着在以色列通过一项反对巴勒斯坦难民机构的法律后，该机构在该市的最后一个设施被关闭。",
@@ -654,34 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?"
-      }
-    },
-    {
-      "id": "evt_7d75f203",
-      "title": "医务人员说，以色列的袭击在加沙造成五人死亡，其中包括两名儿童",
-      "summary": "据医务人员和亲属称，周一的以色列罢工造成一名4岁男孩死亡，而一名10岁女孩在帐篷内被子弹击中。",
-      "date": "2026-08-25T14:07:50Z",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli attacks kill five in Gaza, including two children, medics say"
       }
     },
     {
@@ -825,34 +797,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_9a178bfc",
-      "title": "以色列警告对从加沙飞来的风筝作出“强有力”的反应",
-      "summary": "哈马斯说，最近几天在以色列边境社区发现的风筝是由加沙的儿童发射的。",
-      "date": "2026-08-24T13:56:22Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel warns of 'forceful' response to kites flown from Gaza"
-      }
-    },
-    {
       "id": "evt_b883c857",
       "title": "以色列如何扩大定居点，重塑约旦河西岸",
       "summary": "近年来，以色列占领的巴勒斯坦土地上的建筑和道路建设大幅增加。",
@@ -906,34 +850,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Families' agonising search for answers as thousands still missing in Gaza"
-      }
-    },
-    {
-      "id": "evt_09d7a914",
-      "title": "内塔尼亚胡拒绝特朗普的15点加沙计划不太可能成为最终决定",
-      "summary": "据说特朗普政府对以色列总理拒绝该协议感到不安，认为这是大选前的竞选言论。",
-      "date": "2026-08-10T14:43:08Z",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word"
       }
     }
   ]
