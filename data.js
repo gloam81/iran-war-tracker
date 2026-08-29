@@ -1,28 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-08-28T08:22:10.416836Z
+// 自动生成的数据 - 更新时间: 2026-08-29T05:02:46.510668Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-28T08:22:10.416777Z",
-    "totalEvents": 30,
+    "lastUpdate": "2026-08-29T05:02:46.510606Z",
+    "totalEvents": 27,
     "sources": {
-      "international": 17,
-      "iranian": 13,
+      "international": 15,
+      "iranian": 12,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_e0553a35",
-      "title": "加沙的救生员手持哨子，竭尽全力拯救游泳者",
-      "summary": "随着巴勒斯坦人涌向海滩，短缺使加沙的救生员没有必要的救援设备。",
-      "date": "2026-08-28T06:45:10Z",
-      "url": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss",
+      "id": "evt_505f0dcb",
+      "title": "和平委员会姆拉德诺夫警告加沙可能“永远消失”",
+      "summary": "美国领导的和平委员会的高级特使表示，如果不进行重建，加沙就有可能“永远消失”。",
+      "date": "2026-08-29T00:53:56Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers"
+        "en": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’"
       }
     },
     {
-      "id": "evt_60247344",
-      "title": "六个月过去了，伊朗仍然屹立不倒，但生存成本越来越高",
-      "summary": "经济压力正在考验伊朗最弱的地方，并加剧了其领导层内部的分歧。",
-      "date": "2026-08-28T06:35:08Z",
-      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss",
+      "id": "evt_b37a2aed",
+      "title": "伊朗战争现场：伊斯兰革命卫队主张海峡控制，美国实施封锁",
+      "summary": "伊朗伊斯兰革命卫队声称对霍尔木兹海峡拥有决定性的控制权，因为美国维持其海上封锁。",
+      "date": "2026-08-29T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +65,259 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Six months on, Iran is still standing, but survival is becoming more costly"
+        "en": "Iran war live: IRGC asserts strait control, US enforces blockade"
+      }
+    },
+    {
+      "id": "evt_2db6d965",
+      "title": "英国广播公司告诉记者，美国计划切断对中东主要盟友的军事援助",
+      "summary": "伊拉克库尔德斯坦担心特朗普政府的计划将使该地区更容易受到伊朗的进一步袭击。",
+      "date": "2026-08-28T19:45:39Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US plans to cut off military aid to key Middle East ally, BBC told"
+      }
+    },
+    {
+      "id": "evt_3c4919aa",
+      "title": "伊朗领导人：禁止任何破坏社会凝聚力的行为",
+      "summary": "TEHRAN -伊朗领导人阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）强调了维护民族团结和社会凝聚力的重要性，并表示禁止任何破坏社会凝聚力的行为或言论。",
+      "date": "2026-08-28T17:53:54Z",
+      "url": "https://www.tehrantimes.com/news/529491/Iran-s-Leader-Any-action-undermining-social-cohesion-is-prohibited",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529491/Iran-s-Leader-Any-action-undermining-social-cohesion-is-prohibited"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s Leader: Any action undermining social cohesion is prohibited"
+      }
+    },
+    {
+      "id": "evt_bfe07685",
+      "title": "伊朗在2026年AVC女子亚洲大陆锦标赛中击败印度尼西亚",
+      "summary": "德黑兰–伊朗周五在2026年AVC女子亚洲大陆锦标赛四分之一决赛中以3比1 （ 19-25、25-16、25-12、25-17 ）击败印度尼西亚。",
+      "date": "2026-08-28T17:44:01Z",
+      "url": "https://www.tehrantimes.com/news/529490/Iran-defeat-Indonesia-2026-AVC-Women-Asian-Continental-Championship",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529490/Iran-defeat-Indonesia-2026-AVC-Women-Asian-Continental-Championship"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran defeat Indonesia in 2026 AVC Women Asian Continental Championship"
+      }
+    },
+    {
+      "id": "evt_6e030a7d",
+      "title": "伊朗将在2026年对阵法国国际排联U17世界锦标赛决赛",
+      "summary": "德黑兰–周五，伊朗在2026年国际排联男子排球U17世界锦标赛半决赛中连续几盘（ 25-19、29–27、25–13 ）击败阿根廷。",
+      "date": "2026-08-28T17:08:44Z",
+      "url": "https://www.tehrantimes.com/news/529489/Iran-to-face-France-in-2026-FIVB-U17-World-Championship-final",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529489/Iran-to-face-France-in-2026-FIVB-U17-World-Championship-final"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran to face France in 2026 FIVB U17 World Championship final"
+      }
+    },
+    {
+      "id": "evt_60e198b4",
+      "title": "伊朗在2027年FIBA世界杯亚洲预选赛中输给新西兰",
+      "summary": "德黑兰–伊朗周五在菲律宾马尼亚SM亚洲购物中心竞技场的2027年世界杯亚洲预选赛加时赛中以93-91输给新西兰。",
+      "date": "2026-08-28T16:55:17Z",
+      "url": "https://www.tehrantimes.com/news/529488/Iran-lose-to-New-Zealand-in-FIBA-World-Cup-2027-Asian-qualifier",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529488/Iran-lose-to-New-Zealand-in-FIBA-World-Cup-2027-Asian-qualifier"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran lose to New Zealand in FIBA World Cup 2027 Asian qualifier"
+      }
+    },
+    {
+      "id": "evt_09368585",
+      "title": "英国广播公司追踪被占领的约旦河西岸一周的以色列定居者暴力事件",
+      "summary": "英国广播公司的露西·威廉姆森（ Lucy Williamson ）报道了定居者对巴勒斯坦人的袭击，仅在上周就观察到了这些袭击。",
+      "date": "2026-08-28T14:06:13Z",
+      "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BBC tracks one week of Israeli settler violence in occupied West Bank"
+      }
+    },
+    {
+      "id": "evt_d8f8aba0",
+      "title": "伊朗继续向客户交付石油：石油部长",
+      "summary": "TEHRAN -石油部长表示，在伊朗领海以外和远洋水域销售原油以及向客户交付原油的过程仍在进行中。",
+      "date": "2026-08-28T13:38:11Z",
+      "url": "https://www.tehrantimes.com/news/529487/Iran-s-oil-delivery-to-customers-continues-oil-minister",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529487/Iran-s-oil-delivery-to-customers-continues-oil-minister"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's oil delivery to customers continues: oil minister"
+      }
+    },
+    {
+      "id": "evt_11769d0b",
+      "title": "新的碳氢化合物储量发现展示了石油工业不可阻挡的性质",
+      "summary": "TEHRAN -议会能源委员会的一名成员表示，发现新的碳氢化合物储量表明，即使在战时条件下，石油工业的发展也没有停止。",
+      "date": "2026-08-28T13:36:36Z",
+      "url": "https://www.tehrantimes.com/news/529486/New-hydrocarbon-reserves-discovery-demonstrates-unstoppable-nature",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529486/New-hydrocarbon-reserves-discovery-demonstrates-unstoppable-nature"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "New hydrocarbon reserves discovery demonstrates unstoppable nature of oil industry’"
+      }
+    },
+    {
+      "id": "evt_0886a10c",
+      "title": "ICCIMA负责人，德国大使讨论改善伊朗与德国关系水平的方法",
+      "summary": "TEHRAN -伊朗商会、工业、矿业和农业（ ICCIMA ）负责人Samad Hassanzadeh在与德国驻德黑兰大使阿克塞尔·迪特曼（ Axel Dittmann ）的会晤中表示： “伊朗商会正在发展贸易和技术转让的道路上前进，并正在努力在联合商会的帮助下增加伊朗的国际关系。”",
+      "date": "2026-08-28T13:34:09Z",
+      "url": "https://www.tehrantimes.com/news/529485/ICCIMA-head-German-ambassador-discuss-ways-to-improve-Iran-Germany",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529485/ICCIMA-head-German-ambassador-discuss-ways-to-improve-Iran-Germany"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "ICCIMA head, German ambassador discuss ways to improve Iran-Germany level of relations"
       }
     },
     {
@@ -97,65 +349,9 @@ const siteData = {
       }
     },
     {
-      "id": "evt_55eb647f",
-      "title": "六个月后，特朗普的伊朗战略开始得到回报",
-      "summary": "美国没有赢得这场战争，但持续的压力正在削弱德黑兰，并让华盛顿拥有更强大的力量。",
-      "date": "2026-08-28T06:31:47Z",
-      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Six months on, Trump’s Iran strategy is starting to pay off"
-      }
-    },
-    {
-      "id": "evt_a6f9cb7e",
-      "title": "伊朗和美国之间长达六个月的战争让阿拉伯国家面临棘手的问题",
-      "summary": "伊朗战争正在陷入消耗，政权没有崩溃，海湾经济体面临越来越大的不确定性。",
-      "date": "2026-08-28T05:37:45Z",
-      "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Six months of war between Iran, US leave Arab states facing tough questions"
-      }
-    },
-    {
       "id": "evt_4c04e16e",
       "title": "前英以哈马斯人质在特拉维夫结婚",
-      "summary": "Emily Damari被关押了15个月，在由其他前人质参加的仪式上与伴侣Dani Amit结婚。",
+      "summary": "Damari被关押了15个月，在由其他前人质参加的仪式上与伴侣Dani Amit结婚。",
       "date": "2026-08-28T01:43:23Z",
       "url": "https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -318,230 +514,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Electricity generation capacity to exceed 110,000 MW by next March"
-      }
-    },
-    {
-      "id": "evt_fce9594c",
-      "title": "小型家用可再生能源发电厂将进行扩建",
-      "summary": "德黑兰--伊朗能源部长阿巴斯·阿里阿巴迪（ Abbas Aliabadi ）宣布，可再生能源的开发将越来越多地关注家庭和小型设施，强调清洁能源相对于化石燃料的环境优势。",
-      "date": "2026-08-26T18:08:04Z",
-      "url": "https://www.tehrantimes.com/news/529478/Small-scale-household-renewable-power-plants-to-be-expanded",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529478/Small-scale-household-renewable-power-plants-to-be-expanded"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Small-scale, household renewable power plants to be expanded"
-      }
-    },
-    {
-      "id": "evt_aa7bb8ac",
-      "title": "应对经济压力，在政府议程上支持民生",
-      "summary": "TEHRAN -经济事务和财政部长表示，当前问题的很大一部分可以追溯到战前状况，尽管今天的经济问题不能过于简单化，也不能用“二加二等于四”的逻辑进行分析。他说： “例如，他们曾试图阻止药物进入该国。我们最终找到了替代路线，但很自然，在此期间，药品价格上涨了。”",
-      "date": "2026-08-26T18:04:21Z",
-      "url": "https://www.tehrantimes.com/news/529477/Confronting-economic-pressures-supporting-people-s-livelihood",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529477/Confronting-economic-pressures-supporting-people-s-livelihood"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Confronting economic pressures, supporting people’s livelihood on government’s agenda"
-      }
-    },
-    {
-      "id": "evt_ac4915e0",
-      "title": "凭借40万亿美元的债务，华盛顿在监管伊朗经济方面是否有任何可信度？",
-      "summary": "TEHRAN -美国刚刚跨过了一个奇怪的里程碑：其国债已激增至创纪录的40万亿美元（ $ ）。这不仅仅是一个数字；这是系统性腐烂的忏悔。",
-      "date": "2026-08-26T18:00:05Z",
-      "url": "https://www.tehrantimes.com/news/529476/With-40-trillion-in-debt-does-Washington-have-any-credibility",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529476/With-40-trillion-in-debt-does-Washington-have-any-credibility"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "With $40 trillion in debt, does Washington have any credibility to police Iran’s economy?"
-      }
-    },
-    {
-      "id": "evt_9efa4921",
-      "title": "正在德黑兰举办的“慈悲叙事”艺术活动",
-      "summary": "TEHRAN - “仁慈的叙事” （ “Revayat-e Rahmat” ）艺术活动正在德黑兰的城市剧院大楼举行，作为伊斯兰团结周庆祝活动的一部分，该活动由音乐、戏剧和传统艺术领域的艺术家表演。",
-      "date": "2026-08-26T17:44:22Z",
-      "url": "https://www.tehrantimes.com/news/529455/Narrative-of-Mercy-art-event-underway-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529455/Narrative-of-Mercy-art-event-underway-in-Tehran"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Narrative of Mercy” art event underway in Tehran"
-      }
-    },
-    {
-      "id": "evt_76912390",
-      "title": "法国木偶演员Philippe Genty将在德黑兰-莫巴拉克国际木偶戏剧节举办演出",
-      "summary": "德黑兰--由著名的法国木偶演员Philippe Genty和他的助手Eric Lambla de Sarria教授的专业课程“A Stage for a Dream”将于周五在德黑兰城市剧院大楼举行，作为第21届德黑兰-莫巴拉克国际木偶戏剧节的一部分。",
-      "date": "2026-08-26T17:43:51Z",
-      "url": "https://www.tehrantimes.com/news/529459/French-puppeteer-Philippe-Genty-to-hold-session-at-Tehran-Mobarak",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529459/French-puppeteer-Philippe-Genty-to-hold-session-at-Tehran-Mobarak"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "French puppeteer Philippe Genty to hold session at Tehran-Mobarak Intl. Puppet Theater Festival"
-      }
-    },
-    {
-      "id": "evt_4595ba00",
-      "title": "巴勒斯坦艺术的标志性声音Sliman Mansour去世，享年79岁",
-      "summary": "巴勒斯坦画家斯利曼·曼苏尔（ Sliman Mansour ）的作品与巴勒斯坦的土地、遗产和集体记忆密切相关，据他的家人称，他在周一长期患病后去世。他79岁。",
-      "date": "2026-08-26T17:43:24Z",
-      "url": "https://www.tehrantimes.com/news/529456/Sliman-Mansour-iconic-voice-of-Palestinian-art-passes-away",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529456/Sliman-Mansour-iconic-voice-of-Palestinian-art-passes-away"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Sliman Mansour, iconic voice of Palestinian art, passes away at 79"
-      }
-    },
-    {
-      "id": "evt_7bbf1cc5",
-      "title": "美国无法解除伊朗对霍尔木海峡的控制",
-      "summary": "伊朗报纸在一份分析报告中强调了伊朗控制霍尔木兹海峡的能力。它写道，当特朗普威胁伊朗说他将把霍尔木兹海峡变成美国领土时，他的政府基本上是在寻求恢复该海峡作为全球石油运输的自由国际通道。",
-      "date": "2026-08-26T17:42:47Z",
-      "url": "https://www.tehrantimes.com/news/529460/The-US-cannot-remove-Iran-s-control-over-the-Strait-of-Hormu",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529460/The-US-cannot-remove-Iran-s-control-over-the-Strait-of-Hormu"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The US cannot remove Iran’s control over the Strait of Hormu"
-      }
-    },
-    {
-      "id": "evt_c5e91fdd",
-      "title": "美国在伊朗的六个月误判",
-      "summary": "德黑兰--在华盛顿对伊朗发动一场无端和鲁莽的战争六个月后，美国战略盲目的程度已经暴露无遗，让全世界都能看到。",
-      "date": "2026-08-26T17:42:21Z",
-      "url": "https://www.tehrantimes.com/news/529462/Six-months-of-US-miscalculations-in-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529462/Six-months-of-US-miscalculations-in-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Six months of US miscalculations in Iran"
       }
     },
     {
@@ -769,34 +741,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e8b7e46b",
-      "title": "叙利亚法院判处阿萨德时代的大穆夫提终身监禁",
-      "summary": "Ahmed Hassoun被判犯有煽动内战和共谋故意杀人等罪行。",
-      "date": "2026-08-24T20:10:28Z",
-      "url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria court sentences Assad-era grand mufti to life in prison"
-      }
-    },
-    {
       "id": "evt_b883c857",
       "title": "以色列如何扩大定居点，重塑约旦河西岸",
       "summary": "近年来，以色列占领的巴勒斯坦土地上的建筑和道路建设大幅增加。",
@@ -822,34 +766,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "How Israel is expanding settlements in drive to reshape West Bank"
-      }
-    },
-    {
-      "id": "evt_7e4fa408",
-      "title": "由于加沙仍有数千人失踪，家人痛苦地寻找答案",
-      "summary": "在宣布停火十个月后，加沙仍有数千名巴勒斯坦人据报失踪。",
-      "date": "2026-08-19T05:04:00Z",
-      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Families' agonising search for answers as thousands still missing in Gaza"
       }
     }
   ]
