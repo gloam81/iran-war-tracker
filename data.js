@@ -1,35 +1,35 @@
-// 自动生成的数据 - 更新时间: 2026-08-29T05:02:46.510668Z
+// 自动生成的数据 - 更新时间: 2026-08-30T02:52:40.233571Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-29T05:02:46.510606Z",
-    "totalEvents": 27,
+    "lastUpdate": "2026-08-30T02:52:40.233505Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 15,
-      "iranian": 12,
+      "international": 17,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_505f0dcb",
-      "title": "和平委员会姆拉德诺夫警告加沙可能“永远消失”",
-      "summary": "美国领导的和平委员会的高级特使表示，如果不进行重建，加沙就有可能“永远消失”。",
-      "date": "2026-08-29T00:53:56Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+      "id": "evt_4233e9a4",
+      "title": "伊朗战争现场：德黑兰不急于重新开放霍尔木兹；定居者围攻库斯拉",
+      "summary": "伊朗外交部副部长表示，伊朗军队“全面监督”海峡的行动。",
+      "date": "2026-08-30T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’"
+        "en": "Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra"
       }
     },
     {
-      "id": "evt_b37a2aed",
-      "title": "伊朗战争现场：伊斯兰革命卫队主张海峡控制，美国实施封锁",
-      "summary": "伊朗伊斯兰革命卫队声称对霍尔木兹海峡拥有决定性的控制权，因为美国维持其海上封锁。",
-      "date": "2026-08-29T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+      "id": "evt_07d85a77",
+      "title": "以色列定居者袭击被占领的约旦河西岸的国际新闻团队",
+      "summary": "为美国全国广播公司工作的新闻团队和一名巴勒斯坦妇女在蒙面以色列定居者的袭击中受伤",
+      "date": "2026-08-29T23:48:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -65,7 +65,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: IRGC asserts strait control, US enforces blockade"
+        "en": "Israeli settlers attack international news team in occupied West Bank"
+      }
+    },
+    {
+      "id": "evt_f6d34e45",
+      "title": "大马士革上空的壮观烟花： “叙利亚再次闪耀”",
+      "summary": "镜头显示，当叙利亚首都举办大马士革国际博览会时，烟花点燃了大马士革。",
+      "date": "2026-08-29T23:34:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Spectacular fireworks over Damascus as ‘Syria Shines Again’"
+      }
+    },
+    {
+      "id": "evt_ab4350a9",
+      "title": "随着以色列罢工的继续，加沙的抗癌药用完了",
+      "summary": "加沙阿克萨烈士医院的官员说，随着以色列罢工的继续，抗癌药物已经完全用完。",
+      "date": "2026-08-29T20:07:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza runs out of cancer medicines, as Israeli strikes continue"
+      }
+    },
+    {
+      "id": "evt_0033b94c",
+      "title": "伊朗加冕2026年国际排联U17世界锦标赛冠军",
+      "summary": "德黑兰–周六，伊朗以3比1 （ 25-18、25-15、22-25、25-12 ）击败法国队，赢得2026年国际排联U17世界锦标赛冠军。",
+      "date": "2026-08-29T16:19:05Z",
+      "url": "https://www.tehrantimes.com/news/529493/Iran-crowned-champions-of-2026-FIVB-U17-World-Championship",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529493/Iran-crowned-champions-of-2026-FIVB-U17-World-Championship"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran crowned champions of 2026 FIVB U17 World Championship"
+      }
+    },
+    {
+      "id": "evt_0cc0fddb",
+      "title": "巴基斯坦称陆军参谋长最近访问伊朗为特朗普特使“事实不正确”",
+      "summary": "巴基斯坦外交部发言人塔希尔·安德拉比（ Tahir Andrabi ）周四驳斥了国防军总司令阿西姆·穆尼尔（ Asim Munir ）最近作为美国特使或唐纳德·特朗普总统访问伊朗的说法，称军事总司令的访问是巴基斯坦作为华盛顿和德黑兰之间调解人的持续角色的一部分。",
+      "date": "2026-08-29T14:32:09Z",
+      "url": "https://www.tehrantimes.com/news/529492/Pakistan-calls-claims-army-chief-recently-visited-Iran-as-Trump",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529492/Pakistan-calls-claims-army-chief-recently-visited-Iran-as-Trump"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan calls claims army chief recently visited Iran as Trump envoy ‘factually incorrect’"
       }
     },
     {
@@ -486,34 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Rebuilding Hope from War: South Korea's Heritage Strategy Offers Iran Key Lessons"
-      }
-    },
-    {
-      "id": "evt_cf15c708",
-      "title": "到明年3月，发电能力将超过11万兆瓦",
-      "summary": "TEHRAN -伊朗能源部长Abbas Aliabadi宣布，该国的发电能力非常大，预计到本伊朗年末（ 2027年3月20日）将超过110,000兆瓦，同时也在广泛扩建可再生能源发电厂。",
-      "date": "2026-08-26T18:14:26Z",
-      "url": "https://www.tehrantimes.com/news/529479/Electricity-generation-capacity-to-exceed-110-000-MW-by-next",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529479/Electricity-generation-capacity-to-exceed-110-000-MW-by-next"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Electricity generation capacity to exceed 110,000 MW by next March"
       }
     },
     {
