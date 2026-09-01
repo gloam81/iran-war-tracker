@@ -1,35 +1,35 @@
-// 自动生成的数据 - 更新时间: 2026-08-31T02:45:54.406139Z
+// 自动生成的数据 - 更新时间: 2026-09-01T02:57:28.666216Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-08-31T02:45:54.406082Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-09-01T02:57:28.666164Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 19,
-      "iranian": 13,
+      "international": 17,
+      "iranian": 14,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_ee7ba6db",
-      "title": "美国计划制裁另一家银行以保持对伊朗的经济压力",
-      "summary": "在停火谈判陷入僵局之际，华盛顿最近加大了向德黑兰施加经济压力的力度。",
-      "date": "2026-08-31T02:08:46Z",
-      "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+      "id": "evt_83d7b7c4",
+      "title": "纽约警察在时代广场杀死持刀妇女",
+      "summary": "一名女子在纽约时代广场被警察开枪打死。警方称她手持刀具。",
+      "date": "2026-09-01T01:19:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US plans to sanction another bank to keep economic pressure on Iran"
+        "en": "New York police kill knife-wielding woman in Times Square"
       }
     },
     {
-      "id": "evt_d9e0784f",
-      "title": "伊朗战争现场：伊斯兰革命卫队在美国轰炸拉腊克岛后袭击约旦的美军基地",
-      "summary": "美国中央司令部说，其部队轰炸了伊斯兰革命卫队在拉腊克岛的两个火箭发射器。",
-      "date": "2026-08-31T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "id": "evt_8ba4831e",
+      "title": "伊朗战争现场：特朗普誓言在月内首次冲突后“严厉”打击伊朗",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，美国将对伊朗对其驻约旦人员的袭击做出回应。",
+      "date": "2026-09-01T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island"
+        "en": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month"
       }
     },
     {
-      "id": "evt_93817012",
-      "title": "以色列罢工导致加沙3岁儿童死亡",
-      "summary": "以色列对代尔拜拉的致命袭击造成两名巴勒斯坦人死亡，其中包括一名3岁儿童。",
-      "date": "2026-08-30T21:02:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "id": "evt_5010b177",
+      "title": "耶路撒冷日报：记者遭到袭击",
+      "summary": "以色列大屠杀的目标是被占领的约旦河西岸的巴勒斯坦人和NBC工作人员。",
+      "date": "2026-08-31T22:16:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli strike kills 3-year-old child in Gaza"
+        "en": "JERUSALEM DAILY: JOURNALISTS ATTACKED"
       }
     },
     {
-      "id": "evt_4c12c410",
-      "title": "何塞·安德烈斯再次呼吁调查WCK加沙工作人员遇害事件",
-      "summary": "World Central Kitchen创始人何塞·安德烈斯（ José Andrés ）再次呼吁对以色列的罢工进行独立调查。",
-      "date": "2026-08-30T20:50:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+      "id": "evt_56bcb128",
+      "title": "随着巴勒斯坦房屋被拆除，以色列前哨基地扩大",
+      "summary": "以色列军队拆毁了纳布卢斯的巴勒斯坦房屋，而在希伯伦的定居者则清理了土地，准备建造一个新的前哨。",
+      "date": "2026-08-31T20:48:36Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,27 +121,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Jose Andres renews call for investigation into WCK Gaza staff killings"
+        "en": "Israeli outposts expand as Palestinian homes are demolished"
       }
     },
     {
-      "id": "evt_ef1a10a6",
-      "title": "“开启新篇章” ：叙利亚在会谈后重启驻利比亚大使馆",
-      "summary": "叙利亚外交部长和利比亚总理同意成立合作委员会并重新开放外交使团。",
-      "date": "2026-08-30T20:38:56Z",
-      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+      "id": "evt_9e02744b",
+      "title": "内莉·布莱（ Nellie Bly ）的《疯人院十天》（ Ten Days in a Mad-House ）以波",
+      "summary": "德黑兰--美国记者内莉·布莱（ Nellie Bly ）的《疯人院十天》（ Ten Days in a Mad-House ）一书的波斯语译本已在伊朗各地的书店发行。",
+      "date": "2026-08-31T17:51:44Z",
+      "url": "https://www.tehrantimes.com/news/529557/Nellie-Bly-s-Ten-Days-in-a-Mad-House-published-in-Persian",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529557/Nellie-Bly-s-Ten-Days-in-a-Mad-House-published-in-Persian"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -149,20 +149,216 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks"
+        "en": "Nellie Bly’s “Ten Days in a Mad-House” published in Persian"
       }
     },
     {
-      "id": "evt_bd5f27b8",
-      "title": "美国袭击拉腊克岛后，伊朗袭击了约旦的美军基地",
-      "summary": "这次袭击是自7月下旬以来双方首次爆发暴力冲突。",
-      "date": "2026-08-30T20:15:47Z",
-      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+      "id": "evt_a92a12ad",
+      "title": "伊朗画家创作纪念先知穆罕默德（ PBUH ）生日的新作品",
+      "summary": "TEHRAN-伊朗画家阿里·巴雷尼（ Ali Bahreini ）创作了两幅新的画作，纪念先知穆罕默德（ PBUH ）诞辰周年，这些画作借鉴了与先知的生活和精神遗产相关的情节和主题。",
+      "date": "2026-08-31T17:51:29Z",
+      "url": "https://www.tehrantimes.com/news/529538/Iranian-painter-creates-new-works-marking-Prophet-Mohammad-s",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529538/Iranian-painter-creates-new-works-marking-Prophet-Mohammad-s"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian painter creates new works marking Prophet Mohammad’s (PBUH) birthday"
+      }
+    },
+    {
+      "id": "evt_b58f5935",
+      "title": "捐赠给Shah Abdol-Azim博物馆的阿舒拉节风格镶嵌作品",
+      "summary": "TEHRAN -伊朗镶嵌艺术家哈米德·阿斯加里安（ Hamed Asgarian ）将他的概念艺术作品“上帝之血” （ Blood of God ）捐赠给了位于雷伊的Shah Abdol-Azim al-Hasani （ AS ）圣殿博物馆。",
+      "date": "2026-08-31T17:50:49Z",
+      "url": "https://www.tehrantimes.com/news/529535/Ashura-inspired-marquetry-work-donated-to-Shah-Abdol-Azim-Museum",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529535/Ashura-inspired-marquetry-work-donated-to-Shah-Abdol-Azim-Museum"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ashura-inspired marquetry work donated to Shah Abdol-Azim Museum"
+      }
+    },
+    {
+      "id": "evt_8e042748",
+      "title": "伊朗专题片《沉睡》将在第31届釜山国际电影节亚洲展区首映",
+      "summary": "德黑兰--第31届釜山国际电影节（ BIFF ）推出了其亚洲视野部分的11部电影，其中包括一部来自伊朗的电影。",
+      "date": "2026-08-31T17:50:11Z",
+      "url": "https://www.tehrantimes.com/news/529558/Iranian-feature-Slumber-to-premiere-at-Vision-Asia-section",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529558/Iranian-feature-Slumber-to-premiere-at-Vision-Asia-section"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian feature “Slumber” to premiere at Vision Asia section of 31st Busan Intl. Film Festival"
+      }
+    },
+    {
+      "id": "evt_e4d38607",
+      "title": "以色列定居者纵火和军事围困摧毁约旦河西岸城镇",
+      "summary": "德黑兰--在被占领的约旦河西岸，纵火、没收土地和军事袭击的协调行动正在加速。巴勒斯坦人权组织的文件显示，以色列及其武装定居者民兵正在系统地将巴勒斯坦社区从其祖先的领土上清除出去。",
+      "date": "2026-08-31T17:49:37Z",
+      "url": "https://www.tehrantimes.com/news/529569/Israeli-settler-arson-and-military-sieges-devastate-West-Bank",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529569/Israeli-settler-arson-and-military-sieges-devastate-West-Bank"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli settler arson and military sieges devastate West Bank towns"
+      }
+    },
+    {
+      "id": "evt_0110c705",
+      "title": "Naftali Bennett ：以色列以“婴儿杀手”闻名，意大利以意大利面闻名",
+      "summary": "德黑兰--纳夫塔利·贝内特（ Naftali Bennett ）承认以色列在年轻美国人中的声誉崩溃。在最近对Itai Segal的采访中，这位以色列前总理承认，在美国青年中，以色列是种族灭绝的代名词。",
+      "date": "2026-08-31T17:49:19Z",
+      "url": "https://www.tehrantimes.com/news/529567/Naftali-Bennett-Israel-is-known-for-baby-killers-just-as-Italy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529567/Naftali-Bennett-Israel-is-known-for-baby-killers-just-as-Italy"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Naftali Bennett: Israel is known for ‘baby killers’ just as Italy for pasta"
+      }
+    },
+    {
+      "id": "evt_58dd5377",
+      "title": "以色列在加沙的暗杀为何以及如何加剧",
+      "summary": "德黑兰--过去十个月，以色列在加沙地带的暗杀事件几乎没有停止。它们是在似乎是事先准备好的措施中定期和系统地进行的。",
+      "date": "2026-08-31T17:48:28Z",
+      "url": "https://www.tehrantimes.com/news/529568/Why-and-how-Israeli-assassinations-in-Gaza-intensify",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529568/Why-and-how-Israeli-assassinations-in-Gaza-intensify"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why and how Israeli assassinations in Gaza intensify"
+      }
+    },
+    {
+      "id": "evt_e3129516",
+      "title": "约旦与华盛顿联盟的国内成本",
+      "summary": "德黑兰--2026年7月下旬，在美国和以色列对伊朗的战争以及美国在约旦的利益日益受到攻击之际， 200多名约旦政治、文化、学术、部落和退役军人向政府发出了一封公开信。他们呼吁外国军队撤出约旦领土，取消或审查与美国的安全和军事协议，并向议会提交该协议。",
+      "date": "2026-08-31T17:47:39Z",
+      "url": "https://www.tehrantimes.com/news/529566/The-domestic-cost-of-Jordan-s-alliance-with-Washington",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529566/The-domestic-cost-of-Jordan-s-alliance-with-Washington"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The domestic cost of Jordan’s alliance with Washington"
+      }
+    },
+    {
+      "id": "evt_ef90ddfd",
+      "title": "Operation Economic Outcast迫在眉睫的失败",
+      "summary": "上周，巴基斯坦宣布将不遵守美国对伊朗实施的最新制裁，并将继续与其邻国进行贸易。就在这一消息传出几天前，中国也发表了类似的声明。",
+      "date": "2026-08-31T17:46:40Z",
+      "url": "https://www.tehrantimes.com/news/529561/The-looming-failure-of-Operation-Economic-Outcast",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529561/The-looming-failure-of-Operation-Economic-Outcast"
         }
       ],
       "category": "military",
@@ -177,244 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran attacks US bases in Jordan after US strikes Larak Island"
+        "en": "The looming failure of Operation Economic Outcast"
       }
     },
     {
-      "id": "evt_f0d1fd89",
-      "title": "新德黑兰壁画嘲笑特朗普",
-      "summary": "德黑兰--美国总统唐纳德·特朗普（ Donald Trump ）以戏剧性消失行为为特色的新壁画在乔姆胡里大道（ Jomhouri Avenue ）和瓦利亚斯尔大道（ Valiasr Avenue ）的交汇处展出，传达了有关美国政策的讽刺信息。",
-      "date": "2026-08-30T17:54:56Z",
-      "url": "https://www.tehrantimes.com/news/529512/New-Tehran-mural-mocks-Trump",
+      "id": "evt_b77c8690",
+      "title": "上合组织峰会：伊朗遏制单边主义的机会",
+      "summary": "伊朗报纸在一篇分析文章中提到马苏德·佩泽什基安（ Masoud Pezeshkian ）前往比什凯克参加上海合作组织峰会。鉴于正在进行的伊朗-美国战争及其对区域和全球秩序的影响，此次访问不应被视为例行外交活动。",
+      "date": "2026-08-31T17:46:09Z",
+      "url": "https://www.tehrantimes.com/news/529560/SCO-summit-Iran-s-opportunity-to-contain-unilateralism",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529512/New-Tehran-mural-mocks-Trump"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "New Tehran mural mocks Trump"
-      }
-    },
-    {
-      "id": "evt_c9e3815e",
-      "title": "电影博物馆（ Cinema Museum ） ，展出基亚罗斯塔米（ Kiarostami ）的《穿过橄榄树》（ Through",
-      "summary": "德黑兰--阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）执导的《穿越橄榄树》（ Through the Olive Trees ）的修复版将在德黑兰的伊朗电影博物馆放映和讨论。",
-      "date": "2026-08-30T17:54:29Z",
-      "url": "https://www.tehrantimes.com/news/529507/Cinema-Museum-to-show-restored-version-of-Kiarostami-s-Through",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529507/Cinema-Museum-to-show-restored-version-of-Kiarostami-s-Through"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Cinema Museum to show restored version of Kiarostami’s “Through the Olive Trees”"
-      }
-    },
-    {
-      "id": "evt_a38a52ed",
-      "title": "伊朗调频台说，米纳布学校的悲剧永远不会被遗忘或原谅",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，伊朗南部米纳布（ Minab ）一所学校的悲剧永远不会被遗忘或原谅，他将事件中遇难的学生描述为伊朗人民英雄主义的象征。",
-      "date": "2026-08-30T17:54:03Z",
-      "url": "https://www.tehrantimes.com/news/529510/Minab-school-tragedy-will-never-be-forgotten-or-forgiven-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529510/Minab-school-tragedy-will-never-be-forgotten-or-forgiven-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Minab school tragedy will never be forgotten or forgiven, Iran FM says"
-      }
-    },
-    {
-      "id": "evt_767176d9",
-      "title": "巴林人集会反对拘留宗教领袖",
-      "summary": "德黑兰--周五晚上，人群涌入西特拉岛的街道，直接蔑视阿勒哈利法政权不断扩大的反对巴林什叶派多数的运动。",
-      "date": "2026-08-30T17:53:34Z",
-      "url": "https://www.tehrantimes.com/news/529522/Bahrainis-rally-against-detention-of-religious-leaders",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529522/Bahrainis-rally-against-detention-of-religious-leaders"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bahrainis rally against detention of religious leaders"
-      }
-    },
-    {
-      "id": "evt_7043c69c",
-      "title": "新叙利亚：从恐怖分子名单到以色列恐吓",
-      "summary": "德黑兰--美国取消对叙利亚的制裁并将其从美国的恐怖分子名单中删除，恰逢大马士革向以色列和美国做出让步，重塑叙利亚的格局。",
-      "date": "2026-08-30T17:53:10Z",
-      "url": "https://www.tehrantimes.com/news/529523/The-new-Syria-From-terror-lists-to-Israeli-intimidation",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529523/The-new-Syria-From-terror-lists-to-Israeli-intimidation"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The new Syria: From terror lists to Israeli intimidation"
-      }
-    },
-    {
-      "id": "evt_7abb5215",
-      "title": "美国-委内瑞拉石油协议： “历史性交易”或“历史性抢劫” ！ ？",
-      "summary": "德黑兰—唐纳德特朗普总统周五晚间宣布，美国已与委内瑞拉达成石油协议，他说此举将使美国的石油储备“增加一倍以上” ，增加石油供应并降低天然气价格。",
-      "date": "2026-08-30T17:52:34Z",
-      "url": "https://www.tehrantimes.com/news/529525/US-Venezuela-oil-agreement-A-Historic-transaction-or-historic",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529525/US-Venezuela-oil-agreement-A-Historic-transaction-or-historic"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Venezuela oil agreement: A ‘Historic transaction’ or ‘historic robbery’!?"
-      }
-    },
-    {
-      "id": "evt_f4fe59a1",
-      "title": "定居者横冲直撞，整个约旦河西岸的军事袭击加速",
-      "summary": "德黑兰--周末，在武装部队支持下，以色列武装定居者在约旦河西岸发动了一系列暴力骚乱，对巴勒斯坦平民、外国记者和人权维护者发动了系统性恐怖袭击。",
-      "date": "2026-08-30T17:44:19Z",
-      "url": "https://www.tehrantimes.com/news/529524/Settler-rampages-military-raids-accelerate-across-West-Bank",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529524/Settler-rampages-military-raids-accelerate-across-West-Bank"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Settler rampages, military raids accelerate across West Bank"
-      }
-    },
-    {
-      "id": "evt_25b2a3c7",
-      "title": "马克·林奇大师与帝国的衰落",
-      "summary": "德黑兰--马克·林奇（ Marc Lynch ）在《外交事务》（ Foreign Affairs ）上发表了一篇题为《美国中东的终结》（ The End of the American Middle East ）的文章它的第一段开头有一句话，就在几年前，几乎不可能想象会出现在那本杂志上。",
-      "date": "2026-08-30T17:43:34Z",
-      "url": "https://www.tehrantimes.com/news/529521/Master-Marc-Lynch-and-the-decline-of-empire",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529521/Master-Marc-Lynch-and-the-decline-of-empire"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Master Marc Lynch and the decline of empire"
-      }
-    },
-    {
-      "id": "evt_d0a1c2b4",
-      "title": "伊朗不惧怕特朗普的威胁",
-      "summary": "Kayhan在一篇文章中指出了伊朗在面对美国威胁时的实力。如果我们回顾特朗普过去六个月的声明，我们会反复遇到诸如“伊朗人很强硬。“所有这些言论都是在他先前威胁伊朗的时候发表的，伊朗无视威胁，美国最终被迫退缩。",
-      "date": "2026-08-30T17:42:52Z",
-      "url": "https://www.tehrantimes.com/news/529508/Iran-does-not-fear-Trump-s-threats",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529508/Iran-does-not-fear-Trump-s-threats"
+          "url": "https://www.tehrantimes.com/news/529560/SCO-summit-Iran-s-opportunity-to-contain-unilateralism"
         }
       ],
       "category": "military",
@@ -429,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran does not fear Trump’s threats"
+        "en": "SCO summit: Iran’s opportunity to contain unilateralism"
       }
     },
     {
-      "id": "evt_b849b6cd",
-      "title": "伊朗官员支持领导人的团结和抵抗指令",
-      "summary": "德黑兰--在伊斯兰革命领袖阿亚图拉·塞耶德·莫伊塔巴·侯赛尼·哈梅内伊（ Ayatollah Seyyed Mojtaba Hosseini Khamenei ）发表重要战略讲话后，伊朗的行政、立法、司法和国家安全领导层一致作出回应。",
-      "date": "2026-08-30T17:42:05Z",
-      "url": "https://www.tehrantimes.com/news/529509/Iranian-officials-rally-behind-Leader-s-directive-for-unity-and",
+      "id": "evt_2930dccf",
+      "title": "在阿联酋发现10名失踪渔民； 3人仍下落不明",
+      "summary": "德黑兰--伊朗外交部一名高级官员证实，自8月中旬以来失踪的10名来自兰格港的渔民已被安置在阿拉伯联合酋长国，预计将很快返回伊朗。",
+      "date": "2026-08-31T17:45:39Z",
+      "url": "https://www.tehrantimes.com/news/529563/10-missing-fishermen-found-in-UAE-3-still-unaccounted-for",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529509/Iranian-officials-rally-behind-Leader-s-directive-for-unity-and"
+          "url": "https://www.tehrantimes.com/news/529563/10-missing-fishermen-found-in-UAE-3-still-unaccounted-for"
         }
       ],
       "category": "military",
@@ -457,48 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian officials rally behind Leader's directive for unity and resistance"
+        "en": "10 missing fishermen found in UAE; 3 still unaccounted for"
       }
     },
     {
-      "id": "evt_ae7e6e21",
-      "title": "第40届伊斯兰团结会议在马什哈德结束，呼吁区域抵抗和团结",
-      "summary": "德黑兰--周日，第40届伊斯兰团结国际会议在东北部城市马什哈德结束，来自约40个国家的数百名穆斯林学者、精英以及著名的什叶派和逊尼派人士齐聚一堂。",
-      "date": "2026-08-30T17:41:09Z",
-      "url": "https://www.tehrantimes.com/news/529520/40th-Islamic-Unity-Conference-wraps-up-in-Mashhad-with-calls",
+      "id": "evt_2e23371b",
+      "title": "纳克迪将军：伊朗90%以上的导弹储备完好无损",
+      "summary": "德黑兰--伊朗伊斯兰革命卫队（ IRGC ）总司令的高级顾问穆罕默德·雷扎·纳克迪准将强烈反对有关伊朗武器能力下降的谣言。",
+      "date": "2026-08-31T17:45:13Z",
+      "url": "https://www.tehrantimes.com/news/529565/General-Naqdi-Over-90-percent-of-Iran-s-missile-reserves-remain",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529520/40th-Islamic-Unity-Conference-wraps-up-in-Mashhad-with-calls"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "40th Islamic Unity Conference wraps up in Mashhad with calls for regional resistance and solidarity"
-      }
-    },
-    {
-      "id": "evt_08165aa0",
-      "title": "参议员伊丽莎白·沃伦称特朗普是“美国历史上最腐败的总统”",
-      "summary": "德黑兰--美国民主党参议员伊丽莎白·沃伦（ Elizabeth Warren ）对总统唐纳德·特朗普（ Donald Trump ）进行了严厉批评，称他为“美国历史上最腐败的总统” ，并指责与特朗普政府结盟的大型能源公司从与伊朗的军事冲突中获得了巨大的经济利益。",
-      "date": "2026-08-30T17:39:35Z",
-      "url": "https://www.tehrantimes.com/news/529497/Senator-Elizabeth-Warren-calls-Trump-the-most-corrupt-president",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529497/Senator-Elizabeth-Warren-calls-Trump-the-most-corrupt-president"
+          "url": "https://www.tehrantimes.com/news/529565/General-Naqdi-Over-90-percent-of-Iran-s-missile-reserves-remain"
         }
       ],
       "category": "military",
@@ -513,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Senator Elizabeth Warren calls Trump ‘the most corrupt president ever in American history’"
+        "en": "General Naqdi: Over 90 percent of Iran's missile reserves remain intact"
       }
     },
     {
-      "id": "evt_2c12fb2c",
-      "title": "领导人：美国、以色列是穆斯林团结和友谊的“死敌”",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）坚决呼吁伊斯兰世界团结一致，强调西方帝国主义的敌对政策威胁到所有地区国家。",
-      "date": "2026-08-30T17:39:06Z",
-      "url": "https://www.tehrantimes.com/news/529498/Leader-US-Israel-sworn-enemies-of-Muslim-unity-and-friendship",
+      "id": "evt_6b270fd6",
+      "title": "伊朗战争引发了对华盛顿是否有能力避免另一场无休止的冲突的质疑：《纽约时报》",
+      "summary": "德黑兰--美国正在进行的对伊朗的军事行动日益引发人们对华盛顿能否避免陷入另一场旷日持久的冲突的疑问，因为阿富汗20年战争的经历提供了一个警示的例子，表明美国历届政府一旦开始战争，要结束战争是多么困难。",
+      "date": "2026-08-31T17:44:28Z",
+      "url": "https://www.tehrantimes.com/news/529573/Iran-war-raises-questions-over-Washington-s-ability-to-avoid",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529498/Leader-US-Israel-sworn-enemies-of-Muslim-unity-and-friendship"
+          "url": "https://www.tehrantimes.com/news/529573/Iran-war-raises-questions-over-Washington-s-ability-to-avoid"
         }
       ],
       "category": "military",
@@ -541,7 +485,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Leader: US, Israel 'sworn enemies' of Muslim unity and friendship"
+        "en": "Iran war raises questions over Washington’s ability to avoid another endless conflict: NYTimes"
+      }
+    },
+    {
+      "id": "evt_7af39ef2",
+      "title": "伊朗誓言果断回应特朗普威胁进行报复",
+      "summary": "德黑兰--一名伊朗官员告诉路透社，伊朗警告说，美国的任何进一步袭击都将引发“数十倍的强烈反应” ，尽管美国总统唐纳德·特朗普(Donald Trump)威胁要“非常严厉”地打击伊朗，而且这场冲突越来越多地使白宫面临军事、经济和政治风险，但德黑兰认为与华盛顿的最新交火是有限和遏制的。",
+      "date": "2026-08-31T17:41:19Z",
+      "url": "https://www.tehrantimes.com/news/529572/Iran-vows-decisive-response-as-Trump-threatens-retaliation",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529572/Iran-vows-decisive-response-as-Trump-threatens-retaliation"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran vows decisive response as Trump threatens retaliation"
+      }
+    },
+    {
+      "id": "evt_6c241bee",
+      "title": "美国和伊朗几周来首次举行贸易罢工",
+      "summary": "对霍尔木兹海峡拉腊克岛的袭击是自7月下旬以来已知的美国首次袭击，造成两人死亡，两人受伤。",
+      "date": "2026-08-31T13:47:30Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Iran trade strikes for first time in weeks"
+      }
+    },
+    {
+      "id": "evt_9c296ca9",
+      "title": "英国向以色列提出英国活动人士在约旦河西岸被定居者拘留的案件",
+      "summary": "22岁的学生活动家Finn Joughin在巴勒斯坦村庄Umm Al-Kheir被捕。",
+      "date": "2026-08-31T10:00:23Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UK raises case of British activist detained by settlers in West Bank with Israel"
       }
     },
     {
@@ -797,90 +825,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_1394814e",
-      "title": "中国抨击美国对伊朗和贸易伙伴的“非法”新制裁",
-      "summary": "美国威胁要孤立继续与德黑兰做生意的国家，德黑兰向北京出售大部分石油。",
-      "date": "2026-08-25T11:53:36Z",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "China hits out at 'illegal' new US sanctions on Iran and trading partners"
-      }
-    },
-    {
-      "id": "evt_432862cf",
-      "title": "伊朗表示“完全准备好”应对美国扩大的经济制裁",
-      "summary": "美国称其对伊朗的最新制裁是“经济D日” ，但德黑兰表示，它有一个解决这些问题的计划。",
-      "date": "2026-08-25T08:08:26Z",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says it is 'fully prepared' to counter widened US economic sanctions"
-      }
-    },
-    {
-      "id": "evt_dd33bd6f",
-      "title": "美国将叙利亚从支持恐怖主义的国家名单中删除",
-      "summary": "特朗普政府已经接受了叙利亚新总统、与基地组织有联系的前激进分子艾哈迈德·沙拉。",
-      "date": "2026-08-25T00:17:25Z",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US removes Syria from list of state sponsors of terrorism"
-      }
-    },
-    {
       "id": "evt_b883c857",
       "title": "以色列如何扩大定居点，重塑约旦河西岸",
       "summary": "近年来，以色列占领的巴勒斯坦土地上的建筑和道路建设大幅增加。",
@@ -906,6 +850,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "How Israel is expanding settlements in drive to reshape West Bank"
+      }
+    },
+    {
+      "id": "evt_7e4fa408",
+      "title": "由于加沙仍有数千人失踪，家人痛苦地寻找答案",
+      "summary": "在宣布停火十个月后，加沙仍有数千名巴勒斯坦人据报失踪。",
+      "date": "2026-08-19T05:04:00Z",
+      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Families' agonising search for answers as thousands still missing in Gaza"
       }
     }
   ]
