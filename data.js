@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-03T02:24:51.132819Z
+// 自动生成的数据 - 更新时间: 2026-09-04T02:20:03.954972Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-03T02:24:51.132754Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-09-04T02:20:03.954914Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 21,
+      "international": 17,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_cbe7b9bc",
-      "title": "随着伊朗死亡人数上升至18人，特朗普威胁要进行更多罢工",
-      "summary": "特朗普表示，美国可以“随时随地”袭击伊朗，因为德黑兰表示，致命的罢工，包括婚礼上的罢工，是一种战争罪行。",
-      "date": "2026-09-03T01:45:32Z",
-      "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+      "id": "evt_7b09bab1",
+      "title": "伊朗战争现场：美国排除伊朗谈判，直到船只袭击停止",
+      "summary": "伊朗第一副总统穆罕默德·雷扎·阿雷夫（ Mohammad Reza Aref ）誓言对美国的袭击做出“不对称”和“多层次”的回应。",
+      "date": "2026-09-04T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump threatens more strikes as death toll in Iran rises to 18"
-      }
-    },
-    {
-      "id": "evt_ffecca1b",
-      "title": "伊朗战争现场：特朗普表示，重新爆发的美伊冲突不会持续“太久”",
-      "summary": "伊朗卫生部发言人表示，美国袭击造成的死亡人数已上升至18人，其中包括一名儿童。",
-      "date": "2026-09-03T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,7 +37,91 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’"
+        "en": "Iran war live: US rules out Iran talks until ship attacks stop"
+      }
+    },
+    {
+      "id": "evt_737de413",
+      "title": "刚果民主共和国与各国一道承诺将大使馆迁往耶路撒冷",
+      "summary": "刚果民主共和国再次承诺将其驻以色列大使馆从特拉维夫迁至耶路撒冷。",
+      "date": "2026-09-03T23:05:12Z",
+      "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "DR Congo joins countries pledging embassy move to Jerusalem"
+      }
+    },
+    {
+      "id": "evt_e05fd547",
+      "title": "官员说，巴勒斯坦青少年在西岸村庄的定居者袭击中丧生",
+      "summary": "Al-Mughayyir的委员会说，他们试图阻止定居者偷羊，但以色列军方说，他们向其部队投掷石块。",
+      "date": "2026-09-03T15:05:57Z",
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian teens killed during settler attack on West Bank village, officials say"
+      }
+    },
+    {
+      "id": "evt_d3443334",
+      "title": "特朗普将伊朗婚礼变成血腥",
+      "summary": "",
+      "date": "2026-09-03T14:51:42Z",
+      "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump turns Iranian wedding bloody"
       }
     },
     {
@@ -97,93 +153,9 @@ const siteData = {
       }
     },
     {
-      "id": "evt_0926692f",
-      "title": "共和党参议员呼吁特朗普解雇国防部长黑格塞斯",
-      "summary": "参议员汤姆·蒂利斯（ Thom Tillis ）指责五角大楼负责人“管理不善” ，因为美国军方因对伊朗的战争而紧张。",
-      "date": "2026-09-02T21:37:41Z",
-      "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Republican senator calls on Trump to fire Secretary of Defence Hegseth"
-      }
-    },
-    {
-      "id": "evt_3d965b3e",
-      "title": "以色列总理表示，以色列正在努力推翻伊朗政府",
-      "summary": "以色列总理本雅明·内塔尼亚胡周三表示，他的国家正在努力推翻伊朗政府。",
-      "date": "2026-09-02T21:23:55Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli PM says Israel is working to overthrow Iran’s government"
-      }
-    },
-    {
-      "id": "evt_e9618dc9",
-      "title": "国防部长说，以色列仍然希望将巴勒斯坦人从加沙移走",
-      "summary": "以色列卡茨说，如果不减少加沙地带的人口， “加沙没有真正的解决方案”。",
-      "date": "2026-09-02T21:19:32Z",
-      "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel still wants to remove Palestinians from Gaza, defence minister says"
-      }
-    },
-    {
       "id": "evt_dd69f8d6",
       "title": "我们对报道的伊朗婚礼庆祝活动罢工的了解",
-      "summary": "BBC Verify查看了显示伊朗南部一栋建筑物罢工后果的镜头。",
+      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
       "date": "2026-09-02T21:02:35Z",
       "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -206,34 +178,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "What we know about reported strike on Iran wedding celebrations"
-      }
-    },
-    {
-      "id": "evt_07004408",
-      "title": "两名巴勒斯坦人作为定居者被杀，以色列军队袭击约旦河西岸村庄",
-      "summary": "随着约旦河西岸暴力事件的持续，在定居者袭击al-Mughayyer事件中丧生的青少年。",
-      "date": "2026-09-02T20:59:46Z",
-      "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Two Palestinians killed as settlers, Israeli forces raid West Bank village"
       }
     },
     {
@@ -406,7 +350,7 @@ const siteData = {
     },
     {
       "id": "evt_8cd0abd7",
-      "title": "将婚礼变成葬礼：美国恐怖分子军队的特色",
+      "title": "Turning weddings into funerals: the specialty of America's terrorist army",
       "summary": "德黑兰--在战争中，人们并不总是穿着制服死去。有时，他们会穿着婚纱去世。有时候，把指甲花放在女儿的手上。有时候，坐在一壶米饭和肉旁边。有时，他们不知道在他们上方几公里处盘旋的飞机将他们误认为是什么。",
       "date": "2026-09-02T17:33:54Z",
       "url": "https://www.tehrantimes.com/news/529639/Turning-weddings-into-funerals-the-specialty-of-America-s-terrorist",
@@ -573,34 +517,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_219e6d36",
-      "title": "蒂廷营：伊朗对美国海军陆战队设施的袭击标志着更广泛的战略挑战",
-      "summary": "德黑兰--事实证明，伊朗对美国海军陆战队位于约旦的蒂廷营地（ Camp Titin ）设施的弹道导弹袭击对华盛顿的影响远远大于对单个军事基地造成的破坏。这次袭击表明，伊朗军队可以到达美国在亚喀巴湾的阵地，距离波斯湾周围的主要战区数百公里，同时袭击或威胁美国在几个地区国家的军事基础设施。",
-      "date": "2026-09-02T17:22:59Z",
-      "url": "https://www.tehrantimes.com/news/529643/Camp-Titin-Iran-s-strike-on-a-US-Marine-facility-signals-a-wider",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529643/Camp-Titin-Iran-s-strike-on-a-US-Marine-facility-signals-a-wider"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Camp Titin: Iran’s strike on a US Marine facility signals a wider strategic challenge"
-      }
-    },
-    {
       "id": "evt_2d0f8e5f",
       "title": "伊朗称美国的罢工在婚礼上以“战争罪”杀死了四人，因为美国否认针对平民",
       "summary": "伊朗媒体报道，两名儿童在弹片击中房屋时遇难。伊朗随后向美国在中东的目标发射了导弹和无人机。",
@@ -686,7 +602,7 @@ const siteData = {
     },
     {
       "id": "evt_fba4289d",
-      "title": "英国广播公司在被占领的黎巴嫩境内旅行，官员称以色列正在扩大阵地",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
       "summary": "英国广播公司的一个团队加入了联合国维和部队的人道主义使命，该使命称以色列军队正在加固阵地并继续拆除。",
       "date": "2026-09-02T05:03:09Z",
       "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
@@ -853,34 +769,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_2db6d965",
-      "title": "英国广播公司告诉记者，美国计划切断对中东主要盟友的军事援助",
-      "summary": "伊拉克库尔德斯坦担心特朗普政府的计划将使该地区更容易受到伊朗的进一步袭击。",
-      "date": "2026-08-28T19:45:39Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US plans to cut off military aid to key Middle East ally, BBC told"
-      }
-    },
-    {
       "id": "evt_09368585",
       "title": "英国广播公司追踪被占领的约旦河西岸一周的以色列定居者暴力事件",
       "summary": "英国广播公司的露西·威廉姆森（ Lucy Williamson ）报道了定居者对巴勒斯坦人的袭击，仅在上周就观察到了这些袭击。",
@@ -909,23 +797,23 @@ const siteData = {
       }
     },
     {
-      "id": "evt_4c04e16e",
-      "title": "前英以哈马斯人质在特拉维夫结婚",
-      "summary": "Damari被关押了15个月，在由其他前人质参加的仪式上与伴侣Dani Amit结婚。",
-      "date": "2026-08-28T01:43:23Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_782883ed",
+      "title": "特朗普希望制裁将推翻伊朗政权-其领导人押注否则",
+      "summary": "美国表示，新的制裁是“经济D日” ，但德黑兰的领导人此前曾幸免于难。",
+      "date": "2026-08-25T12:37:53Z",
+      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ckg0regvn77o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -933,20 +821,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Former British-Israeli Hamas hostage married in Tel Aviv"
+        "en": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise"
       }
     },
     {
-      "id": "evt_03e55f13",
-      "title": "和平委员会加沙特使批评以色列罢工和哈马斯行动",
-      "summary": "尼古拉·姆拉德诺夫（ Nickolay Mladenov ）警告说，去年10月停火的崩溃将成为该地区的“不归路”。",
-      "date": "2026-08-27T14:17:24Z",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_b883c857",
+      "title": "以色列如何扩大定居点，重塑约旦河西岸",
+      "summary": "近年来，以色列占领的巴勒斯坦土地上的建筑和道路建设大幅增加。",
+      "date": "2026-08-21T19:31:47Z",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -961,7 +849,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions"
+        "en": "How Israel is expanding settlements in drive to reshape West Bank"
       }
     }
   ]
