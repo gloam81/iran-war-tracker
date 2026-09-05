@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-04T02:20:03.954972Z
+// 自动生成的数据 - 更新时间: 2026-09-05T02:20:27.043599Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-04T02:20:03.954914Z",
-    "totalEvents": 30,
+    "lastUpdate": "2026-09-05T02:20:27.043548Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 17,
+      "international": 18,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_7b09bab1",
-      "title": "伊朗战争现场：美国排除伊朗谈判，直到船只袭击停止",
-      "summary": "伊朗第一副总统穆罕默德·雷扎·阿雷夫（ Mohammad Reza Aref ）誓言对美国的袭击做出“不对称”和“多层次”的回应。",
-      "date": "2026-09-04T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+      "id": "evt_1d1aa644",
+      "title": "伊朗战争现场：特朗普表示美国可能“很快”瞄准伊朗的镐山",
+      "summary": "美国总统唐纳德特朗普重申了早些时候的警告，即美国可能“很快”就会袭击伊朗的镐山。",
+      "date": "2026-09-05T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US rules out Iran talks until ship attacks stop"
+        "en": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’"
       }
     },
     {
-      "id": "evt_737de413",
-      "title": "刚果民主共和国与各国一道承诺将大使馆迁往耶路撒冷",
-      "summary": "刚果民主共和国再次承诺将其驻以色列大使馆从特拉维夫迁至耶路撒冷。",
-      "date": "2026-09-03T23:05:12Z",
-      "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+      "id": "evt_ad221625",
+      "title": "“小土豆” ：美国总统特朗普淡化对伊朗的战争",
+      "summary": "特朗普告诉记者，尽管最近与伊朗发生了交火，但美国“现在没有战斗”。",
+      "date": "2026-09-04T23:55:50Z",
+      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Small potatoes’: US President Trump downplays war on Iran"
+      }
+    },
+    {
+      "id": "evt_6f88fe13",
+      "title": "以色列警察在耶路撒冷杀害巴勒斯坦人，因为军队阻止了对Qusra的援助",
+      "summary": "以色列军队禁止以色列和巴勒斯坦活动人士向被定居者围困的家园运送食品和药品。",
+      "date": "2026-09-04T21:58:47Z",
+      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,12 +93,460 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "DR Congo joins countries pledging embassy move to Jerusalem"
+        "en": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra"
+      }
+    },
+    {
+      "id": "evt_141747e3",
+      "title": "哈塔米：随着经济压力的失败，伊朗正面临一场混合战争",
+      "summary": "德黑兰--德黑兰临时周五祈祷领袖阿亚图拉·艾哈迈德·哈塔米（ Ayatollah Ahmad Khatami ）周五表示，伊朗正面临一场涉及军事、经济、媒体和文化压力的多方面“混合战争” ，他预测，在经济上孤立该国的努力最终将失败。",
+      "date": "2026-09-04T16:47:41Z",
+      "url": "https://www.tehrantimes.com/news/529680/Khatami-Iran-is-facing-a-hybrid-war-as-economic-pressure-fails",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529680/Khatami-Iran-is-facing-a-hybrid-war-as-economic-pressure-fails"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Khatami: Iran is facing a hybrid war as economic pressure fails"
+      }
+    },
+    {
+      "id": "evt_655024ac",
+      "title": "水流与领地：争夺霍尔木兹海峡的真正战役",
+      "summary": "马德里--特朗普政府及其媒体回音室正试图让世界相信，伊朗已经失去了对霍尔木兹海峡的控制。与此同时，他们声称大量的石油正在穿越海峡。",
+      "date": "2026-09-04T16:47:29Z",
+      "url": "https://www.tehrantimes.com/news/529676/Flow-vs-territory-The-real-battle-for-the-Strait-of-Hormuz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529676/Flow-vs-territory-The-real-battle-for-the-Strait-of-Hormuz"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Flow vs. territory: The real battle for the Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_f94711c8",
+      "title": "卡塔尔国际电联提交的文件证实，伊朗的报复行动只打击了美国的军事资产",
+      "summary": "德黑兰--伊朗外交部发言人Esmaeil Baghaei表示，多哈向国际电信联盟（ ITU ）提交的官方文件证实，伊朗最近的防御措施专门针对美国在卡塔尔领土上的军事基础设施。",
+      "date": "2026-09-04T16:45:11Z",
+      "url": "https://www.tehrantimes.com/news/529674/Qatari-ITU-submission-confirms-Iran-s-retaliatory-operations",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529674/Qatari-ITU-submission-confirms-Iran-s-retaliatory-operations"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qatari ITU submission confirms Iran’s retaliatory operations hit only US military assets"
+      }
+    },
+    {
+      "id": "evt_627f9975",
+      "title": "伊朗利用金砖国家司法外交加深与中国、俄罗斯和白俄罗斯的关系",
+      "summary": "TEHRAN -伊朗正在寻求将司法合作转变为更广泛的战略外交工具，司法部长Gholam-Hossein Mohseni-Ejei在新德里金砖国家首席大法官论坛期间与中国、俄罗斯和白俄罗斯的高级司法官员举行会谈。",
+      "date": "2026-09-04T16:44:41Z",
+      "url": "https://www.tehrantimes.com/news/529682/Iran-uses-BRICS-judicial-diplomacy-to-deepen-ties-with-China",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529682/Iran-uses-BRICS-judicial-diplomacy-to-deepen-ties-with-China"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran uses BRICS judicial diplomacy to deepen ties with China, Russia and Belarus"
+      }
+    },
+    {
+      "id": "evt_0c540d5b",
+      "title": "六名伊朗海军人员在美国对伊朗南部的空袭中牺牲",
+      "summary": "德黑兰--据伊朗塔斯尼姆通讯社报道，两天前，美国对伊朗南部目标的袭击造成伊朗海军6人死亡。",
+      "date": "2026-09-04T16:44:13Z",
+      "url": "https://www.tehrantimes.com/news/529681/Six-Iranian-Navy-personnel-martyred-in-US-strikes-in-southern",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529681/Six-Iranian-Navy-personnel-martyred-in-US-strikes-in-southern"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Six Iranian Navy personnel martyred in US strikes in southern Iran"
+      }
+    },
+    {
+      "id": "evt_b4b09cdb",
+      "title": "库切斯塔克哀悼婚礼致命袭击的受害者",
+      "summary": "TEHRAN -婚礼应该是一个音乐，欢笑和庆祝的夜晚。相反，这个沿海小镇的人们周四聚集在一起，在街道上抬着棺材，哀悼在最近美伊冲突升级期间，一座举办婚礼庆祝活动的房屋遭到袭击而遇难的人。",
+      "date": "2026-09-04T16:43:06Z",
+      "url": "https://www.tehrantimes.com/news/529678/Kuhestak-mourns-victims-of-deadly-strike-on-wedding",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529678/Kuhestak-mourns-victims-of-deadly-strike-on-wedding"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Kuhestak mourns victims of deadly strike on wedding"
+      }
+    },
+    {
+      "id": "evt_b84831ad",
+      "title": "先进的敌方技术未能保护飞机免受本土防空系统的攻击",
+      "summary": "德黑兰--伊朗防空指挥官表示，该国最近的战争经验表明，仅靠技术优势无法保证攻击部队的安全，并表示即使在战斗正在进行时，伊朗军队也在开发和升级新的国产防空系统。",
+      "date": "2026-09-04T16:42:45Z",
+      "url": "https://www.tehrantimes.com/news/529679/Advanced-enemy-technology-failed-to-shield-aircraft-from-indigenous",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529679/Advanced-enemy-technology-failed-to-shield-aircraft-from-indigenous"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Advanced enemy technology failed to shield aircraft from indigenous air defenses"
+      }
+    },
+    {
+      "id": "evt_869538ba",
+      "title": "伊朗持久管理霍尔木兹海峡的法律基础",
+      "summary": "德黑兰--霍尔木兹海峡被广泛认为是世界上最重要的能源咽喉，它不仅仅是一条狭窄的地理通道。它是能源安全、全球贸易和国家主权交叉的战略纽带。",
+      "date": "2026-09-04T16:42:25Z",
+      "url": "https://www.tehrantimes.com/news/529675/Legal-foundations-for-Iran-s-enduring-management-of-the-Strait",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529675/Legal-foundations-for-Iran-s-enduring-management-of-the-Strait"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Legal foundations for Iran’s enduring management of the Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_23544e53",
+      "title": "在内塔尼亚胡的领导下，特朗普获得了什么？",
+      "summary": "德黑兰--美国对以色列的偏见是美国外交政策的常态之一，但特朗普将这种偏见推到了前所未有的地步。",
+      "date": "2026-09-04T16:41:58Z",
+      "url": "https://www.tehrantimes.com/news/529677/What-has-Trump-gained-following-Netanyahu-s-lead",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529677/What-has-Trump-gained-following-Netanyahu-s-lead"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What has Trump gained following Netanyahu’s lead?"
+      }
+    },
+    {
+      "id": "evt_edb742d3",
+      "title": "人权组织要求国会废除美以军事一体化法案",
+      "summary": "德黑兰— 56个美国民权和倡导组织已向国会发出直言不讳的要求：从2027年《国防授权法》中删除一项有争议的条款，否则就有可能使以色列永久巩固在五角大楼的核心技术设备中。",
+      "date": "2026-09-04T16:41:25Z",
+      "url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Rights organizations demand Congress scrap US-Israel military integration bill"
+      }
+    },
+    {
+      "id": "evt_7d59276f",
+      "title": "本·格维尔公布七年加沙种族清洗蓝图",
+      "summary": "德黑兰--伊塔马尔·本·格维尔（ Itamar Ben Gvir ）正式确定了加沙种族灭绝的最终目标。以色列极端主义国家安全部长公布了一个严格的七年时间表，清理被围困的186万土着巴勒斯坦人的领土。",
+      "date": "2026-09-04T16:40:47Z",
+      "url": "https://www.tehrantimes.com/news/529672/Ben-Gvir-unveils-seven-year-blueprint-to-ethnically-cleanse-Gaza",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529672/Ben-Gvir-unveils-seven-year-blueprint-to-ethnically-cleanse-Gaza"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ben Gvir unveils seven-year blueprint to ethnically cleanse Gaza"
+      }
+    },
+    {
+      "id": "evt_5562789e",
+      "title": "伊朗参加第27届巴格达国际书展",
+      "summary": "德黑兰--伊朗图书与文学之家将作为伊朗代表参加第27届巴格达国际图书博览会，展示各种伊朗作品，并举办专门的文化课程。",
+      "date": "2026-09-04T16:40:18Z",
+      "url": "https://www.tehrantimes.com/news/529662/Iran-participating-in-27th-Baghdad-International-Book-Fair",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529662/Iran-participating-in-27th-Baghdad-International-Book-Fair"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran participating in 27th Baghdad International Book Fair"
+      }
+    },
+    {
+      "id": "evt_278d0101",
+      "title": "文化部长参观Minab学校展览",
+      "summary": "德黑兰--文化和伊斯兰指导部长赛义德·阿巴斯·萨利希（ Seyyed Abbas Salehi ）周四参观了德黑兰艺术局的“Minab学校”群展。",
+      "date": "2026-09-04T16:39:41Z",
+      "url": "https://www.tehrantimes.com/news/529663/Culture-minister-visits-Minab-School-exhibition",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529663/Culture-minister-visits-Minab-School-exhibition"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Culture minister visits Minab School exhibition"
+      }
+    },
+    {
+      "id": "evt_dd86ef1e",
+      "title": "美伊冲突如何结束？三位专家发表意见",
+      "summary": "在本周重新罢工后，双方是否有退出策略？",
+      "date": "2026-09-04T09:14:57Z",
+      "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How could US-Iran conflict end? Three experts give their views"
+      }
+    },
+    {
+      "id": "evt_1b191213",
+      "title": "万斯说，美国正在调查导弹是否击中伊朗婚礼",
+      "summary": "伊朗红新月会（ IRCS ）表示，周二，一枚导弹的弹片击中了仪式，造成4人死亡。",
+      "date": "2026-09-03T22:19:59Z",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US investigating if missile hit Iran wedding, Vance says"
+      }
+    },
+    {
+      "id": "evt_0ed0a845",
+      "title": "村长说，三名农民在黎巴嫩被以色列拘留",
+      "summary": "这些拘留已向美国领导的国际监测和执行机制报告，但以色列军方尚未发表评论。",
+      "date": "2026-09-03T19:34:58Z",
+      "url": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Three farmers detained by Israel in Lebanon, village leader says"
       }
     },
     {
       "id": "evt_e05fd547",
-      "title": "官员说，巴勒斯坦青少年在西岸村庄的定居者袭击中丧生",
+      "title": "巴勒斯坦青少年在定居者袭击约旦河西岸村庄期间遇害",
       "summary": "Al-Mughayyir的委员会说，他们试图阻止定居者偷羊，但以色列军方说，他们向其部队投掷石块。",
       "date": "2026-09-03T15:05:57Z",
       "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
@@ -93,69 +569,13 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinian teens killed during settler attack on West Bank village, officials say"
-      }
-    },
-    {
-      "id": "evt_d3443334",
-      "title": "特朗普将伊朗婚礼变成血腥",
-      "summary": "",
-      "date": "2026-09-03T14:51:42Z",
-      "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump turns Iranian wedding bloody"
-      }
-    },
-    {
-      "id": "evt_a79b2245",
-      "title": "Pouladgar敦促在伊朗为亚洲残疾人运动会做准备时保持专注和团结",
-      "summary": "德黑兰--2026年名古屋亚洲残疾人运动会伊朗代表团团长穆罕默德·普拉德加尔（ Mohammad Pouladgar ）概述了旨在确保伊朗代表团能够在最佳条件下竞争的最新准备和规划措施。",
-      "date": "2026-09-02T21:43:11Z",
-      "url": "https://www.tehrantimes.com/news/529648/Pouladgar-urges-focus-and-unity-as-Iran-prepares-for-Asian-Para",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529648/Pouladgar-urges-focus-and-unity-as-Iran-prepares-for-Asian-Para"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pouladgar urges focus and unity as Iran prepares for Asian Para Games"
+        "en": "Palestinian teens killed during settler attack on West Bank village"
       }
     },
     {
       "id": "evt_dd69f8d6",
       "title": "我们对报道的伊朗婚礼庆祝活动罢工的了解",
-      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+      "summary": "BBC Verify查看了显示伊朗南部一栋建筑物罢工后果的镜头。",
       "date": "2026-09-02T21:02:35Z",
       "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -178,202 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "What we know about reported strike on Iran wedding celebrations"
-      }
-    },
-    {
-      "id": "evt_613efd70",
-      "title": "Esteghlal波斯波利斯开奖时间： 2026/27 PGPL",
-      "summary": "德黑兰-波塞波利斯和埃斯特格拉尔足球队周三在2026/27波斯湾职业联赛（ PGPL ）的第5场比赛中以1比1的比分分享了战利品。",
-      "date": "2026-09-02T18:22:04Z",
-      "url": "https://www.tehrantimes.com/news/529647/Persepolis-Esteghlal-settled-for-draw-2026-27-PGPL",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529647/Persepolis-Esteghlal-settled-for-draw-2026-27-PGPL"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Persepolis, Esteghlal settled for draw: 2026/27 PGPL"
-      }
-    },
-    {
-      "id": "evt_5fea75a9",
-      "title": "卡利巴夫：伊朗和抵抗轴心有着对抗傲慢的根本路径",
-      "summary": "伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）周三在与哈马斯伊斯兰关系负责人巴西姆·纳伊姆（ Bassem Naim ）的会晤中明确表示，伊朗伊斯兰共和国和抵抗轴心在面对全球傲慢的统一轨道上错综复杂。他反思了五十年的抵抗，强调这场斗争一直被描绘成一场反对谎言的正义战争，在每个阶段都演变出新的形式。",
-      "date": "2026-09-02T17:44:47Z",
-      "url": "https://www.tehrantimes.com/news/529646/Qalibaf-Iran-and-the-Axis-of-Resistance-share-a-fundamental",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529646/Qalibaf-Iran-and-the-Axis-of-Resistance-share-a-fundamental"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Qalibaf: Iran and the Axis of Resistance share a fundamental path against arrogance"
-      }
-    },
-    {
-      "id": "evt_c66d1750",
-      "title": "Pourmohammadi回顾了在12天战争之前与烈士领袖的重要会晤",
-      "summary": "TEHRAN -伊朗计划和预算组织负责人兼副总统Hamid Pourmohammadi在接受电视采访时披露了行政部门在唐纳德特朗普重返办公室后因预期重新实施制裁和可能发生冲突而采取的远见和准备措施。",
-      "date": "2026-09-02T17:42:20Z",
-      "url": "https://www.tehrantimes.com/news/529645/Pourmohammadi-reflected-on-a-crucial-meeting-with-martyred-Leader",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529645/Pourmohammadi-reflected-on-a-crucial-meeting-with-martyred-Leader"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pourmohammadi reflected on a crucial meeting with martyred Leader before 12-day war"
-      }
-    },
-    {
-      "id": "evt_1aef393a",
-      "title": "Abbas Kiarostami在圣保罗的回顾展",
-      "summary": "德黑兰--巴西圣保罗的IMS电影院正在展出伊朗电影制片人阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）的作品回顾展，他是世界电影界的伟大人物之一。",
-      "date": "2026-09-02T17:37:38Z",
-      "url": "https://www.tehrantimes.com/news/529640/Abbas-Kiarostami-s-retrospective-in-Sao-Paulo",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529640/Abbas-Kiarostami-s-retrospective-in-Sao-Paulo"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Abbas Kiarostami’s retrospective in Sao Paulo"
-      }
-    },
-    {
-      "id": "evt_1c896a65",
-      "title": "第十五届国际百秒电影节海报揭幕",
-      "summary": "德黑兰--第15届国际100秒电影节的官方海报已经揭幕。",
-      "date": "2026-09-02T17:36:55Z",
-      "url": "https://www.tehrantimes.com/news/529638/Poster-of-15th-International-100-Second-Film-Festival-unveiled",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529638/Poster-of-15th-International-100-Second-Film-Festival-unveiled"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Poster of 15th International 100-Second Film Festival unveiled"
-      }
-    },
-    {
-      "id": "evt_872b6d40",
-      "title": "Sirous Moqaddam将Minab的悲剧变成了“空坟墓”",
-      "summary": "TEHRAN-伊朗电影制片人兼画家Sirous Moqaddam说，他对伊朗南部的深厚个人感情以及他与Minab学校受害者家属的遭遇激发了他创作《空坟墓》的灵感，这幅画致力于纪念在南部城市Minab一所学校悲惨袭击中丧生的儿童。",
-      "date": "2026-09-02T17:36:24Z",
-      "url": "https://www.tehrantimes.com/news/529551/Sirous-Moqaddam-turns-Minab-tragedy-into-Empty-Grave",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529551/Sirous-Moqaddam-turns-Minab-tragedy-into-Empty-Grave"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Sirous Moqaddam turns Minab tragedy into “Empty Grave”"
-      }
-    },
-    {
-      "id": "evt_8cd0abd7",
-      "title": "Turning weddings into funerals: the specialty of America's terrorist army",
-      "summary": "德黑兰--在战争中，人们并不总是穿着制服死去。有时，他们会穿着婚纱去世。有时候，把指甲花放在女儿的手上。有时候，坐在一壶米饭和肉旁边。有时，他们不知道在他们上方几公里处盘旋的飞机将他们误认为是什么。",
-      "date": "2026-09-02T17:33:54Z",
-      "url": "https://www.tehrantimes.com/news/529639/Turning-weddings-into-funerals-the-specialty-of-America-s-terrorist",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529639/Turning-weddings-into-funerals-the-specialty-of-America-s-terrorist"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Turning weddings into funerals: the specialty of America's terrorist army"
       }
     },
     {
@@ -402,118 +626,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says"
-      }
-    },
-    {
-      "id": "evt_8677b54a",
-      "title": "伊斯兰革命卫队：两艘油轮在击中海上地雷后失效",
-      "summary": "德黑兰-- (美国商业资讯) --伊斯兰革命卫队(IRGC)周三表示，两艘油轮在试图通过霍尔木兹海峡(Strait of Hormuz)时撞上了水雷并致残。",
-      "date": "2026-09-02T17:30:06Z",
-      "url": "https://www.tehrantimes.com/news/529633/IRGC-Two-oil-tankers-disabled-after-hitting-sea-mines",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529633/IRGC-Two-oil-tankers-disabled-after-hitting-sea-mines"
-        }
-      ],
-      "category": "humanitarian",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC: Two oil tankers disabled after hitting sea mines"
-      }
-    },
-    {
-      "id": "evt_9946f2d5",
-      "title": "伊朗如何摧毁美国在西亚最大的海军基地",
-      "summary": "德黑兰--随着2月28日开始的美以战争的爆发，波斯湾的战略架构经历了地震般的重新调整。伊朗伊斯兰共和国武装部队对侵略做出了快速和精心策划的行动反应，对整个地区的主要军事枢纽进行了精确的报复性打击，对华盛顿的前沿部署基础设施造成了严重和严重的打击。",
-      "date": "2026-09-02T17:29:16Z",
-      "url": "https://www.tehrantimes.com/news/529631/How-Iran-disabled-the-largest-US-naval-base-in-West-Asia",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529631/How-Iran-disabled-the-largest-US-naval-base-in-West-Asia"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Iran disabled the largest US naval base in West Asia"
-      }
-    },
-    {
-      "id": "evt_27706c45",
-      "title": "伊朗战争导致美国政府分裂：五角大楼混乱中德里斯科尔辞职",
-      "summary": "德黑兰--美国陆军部长丹·德里斯科尔（ Dan Driscoll ）的辞职进一步暴露了美国政府内部的深刻分歧，此前华盛顿与以色列在大约六个月前对伊朗发动了一场失败的战争。",
-      "date": "2026-09-02T17:28:09Z",
-      "url": "https://www.tehrantimes.com/news/529601/Iran-war-fractures-US-administration-Driscoll-quits-amid-Pentagon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529601/Iran-war-fractures-US-administration-Driscoll-quits-amid-Pentagon"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war fractures US administration: Driscoll quits amid Pentagon chaos"
-      }
-    },
-    {
-      "id": "evt_7f4dd3ce",
-      "title": "他们来参加婚礼舞会，特朗普给了他们死亡之舞",
-      "summary": "德黑兰--周二晚上，美国军队对伊朗南部各地的民用基础设施和居民集会实施了新一轮致命的导弹袭击，造成十多人死亡，数十人受伤，引发了广泛的愤怒，并再次呼吁对公然违反国际人道主义法的行为追究国际刑事责任。",
-      "date": "2026-09-02T17:27:26Z",
-      "url": "https://www.tehrantimes.com/news/529642/They-came-for-a-wedding-dance-Trump-gave-them-the-dance-of-death",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529642/They-came-for-a-wedding-dance-Trump-gave-them-the-dance-of-death"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "They came for a wedding dance, Trump gave them the dance of death"
       }
     },
     {
@@ -602,7 +714,7 @@ const siteData = {
     },
     {
       "id": "evt_fba4289d",
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "title": "英国广播公司在被占领的黎巴嫩境内旅行，官员称以色列正在扩大阵地",
       "summary": "英国广播公司的一个团队加入了联合国维和部队的人道主义使命，该使命称以色列军队正在加固阵地并继续拆除。",
       "date": "2026-09-02T05:03:09Z",
       "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
@@ -741,62 +853,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_9c296ca9",
-      "title": "英国向以色列提出英国活动人士在约旦河西岸被定居者拘留的案件",
-      "summary": "22岁的学生活动家Finn Joughin在巴勒斯坦村庄Umm Al-Kheir被捕。",
-      "date": "2026-08-31T10:00:23Z",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UK raises case of British activist detained by settlers in West Bank with Israel"
-      }
-    },
-    {
-      "id": "evt_09368585",
-      "title": "英国广播公司追踪被占领的约旦河西岸一周的以色列定居者暴力事件",
-      "summary": "英国广播公司的露西·威廉姆森（ Lucy Williamson ）报道了定居者对巴勒斯坦人的袭击，仅在上周就观察到了这些袭击。",
-      "date": "2026-08-28T14:06:13Z",
-      "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "BBC tracks one week of Israeli settler violence in occupied West Bank"
-      }
-    },
-    {
       "id": "evt_782883ed",
       "title": "特朗普希望制裁将推翻伊朗政权-其领导人押注否则",
       "summary": "美国表示，新的制裁是“经济D日” ，但德黑兰的领导人此前曾幸免于难。",
@@ -822,34 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise"
-      }
-    },
-    {
-      "id": "evt_b883c857",
-      "title": "以色列如何扩大定居点，重塑约旦河西岸",
-      "summary": "近年来，以色列占领的巴勒斯坦土地上的建筑和道路建设大幅增加。",
-      "date": "2026-08-21T19:31:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Israel is expanding settlements in drive to reshape West Bank"
       }
     }
   ]
