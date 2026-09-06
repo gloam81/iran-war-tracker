@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-05T02:20:27.043599Z
+// 自动生成的数据 - 更新时间: 2026-09-06T02:16:26.050907Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-05T02:20:27.043548Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-09-06T02:16:26.050846Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 18,
+      "international": 19,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,72 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_1d1aa644",
-      "title": "伊朗战争现场：特朗普表示美国可能“很快”瞄准伊朗的镐山",
-      "summary": "美国总统唐纳德特朗普重申了早些时候的警告，即美国可能“很快”就会袭击伊朗的镐山。",
-      "date": "2026-09-05T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "id": "evt_dbaed997",
+      "title": "内塔尼亚胡吹嘘轰炸卡塔尔，称加沙资金用于援助",
+      "summary": "以色列总理说，他协助卡塔尔向加沙汇款的资金是以色列安全机构推荐的。",
+      "date": "2026-09-06T01:02:08Z",
+      "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’"
-      }
-    },
-    {
-      "id": "evt_ad221625",
-      "title": "“小土豆” ：美国总统特朗普淡化对伊朗的战争",
-      "summary": "特朗普告诉记者，尽管最近与伊朗发生了交火，但美国“现在没有战斗”。",
-      "date": "2026-09-04T23:55:50Z",
-      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Small potatoes’: US President Trump downplays war on Iran"
-      }
-    },
-    {
-      "id": "evt_6f88fe13",
-      "title": "以色列警察在耶路撒冷杀害巴勒斯坦人，因为军队阻止了对Qusra的援助",
-      "summary": "以色列军队禁止以色列和巴勒斯坦活动人士向被定居者围困的家园运送食品和药品。",
-      "date": "2026-09-04T21:58:47Z",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra"
+        "en": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid"
       }
     },
     {
-      "id": "evt_141747e3",
-      "title": "哈塔米：随着经济压力的失败，伊朗正面临一场混合战争",
-      "summary": "德黑兰--德黑兰临时周五祈祷领袖阿亚图拉·艾哈迈德·哈塔米（ Ayatollah Ahmad Khatami ）周五表示，伊朗正面临一场涉及军事、经济、媒体和文化压力的多方面“混合战争” ，他预测，在经济上孤立该国的努力最终将失败。",
-      "date": "2026-09-04T16:47:41Z",
-      "url": "https://www.tehrantimes.com/news/529680/Khatami-Iran-is-facing-a-hybrid-war-as-economic-pressure-fails",
+      "id": "evt_01dc74ce",
+      "title": "伊朗战争现场：伊斯兰革命卫队声称袭击了3艘油轮和3艘与美国有关的船只",
+      "summary": "随着霍尔木兹海峡对峙的加剧，伊斯兰革命卫队在向美国军舰发射导弹后发动了新的打击。",
+      "date": "2026-09-06T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529680/Khatami-Iran-is-facing-a-hybrid-war-as-economic-pressure-fails"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Khatami: Iran is facing a hybrid war as economic pressure fails"
-      }
-    },
-    {
-      "id": "evt_655024ac",
-      "title": "水流与领地：争夺霍尔木兹海峡的真正战役",
-      "summary": "马德里--特朗普政府及其媒体回音室正试图让世界相信，伊朗已经失去了对霍尔木兹海峡的控制。与此同时，他们声称大量的石油正在穿越海峡。",
-      "date": "2026-09-04T16:47:29Z",
-      "url": "https://www.tehrantimes.com/news/529676/Flow-vs-territory-The-real-battle-for-the-Strait-of-Hormuz",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529676/Flow-vs-territory-The-real-battle-for-the-Strait-of-Hormuz"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Flow vs. territory: The real battle for the Strait of Hormuz"
+        "en": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships"
       }
     },
     {
-      "id": "evt_f94711c8",
-      "title": "卡塔尔国际电联提交的文件证实，伊朗的报复行动只打击了美国的军事资产",
-      "summary": "德黑兰--伊朗外交部发言人Esmaeil Baghaei表示，多哈向国际电信联盟（ ITU ）提交的官方文件证实，伊朗最近的防御措施专门针对美国在卡塔尔领土上的军事基础设施。",
-      "date": "2026-09-04T16:45:11Z",
-      "url": "https://www.tehrantimes.com/news/529674/Qatari-ITU-submission-confirms-Iran-s-retaliatory-operations",
+      "id": "evt_d79d3c3a",
+      "title": "伊朗西部油轮爆炸造成至少10人死亡",
+      "summary": "官员说，在伊朗Hamedan-Sanandaj高速公路上的油轮爆炸中，至少有6人受伤。",
+      "date": "2026-09-05T23:07:48Z",
+      "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529674/Qatari-ITU-submission-confirms-Iran-s-retaliatory-operations"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -177,300 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qatari ITU submission confirms Iran’s retaliatory operations hit only US military assets"
+        "en": "Fuel tanker blast in western Iran kills at least 10"
       }
     },
     {
-      "id": "evt_627f9975",
-      "title": "伊朗利用金砖国家司法外交加深与中国、俄罗斯和白俄罗斯的关系",
-      "summary": "TEHRAN -伊朗正在寻求将司法合作转变为更广泛的战略外交工具，司法部长Gholam-Hossein Mohseni-Ejei在新德里金砖国家首席大法官论坛期间与中国、俄罗斯和白俄罗斯的高级司法官员举行会谈。",
-      "date": "2026-09-04T16:44:41Z",
-      "url": "https://www.tehrantimes.com/news/529682/Iran-uses-BRICS-judicial-diplomacy-to-deepen-ties-with-China",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529682/Iran-uses-BRICS-judicial-diplomacy-to-deepen-ties-with-China"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran uses BRICS judicial diplomacy to deepen ties with China, Russia and Belarus"
-      }
-    },
-    {
-      "id": "evt_0c540d5b",
-      "title": "六名伊朗海军人员在美国对伊朗南部的空袭中牺牲",
-      "summary": "德黑兰--据伊朗塔斯尼姆通讯社报道，两天前，美国对伊朗南部目标的袭击造成伊朗海军6人死亡。",
-      "date": "2026-09-04T16:44:13Z",
-      "url": "https://www.tehrantimes.com/news/529681/Six-Iranian-Navy-personnel-martyred-in-US-strikes-in-southern",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529681/Six-Iranian-Navy-personnel-martyred-in-US-strikes-in-southern"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Six Iranian Navy personnel martyred in US strikes in southern Iran"
-      }
-    },
-    {
-      "id": "evt_b4b09cdb",
-      "title": "库切斯塔克哀悼婚礼致命袭击的受害者",
-      "summary": "TEHRAN -婚礼应该是一个音乐，欢笑和庆祝的夜晚。相反，这个沿海小镇的人们周四聚集在一起，在街道上抬着棺材，哀悼在最近美伊冲突升级期间，一座举办婚礼庆祝活动的房屋遭到袭击而遇难的人。",
-      "date": "2026-09-04T16:43:06Z",
-      "url": "https://www.tehrantimes.com/news/529678/Kuhestak-mourns-victims-of-deadly-strike-on-wedding",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529678/Kuhestak-mourns-victims-of-deadly-strike-on-wedding"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Kuhestak mourns victims of deadly strike on wedding"
-      }
-    },
-    {
-      "id": "evt_b84831ad",
-      "title": "先进的敌方技术未能保护飞机免受本土防空系统的攻击",
-      "summary": "德黑兰--伊朗防空指挥官表示，该国最近的战争经验表明，仅靠技术优势无法保证攻击部队的安全，并表示即使在战斗正在进行时，伊朗军队也在开发和升级新的国产防空系统。",
-      "date": "2026-09-04T16:42:45Z",
-      "url": "https://www.tehrantimes.com/news/529679/Advanced-enemy-technology-failed-to-shield-aircraft-from-indigenous",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529679/Advanced-enemy-technology-failed-to-shield-aircraft-from-indigenous"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Advanced enemy technology failed to shield aircraft from indigenous air defenses"
-      }
-    },
-    {
-      "id": "evt_869538ba",
-      "title": "伊朗持久管理霍尔木兹海峡的法律基础",
-      "summary": "德黑兰--霍尔木兹海峡被广泛认为是世界上最重要的能源咽喉，它不仅仅是一条狭窄的地理通道。它是能源安全、全球贸易和国家主权交叉的战略纽带。",
-      "date": "2026-09-04T16:42:25Z",
-      "url": "https://www.tehrantimes.com/news/529675/Legal-foundations-for-Iran-s-enduring-management-of-the-Strait",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529675/Legal-foundations-for-Iran-s-enduring-management-of-the-Strait"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Legal foundations for Iran’s enduring management of the Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_23544e53",
-      "title": "在内塔尼亚胡的领导下，特朗普获得了什么？",
-      "summary": "德黑兰--美国对以色列的偏见是美国外交政策的常态之一，但特朗普将这种偏见推到了前所未有的地步。",
-      "date": "2026-09-04T16:41:58Z",
-      "url": "https://www.tehrantimes.com/news/529677/What-has-Trump-gained-following-Netanyahu-s-lead",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529677/What-has-Trump-gained-following-Netanyahu-s-lead"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What has Trump gained following Netanyahu’s lead?"
-      }
-    },
-    {
-      "id": "evt_edb742d3",
-      "title": "人权组织要求国会废除美以军事一体化法案",
-      "summary": "德黑兰— 56个美国民权和倡导组织已向国会发出直言不讳的要求：从2027年《国防授权法》中删除一项有争议的条款，否则就有可能使以色列永久巩固在五角大楼的核心技术设备中。",
-      "date": "2026-09-04T16:41:25Z",
-      "url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Rights organizations demand Congress scrap US-Israel military integration bill"
-      }
-    },
-    {
-      "id": "evt_7d59276f",
-      "title": "本·格维尔公布七年加沙种族清洗蓝图",
-      "summary": "德黑兰--伊塔马尔·本·格维尔（ Itamar Ben Gvir ）正式确定了加沙种族灭绝的最终目标。以色列极端主义国家安全部长公布了一个严格的七年时间表，清理被围困的186万土着巴勒斯坦人的领土。",
-      "date": "2026-09-04T16:40:47Z",
-      "url": "https://www.tehrantimes.com/news/529672/Ben-Gvir-unveils-seven-year-blueprint-to-ethnically-cleanse-Gaza",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529672/Ben-Gvir-unveils-seven-year-blueprint-to-ethnically-cleanse-Gaza"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ben Gvir unveils seven-year blueprint to ethnically cleanse Gaza"
-      }
-    },
-    {
-      "id": "evt_5562789e",
-      "title": "伊朗参加第27届巴格达国际书展",
-      "summary": "德黑兰--伊朗图书与文学之家将作为伊朗代表参加第27届巴格达国际图书博览会，展示各种伊朗作品，并举办专门的文化课程。",
-      "date": "2026-09-04T16:40:18Z",
-      "url": "https://www.tehrantimes.com/news/529662/Iran-participating-in-27th-Baghdad-International-Book-Fair",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529662/Iran-participating-in-27th-Baghdad-International-Book-Fair"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran participating in 27th Baghdad International Book Fair"
-      }
-    },
-    {
-      "id": "evt_278d0101",
-      "title": "文化部长参观Minab学校展览",
-      "summary": "德黑兰--文化和伊斯兰指导部长赛义德·阿巴斯·萨利希（ Seyyed Abbas Salehi ）周四参观了德黑兰艺术局的“Minab学校”群展。",
-      "date": "2026-09-04T16:39:41Z",
-      "url": "https://www.tehrantimes.com/news/529663/Culture-minister-visits-Minab-School-exhibition",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529663/Culture-minister-visits-Minab-School-exhibition"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Culture minister visits Minab School exhibition"
-      }
-    },
-    {
-      "id": "evt_dd86ef1e",
-      "title": "美伊冲突如何结束？三位专家发表意见",
-      "summary": "在本周重新罢工后，双方是否有退出策略？",
-      "date": "2026-09-04T09:14:57Z",
-      "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_2e633ecc",
+      "title": "美国和伊朗在冲突爆发时对船只进行报复性攻击",
+      "summary": "美国表示袭击了三艘伊朗油轮，而伊朗表示袭击了三艘与美国有关的船只。",
+      "date": "2026-09-05T22:44:07Z",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -485,7 +121,427 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How could US-Iran conflict end? Three experts give their views"
+        "en": "US and Iran trade retaliatory attacks on ships as conflict flares"
+      }
+    },
+    {
+      "id": "evt_194eb223",
+      "title": "半岛电视台记者质疑赫卡比对以色列定居者的大屠杀",
+      "summary": "半岛电视台记者质疑美国驻以色列大使迈克·赫卡比（ Mike Huckabee ）称暴力的以色列定居者是少数群体",
+      "date": "2026-09-05T20:00:05Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms"
+      }
+    },
+    {
+      "id": "evt_d19e2ec6",
+      "title": "《耶路撒冷日报》：袭击、定居者和围困",
+      "summary": "随着定居者袭击巴勒斯坦人，以色列军队进行突袭和逮捕，迈克·赫卡比（ Mike Huckabee ）来访。",
+      "date": "2026-09-05T19:37:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Jerusalem Daily: raids, settlers & sieges"
+      }
+    },
+    {
+      "id": "evt_38f6e3cb",
+      "title": "每个人都反对这场战争，除了它的建筑师",
+      "summary": "德黑兰--2月28日，美国和以色列对伊朗发动的战争遭到越来越多的反对，随着全球愤怒的加剧、国内通货膨胀的瘫痪和政治叛乱浪潮将美国的非法攻击变成了一场彻头彻尾的灾难，这种反对已经达到了临界点。",
+      "date": "2026-09-05T17:19:49Z",
+      "url": "https://www.tehrantimes.com/news/529720/Everyone-is-against-this-war-except-its-architects",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529720/Everyone-is-against-this-war-except-its-architects"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Everyone is against this war, except its architects"
+      }
+    },
+    {
+      "id": "evt_88dbde45",
+      "title": "伊朗开设首所智能警察寄宿高中",
+      "summary": "德黑兰--伊朗在德黑兰和六个省开设了第一所智能警察寄宿高中，旨在培训未来的警察人员。总统Masoud Pezeshkian和警察指挥官Ahmad-Reza Radan准将出席了周六的开幕式。",
+      "date": "2026-09-05T17:10:28Z",
+      "url": "https://www.tehrantimes.com/news/529725/Iran-inaugurates-first-smart-police-boarding-high-school",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529725/Iran-inaugurates-first-smart-police-boarding-high-school"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran inaugurates first smart police boarding high school"
+      }
+    },
+    {
+      "id": "evt_71ed97f3",
+      "title": "以色列对近东救济工程处的战争：杀害证人",
+      "summary": "德黑兰--七十多年来，近东救济工程处不仅仅是一个救济机构；它一直是巴勒斯坦被剥夺财产的现存档案。",
+      "date": "2026-09-05T17:09:34Z",
+      "url": "https://www.tehrantimes.com/news/529717/Israel-s-war-on-UNRWA-Killing-the-witness",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529717/Israel-s-war-on-UNRWA-Killing-the-witness"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel’s war on UNRWA: Killing the witness"
+      }
+    },
+    {
+      "id": "evt_f7cb9f78",
+      "title": "前美国外交官：以利润为导向的外交政策，美国武器促成加沙种族灭绝",
+      "summary": "德黑兰— Hala Rharrit在美国国务院工作了18年。她把自己的成年生活献给了美国外交。2024年4月，她走开了。她成为第一位因拜登政府在加沙的行动而公开辞职的美国外交官。",
+      "date": "2026-09-05T17:09:07Z",
+      "url": "https://www.tehrantimes.com/news/529715/Former-US-diplomat-Profit-driven-foreign-policy-American-weapons",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529715/Former-US-diplomat-Profit-driven-foreign-policy-American-weapons"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Former US diplomat: Profit-driven foreign policy, American weapons enabled Gaza genocide"
+      }
+    },
+    {
+      "id": "evt_2a6ff2ee",
+      "title": "库切斯塔克悲剧：不间断的美国血迹和破碎的尸体",
+      "summary": "德黑兰--有时候，战争机器会剥去一切伪装，只留下母亲尖叫的声音。",
+      "date": "2026-09-05T17:08:40Z",
+      "url": "https://www.tehrantimes.com/news/529716/The-Kuhestak-tragedy-An-unbroken-American-trail-of-blood-and",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529716/The-Kuhestak-tragedy-An-unbroken-American-trail-of-blood-and"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The Kuhestak tragedy: An unbroken American trail of blood and broken bodies"
+      }
+    },
+    {
+      "id": "evt_96cd2349",
+      "title": "阿拉斯巴兰文化中心（ Arasbaran Cultural Center ）放映“调谐器”",
+      "summary": "TEHRAN--由加拿大电影制片人丹尼尔·罗尔（ Daniel Roher ）执导的2025年犯罪惊悚片《调谐器》（ Tuner ）将于周日晚上在德黑兰的阿拉斯巴兰文化中心（ Arasbaran Cultural Center ）进行审查。",
+      "date": "2026-09-05T17:08:01Z",
+      "url": "https://www.tehrantimes.com/news/529699/Arasbaran-Cultural-Center-to-screen-Tuner",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529699/Arasbaran-Cultural-Center-to-screen-Tuner"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Arasbaran Cultural Center to screen “Tuner”"
+      }
+    },
+    {
+      "id": "evt_2ab4ccd0",
+      "title": "儿童读物委员会宣布伊朗2028年汉斯·克里斯蒂安·安徒生奖提名",
+      "summary": "德黑兰--作家艾哈迈德·阿克巴普尔（ Ahmad Akbarpour ）和插画家礼萨·达尔万德（ Reza Dalvand ）被伊朗儿童图书委员会（ CBC ）选为2028年汉斯·克里斯蒂安·安徒生奖的伊朗提名人。",
+      "date": "2026-09-05T17:07:33Z",
+      "url": "https://www.tehrantimes.com/news/529710/Children-s-Book-Council-announces-Iranian-nominees-for-2028-Hans",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529710/Children-s-Book-Council-announces-Iranian-nominees-for-2028-Hans"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Children’s Book Council announces Iranian nominees for 2028 Hans Christian Andersen Award"
+      }
+    },
+    {
+      "id": "evt_f3c0190b",
+      "title": "伊朗儿童戏剧节宣布节目，征集参赛作品",
+      "summary": "TEHRAN -由伊朗戏剧艺术家Marzieh Boroumand指导，定于12月29日4日在哈马丹举行的第31届伊朗国际儿童和年轻人戏剧节的报名活动现已发布。",
+      "date": "2026-09-05T17:07:13Z",
+      "url": "https://www.tehrantimes.com/news/529698/Iran-s-children-s-theater-festival-announces-sections-calls",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529698/Iran-s-children-s-theater-festival-announces-sections-calls"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s children’s theater festival announces sections, calls for entries"
+      }
+    },
+    {
+      "id": "evt_e803af48",
+      "title": "美国国会议员驳斥特朗普对伊朗的“失败国家”言论",
+      "summary": "德黑兰--在美国和以色列对伊朗发起无端侵略运动六个月后，美国国内的政治分歧正在撕裂白宫的官方说法。",
+      "date": "2026-09-05T17:06:25Z",
+      "url": "https://www.tehrantimes.com/news/529691/US-congressman-rejects-Trump-s-failed-state-rhetoric-on-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529691/US-congressman-rejects-Trump-s-failed-state-rhetoric-on-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US congressman rejects Trump’s 'failed state' rhetoric on Iran"
+      }
+    },
+    {
+      "id": "evt_59da5586",
+      "title": "唯一可行的途径—美国必须回到协议",
+      "summary": "伊朗报纸在接受伊朗伊斯兰共和国前驻巴基斯坦大使Mashallah Shakeri的采访时，探讨了为什么巴基斯坦再次试图在伊朗和美国之间进行调解。",
+      "date": "2026-09-05T17:06:07Z",
+      "url": "https://www.tehrantimes.com/news/529690/The-only-viable-path-America-must-return-to-the-agreement",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529690/The-only-viable-path-America-must-return-to-the-agreement"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The only viable path — America must return to the agreement"
+      }
+    },
+    {
+      "id": "evt_95493dd6",
+      "title": "霍尔木兹：美国战略误判的法案",
+      "summary": "德黑兰--华盛顿在攻击伊朗时最大的误判可能是，它在军事战场上对战争的代价过于沉重，而在美国的经济资产负债表上太少。",
+      "date": "2026-09-05T17:05:34Z",
+      "url": "https://www.tehrantimes.com/news/529689/Hormuz-The-bill-for-America-s-strategic-miscalculation",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529689/Hormuz-The-bill-for-America-s-strategic-miscalculation"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hormuz: The bill for America's strategic miscalculation"
+      }
+    },
+    {
+      "id": "evt_a709dea7",
+      "title": "德黑兰警告美国人不要在对伊朗的战争中成为“炮灰”",
+      "summary": "德黑兰--伊朗外交部发言人伊斯梅尔·巴凯伊（ Esmaeil Baqaei ）在《耶路撒冷邮报》（ Jerusalem Post ）发表一篇评论文章，建议利用债务减免作为招募年轻美国人进行潜在地面攻势的激励措施后，警告美国人不要让他们的孩子成为他所谓的“炮灰”。",
+      "date": "2026-09-05T17:05:03Z",
+      "url": "https://www.tehrantimes.com/news/529724/Tehran-warns-Americans-against-becoming-cannon-fodder-in-war",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529724/Tehran-warns-Americans-against-becoming-cannon-fodder-in-war"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tehran warns Americans against becoming ‘cannon fodder’ in war on Iran"
+      }
+    },
+    {
+      "id": "evt_39696a1d",
+      "title": "伊朗敦促金砖国家追究战争罪行",
+      "summary": "TEHRAN-伊朗呼吁金砖国家司法当局采取具体的法律措施，打击在对伊朗伊斯兰共和国的两次侵略战争期间犯下的“战争罪和危害人类罪”的责任人，认为国际司法绝不能服从于政治权力。",
+      "date": "2026-09-05T17:01:44Z",
+      "url": "https://www.tehrantimes.com/news/529723/Iran-urges-BRICS-to-pursue-war-crimes-accountability",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529723/Iran-urges-BRICS-to-pursue-war-crimes-accountability"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran urges BRICS to pursue war crimes accountability"
       }
     },
     {
@@ -850,34 +906,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "US and Iran trade strikes for first time in weeks"
-      }
-    },
-    {
-      "id": "evt_782883ed",
-      "title": "特朗普希望制裁将推翻伊朗政权-其领导人押注否则",
-      "summary": "美国表示，新的制裁是“经济D日” ，但德黑兰的领导人此前曾幸免于难。",
-      "date": "2026-08-25T12:37:53Z",
-      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise"
       }
     }
   ]
