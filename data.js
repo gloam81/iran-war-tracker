@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-09T02:28:05.052586Z
+// 自动生成的数据 - 更新时间: 2026-09-10T02:28:16.484777Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-09T02:28:05.052535Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-09-10T02:28:16.484723Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 19,
+      "international": 17,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_954e7c7a",
-      "title": "也门沙特支持的部队袭击西海岸的胡塞武装",
-      "summary": "沙特支持的也门政府军正在加紧反击胡塞武装。",
-      "date": "2026-09-09T02:06:02Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
+      "id": "evt_76261633",
+      "title": "亲以色列民主党人约翰·费特曼（ John Fetterman ）在共和党大会上亮相视频",
+      "summary": "宾夕法尼亚州参议员与该党在以色列的支持方面发生冲突，他说他将拒绝“极端和社会主义”。",
+      "date": "2026-09-10T01:54:05Z",
+      "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,7 +37,567 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemen’s Saudi-backed forces strike Houthis on western coast"
+        "en": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention"
+      }
+    },
+    {
+      "id": "evt_b0af1a31",
+      "title": "伊朗战争现场：伊朗媒体称“敌人”射弹袭击了Sirik地区",
+      "summary": "德黑兰表示，已准备好与该地区各国进行对话，以“促进相互信任”和“实现可持续安全”。",
+      "date": "2026-09-10T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas"
+      }
+    },
+    {
+      "id": "evt_9278ae76",
+      "title": "特朗普表示美伊战争将在中期结束后立即结束",
+      "summary": "在对伊朗发动战争七个月后，美国总统唐纳德·特朗普表示，这场战争将在中期结束后立即结束。",
+      "date": "2026-09-09T23:22:46Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says the US-Iran war will end right after midterms"
+      }
+    },
+    {
+      "id": "evt_4517cb39",
+      "title": "在达拉斯举行的共和党中期大会上，伊朗战争笼罩着特朗普",
+      "summary": "特朗普的支持者表示，尽管担心不受欢迎的战争和物价上涨，他仍可以召集共和党选民。",
+      "date": "2026-09-09T23:15:38Z",
+      "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war looms over Trump at Republican midterm convention in Dallas"
+      }
+    },
+    {
+      "id": "evt_17542aef",
+      "title": "米利班德拒绝接受首席拉比声称英国犹太人在制裁行动后面临更大危险的说法",
+      "summary": "这位外交大臣不同意对以色列定居点的制裁可能会使英国犹太人面临更大的风险。",
+      "date": "2026-09-09T20:59:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move"
+      }
+    },
+    {
+      "id": "evt_232b8ab8",
+      "title": "伊朗将核违规行为提交联合国安理会",
+      "summary": "德黑兰谴责该决议，指责美国和以色列对其核设施的打击扰乱了视察工作。",
+      "date": "2026-09-09T20:22:51Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran referred to UN Security Council for nuclear non-compliance"
+      }
+    },
+    {
+      "id": "evt_e42a313b",
+      "title": "伊朗的拉希米在2026年艾哈迈达巴德世界射箭帕拉系列赛中赢得金牌",
+      "summary": "德黑兰–伊朗的Somayeh Rahimi周三在艾哈迈达巴德2026现代世界射箭残疾人系列赛中夺得金牌。",
+      "date": "2026-09-09T19:09:31Z",
+      "url": "https://www.tehrantimes.com/news/529883/Iran-s-Rahimi-wins-gold-at-Ahmedabad-2026-World-Archery-Para",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529883/Iran-s-Rahimi-wins-gold-at-Ahmedabad-2026-World-Archery-Para"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s Rahimi wins gold at Ahmedabad 2026 World Archery Para Series"
+      }
+    },
+    {
+      "id": "evt_827cc971",
+      "title": "以色列是否正在重塑对黎巴嫩南部的占领？",
+      "summary": "德黑兰--为了确保黎巴嫩占领军的合法性，以色列正试图推动沿着三条路线撤军的想法，以回避国际要求并从黎巴嫩边境撤军。",
+      "date": "2026-09-09T16:55:17Z",
+      "url": "https://www.tehrantimes.com/news/529858/Is-Israel-reshaping-its-occupation-of-southern-Lebanon",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529858/Is-Israel-reshaping-its-occupation-of-southern-Lebanon"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Is Israel reshaping its occupation of southern Lebanon?"
+      }
+    },
+    {
+      "id": "evt_9ab21906",
+      "title": "用意大利语出版的关于烈士领袖的书",
+      "summary": "德黑兰--关于殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的《带着微笑的革命者》（ The Revolutionary with a Smile ）一书的意大利语译本已经发布。",
+      "date": "2026-09-09T16:54:46Z",
+      "url": "https://www.tehrantimes.com/news/529856/Book-on-Martyr-Leader-published-in-Italian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529856/Book-on-Martyr-Leader-published-in-Italian"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Book on Martyr Leader published in Italian"
+      }
+    },
+    {
+      "id": "evt_f62f2934",
+      "title": "基亚罗斯塔米电影将在韩国电影节上放映",
+      "summary": "TEHRAN -伊朗著名电影制片人阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）的六部电影计划在韩国第11届蔚山蔚州山电影节上放映，该电影节的重点是探索山脉、自然、冒险、环境和人类体验的作品。",
+      "date": "2026-09-09T16:54:19Z",
+      "url": "https://www.tehrantimes.com/news/529851/Kiarostami-films-to-go-on-screen-at-South-Korean-festival",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529851/Kiarostami-films-to-go-on-screen-at-South-Korean-festival"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Kiarostami films to go on screen at South Korean festival"
+      }
+    },
+    {
+      "id": "evt_b6a545a1",
+      "title": "伊朗插画家入围2026年金风车青年插画家大赛决赛",
+      "summary": "德黑兰--一位伊朗插画家入围了2026年中国上海金风车青年插画家大赛的决赛。",
+      "date": "2026-09-09T16:53:53Z",
+      "url": "https://www.tehrantimes.com/news/529857/Iranian-illustrator-among-finalists-of-2026-Golden-Pinwheel-Young",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529857/Iranian-illustrator-among-finalists-of-2026-Golden-Pinwheel-Young"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian illustrator among finalists of 2026 Golden Pinwheel Young Illustrators Competition"
+      }
+    },
+    {
+      "id": "evt_51e227df",
+      "title": "从战争到解决方案",
+      "summary": "Sobh-e-No分析了特朗普的“无效政策” ，认为这源于华盛顿无力对抗伊朗的权力。经过数月的冲突和未能对抗伊朗，美国现在打算使用另一个压力杠杆—将伊朗的案件提交给联合国安理会—希望迫使伊朗屈服。",
+      "date": "2026-09-09T16:51:16Z",
+      "url": "https://www.tehrantimes.com/news/529877/From-war-to-resolution",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529877/From-war-to-resolution"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "From war to resolution"
+      }
+    },
+    {
+      "id": "evt_79347816",
+      "title": "韩国人在首尔集会反对加入美国对伊朗的战争",
+      "summary": "德黑兰--韩国国内公众日益增加的愤怒与美国将国际盟友拖入其对伊朗无端战争的侵略性企图直接发生冲突。",
+      "date": "2026-09-09T16:50:35Z",
+      "url": "https://www.tehrantimes.com/news/529876/South-Koreans-rally-in-Seoul-against-joining-US-war-on-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529876/South-Koreans-rally-in-Seoul-against-joining-US-war-on-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "South Koreans rally in Seoul against joining US war on Iran"
+      }
+    },
+    {
+      "id": "evt_e946c93a",
+      "title": "IRGC对美国船队和区域基础设施进行了新的打击",
+      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）在霍尔木兹海峡进行了一系列高影响力的报复性打击，在华盛顿的明确鼓励和保护下，成功瞄准了两艘美国军舰、八艘油轮和另外十艘试图突破伊朗指定禁区的船只。",
+      "date": "2026-09-09T16:49:55Z",
+      "url": "https://www.tehrantimes.com/news/529875/IRGC-deals-fresh-blows-to-US-fleet-regional-infrastructure",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529875/IRGC-deals-fresh-blows-to-US-fleet-regional-infrastructure"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "IRGC deals fresh blows to US fleet, regional infrastructure"
+      }
+    },
+    {
+      "id": "evt_5e4a3ff9",
+      "title": "在霍尔木兹捕捉白鲸",
+      "summary": "德黑兰--伊朗在战略性霍尔木兹海峡入口处成功捕获和拦截了一架高度先进的美国无人驾驶水下航行器，这是对华盛顿技术傲慢的决定性打击，暴露了美国军方自动化作战设备的深刻弱点。",
+      "date": "2026-09-09T16:49:20Z",
+      "url": "https://www.tehrantimes.com/news/529874/Moby-Dick-catch-in-Hormuz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529874/Moby-Dick-catch-in-Hormuz"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Moby-Dick catch in Hormuz"
+      }
+    },
+    {
+      "id": "evt_3c5aa29f",
+      "title": "在美国和胡塞武装袭击后，油价自7月以来首次达到每桶100 $",
+      "summary": "布伦特原油-全球油价基准-在美国周二击中五艘伊朗油轮后上涨",
+      "date": "2026-09-09T16:46:53Z",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oil hits $100 a barrel for first time since July after US and Houthi strikes"
+      }
+    },
+    {
+      "id": "evt_51a09dca",
+      "title": "副总裁： Pezeshkian上任后，伊朗就做好了准备",
+      "summary": "TEHRAN -伊朗第一副总统穆罕默德·雷扎·阿雷夫（ Mohammad Reza Aref ）表示，总统马苏德·佩泽什基安（ Masoud Pezeshkian ）的政府已经制定了应急计划，以便在其任期开始时在战时条件下治理该国，并预计到全面冲突的可能性。",
+      "date": "2026-09-09T16:46:18Z",
+      "url": "https://www.tehrantimes.com/news/529881/VP-Iran-was-prepared-as-soon-as-Pezeshkian-took-the-office",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529881/VP-Iran-was-prepared-as-soon-as-Pezeshkian-took-the-office"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "VP: Iran was prepared as soon as Pezeshkian took the office"
+      }
+    },
+    {
+      "id": "evt_d361c3ca",
+      "title": "伊斯兰革命卫队警告说，伊朗每两次攻击敌人，就会攻击20个目标",
+      "summary": "伊朗伊斯兰革命卫队（ IRGC ）发言人周三表示，伊朗将以大幅增加的打击次数来应对任何袭击，并警告说，如果两三个伊朗目标受到攻击，德黑兰将瞄准多达20个敌方阵地。",
+      "date": "2026-09-09T16:44:11Z",
+      "url": "https://www.tehrantimes.com/news/529880/Iran-will-strike-20-targets-for-every-two-hits-by-enemy-IRGC",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529880/Iran-will-strike-20-targets-for-every-two-hits-by-enemy-IRGC"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran will strike 20 targets for every two hits by enemy, IRGC warns"
+      }
+    },
+    {
+      "id": "evt_02e3f8eb",
+      "title": "罪犯同志",
+      "summary": "TEHRAN -内塔尼亚胡内阁的几乎所有成员都是犯罪分子，但有些人“更犯罪”。",
+      "date": "2026-09-09T16:40:37Z",
+      "url": "https://www.tehrantimes.com/news/529878/Comrade-criminals",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529878/Comrade-criminals"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Comrade criminals"
+      }
+    },
+    {
+      "id": "evt_5c441716",
+      "title": "谢里夫将军：伊朗将霍尔木兹海峡视为战略威慑",
+      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）神圣国防文件中心负责人兼IRGC总司令顾问拉梅赞·谢里夫准将（ Brigadier General Ramezan Sharif ）将伊朗限制或阻止通过霍尔木兹海峡（ Strait of Hormuz ）的海上交通的能力描述为国家权力的战略和威慑工具。",
+      "date": "2026-09-09T16:39:04Z",
+      "url": "https://www.tehrantimes.com/news/529879/General-Sharif-Iran-regards-Strait-of-Hormuz-as-strategic-deterrent",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529879/General-Sharif-Iran-regards-Strait-of-Hormuz-as-strategic-deterrent"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "General Sharif: Iran regards Strait of Hormuz as strategic deterrent"
+      }
+    },
+    {
+      "id": "evt_76493c62",
+      "title": "TCCIMA贸易代表团前往新德里出席金砖国家商务理事会会议",
+      "summary": "德黑兰-德黑兰商会、工业、矿业和农业（ TCCIMA ）的一个贸易代表团，由副主席Feryal Mostofi率领，以及该商会董事会其他成员Shahab Javanmardi和Abbas Argon ，已前往印度参加金砖国家工商理事会会议及其专门工作组。",
+      "date": "2026-09-09T14:27:21Z",
+      "url": "https://www.tehrantimes.com/news/529873/TCCIMA-trade-delegation-departs-for-New-Delhi-to-attend-BRICS",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529873/TCCIMA-trade-delegation-departs-for-New-Delhi-to-attend-BRICS"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "TCCIMA trade delegation departs for New Delhi to attend BRICS business council meetings"
       }
     },
     {
@@ -69,268 +629,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_29e94c17",
-      "title": "约旦防空部队拦截伊朗导弹",
-      "summary": "目击者捕捉到了约旦防空系统拦截伊朗弹道导弹的时刻。",
-      "date": "2026-09-09T01:08:15Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
+      "id": "evt_b7666172",
+      "title": "几十年来英以关系低迷",
+      "summary": "以色列对伦敦与被占领的约旦河西岸的以色列定居点的贸易禁令的回应表明，这一时刻是多么重要。",
+      "date": "2026-09-08T21:46:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Jordanian air defences intercept Iranian missile barrage"
-      }
-    },
-    {
-      "id": "evt_67b6939b",
-      "title": "美国袭击5艘伊朗油轮，德黑兰报复约旦",
-      "summary": "美国军方表示，在伊斯兰革命卫队在两天内两次瞄准一艘美国军舰后，它袭击了五艘伊朗油轮。",
-      "date": "2026-09-09T00:08:37Z",
-      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan"
-      }
-    },
-    {
-      "id": "evt_f76d924f",
-      "title": "伊朗战争现场：美国击中伊朗油轮，伊斯兰革命卫队袭击约旦的美军",
-      "summary": "伊朗伊斯兰革命卫队敦促船员离开科威特和巴林的油轮，并警告说，在美国袭击后，它将瞄准船只。",
-      "date": "2026-09-09T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan"
-      }
-    },
-    {
-      "id": "evt_2a87c2bd",
-      "title": "美国加大对伊朗的压力，对伊朗实施针对航空业的制裁",
-      "summary": "特朗普政府试图通过一系列旨在挤压该国经济的措施来孤立德黑兰。",
-      "date": "2026-09-08T23:51:29Z",
-      "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US increases pressure on Iran with sanctions targeting aviation sector"
-      }
-    },
-    {
-      "id": "evt_0da3f926",
-      "title": "美国海军遭袭后轰炸5艘伊朗油轮",
-      "summary": "美国军方发布了一段视频，显示其部队摧毁了据称是五艘伊朗原油油轮。",
-      "date": "2026-09-08T23:49:25Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US bombs five Iranian oil tankers after its navy is attacked"
-      }
-    },
-    {
-      "id": "evt_9842ff34",
-      "title": "伊朗在霍尔木兹海峡扣押美国自主水下航行器",
-      "summary": "伊朗伊斯兰革命卫队（ IRGC ）海军周二表示，它在霍尔木兹海峡入口处扣押了一辆先进的美国无人驾驶水下航行器。",
-      "date": "2026-09-08T18:29:38Z",
-      "url": "https://www.tehrantimes.com/news/529850/Iran-seizes-US-autonomous-underwater-vehicle-in-Strait-of-Hormuz",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529850/Iran-seizes-US-autonomous-underwater-vehicle-in-Strait-of-Hormuz"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran seizes US autonomous underwater vehicle in Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_dc5f6123",
-      "title": "伊朗连续第三年参加Cosmoscow国际当代艺术博览会",
-      "summary": "德黑兰--第14届宇宙斯科国际当代艺术博览会（ Cosmoscow International Contemporary Art Fair ）伊朗馆的官员宣布，伊朗艺术家的作品受到该活动参观者的好评，该活动被认为是俄罗斯最重要的专业艺术展示。",
-      "date": "2026-09-08T18:20:26Z",
-      "url": "https://www.tehrantimes.com/news/529839/Iran-attends-Cosmoscow-International-Contemporary-Art-Fair-for",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529839/Iran-attends-Cosmoscow-International-Contemporary-Art-Fair-for"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran attends Cosmoscow International Contemporary Art Fair for third consecutive year"
-      }
-    },
-    {
-      "id": "evt_595de04c",
-      "title": "“Like Water for Chocolate”将在巴格达国际戏剧节上演",
-      "summary": "TEHRAN-伊朗导演易卜拉欣·波什特·科希（ Ebrahim Poshte Kouhi ）广受好评的戏剧《巧克力似水》（ Like Water for Chocolate ）改编自墨西哥作家劳拉·埃斯基维尔（ Laura Esquivel ）的小说，将于10月10日至18日在巴格达国际戏剧节上演。",
-      "date": "2026-09-08T18:20:04Z",
-      "url": "https://www.tehrantimes.com/news/529826/Like-Water-for-Chocolate-to-take-stage-at-Baghdad-Intl-Theater",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529826/Like-Water-for-Chocolate-to-take-stage-at-Baghdad-Intl-Theater"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Like Water for Chocolate” to take stage at Baghdad Intl. Theater Festival"
-      }
-    },
-    {
-      "id": "evt_d541ed6c",
-      "title": "伊斯法罕将举办第38届儿童电影节",
-      "summary": "TEHRAN-第38届国际儿童和青少年电影节将在伊斯法罕举行，主办方将策划一系列针对儿童和青少年的电影、教育和文化节目。",
-      "date": "2026-09-08T18:19:34Z",
-      "url": "https://www.tehrantimes.com/news/529825/Isfahan-to-host-38th-children-s-film-festival",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529825/Isfahan-to-host-38th-children-s-film-festival"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Isfahan to host 38th children’s film festival"
-      }
-    },
-    {
-      "id": "evt_74b3968b",
-      "title": "微藻的繁殖摧毁了以色列的大部分海水淡化厂",
-      "summary": "据美国有线电视新闻网报道，地中海长达数英里的微藻花被指责为本周暂时关闭以色列的许多主要海水淡化厂，威胁到其主要的饮用水源。",
-      "date": "2026-09-08T18:19:03Z",
-      "url": "https://www.tehrantimes.com/news/529837/Microalgae-bloom-knocks-out-most-of-Israel-s-desalination-plants",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529837/Microalgae-bloom-knocks-out-most-of-Israel-s-desalination-plants"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -345,259 +653,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Microalgae bloom knocks out most of Israel’s desalination plants"
-      }
-    },
-    {
-      "id": "evt_e2fda085",
-      "title": "随着袭击扩展到叙利亚南部，以色列军队袭击了布雷卡",
-      "summary": "德黑兰--周二，以色列军队袭击了叙利亚南部库奈特拉省的布雷卡村，袭击了一座住宅，这是对叙利亚主权的最新无耻攻击。",
-      "date": "2026-09-08T18:18:50Z",
-      "url": "https://www.tehrantimes.com/news/529836/Israeli-troops-storm-Breqa-as-raids-expand-across-southern-Syria",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529836/Israeli-troops-storm-Breqa-as-raids-expand-across-southern-Syria"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli troops storm Breqa as raids expand across southern Syria"
-      }
-    },
-    {
-      "id": "evt_d4e80046",
-      "title": "让华盛顿颤抖的母亲的声音",
-      "summary": "德黑兰--他的年龄太小，不适合挂国旗。他的人生才刚刚开始。在霍尔木兹海峡沿岸的库切斯塔克村，他们埋葬了埃米尔-穆罕默德·卡里米。他当时四岁。他正要上幼儿园。他在一场婚礼上去世，当时一枚美国弹药撞成了一场欢乐的聚会，并把它变成了一座坟墓。他的父亲要求伊斯兰革命卫队为他报仇。",
-      "date": "2026-09-08T18:18:12Z",
-      "url": "https://www.tehrantimes.com/news/529840/The-voice-of-mothers-that-makes-Washington-tremble",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529840/The-voice-of-mothers-that-makes-Washington-tremble"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The voice of mothers that makes Washington tremble"
-      }
-    },
-    {
-      "id": "evt_be5c7ebf",
-      "title": "也门军队在报复性闪电战中袭击沙特设施",
-      "summary": "德黑兰--也门武装部队宣布成功实施针对沙特重要经济和军事设施的大规模进攻。",
-      "date": "2026-09-08T18:17:48Z",
-      "url": "https://www.tehrantimes.com/news/529838/Yemeni-forces-strike-Saudi-facilities-in-retaliatory-blitz",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529838/Yemeni-forces-strike-Saudi-facilities-in-retaliatory-blitz"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemeni forces strike Saudi facilities in retaliatory blitz"
-      }
-    },
-    {
-      "id": "evt_30b22375",
-      "title": "大众汽车将把历史悠久的德国汽车厂交给以色列武器制造商",
-      "summary": "德黑兰--大众汽车已正式达成协议，将其Osnabrück汽车工厂转让给以色列投资者。据报道，该设施将作为以色列“拉斐尔先进防御系统”的专用军事生产中心。“这笔交易将德国的工业产能实际整合到以色列的战争机器中。",
-      "date": "2026-09-08T18:16:41Z",
-      "url": "https://www.tehrantimes.com/news/529835/Volkswagen-to-hand-historic-German-auto-plant-to-Israeli-weapons",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529835/Volkswagen-to-hand-historic-German-auto-plant-to-Israeli-weapons"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Volkswagen to hand historic German auto plant to Israeli weapons manufacturers"
-      }
-    },
-    {
-      "id": "evt_991058df",
-      "title": "美国国会议员将伊朗战争描述为可预测的“泥潭”",
-      "summary": "德黑兰--美国众议员杰森·克劳（ Jason Crow ）加入了反对伊朗战争的阵营，称这场冲突是完全可以预测的“泥潭”。",
-      "date": "2026-09-08T18:15:38Z",
-      "url": "https://www.tehrantimes.com/news/529821/US-congressman-describes-Iran-war-as-a-predictable-quagmire",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529821/US-congressman-describes-Iran-war-as-a-predictable-quagmire"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US congressman describes Iran war as a predictable ‘quagmire’"
-      }
-    },
-    {
-      "id": "evt_e80d9467",
-      "title": "Resalat ：伊朗弹道导弹袭击下的美国舰队",
-      "summary": "Resalat分析了针对两艘美国船舶的复杂的IRGC操作。伊斯兰革命卫队表示，两艘美国船只在被击中并遭受损坏后，出于对第二波导弹袭击的深切恐惧，很快离开了交战区，并被迫进行战术撤退。",
-      "date": "2026-09-08T18:14:57Z",
-      "url": "https://www.tehrantimes.com/news/529822/Resalat-The-US-fleet-under-Iranian-ballistic-fire",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529822/Resalat-The-US-fleet-under-Iranian-ballistic-fire"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Resalat: The US fleet under Iranian ballistic fire"
-      }
-    },
-    {
-      "id": "evt_dcf95495",
-      "title": "伊朗FM指责美国造成地区紧张局势，引用违反6月谅解备忘录的行为",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，该地区目前的“紧张局势”源于美国“令人遗憾地”违反了谅解备忘录（ MOU ） ，并强调缓和局势的道路是直截了当的。",
-      "date": "2026-09-08T18:13:28Z",
-      "url": "https://www.tehrantimes.com/news/529820/Iran-FM-blames-US-for-regional-tensions-cites-violation-of-June",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529820/Iran-FM-blames-US-for-regional-tensions-cites-violation-of-June"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran FM blames US for regional tensions, cites violation of June MoU"
-      }
-    },
-    {
-      "id": "evt_ce89b322",
-      "title": "伊朗警告不要将对核设施的攻击正常化",
-      "summary": "TEHRAN-伊朗警告说，对核设施的袭击正常化可能会产生深远的影响，而不仅仅是此类袭击造成的直接损害，并表示对受保障的核设施的袭击所开创的先例最终可能会威胁到其他国家。",
-      "date": "2026-09-08T18:10:35Z",
-      "url": "https://www.tehrantimes.com/news/529848/Iran-warns-against-normalizing-attacks-on-nuclear-facilities",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529848/Iran-warns-against-normalizing-attacks-on-nuclear-facilities"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns against normalizing attacks on nuclear facilities"
-      }
-    },
-    {
-      "id": "evt_aa71997e",
-      "title": "伊朗在最近的战争中“打破了美军的威望” ， Basij负责人说",
-      "summary": "TEHRAN—伊朗巴斯基酋长Hojjat al-Islam Hossein Taeb周二表示，在最近强加给伊朗的战争期间，伊朗伊斯兰共和国已经打破了美国在国际舞台上的声望和军事主导地位。",
-      "date": "2026-09-08T18:04:31Z",
-      "url": "https://www.tehrantimes.com/news/529846/Iran-broke-the-prestige-of-US-military-in-recent-war-Basij",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529846/Iran-broke-the-prestige-of-US-military-in-recent-war-Basij"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran ‘broke the prestige’ of US military in recent war, Basij chief says"
+        "en": "British-Israeli relations at lowest ebb in decades"
       }
     },
     {
@@ -822,118 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Palestinian teens killed during settler attack on West Bank village"
-      }
-    },
-    {
-      "id": "evt_dd69f8d6",
-      "title": "我们对报道的伊朗婚礼庆祝活动罢工的了解",
-      "summary": "BBC Verify查看了显示伊朗南部一栋建筑物罢工后果的镜头。",
-      "date": "2026-09-02T21:02:35Z",
-      "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What we know about reported strike on Iran wedding celebrations"
-      }
-    },
-    {
-      "id": "evt_b23220bf",
-      "title": "沙特阿拉伯称，伊朗袭击沙特油轮造成两名菲律宾水手死亡",
-      "summary": "沙特谴责周一在霍尔木兹海峡遭到未知射弹袭击的Sidr。",
-      "date": "2026-09-02T17:33:45Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says"
-      }
-    },
-    {
-      "id": "evt_2d0f8e5f",
-      "title": "伊朗称美国的罢工在婚礼上以“战争罪”杀死了四人，因为美国否认针对平民",
-      "summary": "伊朗媒体报道，两名儿童在弹片击中房屋时遇难。伊朗随后向美国在中东的目标发射了导弹和无人机。",
-      "date": "2026-09-02T15:33:19Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians"
-      }
-    },
-    {
-      "id": "evt_0331cc2e",
-      "title": "埃及红海沿岸公交车坠毁22人死亡",
-      "summary": "报告称，约旦国民是南西奈省事故中遇难者之一。",
-      "date": "2026-09-02T12:07:32Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bus crash on Egypt's Red Sea coast kills 22"
       }
     }
   ]
