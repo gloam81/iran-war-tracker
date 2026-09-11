@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-10T02:28:16.484777Z
+// 自动生成的数据 - 更新时间: 2026-09-11T02:24:52.622934Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-10T02:28:16.484723Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-09-11T02:24:52.622879Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 17,
+      "international": 19,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_76261633",
-      "title": "亲以色列民主党人约翰·费特曼（ John Fetterman ）在共和党大会上亮相视频",
-      "summary": "宾夕法尼亚州参议员与该党在以色列的支持方面发生冲突，他说他将拒绝“极端和社会主义”。",
-      "date": "2026-09-10T01:54:05Z",
-      "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
+      "id": "evt_b3b12884",
+      "title": "伊朗声称在霍尔木兹海峡附近捕获了一架美国“帆船无人机”",
+      "summary": "伊朗革命卫队表示，其海军在霍尔木兹海峡入口处击中了一架美国操作的水面无人机。",
+      "date": "2026-09-11T00:24:24Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait"
+      }
+    },
+    {
+      "id": "evt_cbd519fc",
+      "title": "以色列关于加沙的电影在威尼斯首映式上获得25分钟的掌声",
+      "summary": "威尼斯电影节表彰NAZA ，展示以色列在加沙使用人工智能系统的情况。",
+      "date": "2026-09-11T00:14:59Z",
+      "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention"
+        "en": "Israeli film on Gaza receives 25-minute ovation at Venice premiere"
       }
     },
     {
-      "id": "evt_b0af1a31",
-      "title": "伊朗战争现场：伊朗媒体称“敌人”射弹袭击了Sirik地区",
-      "summary": "德黑兰表示，已准备好与该地区各国进行对话，以“促进相互信任”和“实现可持续安全”。",
-      "date": "2026-09-10T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
+      "id": "evt_3f703be9",
+      "title": "伊朗战争现场：伊斯兰革命卫队在霍尔木兹袭击美国无人驾驶船只；两艘船被击中",
+      "summary": "IRGC说，它袭击了霍尔木兹的一艘美国无人驾驶船只，而UKMTO说，射弹击中了阿曼附近的两艘船只。",
+      "date": "2026-09-11T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas"
-      }
-    },
-    {
-      "id": "evt_9278ae76",
-      "title": "特朗普表示美伊战争将在中期结束后立即结束",
-      "summary": "在对伊朗发动战争七个月后，美国总统唐纳德·特朗普表示，这场战争将在中期结束后立即结束。",
-      "date": "2026-09-09T23:22:46Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says the US-Iran war will end right after midterms"
+        "en": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit"
       }
     },
     {
-      "id": "evt_4517cb39",
-      "title": "在达拉斯举行的共和党中期大会上，伊朗战争笼罩着特朗普",
-      "summary": "特朗普的支持者表示，尽管担心不受欢迎的战争和物价上涨，他仍可以召集共和党选民。",
-      "date": "2026-09-09T23:15:38Z",
-      "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+      "id": "evt_dcac8c81",
+      "title": "联合国特使警告安理会也门战争已进入“危险阶段”",
+      "summary": "也门问题特使汉斯·格伦德伯格（ Hans Grundberg ）要求在胡塞武装升级期间采取紧急措施保护平民和贸易路线。",
+      "date": "2026-09-10T23:46:07Z",
+      "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’"
+      }
+    },
+    {
+      "id": "evt_75e06a49",
+      "title": "以色列称摧毁了黎巴嫩Ali al-Taher山脊的真主党基地",
+      "summary": "以色列的袭击发生在据称已经对战略山脊建立了作战控制的一周之后。",
+      "date": "2026-09-10T22:33:41Z",
+      "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge"
+      }
+    },
+    {
+      "id": "evt_b0944529",
+      "title": "据报道，也门的胡塞武装占领了红海战略港口莫卡",
+      "summary": "Mokha的被捕将使伊朗支持的集团更接近控制Bab al-Mandab海峡水道，这是一条重要的航线。",
+      "date": "2026-09-10T18:15:47Z",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha"
+      }
+    },
+    {
+      "id": "evt_20b4b4e4",
+      "title": "以色列内塔尼亚胡起诉报纸声称阿联酋警告他10月7日的袭击",
+      "summary": "该报称，在出版了一本出现索赔的书的摘录后，它坚持其报告。",
+      "date": "2026-09-10T15:54:17Z",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack"
+      }
+    },
+    {
+      "id": "evt_24c931c5",
+      "title": "阿尔及利亚将断绝与阿联酋的外交关系",
+      "summary": "阿尔及利亚外交部没有给出此举的理由，但表示已用尽一切手段。",
+      "date": "2026-09-10T15:47:43Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Algeria to sever diplomatic ties with UAE"
+      }
+    },
+    {
+      "id": "evt_52803f97",
+      "title": "美国-以色列对伊朗的袭击系统地破坏了人权",
+      "summary": "2026年2月，美国和以色列对伊朗发动了大规模的联合军事打击。这一未经联合国安全理事会授权的公然军事行动遭到了国际社会的强烈谴责。",
+      "date": "2026-09-10T12:00:05Z",
+      "url": "https://www.tehrantimes.com/news/529884/US-Israel-strikes-against-Iran-have-systematically-undermined",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529884/US-Israel-strikes-against-Iran-have-systematically-undermined"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US-Israel strikes against Iran have systematically undermined human rights"
+      }
+    },
+    {
+      "id": "evt_30514cc5",
+      "title": "特朗普表示，直到11月关键选举之后，伊朗战争才会结束",
+      "summary": "总统还表示，直到11月大选之后，油价才会下降，声称没有证据表明伊朗希望影响选举。",
+      "date": "2026-09-10T10:43:53Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,7 +289,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war looms over Trump at Republican midterm convention in Dallas"
+        "en": "Iran war won't end until after crucial November elections, says Trump"
+      }
+    },
+    {
+      "id": "evt_62e4b305",
+      "title": "生活在以色列拆迁令下的社区如何看待英国的制裁",
+      "summary": "英国广播公司中东记者露西·威廉姆森（ Lucy Williamson ）访问了所谓的E1地区的Khan al Ahmar巴勒斯坦社区以及邻近的以色列定居点Maale Admumim。",
+      "date": "2026-09-09T22:17:22Z",
+      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How a community living under demolition orders from Israel view UK sanctions"
+      }
+    },
+    {
+      "id": "evt_8229fff2",
+      "title": "美国对英国对约旦河西岸制裁的缓和回应可能反映出酝酿中的挫折感",
+      "summary": "英国指责以色列政府对定居者对巴勒斯坦人的“种族清洗”视而不见。",
+      "date": "2026-09-09T21:21:13Z",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Muted US response to UK's West Bank sanctions may reflect simmering frustration"
       }
     },
     {
@@ -573,34 +797,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_76493c62",
-      "title": "TCCIMA贸易代表团前往新德里出席金砖国家商务理事会会议",
-      "summary": "德黑兰-德黑兰商会、工业、矿业和农业（ TCCIMA ）的一个贸易代表团，由副主席Feryal Mostofi率领，以及该商会董事会其他成员Shahab Javanmardi和Abbas Argon ，已前往印度参加金砖国家工商理事会会议及其专门工作组。",
-      "date": "2026-09-09T14:27:21Z",
-      "url": "https://www.tehrantimes.com/news/529873/TCCIMA-trade-delegation-departs-for-New-Delhi-to-attend-BRICS",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529873/TCCIMA-trade-delegation-departs-for-New-Delhi-to-attend-BRICS"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "TCCIMA trade delegation departs for New Delhi to attend BRICS business council meetings"
-      }
-    },
-    {
       "id": "evt_661abbbf",
       "title": "英国宣布对约旦河西岸定居点实施制裁，引发以色列愤怒回应",
       "summary": "英国外交大臣指责定居者对巴勒斯坦人进行“种族清洗” ，作为回应，以色列关闭了英国驻东耶路撒冷的领事馆。",
@@ -626,6 +822,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "UK announces sanctions on West Bank settlements prompting furious Israeli response"
+      }
+    },
+    {
+      "id": "evt_95817892",
+      "title": "克里斯·梅森（ Chris Mason ） ：伯纳姆（ Burnham ）希望在西岸制裁下比斯塔默（ Starmer ）",
+      "summary": "我们的政治编辑写道，希望协调行动能最大限度地减少以色列或美国对任何一个国家的反弹。",
+      "date": "2026-09-08T23:52:28Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions"
       }
     },
     {
@@ -685,100 +909,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_88618f9e",
-      "title": "沙特阿拉伯誓言在胡塞武装袭击城市和能源设施后作出回应",
-      "summary": "沙特当局表示，伊朗支持的也门组织的袭击已造成73人受伤，并导致石油设施起火。",
-      "date": "2026-09-08T13:58:32Z",
-      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "id": "evt_dd86ef1e",
+      "title": "美伊冲突如何结束？三位专家发表意见",
+      "summary": "在本周重新罢工后，双方是否有退出策略？",
+      "date": "2026-09-04T09:14:57Z",
+      "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities"
-      }
-    },
-    {
-      "id": "evt_94ca85c5",
-      "title": "以色列对黎巴嫩南部村庄的袭击造成12人死亡",
-      "summary": "黎巴嫩表示，以色列最近的升级正在危及美国斡旋的停火，该停火旨在结束以色列与真主党之间的冲突。",
-      "date": "2026-09-07T13:39:23Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli strikes in southern Lebanese village kill 12"
-      }
-    },
-    {
-      "id": "evt_553dec82",
-      "title": "伊朗警告对美国袭击的“更快，更重，更痛苦的回应”",
-      "summary": "此前一天，华盛顿表示，它袭击了伊朗油轮，以应对德黑兰对该地区美国军舰的袭击。",
-      "date": "2026-09-06T17:00:56Z",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns of 'faster, heavier, more painful response' to US attacks"
-      }
-    },
-    {
-      "id": "evt_2e633ecc",
-      "title": "美国和伊朗在冲突爆发时对船只进行报复性攻击",
-      "summary": "美国表示袭击了三艘伊朗油轮，而伊朗表示袭击了三艘与美国有关的船只。",
-      "date": "2026-09-05T22:44:07Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -793,91 +933,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US and Iran trade retaliatory attacks on ships as conflict flares"
-      }
-    },
-    {
-      "id": "evt_1b191213",
-      "title": "万斯说，美国正在调查导弹是否击中伊朗婚礼",
-      "summary": "伊朗红新月会（ IRCS ）表示，周二，一枚导弹的弹片击中了仪式，造成4人死亡。",
-      "date": "2026-09-03T22:19:59Z",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US investigating if missile hit Iran wedding, Vance says"
-      }
-    },
-    {
-      "id": "evt_0ed0a845",
-      "title": "村长说，三名农民在黎巴嫩被以色列拘留",
-      "summary": "这些拘留已向美国领导的国际监测和执行机制报告，但以色列军方尚未发表评论。",
-      "date": "2026-09-03T19:34:58Z",
-      "url": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Three farmers detained by Israel in Lebanon, village leader says"
-      }
-    },
-    {
-      "id": "evt_e05fd547",
-      "title": "巴勒斯坦青少年在定居者袭击约旦河西岸村庄期间遇害",
-      "summary": "Al-Mughayyir的委员会说，他们试图阻止定居者偷羊，但以色列军方说，他们向其部队投掷石块。",
-      "date": "2026-09-03T15:05:57Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian teens killed during settler attack on West Bank village"
+        "en": "How could US-Iran conflict end? Three experts give their views"
       }
     }
   ]
