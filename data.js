@@ -1,35 +1,35 @@
-// 自动生成的数据 - 更新时间: 2026-09-11T02:24:52.622934Z
+// 自动生成的数据 - 更新时间: 2026-09-12T02:33:01.520114Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-11T02:24:52.622879Z",
+    "lastUpdate": "2026-09-12T02:33:01.520060Z",
     "totalEvents": 33,
     "sources": {
-      "international": 19,
-      "iranian": 14,
+      "international": 20,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_b3b12884",
-      "title": "伊朗声称在霍尔木兹海峡附近捕获了一架美国“帆船无人机”",
-      "summary": "伊朗革命卫队表示，其海军在霍尔木兹海峡入口处击中了一架美国操作的水面无人机。",
-      "date": "2026-09-11T00:24:24Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+      "id": "evt_35da08ac",
+      "title": "美国前高级外交官揭露9/11恐怖袭击事件后犯下的错误",
+      "summary": "扎勒迈·哈利勒扎德大使描述了对美国处理阿富汗和伊拉克战争的担忧。",
+      "date": "2026-09-12T00:04:23Z",
+      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -37,76 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait"
+        "en": "Former top US diplomat reveals mistakes made after 9/11 attacks"
       }
     },
     {
-      "id": "evt_cbd519fc",
-      "title": "以色列关于加沙的电影在威尼斯首映式上获得25分钟的掌声",
-      "summary": "威尼斯电影节表彰NAZA ，展示以色列在加沙使用人工智能系统的情况。",
-      "date": "2026-09-11T00:14:59Z",
-      "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss",
+      "id": "evt_98eb5f1c",
+      "title": "伊朗战争现场：胡塞武装控制红海沿岸，沙特管道关闭",
+      "summary": "胡塞武装占领了也门的红海沿岸，而沙特阿拉伯在无人机袭击后暂停了重要的石油管道。",
+      "date": "2026-09-12T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli film on Gaza receives 25-minute ovation at Venice premiere"
-      }
-    },
-    {
-      "id": "evt_3f703be9",
-      "title": "伊朗战争现场：伊斯兰革命卫队在霍尔木兹袭击美国无人驾驶船只；两艘船被击中",
-      "summary": "IRGC说，它袭击了霍尔木兹的一艘美国无人驾驶船只，而UKMTO说，射弹击中了阿曼附近的两艘船只。",
-      "date": "2026-09-11T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit"
-      }
-    },
-    {
-      "id": "evt_dcac8c81",
-      "title": "联合国特使警告安理会也门战争已进入“危险阶段”",
-      "summary": "也门问题特使汉斯·格伦德伯格（ Hans Grundberg ）要求在胡塞武装升级期间采取紧急措施保护平民和贸易路线。",
-      "date": "2026-09-10T23:46:07Z",
-      "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,48 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’"
+        "en": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down"
       }
     },
     {
-      "id": "evt_75e06a49",
-      "title": "以色列称摧毁了黎巴嫩Ali al-Taher山脊的真主党基地",
-      "summary": "以色列的袭击发生在据称已经对战略山脊建立了作战控制的一周之后。",
-      "date": "2026-09-10T22:33:41Z",
-      "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge"
-      }
-    },
-    {
-      "id": "evt_b0944529",
-      "title": "据报道，也门的胡塞武装占领了红海战略港口莫卡",
-      "summary": "Mokha的被捕将使伊朗支持的集团更接近控制Bab al-Mandab海峡水道，这是一条重要的航线。",
-      "date": "2026-09-10T18:15:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_4735558b",
+      "title": "胡塞武装声称在也门取得了重大进展，并收紧了对红海航道的控制",
+      "summary": "据报道，伊朗支持的胡塞武装还占领了主要航线上的战略岛屿佩里姆。",
+      "date": "2026-09-11T22:17:45Z",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -177,7 +93,511 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha"
+        "en": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane"
+      }
+    },
+    {
+      "id": "evt_e3bc26c8",
+      "title": "以色列的拆除行动威胁到Masafer Yatta的学校和住宅",
+      "summary": "学生们承诺继续学习，因为Masafer Yatta拆迁的目标是房屋、学校及其受教育权。",
+      "date": "2026-09-11T21:53:34Z",
+      "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli demolitions threaten schools and homes in Masafer Yatta"
+      }
+    },
+    {
+      "id": "evt_31469b2f",
+      "title": "沙特阿拉伯称东西方管道被从伊拉克发射的无人机击中",
+      "summary": "伊拉克谴责这次袭击，解雇了一名领导米桑省行动的军事指挥官。",
+      "date": "2026-09-11T21:30:47Z",
+      "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq"
+      }
+    },
+    {
+      "id": "evt_b790fe68",
+      "title": "Razaullah的六次首次亮相遏制了巴基斯坦对英格兰的反击",
+      "summary": "在埃德巴斯顿第三次测试的第三天结束时，巴基斯坦队以130分的第二局领先。",
+      "date": "2026-09-11T20:07:15Z",
+      "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England"
+      }
+    },
+    {
+      "id": "evt_41ac7bf9",
+      "title": "闪电胡塞武装在也门的推进可能会给伊朗战争带来危险的新维度",
+      "summary": "叛乱分子占领了也门的战略海岸线，这是该组织几年来最令人印象深刻的军事政变。",
+      "date": "2026-09-11T19:44:58Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war"
+      }
+    },
+    {
+      "id": "evt_110b353d",
+      "title": "伊朗罢工迫使阿联酋拆除其人工智能大校园的计划",
+      "summary": "德黑兰--阿拉伯联合酋长国正在悄悄拆除其5吉瓦人工智能项目的蓝图，放弃在阿布扎比建立集中式校园的计划，转而采用分散的硬化设施网络。",
+      "date": "2026-09-11T17:01:20Z",
+      "url": "https://www.tehrantimes.com/news/529920/Iranian-strikes-force-UAE-to-dismantle-plans-for-its-AI-mega-campus",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529920/Iranian-strikes-force-UAE-to-dismantle-plans-for-its-AI-mega-campus"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian strikes force UAE to dismantle plans for its AI mega-campus"
+      }
+    },
+    {
+      "id": "evt_c745b458",
+      "title": "《天使之地》赢得喀山国际电影节大奖",
+      "summary": "TEHRAN -伊朗电影制片人Babak Khajehpasha的“天使之地”于周四在俄罗斯鞑靼斯坦共和国首都喀山举行的活动闭幕式上获得了第22届Altyn Minbar Kazan国际电影节最佳故事片大奖。",
+      "date": "2026-09-11T16:56:38Z",
+      "url": "https://www.tehrantimes.com/news/529893/Land-of-Angels-wins-Grand-Prix-at-Kazan-International-Film",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529893/Land-of-Angels-wins-Grand-Prix-at-Kazan-International-Film"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“Land of Angels” wins Grand Prix at Kazan International Film Festival"
+      }
+    },
+    {
+      "id": "evt_1707f2b9",
+      "title": "Hilaj剧院将放映法律剧《Inter Alia》",
+      "summary": "德黑兰--由贾斯汀·马丁（ Justin Martin ）执导的电影院“Inter Alia”将于周日在德黑兰的希拉吉剧院（ Hilaj Theater ）上映。",
+      "date": "2026-09-11T16:56:25Z",
+      "url": "https://www.tehrantimes.com/news/529890/Hilaj-Theater-to-show-legal-drama-filmed-theater-Inter-Alia",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529890/Hilaj-Theater-to-show-legal-drama-filmed-theater-Inter-Alia"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hilaj Theater to show legal drama filmed theater “Inter Alia”"
+      }
+    },
+    {
+      "id": "evt_6f42abfc",
+      "title": "Akbar Zanjanpour在德黑兰城市剧院表演Athol Fugard的“The Island”",
+      "summary": "德黑兰--伊朗演员兼戏剧导演阿克巴尔·赞詹普尔（ Akbar Zanjanpour ）将于9月16日在德黑兰城市剧院上演南非剧作家阿托尔·富加德（ Athol Fugard ）编剧的戏剧《岛屿》（ The Island ）。",
+      "date": "2026-09-11T16:56:12Z",
+      "url": "https://www.tehrantimes.com/news/529891/Akbar-Zanjanpour-to-stage-Athol-Fugard-s-The-Island-at-Tehran-s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529891/Akbar-Zanjanpour-to-stage-Athol-Fugard-s-The-Island-at-Tehran-s"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Akbar Zanjanpour to stage Athol Fugard’s “The Island” at Tehran’s City Theater"
+      }
+    },
+    {
+      "id": "evt_e5f73970",
+      "title": "塞浦路斯抗议者谴责赫尔佐格的访问，谴责对以色列的拥抱",
+      "summary": "德黑兰--以色列“总统”艾萨克·赫尔佐格（ Isaac Herzog ）在周四对尼科西亚进行正式访问期间面临严厉谴责，人权组织和反战活动人士聚集在总统府外，谴责克里斯托杜利德斯政府接待了在加沙进行种族灭绝的政权领导人。",
+      "date": "2026-09-11T16:55:41Z",
+      "url": "https://www.tehrantimes.com/news/529919/Protesters-in-Cyprus-condemn-Herzog-s-visit-denounce-embrace",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529919/Protesters-in-Cyprus-condemn-Herzog-s-visit-denounce-embrace"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Protesters in Cyprus condemn Herzog’s visit, denounce embrace of Israel"
+      }
+    },
+    {
+      "id": "evt_f13aa630",
+      "title": "美国代理海军部长：伊朗“炸毁”美国在巴林的基地",
+      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）欢迎美国海军最高领导人坦率地承认美国第五舰队驻巴林总部遭到大规模破坏，并将此次破坏视为伊朗报复性行动影响的明确证据。",
+      "date": "2026-09-11T16:52:01Z",
+      "url": "https://www.tehrantimes.com/news/529902/US-acting-Navy-secretary-Iran-blew-the-hell-out-of-US-base",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529902/US-acting-Navy-secretary-Iran-blew-the-hell-out-of-US-base"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US acting Navy secretary: Iran ‘blew the hell out of’ US base in Bahrain"
+      }
+    },
+    {
+      "id": "evt_3688582e",
+      "title": "安萨尔真主现在命令Bab al-Mandab海峡",
+      "summary": "德黑兰--也门武装部队（ YAF ）夺取了该国西海岸的控制权，在从沙特阿拉伯夺取了5400多平方公里的领土后，进一步巩固了对重要的巴布曼达布海峡（ Bab al-Mandab Strait ）的控制。",
+      "date": "2026-09-11T16:51:07Z",
+      "url": "https://www.tehrantimes.com/news/529918/Ansar-Allah-Now-Commands-Bab-al-Mandab-Strait",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529918/Ansar-Allah-Now-Commands-Bab-al-Mandab-Strait"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ansar Allah Now Commands Bab al-Mandab Strait"
+      }
+    },
+    {
+      "id": "evt_a8dff2ca",
+      "title": "美国四分之一世纪的战争罪行婚礼庆典",
+      "summary": "TEHRAN -近几十年来西亚及其他地区的事态发展清楚地证明了一个痛苦的事实：主导大国的军事干预和持续的战略演习，特别是美国的恐怖主义政权，始终以牺牲数千名手无寸铁的生命为代价。",
+      "date": "2026-09-11T16:49:38Z",
+      "url": "https://www.tehrantimes.com/news/529901/A-quarter-century-of-US-war-crimes-at-wedding-celebrations",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529901/A-quarter-century-of-US-war-crimes-at-wedding-celebrations"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A quarter century of US war crimes at wedding celebrations"
+      }
+    },
+    {
+      "id": "evt_b93cdd98",
+      "title": "韩国国庆日、武装部队日：德黑兰文化外交之夜",
+      "summary": "TEHRAN -大韩民国驻德黑兰大使馆在金俊平大使阁下的积极领导下，于9月10日星期四晚上在大使官邸举行了隆重的招待会，纪念韩国国庆节和武装部队日。",
+      "date": "2026-09-11T16:48:14Z",
+      "url": "https://www.tehrantimes.com/news/529913/South-Korea-National-Day-Armed-Forces-Day-a-night-of-cultural",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529913/South-Korea-National-Day-Armed-Forces-Day-a-night-of-cultural"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "South Korea National Day, Armed Forces Day: a night of cultural diplomacy in Tehran"
+      }
+    },
+    {
+      "id": "evt_640ccb9d",
+      "title": "10名获释伊朗渔民从阿联酋返回家园",
+      "summary": "德黑兰--伊朗驻迪拜总领事馆宣布，周五，被阿拉伯联合酋长国当局拘留的10名伊朗渔民被释放并返回家园。",
+      "date": "2026-09-11T16:47:21Z",
+      "url": "https://www.tehrantimes.com/news/529909/10-freed-Iranian-fishermen-return-home-from-UAE",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529909/10-freed-Iranian-fishermen-return-home-from-UAE"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "10 freed Iranian fishermen return home from UAE"
+      }
+    },
+    {
+      "id": "evt_ba997630",
+      "title": "由于首尔抗议者反对部署霍尔木兹，伊朗、韩国调频电台举行通话",
+      "summary": "德黑兰--外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）和韩国外长赵贤（ Cho Hyeon ）周五通了电话。两位高级外交官讨论了双边关系、西亚更广泛的冲突以及美国在该地区的军事冒险主义中霍尔木兹海峡周围的局势。",
+      "date": "2026-09-11T16:47:08Z",
+      "url": "https://www.tehrantimes.com/news/529910/Iranian-South-Korean-FMs-hold-phone-call-as-protesters-in-Seoul",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529910/Iranian-South-Korean-FMs-hold-phone-call-as-protesters-in-Seoul"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian, South Korean FMs hold phone call as protesters in Seoul oppose Hormuz deployment"
+      }
+    },
+    {
+      "id": "evt_1b8e1494",
+      "title": "美国人正在寻找再次打击伊朗核设施的借口",
+      "summary": "在接受国际事务专家哈桑·哈尼扎德（ Hassan Hanizadeh ）的采访时，沙格提到了国际原子能机构（ IAEA ）理事会通过的反伊朗决议。Hanizadeh表示，该决议是在美国和某些欧洲国家的压力下通过的，要求增加对伊朗的压力并孤立伊朗，其政治层面超过其技术层面。",
+      "date": "2026-09-11T16:46:51Z",
+      "url": "https://www.tehrantimes.com/news/529900/Americans-are-seeking-a-pretext-for-another-strike-on-Iran-s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529900/Americans-are-seeking-a-pretext-for-another-strike-on-Iran-s"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Americans are seeking a pretext for another strike on Iran’s nuclear facilities"
+      }
+    },
+    {
+      "id": "evt_124bbb66",
+      "title": "巴卡伊：国际原子能机构有成为侵略伊朗正当理由的工具的风险",
+      "summary": "伊朗外交部发言人Esmaeil Baqaei严厉批评国际原子能机构（ IAEA ）及其总干事拉斐尔·格罗西（ Rafael Grossi ） ，指责他们破坏了该机构的独立性，并将其技术评估变成了对伊朗施加政治压力和军事行动理由的基础。",
+      "date": "2026-09-11T16:46:06Z",
+      "url": "https://www.tehrantimes.com/news/529917/Baqaei-IAEA-risks-becoming-instrument-for-justifying-aggression",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/529917/Baqaei-IAEA-risks-becoming-instrument-for-justifying-aggression"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Baqaei: IAEA risks becoming instrument for justifying aggression against Iran"
+      }
+    },
+    {
+      "id": "evt_fad82013",
+      "title": "以色列说，它摧毁了真主党的主要地下基地",
+      "summary": "根据美国地质调查局的数据，强力爆炸相当于4.1级地震。",
+      "date": "2026-09-11T15:50:23Z",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel says it has destroyed major underground Hezbollah base"
       }
     },
     {
@@ -234,34 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Algeria to sever diplomatic ties with UAE"
-      }
-    },
-    {
-      "id": "evt_52803f97",
-      "title": "美国-以色列对伊朗的袭击系统地破坏了人权",
-      "summary": "2026年2月，美国和以色列对伊朗发动了大规模的联合军事打击。这一未经联合国安全理事会授权的公然军事行动遭到了国际社会的强烈谴责。",
-      "date": "2026-09-10T12:00:05Z",
-      "url": "https://www.tehrantimes.com/news/529884/US-Israel-strikes-against-Iran-have-systematically-undermined",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529884/US-Israel-strikes-against-Iran-have-systematically-undermined"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Israel strikes against Iran have systematically undermined human rights"
       }
     },
     {
@@ -405,258 +797,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e42a313b",
-      "title": "伊朗的拉希米在2026年艾哈迈达巴德世界射箭帕拉系列赛中赢得金牌",
-      "summary": "德黑兰–伊朗的Somayeh Rahimi周三在艾哈迈达巴德2026现代世界射箭残疾人系列赛中夺得金牌。",
-      "date": "2026-09-09T19:09:31Z",
-      "url": "https://www.tehrantimes.com/news/529883/Iran-s-Rahimi-wins-gold-at-Ahmedabad-2026-World-Archery-Para",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529883/Iran-s-Rahimi-wins-gold-at-Ahmedabad-2026-World-Archery-Para"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s Rahimi wins gold at Ahmedabad 2026 World Archery Para Series"
-      }
-    },
-    {
-      "id": "evt_827cc971",
-      "title": "以色列是否正在重塑对黎巴嫩南部的占领？",
-      "summary": "德黑兰--为了确保黎巴嫩占领军的合法性，以色列正试图推动沿着三条路线撤军的想法，以回避国际要求并从黎巴嫩边境撤军。",
-      "date": "2026-09-09T16:55:17Z",
-      "url": "https://www.tehrantimes.com/news/529858/Is-Israel-reshaping-its-occupation-of-southern-Lebanon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529858/Is-Israel-reshaping-its-occupation-of-southern-Lebanon"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Is Israel reshaping its occupation of southern Lebanon?"
-      }
-    },
-    {
-      "id": "evt_9ab21906",
-      "title": "用意大利语出版的关于烈士领袖的书",
-      "summary": "德黑兰--关于殉难的伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的《带着微笑的革命者》（ The Revolutionary with a Smile ）一书的意大利语译本已经发布。",
-      "date": "2026-09-09T16:54:46Z",
-      "url": "https://www.tehrantimes.com/news/529856/Book-on-Martyr-Leader-published-in-Italian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529856/Book-on-Martyr-Leader-published-in-Italian"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Book on Martyr Leader published in Italian"
-      }
-    },
-    {
-      "id": "evt_f62f2934",
-      "title": "基亚罗斯塔米电影将在韩国电影节上放映",
-      "summary": "TEHRAN -伊朗著名电影制片人阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ）的六部电影计划在韩国第11届蔚山蔚州山电影节上放映，该电影节的重点是探索山脉、自然、冒险、环境和人类体验的作品。",
-      "date": "2026-09-09T16:54:19Z",
-      "url": "https://www.tehrantimes.com/news/529851/Kiarostami-films-to-go-on-screen-at-South-Korean-festival",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529851/Kiarostami-films-to-go-on-screen-at-South-Korean-festival"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Kiarostami films to go on screen at South Korean festival"
-      }
-    },
-    {
-      "id": "evt_b6a545a1",
-      "title": "伊朗插画家入围2026年金风车青年插画家大赛决赛",
-      "summary": "德黑兰--一位伊朗插画家入围了2026年中国上海金风车青年插画家大赛的决赛。",
-      "date": "2026-09-09T16:53:53Z",
-      "url": "https://www.tehrantimes.com/news/529857/Iranian-illustrator-among-finalists-of-2026-Golden-Pinwheel-Young",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529857/Iranian-illustrator-among-finalists-of-2026-Golden-Pinwheel-Young"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian illustrator among finalists of 2026 Golden Pinwheel Young Illustrators Competition"
-      }
-    },
-    {
-      "id": "evt_51e227df",
-      "title": "从战争到解决方案",
-      "summary": "Sobh-e-No分析了特朗普的“无效政策” ，认为这源于华盛顿无力对抗伊朗的权力。经过数月的冲突和未能对抗伊朗，美国现在打算使用另一个压力杠杆—将伊朗的案件提交给联合国安理会—希望迫使伊朗屈服。",
-      "date": "2026-09-09T16:51:16Z",
-      "url": "https://www.tehrantimes.com/news/529877/From-war-to-resolution",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529877/From-war-to-resolution"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "From war to resolution"
-      }
-    },
-    {
-      "id": "evt_79347816",
-      "title": "韩国人在首尔集会反对加入美国对伊朗的战争",
-      "summary": "德黑兰--韩国国内公众日益增加的愤怒与美国将国际盟友拖入其对伊朗无端战争的侵略性企图直接发生冲突。",
-      "date": "2026-09-09T16:50:35Z",
-      "url": "https://www.tehrantimes.com/news/529876/South-Koreans-rally-in-Seoul-against-joining-US-war-on-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529876/South-Koreans-rally-in-Seoul-against-joining-US-war-on-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "South Koreans rally in Seoul against joining US war on Iran"
-      }
-    },
-    {
-      "id": "evt_e946c93a",
-      "title": "IRGC对美国船队和区域基础设施进行了新的打击",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）在霍尔木兹海峡进行了一系列高影响力的报复性打击，在华盛顿的明确鼓励和保护下，成功瞄准了两艘美国军舰、八艘油轮和另外十艘试图突破伊朗指定禁区的船只。",
-      "date": "2026-09-09T16:49:55Z",
-      "url": "https://www.tehrantimes.com/news/529875/IRGC-deals-fresh-blows-to-US-fleet-regional-infrastructure",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529875/IRGC-deals-fresh-blows-to-US-fleet-regional-infrastructure"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC deals fresh blows to US fleet, regional infrastructure"
-      }
-    },
-    {
-      "id": "evt_5e4a3ff9",
-      "title": "在霍尔木兹捕捉白鲸",
-      "summary": "德黑兰--伊朗在战略性霍尔木兹海峡入口处成功捕获和拦截了一架高度先进的美国无人驾驶水下航行器，这是对华盛顿技术傲慢的决定性打击，暴露了美国军方自动化作战设备的深刻弱点。",
-      "date": "2026-09-09T16:49:20Z",
-      "url": "https://www.tehrantimes.com/news/529874/Moby-Dick-catch-in-Hormuz",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529874/Moby-Dick-catch-in-Hormuz"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Moby-Dick catch in Hormuz"
-      }
-    },
-    {
       "id": "evt_3c5aa29f",
       "title": "在美国和胡塞武装袭击后，油价自7月以来首次达到每桶100 $",
       "summary": "布伦特原油-全球油价基准-在美国周二击中五艘伊朗油轮后上涨",
@@ -682,146 +822,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Oil hits $100 a barrel for first time since July after US and Houthi strikes"
-      }
-    },
-    {
-      "id": "evt_51a09dca",
-      "title": "副总裁： Pezeshkian上任后，伊朗就做好了准备",
-      "summary": "TEHRAN -伊朗第一副总统穆罕默德·雷扎·阿雷夫（ Mohammad Reza Aref ）表示，总统马苏德·佩泽什基安（ Masoud Pezeshkian ）的政府已经制定了应急计划，以便在其任期开始时在战时条件下治理该国，并预计到全面冲突的可能性。",
-      "date": "2026-09-09T16:46:18Z",
-      "url": "https://www.tehrantimes.com/news/529881/VP-Iran-was-prepared-as-soon-as-Pezeshkian-took-the-office",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529881/VP-Iran-was-prepared-as-soon-as-Pezeshkian-took-the-office"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "VP: Iran was prepared as soon as Pezeshkian took the office"
-      }
-    },
-    {
-      "id": "evt_d361c3ca",
-      "title": "伊斯兰革命卫队警告说，伊朗每两次攻击敌人，就会攻击20个目标",
-      "summary": "伊朗伊斯兰革命卫队（ IRGC ）发言人周三表示，伊朗将以大幅增加的打击次数来应对任何袭击，并警告说，如果两三个伊朗目标受到攻击，德黑兰将瞄准多达20个敌方阵地。",
-      "date": "2026-09-09T16:44:11Z",
-      "url": "https://www.tehrantimes.com/news/529880/Iran-will-strike-20-targets-for-every-two-hits-by-enemy-IRGC",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529880/Iran-will-strike-20-targets-for-every-two-hits-by-enemy-IRGC"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran will strike 20 targets for every two hits by enemy, IRGC warns"
-      }
-    },
-    {
-      "id": "evt_02e3f8eb",
-      "title": "罪犯同志",
-      "summary": "TEHRAN -内塔尼亚胡内阁的几乎所有成员都是犯罪分子，但有些人“更犯罪”。",
-      "date": "2026-09-09T16:40:37Z",
-      "url": "https://www.tehrantimes.com/news/529878/Comrade-criminals",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529878/Comrade-criminals"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Comrade criminals"
-      }
-    },
-    {
-      "id": "evt_5c441716",
-      "title": "谢里夫将军：伊朗将霍尔木兹海峡视为战略威慑",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）神圣国防文件中心负责人兼IRGC总司令顾问拉梅赞·谢里夫准将（ Brigadier General Ramezan Sharif ）将伊朗限制或阻止通过霍尔木兹海峡（ Strait of Hormuz ）的海上交通的能力描述为国家权力的战略和威慑工具。",
-      "date": "2026-09-09T16:39:04Z",
-      "url": "https://www.tehrantimes.com/news/529879/General-Sharif-Iran-regards-Strait-of-Hormuz-as-strategic-deterrent",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/529879/General-Sharif-Iran-regards-Strait-of-Hormuz-as-strategic-deterrent"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "General Sharif: Iran regards Strait of Hormuz as strategic deterrent"
-      }
-    },
-    {
-      "id": "evt_661abbbf",
-      "title": "英国宣布对约旦河西岸定居点实施制裁，引发以色列愤怒回应",
-      "summary": "英国外交大臣指责定居者对巴勒斯坦人进行“种族清洗” ，作为回应，以色列关闭了英国驻东耶路撒冷的领事馆。",
-      "date": "2026-09-09T01:45:15Z",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UK announces sanctions on West Bank settlements prompting furious Israeli response"
       }
     },
     {
