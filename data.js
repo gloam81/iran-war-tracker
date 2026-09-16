@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-15T02:48:36.155642Z
+// 自动生成的数据 - 更新时间: 2026-09-16T02:43:48.278048Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-15T02:48:36.155575Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-09-16T02:43:48.277971Z",
+    "totalEvents": 38,
     "sources": {
-      "international": 23,
+      "international": 24,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,19 +13,19 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_7de1ac73",
-      "title": "病毒肇事逃逸引发印度道路愤怒问题",
-      "summary": "印度警方在一名女子自行车手分享了一辆汽车撞上摩托车的视频后展开了调查。",
-      "date": "2026-09-15T02:07:17Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
+      "id": "evt_9f1fbbb1",
+      "title": "沙特阿拉伯因东西方管道爆炸取消向欧洲输油",
+      "summary": "沙特阿拉伯在遭到袭击后关闭了向红海的出口管道，取消了向欧洲的一些石油交付。",
+      "date": "2026-09-16T01:53:27Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Viral hit-and-run raises road rage questions in India"
+        "en": "Saudi Arabia cancels oil to Europe over East-West pipeline blast"
       }
     },
     {
-      "id": "evt_73a9d44d",
-      "title": "B’Tselem ：以色列定居者暴力旨在消灭巴勒斯坦人的存在",
-      "summary": "以色列人权组织B 'Tselem表示，以色列定居者的暴力行为旨在消灭巴勒斯坦人的存在。",
-      "date": "2026-09-15T01:23:53Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
+      "id": "evt_f77959c0",
+      "title": "以色列发起了一场反卡塔尔运动，然后将其废除",
+      "summary": "10月7日后几天，以色列开始建立一场全球运动，以施压和孤立卡塔尔。",
+      "date": "2026-09-16T01:41:40Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence"
+        "en": "Israel started an anti-Qatar campaign, then scrapped it"
       }
     },
     {
-      "id": "evt_a2154428",
-      "title": "俄罗斯根据新协议首次向叙利亚军事基地补给物资",
-      "summary": "与大马士革会谈后，莫斯科在地中海保持军事立足点",
-      "date": "2026-09-15T00:43:47Z",
-      "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+      "id": "evt_da328747",
+      "title": "对沙特石油的袭击暴露了伊拉克总理控制武装派别的斗争",
+      "summary": "一名伊拉克高级消息人士指出， 9月份对东西方管道的袭击是一个抵抗“分裂”组织。",
+      "date": "2026-09-16T01:35:14Z",
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -93,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Russia resupplies military bases in Syria for first time under new deal"
+        "en": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions"
       }
     },
     {
-      "id": "evt_cd093b50",
-      "title": "伊朗战争现场：中央司令部对IRGC声称被霍尔木兹导航击中的超级油轮提出异议",
-      "summary": "中央司令部对伊斯兰革命卫队声称悬挂巴拿马国旗的油轮El Gaia袭击了霍尔木兹海峡的海军水雷提出异议。",
-      "date": "2026-09-15T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
+      "id": "evt_5753c9b1",
+      "title": "沙特领导的联军拦截前往麦加的胡塞无人机",
+      "summary": "沙特阿拉伯表示，它在进入伊斯兰教最神圣的城市之前拦截了一架无人机，称朝圣者的安全是“红线”",
+      "date": "2026-09-16T01:09:54Z",
+      "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav"
+        "en": "Saudi-led coalition intercepts Houthi drone headed for Mecca"
       }
     },
     {
-      "id": "evt_9066b123",
-      "title": "以色列袭击加沙流离失所者营地",
-      "summary": "以色列袭击加沙流离失所者营地",
-      "date": "2026-09-14T21:37:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+      "id": "evt_78b5959f",
+      "title": "以色列士兵从被占领的约旦河西岸的直升机上跳伞",
+      "summary": "以色列军队从一架直升机上向被占领的约旦河西岸Yatta的一栋住宅楼屋顶横冲直撞。",
+      "date": "2026-09-16T00:42:33Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,48 +149,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli attack targets Gaza displacement camp"
+        "en": "Israeli soldiers rappel from helicopter in occupied West Bank"
       }
     },
     {
-      "id": "evt_11aa00ef",
-      "title": "Macklemore从Ed Sheeran之旅中脱颖而出，展现亲巴勒斯坦的立场",
-      "summary": "Macklemore说，他因为亲巴勒斯坦的立场而被Ed Sheeran的美国巡回演唱会淘汰。",
-      "date": "2026-09-14T21:29:50Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
+      "id": "evt_628266fa",
+      "title": "伊朗战争加剧通货膨胀，使美国军火紧张：国会报告",
+      "summary": "无党派研究机构的报告发现，补充耗尽的弹药库存可能需要长达五年的时间。",
+      "date": "2026-09-16T00:38:12Z",
+      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance"
-      }
-    },
-    {
-      "id": "evt_42900d68",
-      "title": "为什么伊朗和海湾阿拉伯国家在阿曼的会谈被推迟",
-      "summary": "伊朗-海湾国家在阿曼的会谈被推迟后，伊朗战争取得突破的希望受到了打击。",
-      "date": "2026-09-14T21:20:00Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Why talks in Oman between Iran and Gulf Arab states were postponed"
+        "en": "Iran war increasing inflation, straining US munitions: congressional report"
       }
     },
     {
-      "id": "evt_136c8848",
-      "title": "美国阻止伊朗核负责人出席在维也纳举行的国际原子能机构会议",
-      "summary": "伊朗指责美国向奥地利施压，要求吊销穆罕默德·埃斯拉米（ Mohammad Eslami ）的签证，称其侵犯了成员国的权利。",
-      "date": "2026-09-14T21:19:41Z",
-      "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+      "id": "evt_620c09b8",
+      "title": "伊朗战争现场：沙特联军拦截、摧毁前往麦加的无人机",
+      "summary": "沙特阿拉伯拦截并摧毁了一架正飞往麦加的胡塞无人机。",
+      "date": "2026-09-16T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,27 +205,559 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US blocks Iran nuclear chief from attending IAEA conference in Vienna"
+        "en": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca"
       }
     },
     {
-      "id": "evt_53eb9640",
-      "title": "2026/27 ACL Elite ： Esteghlal down Al Sadd",
-      "summary": "德黑兰-埃斯特格拉尔足球队周一在巴士拉国际体育场举行的亚足联冠军联赛精英2026/27揭幕战中以3比0战胜了卡塔尔的Al Sadd SC。",
-      "date": "2026-09-14T21:15:52Z",
-      "url": "https://www.tehrantimes.com/news/530033/2026-27-ACL-Elite-Esteghlal-down-Al-Sadd",
+      "id": "evt_c98883fb",
+      "title": "伊朗飞机上的恐慌，猛烈摇晃将机舱撕裂",
+      "summary": "塞佩兰航空公司的一架波音737客舱在伊朗马什哈德紧急降落后撕裂。",
+      "date": "2026-09-15T23:47:56Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Panic on board Iranian plane as violent shaking rips cabin apart"
+      }
+    },
+    {
+      "id": "evt_d3c7402c",
+      "title": "共和党国会议员呼吁弹劾美国国防部长皮特·黑格塞斯",
+      "summary": "共和党众议员托马斯·马西（ Thomas Massie ）直言不讳地批评对伊朗的战争和海外军事干预。",
+      "date": "2026-09-15T22:38:08Z",
+      "url": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth"
+      }
+    },
+    {
+      "id": "evt_8b7cbf72",
+      "title": "Ed Sheeran指责美国巡演发起人放弃了Macklemore",
+      "summary": "这位英国音乐家表示，在美国说唱歌手表示支持巴勒斯坦之后， “列出一些事实”很重要。",
+      "date": "2026-09-15T22:21:44Z",
+      "url": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss"
+        }
+      ],
+      "category": "humanitarian",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ed Sheeran blames US tour promoter for dropping Macklemore"
+      }
+    },
+    {
+      "id": "evt_594d7e19",
+      "title": "五角大楼检查员证实，伊朗战争导致美国军火短缺",
+      "summary": "检查员还发现了再补给的瓶颈，尽管唐纳德·特朗普总统声称美国的供应“几乎是无限的”。",
+      "date": "2026-09-15T20:34:12Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms"
+      }
+    },
+    {
+      "id": "evt_1246aad8",
+      "title": "伊朗记者讨论电影与德黑兰城市聚会之间的联系",
+      "summary": "TEHRAN -周一晚上，在德黑兰的城市记者之家举行了纪念伊朗电影日的聚会，汇集了记者，分享他们报道电影的经验，并讨论电影、城市和社会之间的关系。",
+      "date": "2026-09-15T17:33:01Z",
+      "url": "https://www.tehrantimes.com/news/530036/Iranian-journalists-discuss-ties-between-cinema-city-in-Tehran",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530033/2026-27-ACL-Elite-Esteghlal-down-Al-Sadd"
+          "url": "https://www.tehrantimes.com/news/530036/Iranian-journalists-discuss-ties-between-cinema-city-in-Tehran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian journalists discuss ties between cinema, city in Tehran gathering"
+      }
+    },
+    {
+      "id": "evt_fa1a6f30",
+      "title": "指挥Paniz Faryousefi表示： “我希望我的音乐传达伊朗团结、世界和平的信息。”",
+      "summary": "TEHRAN -小提琴家和指挥家Paniz Faryousefi于2025年11月在Vahdat Hall （ Aban 1404 ）登上德黑兰交响乐团的领奖台，成为自伊斯兰革命以来首位正式指挥管弦乐队的女性—这是伊朗革命后古典音乐历史上的一个里程碑时刻。她最近还在8月24日围绕伊朗作曲家的作品举办的音乐会上指挥了vivo管弦乐队，反思了伊朗及其人民在过去一年中的经历。",
+      "date": "2026-09-15T17:32:33Z",
+      "url": "https://www.tehrantimes.com/news/530037/I-Want-My-Music-to-Carry-a-Message-of-Iranian-Unity-World-Peace",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530037/I-Want-My-Music-to-Carry-a-Message-of-Iranian-Unity-World-Peace"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "“I Want My Music to Carry a Message of Iranian Unity, World Peace,” says Conductor Paniz Faryousefi"
+      }
+    },
+    {
+      "id": "evt_d8bcecbe",
+      "title": "也门遭遇灾难性挫折后， MBS转向以色列：报告",
+      "summary": "德黑兰--据包括以色列哈约姆(Israel Hayom)和《耶路撒冷邮报》(The Jerusalem Post)在内的以色列媒体报道，沙特王储穆罕默德·本·萨勒曼(Mohammed bin Salman)在也门沙特支持的雇佣军大垮台后，通过美国中央司令部向以色列寻求“紧急情报援助”。",
+      "date": "2026-09-15T17:31:33Z",
+      "url": "https://www.tehrantimes.com/news/530064/MBS-turns-to-Israel-after-disastrous-setbacks-in-Yemen-report",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530064/MBS-turns-to-Israel-after-disastrous-setbacks-in-Yemen-report"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "MBS turns to Israel after disastrous setbacks in Yemen: report"
+      }
+    },
+    {
+      "id": "evt_cb14ecd7",
+      "title": "“NAZA”纪录片证实加沙的人工智能大规模谋杀，引发“叛国”指控",
+      "summary": "德黑兰--一部长达80分钟的以色列纪录片揭露了在加沙对巴勒斯坦平民的系统性算法谋杀，引发了该政权内部的严重政治崩溃。",
+      "date": "2026-09-15T17:31:14Z",
+      "url": "https://www.tehrantimes.com/news/530062/NAZA-documentary-confirms-AI-mass-murder-in-Gaza-triggers",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530062/NAZA-documentary-confirms-AI-mass-murder-in-Gaza-triggers"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘NAZA’ documentary confirms AI mass murder in Gaza, triggers ‘treason’ charges"
+      }
+    },
+    {
+      "id": "evt_0ea5447b",
+      "title": "Ali Al-Taher ，为什么内塔尼亚胡需要关闭",
+      "summary": "贝鲁特--自今年6月以来，关于“Ali Al-Taher” Hill的新闻一直在持续。“以色列”的政治和战略讨论，在他们的脱口秀节目中讨论，然后是其他地区电视频道和媒体，使其成为有史以来最着名的山丘。这是“以色列”制造的两难境地，比其他任何事情都更能成为政治和分散注意力的工具。",
+      "date": "2026-09-15T17:30:38Z",
+      "url": "https://www.tehrantimes.com/news/530060/Ali-Al-Taher-why-Netanyahu-needed-a-closure",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530060/Ali-Al-Taher-why-Netanyahu-needed-a-closure"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ali Al-Taher, why Netanyahu needed a closure"
+      }
+    },
+    {
+      "id": "evt_757e378c",
+      "title": "伊朗开始训练1000个“Janfada”抵抗营",
+      "summary": "德黑兰-- “Janfada” （自我牺牲）基层总部正式宣布开始训练和组织1000个国家抵抗营。",
+      "date": "2026-09-15T17:28:02Z",
+      "url": "https://www.tehrantimes.com/news/530069/Iran-kicks-off-training-for-1-000-Janfada-resistance-battalions",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530069/Iran-kicks-off-training-for-1-000-Janfada-resistance-battalions"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran kicks off training for 1,000 ‘Janfada’ resistance battalions"
+      }
+    },
+    {
+      "id": "evt_1b7b0536",
+      "title": "金砖国家正试图改变游戏规则",
+      "summary": "Siasat-e-Rooz在金砖国家伊朗峰会上审查了《德里宣言》的重要性。该声明在几个方面对伊朗很重要。首先，金砖国家对违反世界贸易组织规则的单边关税和非关税措施的兴起表示担忧。",
+      "date": "2026-09-15T17:27:49Z",
+      "url": "https://www.tehrantimes.com/news/530057/BRICS-is-trying-to-change-the-rules-of-the-game",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530057/BRICS-is-trying-to-change-the-rules-of-the-game"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "BRICS is trying to change the rules of the game"
+      }
+    },
+    {
+      "id": "evt_40a378dd",
+      "title": "伊朗调频电台，黎巴嫩议会议长在电话中讨论地区发展",
+      "summary": "德黑兰--周一晚上，伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）与黎巴嫩议会议长纳比·贝里（ Nabih Berri ）通电话。",
+      "date": "2026-09-15T17:27:26Z",
+      "url": "https://www.tehrantimes.com/news/530055/Iranian-FM-Lebanese-Parliament-speaker-discuss-regional-developments",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530055/Iranian-FM-Lebanese-Parliament-speaker-discuss-regional-developments"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian FM, Lebanese Parliament speaker discuss regional developments in phone call"
+      }
+    },
+    {
+      "id": "evt_7939d1f0",
+      "title": "美国无人机袭击波斯湾的伊朗渔船",
+      "summary": "德黑兰--周一晚些时候，美国无人机又一次公然违反海上安全和国际法，袭击了波斯湾水域的两艘伊朗民用渔船，造成几名渔民失踪。",
+      "date": "2026-09-15T17:26:30Z",
+      "url": "https://www.tehrantimes.com/news/530056/US-drone-strike-targets-Iranian-fishing-boats-in-the-Persian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530056/US-drone-strike-targets-Iranian-fishing-boats-in-the-Persian"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US drone strike targets Iranian fishing boats in the Persian Gulf"
+      }
+    },
+    {
+      "id": "evt_ac2ae435",
+      "title": "IRGC在霍尔木兹海峡24小时内击落第三架入侵的美国无人机",
+      "summary": "德黑兰--周二，伊朗综合防空网络在霍尔木兹海峡上空拦截并摧毁了一架入侵的美国MQ-1 “捕食者”无人机，这是美国在24小时内击落的第三架无人机。",
+      "date": "2026-09-15T17:25:49Z",
+      "url": "https://www.tehrantimes.com/news/530058/IRGC-downs-third-intruding-US-drone-in-24-hours-over-Strait-of",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530058/IRGC-downs-third-intruding-US-drone-in-24-hours-over-Strait-of"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "IRGC downs third intruding US drone in 24 hours over Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_beb4eeee",
+      "title": "卡利巴夫：美国在伊朗西部边境的阴谋被挫败",
+      "summary": "德黑兰--伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）周二表示，通过与伊朗在该地区的伙伴合作以及伊朗武装部队的及时回应，美国在为期40天的战争期间试图从伊拉克库尔德斯坦地区对伊朗发动安全和军事行动的努力遭到挫败。",
+      "date": "2026-09-15T17:24:00Z",
+      "url": "https://www.tehrantimes.com/news/530065/Qalibaf-US-plot-along-Iran-s-western-border-thwarted",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530065/Qalibaf-US-plot-along-Iran-s-western-border-thwarted"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qalibaf: US plot along Iran’s western border thwarted"
+      }
+    },
+    {
+      "id": "evt_38f1e087",
+      "title": "在条件得到满足之前，伊朗排除了美国的谈判",
+      "summary": "德黑兰--在条件得到满足之前，伊朗已排除与美国进行任何谈判的可能性，最高国家安全委员会秘书Mohsen Rezaei警告华盛顿，围绕石油和地区水道的战略方程已经改变，遏制冲突后果的尝试不会改变未来。",
+      "date": "2026-09-15T17:22:35Z",
+      "url": "https://www.tehrantimes.com/news/530067/Iran-rules-out-US-talks-until-conditions-are-met",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530067/Iran-rules-out-US-talks-until-conditions-are-met"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran rules out US talks until conditions are met"
+      }
+    },
+    {
+      "id": "evt_17009e0a",
+      "title": "五角大楼的报告称，伊朗战争成本为334 $十亿，理由是美国武器短缺和广泛的基地",
+      "summary": "TEHRAN-美国政府新发布的一份报告进一步揭示了华盛顿与伊朗战争的财政和军事成本，估计到6月29日，这场冲突给美国造成了334亿美元的损失，而伊朗的罢工破坏或摧毁了美国在中东的军事设施中的数百座建筑物和数十架美国飞机。",
+      "date": "2026-09-15T17:20:43Z",
+      "url": "https://www.tehrantimes.com/news/530070/Pentagon-report-puts-Iran-war-cost-at-33-4-billion-cites-US",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530070/Pentagon-report-puts-Iran-war-cost-at-33-4-billion-cites-US"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pentagon report puts Iran war cost at $33.4 billion, cites US weapons shortfalls and extensive base"
+      }
+    },
+    {
+      "id": "evt_d781fc75",
+      "title": "联合国实况调查团追究美国对库切斯塔克婚礼致命袭击的责任",
+      "summary": "德黑兰--联合国伊朗问题独立国际实况调查团认为，美国应对在霍尔木兹甘省库切斯塔克举行的婚礼庆祝活动中的致命空袭负责，并警告称，一再发生的造成平民伤亡的袭击事件引发了对华盛顿遵守国际人道主义法的严重质疑。",
+      "date": "2026-09-15T17:18:03Z",
+      "url": "https://www.tehrantimes.com/news/530068/UN-fact-finding-mission-holds-US-responsible-for-deadly-attack",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530068/UN-fact-finding-mission-holds-US-responsible-for-deadly-attack"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UN fact-finding mission holds US responsible for deadly attack on Kuhestak wedding"
+      }
+    },
+    {
+      "id": "evt_0899f277",
+      "title": "阿曼说，在霍尔木兹海峡油轮袭击后，两名水手失踪",
+      "summary": "伊朗说，埃尔盖亚在击中地雷后着火，但美国说，这艘油轮被一枚导弹击中，然后被一架无人机击中。",
+      "date": "2026-09-15T16:13:41Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says"
+      }
+    },
+    {
+      "id": "evt_79c80a50",
+      "title": "卫星图像显示关闭关键沙特石油管道的重大损坏",
+      "summary": "专家告诉BBC ，管道关闭可能会使石油供应每天减少360万桶。",
+      "date": "2026-09-15T14:21:14Z",
+      "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "political",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -261,27 +765,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "2026/27 ACL Elite: Esteghlal  down Al Sadd"
+        "en": "Satellite image reveals major damage that shut crucial Saudi oil pipeline"
       }
     },
     {
-      "id": "evt_0f8ae902",
-      "title": "从贝尔福到米利班德：西方是否已开始重新定义以色列？",
-      "summary": "德黑兰--很难将英国外交大臣埃德·米利班德（ Ed Miliband ）关于被占领的约旦河西岸部分地区“种族清洗”的言论视为对以色列的另一种外交立场。",
-      "date": "2026-09-14T21:08:59Z",
-      "url": "https://www.tehrantimes.com/news/530034/From-Balfour-to-Miliband-Has-the-West-begun-redefining-Israel",
+      "id": "evt_3b401036",
+      "title": "以色列部长威胁撤销电影制片人对加沙纪录片的公民身份",
+      "summary": "这部电影指责以色列军队在加沙大规模杀害平民，以色列官员说这可能是叛国罪。",
+      "date": "2026-09-14T18:26:20Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530034/From-Balfour-to-Miliband-Has-the-West-begun-redefining-Israel"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -289,343 +793,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "From Balfour to Miliband: Has the West begun redefining Israel?"
-      }
-    },
-    {
-      "id": "evt_46748c9a",
-      "title": "9/11家庭联盟主席呼吁特朗普掩盖沙特、伊朗战争的叙述",
-      "summary": "德黑兰--9月11日是华盛顿政治统一的25周年纪念日，它消除了华盛顿政治统一的任何挥之不去的幻想。在世贸中心地带，受害者家属在四分之一世纪对沙特阿拉伯的屏蔽中直接与美国政治机构对抗。",
-      "date": "2026-09-14T21:02:51Z",
-      "url": "https://www.tehrantimes.com/news/530032/9-11-Families-United-chair-calls-out-Trump-over-Saudi-cover-up",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530032/9-11-Families-United-chair-calls-out-Trump-over-Saudi-cover-up"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "9/11 Families United chair calls out Trump over Saudi cover-up, Iran war narrative"
-      }
-    },
-    {
-      "id": "evt_05344a56",
-      "title": "沙特丽思卡尔顿酒店清洗九年后， Rami Naimi仍然被困在",
-      "summary": "德黑兰--王储穆罕默德·本·萨勒曼（ Mohammed bin Salman ）的“现代化议程”引起了国际社会的关注，但英国《金融时报》对2017年丽思卡尔顿大清洗事件的调查引发了人们对该王国在此期间如何对待一些被拘留者的严重质疑。",
-      "date": "2026-09-14T20:58:28Z",
-      "url": "https://www.tehrantimes.com/news/530031/Nine-years-after-Saudi-Ritz-Carlton-purge-Rami-Naimi-remains",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530031/Nine-years-after-Saudi-Ritz-Carlton-purge-Rami-Naimi-remains"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Nine years after Saudi Ritz-Carlton purge, Rami Naimi remains trapped"
-      }
-    },
-    {
-      "id": "evt_fc696581",
-      "title": "习近平如何定位金砖国家反对西方制裁、强权政治",
-      "summary": "德黑兰--中国国家主席习近平在新德里举行的第18届金砖国家峰会上发表讲话，对西方霸权进行了不屈不挠的批评，将扩大的联盟定位为全球南方的主要盾牌。",
-      "date": "2026-09-14T20:54:39Z",
-      "url": "https://www.tehrantimes.com/news/530030/How-Xi-Jinping-positioned-BRICS-against-Western-sanctions-power",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530030/How-Xi-Jinping-positioned-BRICS-against-Western-sanctions-power"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Xi Jinping positioned BRICS against Western sanctions, power politics"
-      }
-    },
-    {
-      "id": "evt_b8d5ee01",
-      "title": "伊朗表示不再害怕与美国或以色列对抗",
-      "summary": "伊朗执行副总统穆罕默德·贾法尔·加姆帕纳（ Mohammad Jafar Ghaempanah ）表示，伊朗不再害怕与美国这样的超级大国或以色列这样的核武大国对抗，伊朗的信心归功于已故伊斯兰革命领导人的军事理论和伊朗日益增长的防御能力。",
-      "date": "2026-09-14T20:48:30Z",
-      "url": "https://www.tehrantimes.com/news/530029/Iran-says-it-is-no-longer-afraid-of-confronting-US-or-Israel",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530029/Iran-says-it-is-no-longer-afraid-of-confronting-US-or-Israel"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says it is no longer afraid of confronting US or Israel"
-      }
-    },
-    {
-      "id": "evt_7c8568be",
-      "title": "伊朗反对外国干涉，并警告美国单边主义",
-      "summary": "TEHRAN-伊朗驳斥了参与也门决策和最近袭击沙特阿拉伯东西方石油管道的指控，同时重申区域安全安排应由该地区国家而非外部大国制定。",
-      "date": "2026-09-14T20:38:41Z",
-      "url": "https://www.tehrantimes.com/news/530028/Iran-rejects-foreign-interference-and-warns-against-US-unilateralism",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530028/Iran-rejects-foreign-interference-and-warns-against-US-unilateralism"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran rejects foreign interference, and warns against US unilateralism"
-      }
-    },
-    {
-      "id": "evt_4b92d9c0",
-      "title": "Pezeshkian警告美国努力播种分裂，呼吁民族团结",
-      "summary": "TEHRAN—伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）警告说，美国正在寻求利用经济压力和社会困难来加深伊朗内部的分歧，并强调民族团结和团结对于应对“华盛顿的欺凌和压力运动”至关重要。",
-      "date": "2026-09-14T20:34:09Z",
-      "url": "https://www.tehrantimes.com/news/530027/Pezeshkian-warns-of-US-efforts-to-sow-division-calls-for-national",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530027/Pezeshkian-warns-of-US-efforts-to-sow-division-calls-for-national"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian warns of US efforts to sow division, calls for national unity"
-      }
-    },
-    {
-      "id": "evt_6d501d37",
-      "title": "六部伊朗电影荣获Accolade全球电影大赛表彰奖",
-      "summary": "德黑兰--来自伊朗的六部电影获得了8月份荣誉全球电影大赛的认可奖。",
-      "date": "2026-09-14T20:29:25Z",
-      "url": "https://www.tehrantimes.com/news/530024/Six-Iranian-films-win-awards-of-recognition-at-Accolade-Global",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530024/Six-Iranian-films-win-awards-of-recognition-at-Accolade-Global"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Six Iranian films win awards of recognition at Accolade Global Film Competition"
-      }
-    },
-    {
-      "id": "evt_b1a3033e",
-      "title": "“受伤之地的画家”展览在德黑兰开幕，纪念斯利曼·曼苏尔的巴勒斯坦",
-      "summary": "TEHRAN--周日在德黑兰艺术局的Aali画廊开幕的画展“受伤之地的画家” ，展出了著名巴勒斯坦艺术家Sliman Mansour的作品，展示了一位艺术家的作品，他的作品与巴勒斯坦人民的历史、身份和愿望密切相关。",
-      "date": "2026-09-14T20:28:43Z",
-      "url": "https://www.tehrantimes.com/news/530002/The-Painter-of-the-Wounded-Land-exhibition-opens-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530002/The-Painter-of-the-Wounded-Land-exhibition-opens-in-Tehran"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“The Painter of the Wounded Land” exhibition opens in Tehran, honoring Sliman Mansour’s Palestinian"
-      }
-    },
-    {
-      "id": "evt_b3805b9d",
-      "title": "霍尔木兹地区会谈推迟，伊朗-阿曼谅解最终确定",
-      "summary": "德黑兰--伊朗和波斯湾阿拉伯国家之间的高级别部长级峰会原定在阿曼举行，就通过霍尔木兹海峡的安全商业航行安排进行谈判，现已推迟。",
-      "date": "2026-09-14T20:23:41Z",
-      "url": "https://www.tehrantimes.com/news/530021/Regional-Hormuz-talks-postponed-Iran-Oman-understanding-finalized",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530021/Regional-Hormuz-talks-postponed-Iran-Oman-understanding-finalized"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Regional Hormuz talks postponed, Iran-Oman understanding finalized"
-      }
-    },
-    {
-      "id": "evt_3767908f",
-      "title": "伊斯兰革命卫队在霍尔木兹海峡上空击落先进的MQ-1无人机",
-      "summary": "德黑兰–伊斯兰革命卫队（ IRGC ）周一宣布，其航空航天部队成功追踪并击落了霍尔木兹海峡战略水域的另一架先进的MQ-1无人机。",
-      "date": "2026-09-14T20:23:17Z",
-      "url": "https://www.tehrantimes.com/news/530019/IRGC-shoots-down-advanced-MQ-1-drone-over-Strait-of-Hormuz",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530019/IRGC-shoots-down-advanced-MQ-1-drone-over-Strait-of-Hormuz"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC shoots down advanced MQ-1 drone over Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_03130265",
-      "title": "也门的转型：区域计算中的地震",
-      "summary": "Ettelaat在一篇分析文章中研究了也门最近的发展。它写道：最近几天在也门发生的事情远远超出了安萨鲁拉和沙特支持的部队之间的简单军事转变。",
-      "date": "2026-09-14T20:22:46Z",
-      "url": "https://www.tehrantimes.com/news/530022/Transformations-in-Yemen-An-earthquake-in-regional-calculations",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530022/Transformations-in-Yemen-An-earthquake-in-regional-calculations"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Transformations in Yemen: An earthquake in regional calculations"
-      }
-    },
-    {
-      "id": "evt_abc37735",
-      "title": "Grossi的有毒遗产：绿灯侵略，抹黑伊朗",
-      "summary": "德黑兰--联合国核监督机构负责人再次在国际舞台上抹黑伊朗，推进美国强加的敌对议程，将一个表面上属于技术性的机构变成了西方胁迫的政治工具。",
-      "date": "2026-09-14T20:07:02Z",
-      "url": "https://www.tehrantimes.com/news/530020/Grossi-s-toxic-legacy-Greenlighting-aggression-smearing-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530020/Grossi-s-toxic-legacy-Greenlighting-aggression-smearing-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Grossi’s toxic legacy: Greenlighting aggression, smearing Iran"
+        "en": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary"
       }
     },
     {
@@ -878,146 +1046,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran war won't end until after crucial November elections, says Trump"
-      }
-    },
-    {
-      "id": "evt_62e4b305",
-      "title": "生活在以色列拆迁令下的社区如何看待英国的制裁",
-      "summary": "英国广播公司中东记者露西·威廉姆森（ Lucy Williamson ）访问了所谓的E1地区的Khan al Ahmar巴勒斯坦社区以及邻近的以色列定居点Maale Admumim。",
-      "date": "2026-09-09T22:17:22Z",
-      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How a community living under demolition orders from Israel view UK sanctions"
-      }
-    },
-    {
-      "id": "evt_8229fff2",
-      "title": "美国对英国对约旦河西岸制裁的缓和回应可能反映出酝酿中的挫折感",
-      "summary": "英国指责以色列政府对定居者对巴勒斯坦人的“种族清洗”视而不见。",
-      "date": "2026-09-09T21:21:13Z",
-      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Muted US response to UK's West Bank sanctions may reflect simmering frustration"
-      }
-    },
-    {
-      "id": "evt_17542aef",
-      "title": "米利班德拒绝接受首席拉比声称英国犹太人在制裁行动后面临更大危险的说法",
-      "summary": "这位外交大臣不同意对以色列定居点的制裁可能会使英国犹太人面临更大的风险。",
-      "date": "2026-09-09T20:59:24Z",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move"
-      }
-    },
-    {
-      "id": "evt_232b8ab8",
-      "title": "伊朗将核违规行为提交联合国安理会",
-      "summary": "德黑兰谴责该决议，指责美国和以色列对其核设施的打击扰乱了视察工作。",
-      "date": "2026-09-09T20:22:51Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran referred to UN Security Council for nuclear non-compliance"
-      }
-    },
-    {
-      "id": "evt_3c5aa29f",
-      "title": "在美国和胡塞武装袭击后，油价自7月以来首次达到每桶100 $",
-      "summary": "布伦特原油-全球油价基准-在美国周二击中五艘伊朗油轮后上涨",
-      "date": "2026-09-09T16:46:53Z",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil hits $100 a barrel for first time since July after US and Houthi strikes"
       }
     },
     {
