@@ -1,87 +1,31 @@
-// 自动生成的数据 - 更新时间: 2026-09-23T02:43:54.196052Z
+// 自动生成的数据 - 更新时间: 2026-09-24T02:33:49.096975Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-23T02:43:54.195986Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-09-24T02:33:49.096932Z",
+    "totalEvents": 31,
     "sources": {
-      "international": 20,
-      "iranian": 15,
+      "international": 18,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_4d310545",
-      "title": "伊朗总统马苏德·佩泽什基安抵达纽约参加联合国大会",
-      "summary": "随着美伊战争的继续，伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）已抵达纽约。",
-      "date": "2026-09-23T01:11:06Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss",
+      "id": "evt_aedcac00",
+      "title": "土耳其同意将巴什卡基地逐步移交给伊拉克",
+      "summary": "伊拉克总理扎伊迪和土耳其总统埃尔多安在联合国大会上承诺加深安全合作。",
+      "date": "2026-09-24T01:04:28Z",
+      "url": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss"
         }
       ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian President Masoud Pezeshkian arrives in New York for UNGA"
-      }
-    },
-    {
-      "id": "evt_1e26ff95",
-      "title": "伊朗战争现场：特朗普确认在联合国与伊朗“非常好”的会晤",
-      "summary": "特朗普总统表示，美国官员周二在联合国与伊朗代表团举行了“非常好”的会晤。",
-      "date": "2026-09-23T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN"
-      }
-    },
-    {
-      "id": "evt_4071a1c2",
-      "title": "伊朗飞往巴格达、马斯喀特的航班在美国航空制裁之前取消",
-      "summary": "伊朗航空官员与阿曼和伊拉克进行谈判，因为美国的贝森特在冲突爆发七个月后瞄准了航空公司。",
-      "date": "2026-09-22T23:46:06Z",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss"
-        }
-      ],
-      "category": "military",
+      "category": "political",
       "location": {
         "lat": 33.3152,
         "lng": 44.3661,
@@ -93,20 +37,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions"
+        "en": "Turkiye agrees to gradual handover of Bashiqa base to Iraq"
       }
     },
     {
-      "id": "evt_85758722",
-      "title": "联合国大会第一天：尽管特朗普威胁，美国和伊朗仍举行会谈",
-      "summary": "美国和伊朗在联合国大会第一天举行会谈，尽管特朗普在开幕词中威胁要“消灭”伊朗。",
-      "date": "2026-09-22T22:48:56Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
+      "id": "evt_621ebd48",
+      "title": "伊朗战争现场：德黑兰表示不会受到欺凌，仍在进行谈判",
+      "summary": "伊朗总统表示，德黑兰不会屈服于压力，同时在挑衅性的联合国讲话中保持对话的开放。",
+      "date": "2026-09-24T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Tehran says it won’t be bullied, remains open for talks"
+      }
+    },
+    {
+      "id": "evt_e1cfe557",
+      "title": "特朗普和平委员会公布24.5亿美元计划开始加沙重建",
+      "summary": "这一数字是在纽约联合国大会期间举行的集团董事会会议上宣布的。",
+      "date": "2026-09-23T21:26:14Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction"
+      }
+    },
+    {
+      "id": "evt_d7896766",
+      "title": "美国航空制裁扰乱伊朗航班，将旅客推上陆地",
+      "summary": "随着伊朗航空公司无法进入领空，旅行中断加剧，将平民推向昂贵的陆路航线。",
+      "date": "2026-09-23T21:05:36Z",
+      "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +121,412 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UNGA Day 1: US and Iran hold talks despite Trump’s threat"
+        "en": "US aviation sanctions disrupt Iran flights, push travellers overland"
       }
     },
     {
-      "id": "evt_daf1d6ac",
-      "title": "巴勒斯坦裔美国人与美国立法者会面，特朗普为以色列寻求28亿美元（ $ 28亿）",
-      "summary": "组织者表示， 300多名选民与来自26个州的众议院和参议院议员会面，要求美国改变政策。",
-      "date": "2026-09-22T21:30:51Z",
-      "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
+      "id": "evt_f4b18eee",
+      "title": "加沙船队活动家在突尼斯监狱绝食抗议“濒临死亡”",
+      "summary": "加沙萨穆德船队表示，瓦埃勒·纳瓦尔（ Wael Naouar ）绝食抗议已进入第39天，他已住院治疗。",
+      "date": "2026-09-23T20:56:15Z",
+      "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’"
+      }
+    },
+    {
+      "id": "evt_ae4ed73e",
+      "title": "伊朗总统告诉特朗普永远不会“屈膝”",
+      "summary": "马苏德·佩泽什基安（ Masoud Pezeshkian ）在联合国发表挑衅性讲话之前，美国总统威胁说，如果不尽快达成和平协议，将“消灭”伊朗。",
+      "date": "2026-09-23T18:15:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's president tells Trump it will never 'bend the knee'"
+      }
+    },
+    {
+      "id": "evt_4ad29705",
+      "title": "议员： Pezeshkian和特朗普之间没有会面",
+      "summary": "德黑兰--伊朗议会国家安全和外交政策委员会成员埃斯梅尔·科萨里（ Esmaeil Kowsari ）将美国总统唐纳德·特朗普（ Donald Trump ）在联合国大会上对伊朗的言论描述为“政治虚张声势和心理战” ，称特朗普不会与伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）会面。",
+      "date": "2026-09-23T17:59:47Z",
+      "url": "https://www.tehrantimes.com/news/530361/MP-No-meeting-between-Pezeshkian-and-Trump",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530361/MP-No-meeting-between-Pezeshkian-and-Trump"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "MP: No meeting between Pezeshkian and Trump"
+      }
+    },
+    {
+      "id": "evt_3ee8bc00",
+      "title": "64个街头游戏聚焦伊朗各地的神圣防御主题",
+      "summary": "TEHRAN -来自26个伊朗省份的64部街头戏剧作品正在全国各地上演，作为“史诗叙事”计划的一部分，该计划与神圣防御周同时举行，以纪念1980-1988年两伊战争的经历和牺牲。",
+      "date": "2026-09-23T17:57:35Z",
+      "url": "https://www.tehrantimes.com/news/530328/64-street-plays-spotlight-Sacred-Defense-themes-across-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530328/64-street-plays-spotlight-Sacred-Defense-themes-across-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "64 street plays spotlight Sacred Defense themes across Iran"
+      }
+    },
+    {
+      "id": "evt_94cfda91",
+      "title": "伊朗动画《遥远的地方》在俄罗斯电影节上获奖",
+      "summary": "TEHRAN-伊朗短片“A Faraway Place”在第16届俄罗斯国际青年电影节“Light to the World”中获得6岁以上类别的第二名。",
+      "date": "2026-09-23T17:57:06Z",
+      "url": "https://www.tehrantimes.com/news/530327/Iranian-animation-A-Faraway-Place-wins-at-Russian-film-festival",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530327/Iranian-animation-A-Faraway-Place-wins-at-Russian-film-festival"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian animation “A Faraway Place” wins at Russian film festival"
+      }
+    },
+    {
+      "id": "evt_a1027cd2",
+      "title": "2026年白乌鸦目录中的四本波斯书籍",
+      "summary": "德黑兰--由慕尼黑国际青年图书馆（ International Youth Library ）编制的《白乌鸦目录》（ White Ravens Catalogue ）已推出其2026年版，其中包含约40种语言的200多种儿童和青年作品，其中包括来自伊朗的四部波斯作品。",
+      "date": "2026-09-23T17:56:41Z",
+      "url": "https://www.tehrantimes.com/news/530334/Four-Persian-books-included-in-White-Ravens-Catalogue-2026",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530334/Four-Persian-books-included-in-White-Ravens-Catalogue-2026"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Four Persian books included in White Ravens Catalogue 2026"
+      }
+    },
+    {
+      "id": "evt_2a9457ca",
+      "title": "特朗普陷入与伊朗的冲突",
+      "summary": "Farhikhtegan分析了特朗普在联合国的讲话。根据该报，特朗普的演讲围绕一个中心主题：解释为什么他对伊朗失败了。这位知道自己极有可能输掉中期选举的美国总统声称，选举对他来说无关紧要。",
+      "date": "2026-09-23T17:55:44Z",
+      "url": "https://www.tehrantimes.com/news/530337/Trump-trapped-in-a-conflict-with-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530337/Trump-trapped-in-a-conflict-with-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump trapped in a conflict with Iran"
+      }
+    },
+    {
+      "id": "evt_da3532f5",
+      "title": "伊斯兰革命卫队地面部队司令：伊朗不会向敌人让步",
+      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）地面部队指挥官穆罕默德·卡拉米准将强调了伊朗伊斯兰共和国面对敌对威胁的坚定决心，并确认伊朗永远不会向敌人屈服。",
+      "date": "2026-09-23T17:55:00Z",
+      "url": "https://www.tehrantimes.com/news/530336/IRGC-Ground-Force-chief-Iran-will-not-yield-an-inch-to-the-enemy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530336/IRGC-Ground-Force-chief-Iran-will-not-yield-an-inch-to-the-enemy"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "IRGC Ground Force chief: Iran will not yield an inch to the enemy"
+      }
+    },
+    {
+      "id": "evt_a0e1fef2",
+      "title": "领导人顾问：伊朗已做好防御准备；美国的侵略将造成重大伤亡",
+      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）的高级军事顾问表示，伊朗武装部队已做好在各个领域保卫国家的充分准备，并警告说，如果发生任何侵略，美国将面临重大伤亡。",
+      "date": "2026-09-23T17:43:30Z",
+      "url": "https://www.tehrantimes.com/news/530338/Leader-s-advisor-Iran-fully-prepared-for-defense-US-aggression",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530338/Leader-s-advisor-Iran-fully-prepared-for-defense-US-aggression"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Leader’s advisor: Iran fully prepared for defense; US aggression will bring heavy casualties"
+      }
+    },
+    {
+      "id": "evt_a39feb37",
+      "title": "特朗普在联合国大会期间会见阿拉伯领导人",
+      "summary": "德黑兰--周二，美国总统唐纳德·特朗普在联合国大会期间召集了与阿拉伯和穆斯林国家领导人的闭门会议，因为对伊朗长达近七个月的战争仍存在不确定性。",
+      "date": "2026-09-23T17:43:10Z",
+      "url": "https://www.tehrantimes.com/news/530339/Trump-meets-Arab-leaders-on-sidelines-of-UN-General-Assembly",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530339/Trump-meets-Arab-leaders-on-sidelines-of-UN-General-Assembly"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump meets Arab leaders on sidelines of UN General Assembly"
+      }
+    },
+    {
+      "id": "evt_754bde89",
+      "title": "穆赫森·雷扎伊少将：特朗普的联合国演讲构成“为被击败的罪犯辩护”",
+      "summary": "德黑兰--伊朗官员对美国总统唐纳德·特朗普在第81届联合国大会上的讲话做出了激烈的回应，驳斥了他对伊朗伊斯兰共和国的“歼灭”威胁，认为这是一名“被击败的罪犯”为自己的政治无关紧要而挣扎的绝望言论。",
+      "date": "2026-09-23T17:42:51Z",
+      "url": "https://www.tehrantimes.com/news/530345/Major-General-Mohsen-Rezaei-Trump-s-UN-Speech-constitutes-defense",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530345/Major-General-Mohsen-Rezaei-Trump-s-UN-Speech-constitutes-defense"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Major General Mohsen Rezaei: Trump’s UN Speech constitutes ‘defense of a defeated criminal’"
+      }
+    },
+    {
+      "id": "evt_8a957d66",
+      "title": "“我们永远不会低头”",
+      "summary": "德黑兰--马苏德·佩泽什基安总统周三在纽约联合国大会第81届会议上发表了强有力的讲话，强烈谴责美国和以色列的侵略，揭露了国际双重标准，并声称伊朗民族永远不会屈服于武力的语言。",
+      "date": "2026-09-23T17:41:49Z",
+      "url": "https://www.tehrantimes.com/news/530355/We-will-never-bow-our-head",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530355/We-will-never-bow-our-head"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘We will never bow our head’"
+      }
+    },
+    {
+      "id": "evt_527d37ca",
+      "title": "伊朗总统在联合国大会发表讲话",
+      "summary": "伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）于9月23日星期三在联合国大会第81届会议上发表讲话，概述了伊朗对与美国的战争、地区紧张局势、外交和该国和平核计划的立场。",
+      "date": "2026-09-23T17:33:52Z",
+      "url": "https://www.tehrantimes.com/photo/530358/Iranian-president-addresses-UN-General-Assembly",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/photo/530358/Iranian-president-addresses-UN-General-Assembly"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian president addresses UN General Assembly"
+      }
+    },
+    {
+      "id": "evt_f87d7c7d",
+      "title": "伊朗在卡塔尔调解的纽约会议上为与美国恢复外交创造条件",
+      "summary": "伊朗外交部发言人埃斯梅尔·巴凯伊（ Esmaeil Baqaei ）表示，伊朗通过卡塔尔调解在纽约举行的伊朗和美国代表会议上阐述了恢复与美国外交接触的条件。",
+      "date": "2026-09-23T17:28:21Z",
+      "url": "https://www.tehrantimes.com/news/530356/Iran-sets-conditions-for-resuming-diplomacy-with-US-in-Qatar-mediated",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530356/Iran-sets-conditions-for-resuming-diplomacy-with-US-in-Qatar-mediated"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran sets conditions for resuming diplomacy with US in Qatar-mediated NY meeting"
+      }
+    },
+    {
+      "id": "evt_e054df84",
+      "title": "Minab学年开始于纪念在美以袭击中丧生的学生的现场",
+      "summary": "新学年于9月23日星期三在米纳布正式开始，学生、家庭和官员在Shajareh Tayyebeh学校参加仪式。",
+      "date": "2026-09-23T17:28:15Z",
+      "url": "https://www.tehrantimes.com/photo/530357/Minab-school-year-begins-at-site-honoring-students-killed-in",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/photo/530357/Minab-school-year-begins-at-site-honoring-students-killed-in"
         }
       ],
       "category": "military",
@@ -149,111 +541,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel"
+        "en": "Minab school year begins at site honoring students killed in US-Israeli attack"
       }
     },
     {
-      "id": "evt_b5c67046",
-      "title": "卡塔尔埃米尔表示，该国不会“限制”自己作为海湾“调解人”",
-      "summary": "卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼（ Sheikh Tamim bin Hamad Al Thani ）在联合国大会上表示，卡塔尔不仅仅是一个",
-      "date": "2026-09-22T21:09:23Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+      "id": "evt_0f81c8c7",
+      "title": "内塔尼亚胡称马克龙在联合国讲话中对约旦河西岸的言论“怪诞”",
+      "summary": "以色列总理谴责这位法国总统，因为他似乎淡化了哈马斯在被占领土上的活动。",
+      "date": "2026-09-23T11:30:58Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’"
-      }
-    },
-    {
-      "id": "evt_64b6cb49",
-      "title": "电击疗法威胁叙利亚后阿萨德时期的和平：分析",
-      "summary": "德黑兰--国际政策中心的一名高级非居民研究员表示，叙利亚新领导人艾哈迈德·沙雷（ Ahmed al-Shara ）采取的一系列经济政策使人民的生活“更加艰难”。",
-      "date": "2026-09-22T17:42:34Z",
-      "url": "https://www.tehrantimes.com/news/530301/Shock-therapy-threatens-post-Assad-peace-in-Syria-analysis",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530301/Shock-therapy-threatens-post-Assad-peace-in-Syria-analysis"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Shock therapy threatens post-Assad peace in Syria: analysis"
-      }
-    },
-    {
-      "id": "evt_506de964",
-      "title": "国际刑事法院黑名单计划促使美国参议员呼吁制裁特朗普和卢比奥",
-      "summary": "德黑兰--美国参议员克里斯·范霍伦（ Chris Van Hollen ）周一呼吁欧洲各国政府和《罗马规约》签署国对唐纳德·特朗普总统和国务卿马可·卢比奥（ Marco Rubio ）实施制裁。",
-      "date": "2026-09-22T17:42:14Z",
-      "url": "https://www.tehrantimes.com/news/530299/ICC-blacklist-plan-prompts-US-senator-s-calls-to-sanction-Trump",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530299/ICC-blacklist-plan-prompts-US-senator-s-calls-to-sanction-Trump"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "ICC blacklist plan prompts US senator’s calls to sanction Trump and Rubio"
-      }
-    },
-    {
-      "id": "evt_23bccda0",
-      "title": "不断变化的区域动态加深了对以色列的压力",
-      "summary": "德黑兰–也门的事态发展揭示了抵抗轴心重塑从波斯湾到红海、阿拉伯海和东非的战略格局的新战略。",
-      "date": "2026-09-22T17:41:48Z",
-      "url": "https://www.tehrantimes.com/news/530300/Shifting-regional-dynamics-deepen-pressure-on-Israel",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530300/Shifting-regional-dynamics-deepen-pressure-on-Israel"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -261,104 +569,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Shifting regional dynamics deepen pressure on Israel"
+        "en": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'"
       }
     },
     {
-      "id": "evt_603aec83",
-      "title": "华盛顿和特拉维夫在第81届联合国大会上面临全球反抗",
-      "summary": "德黑兰--第81届联合国大会周二在对美国和以色列前所未有的敌意阴云下开幕。",
-      "date": "2026-09-22T17:41:10Z",
-      "url": "https://www.tehrantimes.com/news/530302/Washington-and-Tel-Aviv-face-global-revolt-at-81st-UN-General",
+      "id": "evt_40ffd96b",
+      "title": "特朗普发出“歼灭”威胁后，美国和伊朗自6月以来首次举行会谈",
+      "summary": "这次会谈是自6月停火失败以来的首次会谈，双方断断续续地交火。",
+      "date": "2026-09-23T06:12:56Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530302/Washington-and-Tel-Aviv-face-global-revolt-at-81st-UN-General"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Washington and Tel Aviv face global revolt at 81st UN General Assembly"
-      }
-    },
-    {
-      "id": "evt_d00bffc8",
-      "title": "Mehr Media Group在莫斯科OANA Awards 2026上获得两个奖项",
-      "summary": "德黑兰–周一，在莫斯科举行的亚太通讯社组织（ OANA ）成立65周年大会期间， Mehr Media Group在2026年OANA奖上获得了两个奖项。",
-      "date": "2026-09-22T17:40:17Z",
-      "url": "https://www.tehrantimes.com/news/530287/Mehr-Media-Group-receives-two-awards-at-OANA-Awards-2026-in-Moscow",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530287/Mehr-Media-Group-receives-two-awards-at-OANA-Awards-2026-in-Moscow"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mehr Media Group receives two awards at OANA Awards 2026 in Moscow"
-      }
-    },
-    {
-      "id": "evt_a3608b86",
-      "title": "第20届国际抵抗运动戏剧节在德黑兰拉开帷幕",
-      "summary": "德黑兰--第20届国际抵抗运动戏剧节（ International Resistance Theater Festival ）于周一在德黑兰的阿扎迪塔（ Azadi Tower ）拉开帷幕",
-      "date": "2026-09-22T17:39:02Z",
-      "url": "https://www.tehrantimes.com/news/530290/20th-International-Resistance-Theater-Festival-kicks-off-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530290/20th-International-Resistance-Theater-Festival-kicks-off-in-Tehran"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "20th International Resistance Theater Festival kicks off in Tehran"
-      }
-    },
-    {
-      "id": "evt_f7792022",
-      "title": "外交和军事力量不会相互抵消",
-      "summary": "Sobh-e-No强调了以军事力量为后盾的外交的必要性。不幸的是，在第三轮战争之后，战争或谈判的虚假二元论在伊朗国内政治话语中占据了主导地位。有些人认为谈判与抵抗相矛盾，而另一些人则认为战争是外交的障碍。没有军事支持的外交是行不通的，军事力量本身就离不开外交。",
-      "date": "2026-09-22T17:38:30Z",
-      "url": "https://www.tehrantimes.com/news/530315/Diplomacy-and-military-power-don-t-negate-each-other",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530315/Diplomacy-and-military-power-don-t-negate-each-other"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -373,27 +597,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Diplomacy and military power don’t negate each other"
+        "en": "US and Iran hold first talks since June after Trump's 'annihilation' threat"
       }
     },
     {
-      "id": "evt_a8b3b980",
-      "title": "伊朗敦促联合国人权理事会追究美以袭击的责任",
-      "summary": "TEHRAN -伊朗常驻联合国日内瓦办事处和其他国际组织代表呼吁对美国和以色列对伊朗的侵略承担国际责任，指责这两个国家违反国际法，并以平民和关键基础设施为目标。",
-      "date": "2026-09-22T17:34:54Z",
-      "url": "https://www.tehrantimes.com/news/530314/Iran-urges-accountability-for-US-Israeli-attacks-at-UN-Human",
+      "id": "evt_cccf4970",
+      "title": "联合国机构发现，加沙暴力侵害妇女的报告激增",
+      "summary": "联合国人口基金会还表示，早婚和强迫婚姻的数量“严重升级”。",
+      "date": "2026-09-23T05:02:26Z",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530314/Iran-urges-accountability-for-US-Israeli-attacks-at-UN-Human"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
       },
       "languages": [
         "zh",
@@ -401,203 +625,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran urges accountability for US-Israeli attacks at UN Human Rights Council"
-      }
-    },
-    {
-      "id": "evt_a01a205f",
-      "title": "Araghchi ：捍卫伊朗的权益是联合国的主要目标",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，捍卫伊朗人民的权利、利益和合法性将是他参加第81届联合国大会的中心目标，因为德黑兰试图阐述其立场，并强调最近美以战争对伊朗造成的后果。",
-      "date": "2026-09-22T17:32:25Z",
-      "url": "https://www.tehrantimes.com/news/530313/Araghchi-Defending-Iran-s-rights-and-interests-is-main-goal",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530313/Araghchi-Defending-Iran-s-rights-and-interests-is-main-goal"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Araghchi: Defending Iran’s rights and interests is main goal at UN"
-      }
-    },
-    {
-      "id": "evt_d5169ce6",
-      "title": "领导人哀悼大阿亚图拉Shobeiri Zanjani的逝世",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）对大阿亚图拉·赛义德·穆萨·舒拜里·赞贾尼（ Grand Ayatollah Seyed Mousa Shubairi Zanjani ）的逝世表示深切哀悼，称他的去世是一个深刻的损失，在当代最重要的什叶派学者中留下了相当大的空白。",
-      "date": "2026-09-22T17:29:48Z",
-      "url": "https://www.tehrantimes.com/news/530312/Leader-mourns-passing-of-Grand-Ayatollah-Shobeiri-Zanjani",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530312/Leader-mourns-passing-of-Grand-Ayatollah-Shobeiri-Zanjani"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Leader mourns passing of Grand Ayatollah Shobeiri Zanjani"
-      }
-    },
-    {
-      "id": "evt_441b5a4b",
-      "title": "伊斯兰革命卫队：会谈是另一个战场，因为伊朗揭示了新的武器测试",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）发言人侯赛因·莫赫比（ Hossein Mohebbi ）准将表示，伊朗正在保持其军事准备，同时将外交作为国家政策的工具，并强调谈判不应等同于妥协，本身可以构成“另一个战场”。",
-      "date": "2026-09-22T17:26:31Z",
-      "url": "https://www.tehrantimes.com/news/530311/IRGC-Talks-are-another-battlefield-as-Iran-reveals-new-weapon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530311/IRGC-Talks-are-another-battlefield-as-Iran-reveals-new-weapon"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC: Talks are another battlefield as Iran reveals new weapon test"
-      }
-    },
-    {
-      "id": "evt_91e60acb",
-      "title": "卡利巴夫确认，伊朗拥有可持续的威慑力",
-      "summary": "德黑兰--伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）警告美国不要试图迫使伊朗屈服，并强调该国的军事能力和持续的威慑力使德黑兰有能力应对威胁，同时通过外交手段追求其国家利益。",
-      "date": "2026-09-22T17:22:04Z",
-      "url": "https://www.tehrantimes.com/news/530309/Iran-possesses-sustainable-deterrence-Qalibaf",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530309/Iran-possesses-sustainable-deterrence-Qalibaf"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran possesses sustainable deterrence, Qalibaf affirms"
-      }
-    },
-    {
-      "id": "evt_92783e55",
-      "title": "佩泽什基安：联合国大会必须恢复全球信任，帮助结束战争",
-      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）表示希望，一年一度的联合国大会能够帮助重建对国际体系的信心，并为结束世界各地的战争和流血做出贡献。",
-      "date": "2026-09-22T17:18:01Z",
-      "url": "https://www.tehrantimes.com/news/530308/Pezeshkian-UN-General-Assembly-must-restore-global-trust-and",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530308/Pezeshkian-UN-General-Assembly-must-restore-global-trust-and"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian: UN General Assembly must restore global trust and help end wars"
-      }
-    },
-    {
-      "id": "evt_1088a673",
-      "title": "伊朗拒绝美国指责德黑兰燃料价格上涨的企图",
-      "summary": "德黑兰--伊朗拒绝了美国要求德黑兰对燃料价格上涨负责的企图，外交部发言人埃斯梅尔·巴凯伊（ Esmaeil Baqaei ）辩称，华盛顿正在寻求转移对具有战略重要性的霍尔木兹海峡冲突后果和商业航运中断的责任。",
-      "date": "2026-09-22T17:15:40Z",
-      "url": "https://www.tehrantimes.com/news/530307/Iran-rejects-US-attempts-to-blame-Tehran-for-rising-fuel-prices",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530307/Iran-rejects-US-attempts-to-blame-Tehran-for-rising-fuel-prices"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran rejects US attempts to blame Tehran for rising fuel prices"
-      }
-    },
-    {
-      "id": "evt_83ff870c",
-      "title": "中国拒绝美国对伊朗航空公司的制裁",
-      "summary": "德黑兰--中国外交部宣布，北京反对美国对伊朗的制裁，包括针对伊朗航空公司的制裁。",
-      "date": "2026-09-22T17:13:36Z",
-      "url": "https://www.tehrantimes.com/news/530306/China-rejects-US-sanctions-on-Iranian-airlines",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530306/China-rejects-US-sanctions-on-Iranian-airlines"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "China rejects US sanctions on Iranian airlines"
+        "en": "Reports of violence against women in Gaza surge, UN agency finds"
       }
     },
     {
@@ -850,146 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Assad regime planned US journalist's kidnap for weeks, BBC finds"
-      }
-    },
-    {
-      "id": "evt_c0f9e1e6",
-      "title": "照片显示伊朗袭击对美国工厂造成广泛破坏",
-      "summary": "英国广播公司的合作伙伴哥伦比亚广播公司新闻获得的图像包括一架失事的空军飞机和被摧毁的建筑物。",
-      "date": "2026-09-16T18:36:16Z",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Photos show widespread damage at US sites from Iranian attacks"
-      }
-    },
-    {
-      "id": "evt_775eaf12",
-      "title": "救援人员说，在受战争破坏的加沙建筑倒塌后死亡的21名儿童中，有8名儿童",
-      "summary": "据报道，约有10个家庭生活在加沙市的一栋六层建筑中，这栋建筑去年遭到以色列罢工的袭击。",
-      "date": "2026-09-16T17:16:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say"
-      }
-    },
-    {
-      "id": "evt_9d842a4c",
-      "title": "不断升级的沙特石油危机如何推动各地油价上涨",
-      "summary": "BBC Verify的Ben Chu研究了能源成本上涨对全球经济的影响。",
-      "date": "2026-09-16T16:06:50Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How escalating Saudi oil crisis could drive up prices everywhere"
-      }
-    },
-    {
-      "id": "evt_b4c670c5",
-      "title": "沙特阿拉伯称在麦加以南击落胡塞无人机",
-      "summary": "在沙特领导的也门联盟指责他们的“可耻行为”之后，胡塞武装否认瞄准伊斯兰圣城。",
-      "date": "2026-09-16T08:36:17Z",
-      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi Arabia says it shot down Houthi drone south of Mecca"
-      }
-    },
-    {
-      "id": "evt_0899f277",
-      "title": "阿曼说，在霍尔木兹海峡油轮袭击后，两名水手失踪",
-      "summary": "伊朗说，埃尔盖亚在击中地雷后着火，但美国说，这艘油轮被一枚导弹击中，然后被一架无人机击中。",
-      "date": "2026-09-15T16:13:41Z",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says"
       }
     }
   ]
