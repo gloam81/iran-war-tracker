@@ -1,31 +1,171 @@
-// 自动生成的数据 - 更新时间: 2026-09-24T02:33:49.096975Z
+// 自动生成的数据 - 更新时间: 2026-09-25T02:50:45.818198Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-24T02:33:49.096932Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-09-25T02:50:45.818144Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 18,
-      "iranian": 13,
+      "international": 23,
+      "iranian": 14,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_aedcac00",
-      "title": "土耳其同意将巴什卡基地逐步移交给伊拉克",
-      "summary": "伊拉克总理扎伊迪和土耳其总统埃尔多安在联合国大会上承诺加深安全合作。",
-      "date": "2026-09-24T01:04:28Z",
-      "url": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss",
+      "id": "evt_e708df86",
+      "title": "纽约市警方逮捕苏珊·萨兰登（ Susan Sarandon ）和其他抗议内塔尼亚胡的名人",
+      "summary": "人权组织指责联合国在以色列总理发表讲话时接待了一名“战争罪犯”。",
+      "date": "2026-09-25T02:35:53Z",
+      "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu"
+      }
+    },
+    {
+      "id": "evt_02c748e9",
+      "title": "在联合国展出的以色列和巴勒斯坦的对比待遇",
+      "summary": "以色列总理尽管持有国际刑事法院的逮捕令，但仍亲自在联合国大会发表讲话。",
+      "date": "2026-09-25T02:26:16Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Contrasting treatment of Israel and Palestine on display at the UN"
+      }
+    },
+    {
+      "id": "evt_7303fe7e",
+      "title": "100多名纽约人因抗议内塔尼亚胡的联合国访问而被捕",
+      "summary": "以色列总理在联合国大会上向世界各国领导人致辞时，示威者封锁了街道，并向联合国总部游行。",
+      "date": "2026-09-25T02:24:16Z",
+      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit"
+      }
+    },
+    {
+      "id": "evt_d2de5ccc",
+      "title": "特朗普在与习近平的国宴上赞扬美中友谊",
+      "summary": "尽管在伊朗、台湾、人工智能和贸易等问题上存在分歧，但这两个超级大国仍在寻求更大的对话。",
+      "date": "2026-09-25T02:00:16Z",
+      "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump praises US-China friendship at state dinner with Xi Jinping"
+      }
+    },
+    {
+      "id": "evt_4f5dc252",
+      "title": "内塔尼亚胡为以色列的军事行动辩护，因为代表们在联合国讲话前走出去",
+      "summary": "这位以色列领导人将那些在联合国大会上发表讲话的人称为“道德懦夫”。",
+      "date": "2026-09-25T00:44:04Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu defends Israeli military action as delegates walk out before UN speech"
+      }
+    },
+    {
+      "id": "evt_a8077eec",
+      "title": "阿联酋禁止伊朗航空公司，因为美国的制裁挤压了伊朗的航空业",
+      "summary": "阿联酋与阿曼、伊拉克、阿塞拜疆、格鲁吉亚和土库曼斯坦一道限制进入伊朗航空公司。",
+      "date": "2026-09-25T00:24:47Z",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 33.3152,
         "lng": 44.3661,
@@ -37,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Turkiye agrees to gradual handover of Bashiqa base to Iraq"
+        "en": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector"
       }
     },
     {
-      "id": "evt_621ebd48",
-      "title": "伊朗战争现场：德黑兰表示不会受到欺凌，仍在进行谈判",
-      "summary": "伊朗总统表示，德黑兰不会屈服于压力，同时在挑衅性的联合国讲话中保持对话的开放。",
-      "date": "2026-09-24T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss",
+      "id": "evt_a9e3e109",
+      "title": "伊朗战争现场：德黑兰希望华盛顿在美国中期选举之前重新加入谅解备忘录",
+      "summary": "伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）表示，伊朗希望美国在11月初之前重返谅解备忘录。",
+      "date": "2026-09-25T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,14 +205,98 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran says it won’t be bullied, remains open for talks"
+        "en": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms"
+      }
+    },
+    {
+      "id": "evt_1b025852",
+      "title": "特朗普-习近平峰会：华盛顿特区会议的四个关键要点",
+      "summary": "特朗普、习近平在白宫寻求稳定的美中关系，但在伊朗、台湾和贸易问题上的分歧仍未解决。",
+      "date": "2026-09-24T23:51:56Z",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting"
+      }
+    },
+    {
+      "id": "evt_0a01b883",
+      "title": "本雅明·内塔尼亚胡在联合国演讲中攻击以色列的敌人和盟友",
+      "summary": "以色列总理谴责伊朗、纽约市长马姆达尼和批评者指责以色列对巴勒斯坦人犯下罪行。",
+      "date": "2026-09-24T22:32:39Z",
+      "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech"
+      }
+    },
+    {
+      "id": "evt_e5f77714",
+      "title": "乌兹别克斯坦在友谊赛中击败伊朗",
+      "summary": "德黑兰-乌兹别克斯坦足球队周四在一场友谊赛中以3比1击败伊朗。",
+      "date": "2026-09-24T16:13:59Z",
+      "url": "https://www.tehrantimes.com/news/530365/Uzbekistan-defeat-Iran-in-friendly",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530365/Uzbekistan-defeat-Iran-in-friendly"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Uzbekistan defeat Iran in friendly"
       }
     },
     {
       "id": "evt_e1cfe557",
-      "title": "特朗普和平委员会公布24.5亿美元计划开始加沙重建",
+      "title": "特朗普和平委员会公布$ 24.5亿加沙恢复计划",
       "summary": "这一数字是在纽约联合国大会期间举行的集团董事会会议上宣布的。",
-      "date": "2026-09-23T21:26:14Z",
+      "date": "2026-09-24T10:11:15Z",
       "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -93,27 +317,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction"
+        "en": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan"
       }
     },
     {
-      "id": "evt_d7896766",
-      "title": "美国航空制裁扰乱伊朗航班，将旅客推上陆地",
-      "summary": "随着伊朗航空公司无法进入领空，旅行中断加剧，将平民推向昂贵的陆路航线。",
-      "date": "2026-09-23T21:05:36Z",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+      "id": "evt_22ec2309",
+      "title": "伊朗武术运动员穆萨维称金牌： 2026年亚运会",
+      "summary": "德黑兰-伊朗的Soheil Mousavi周四在2026年亚运会武术比赛中获得金牌。",
+      "date": "2026-09-24T07:57:00Z",
+      "url": "https://www.tehrantimes.com/news/530364/Iran-wushu-athlete-Mousavi-claims-gold-2026-Asian-Games",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530364/Iran-wushu-athlete-Mousavi-claims-gold-2026-Asian-Games"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -121,27 +345,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US aviation sanctions disrupt Iran flights, push travellers overland"
+        "en": "Iran wushu athlete  Mousavi  claims gold:  2026 Asian Games"
       }
     },
     {
-      "id": "evt_f4b18eee",
-      "title": "加沙船队活动家在突尼斯监狱绝食抗议“濒临死亡”",
-      "summary": "加沙萨穆德船队表示，瓦埃勒·纳瓦尔（ Wael Naouar ）绝食抗议已进入第39天，他已住院治疗。",
-      "date": "2026-09-23T20:56:15Z",
-      "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+      "id": "evt_d135ff33",
+      "title": "伊朗女子轻量级双桨赢得2026年亚运会金牌",
+      "summary": "德黑兰--周四，伊朗选手基米亚·扎雷（ Kimia Zarei ）和泽纳布·诺鲁齐（ Zeynab Norouzi ）在女子轻量级双桨决赛中夺得金牌。",
+      "date": "2026-09-24T07:29:37Z",
+      "url": "https://www.tehrantimes.com/news/530363/Iran-s-women-lightweight-double-sculls-wins-gold-in-2026-Asian",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530363/Iran-s-women-lightweight-double-sculls-wins-gold-in-2026-Asian"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -149,7 +373,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’"
+        "en": "Iran's women lightweight double sculls wins gold in 2026 Asian Games"
+      }
+    },
+    {
+      "id": "evt_7e622fe0",
+      "title": "伊朗女划手Mojallal在名古屋抢金牌",
+      "summary": "德黑兰--伊朗女划手法特梅·莫贾拉尔（ Fatemeh Mojallal ）周四在2026年亚运会上夺得金牌。",
+      "date": "2026-09-24T07:11:00Z",
+      "url": "https://www.tehrantimes.com/news/530362/Iranian-woman-rower-Mojallal-snatches-gold-in-Nagoya",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530362/Iranian-woman-rower-Mojallal-snatches-gold-in-Nagoya"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian woman rower  Mojallal snatches gold in Nagoya"
       }
     },
     {
@@ -458,90 +710,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "‘We will never bow our head’"
-      }
-    },
-    {
-      "id": "evt_527d37ca",
-      "title": "伊朗总统在联合国大会发表讲话",
-      "summary": "伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）于9月23日星期三在联合国大会第81届会议上发表讲话，概述了伊朗对与美国的战争、地区紧张局势、外交和该国和平核计划的立场。",
-      "date": "2026-09-23T17:33:52Z",
-      "url": "https://www.tehrantimes.com/photo/530358/Iranian-president-addresses-UN-General-Assembly",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/photo/530358/Iranian-president-addresses-UN-General-Assembly"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian president addresses UN General Assembly"
-      }
-    },
-    {
-      "id": "evt_f87d7c7d",
-      "title": "伊朗在卡塔尔调解的纽约会议上为与美国恢复外交创造条件",
-      "summary": "伊朗外交部发言人埃斯梅尔·巴凯伊（ Esmaeil Baqaei ）表示，伊朗通过卡塔尔调解在纽约举行的伊朗和美国代表会议上阐述了恢复与美国外交接触的条件。",
-      "date": "2026-09-23T17:28:21Z",
-      "url": "https://www.tehrantimes.com/news/530356/Iran-sets-conditions-for-resuming-diplomacy-with-US-in-Qatar-mediated",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530356/Iran-sets-conditions-for-resuming-diplomacy-with-US-in-Qatar-mediated"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran sets conditions for resuming diplomacy with US in Qatar-mediated NY meeting"
-      }
-    },
-    {
-      "id": "evt_e054df84",
-      "title": "Minab学年开始于纪念在美以袭击中丧生的学生的现场",
-      "summary": "新学年于9月23日星期三在米纳布正式开始，学生、家庭和官员在Shajareh Tayyebeh学校参加仪式。",
-      "date": "2026-09-23T17:28:15Z",
-      "url": "https://www.tehrantimes.com/photo/530357/Minab-school-year-begins-at-site-honoring-students-killed-in",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/photo/530357/Minab-school-year-begins-at-site-honoring-students-killed-in"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Minab school year begins at site honoring students killed in US-Israeli attack"
       }
     },
     {
