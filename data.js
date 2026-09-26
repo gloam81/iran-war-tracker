@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-09-25T02:50:45.818198Z
+// 自动生成的数据 - 更新时间: 2026-09-26T02:53:48.590211Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-25T02:50:45.818144Z",
-    "totalEvents": 37,
+    "lastUpdate": "2026-09-26T02:53:48.590150Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 23,
+      "international": 20,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_e708df86",
-      "title": "纽约市警方逮捕苏珊·萨兰登（ Susan Sarandon ）和其他抗议内塔尼亚胡的名人",
-      "summary": "人权组织指责联合国在以色列总理发表讲话时接待了一名“战争罪犯”。",
-      "date": "2026-09-25T02:35:53Z",
-      "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+      "id": "evt_aff295b7",
+      "title": "亲伊姆兰汗集会因政府关闭而推迟",
+      "summary": "在巴基斯坦Tehreek-e-Insaf （ PTI ）抗议活动之前，伊斯兰堡当局封锁了装有集装箱的道路。",
+      "date": "2026-09-26T00:38:34Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu"
+        "en": "Pro-Imran Khan rally delayed amid government closures"
       }
     },
     {
-      "id": "evt_02c748e9",
-      "title": "在联合国展出的以色列和巴勒斯坦的对比待遇",
-      "summary": "以色列总理尽管持有国际刑事法院的逮捕令，但仍亲自在联合国大会发表讲话。",
-      "date": "2026-09-25T02:26:16Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+      "id": "evt_ab0748a1",
+      "title": "伊朗战争现场：德黑兰提出美国计划在七天内重新开放霍尔木兹",
+      "summary": "伊朗外交部长表示，批准重开霍尔木兹的拟议七天提案的“选择权在于美国”。",
+      "date": "2026-09-26T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -65,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Contrasting treatment of Israel and Palestine on display at the UN"
+        "en": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days"
       }
     },
     {
-      "id": "evt_7303fe7e",
-      "title": "100多名纽约人因抗议内塔尼亚胡的联合国访问而被捕",
-      "summary": "以色列总理在联合国大会上向世界各国领导人致辞时，示威者封锁了街道，并向联合国总部游行。",
-      "date": "2026-09-25T02:24:16Z",
-      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+      "id": "evt_05121032",
+      "title": "伊朗表示，它正在等待美国就结束战争的七天路线图作出回应",
+      "summary": "德黑兰表示，如果华盛顿同意，该计划将在一周内重新开放霍尔木兹海峡并恢复核谈判。",
+      "date": "2026-09-25T23:52:18Z",
+      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -93,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit"
+        "en": "Iran says it awaits US response on seven-day roadmap to end war"
       }
     },
     {
-      "id": "evt_d2de5ccc",
-      "title": "特朗普在与习近平的国宴上赞扬美中友谊",
-      "summary": "尽管在伊朗、台湾、人工智能和贸易等问题上存在分歧，但这两个超级大国仍在寻求更大的对话。",
-      "date": "2026-09-25T02:00:16Z",
-      "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+      "id": "evt_96eff850",
+      "title": "如果美国同意计划，伊朗将在一周内重新开放霍尔木兹海峡",
+      "summary": "伊朗表示，它已给予美国为期七天的重新开放霍尔木兹海峡的计划，现在可以选择接受",
+      "date": "2026-09-25T22:33:27Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,14 +121,434 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump praises US-China friendship at state dinner with Xi Jinping"
+        "en": "Iran to reopen Strait of Hormuz within a week if US agrees to plan"
+      }
+    },
+    {
+      "id": "evt_4240311b",
+      "title": "内塔尼亚胡称半岛电视台为“有毒媒体”",
+      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）称半岛电视台是“有毒的媒体渠道”。",
+      "date": "2026-09-25T21:37:35Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu calls Al Jazeera a ‘toxic media outlet’"
+      }
+    },
+    {
+      "id": "evt_09f29feb",
+      "title": "从战争罪犯的小说到空座",
+      "summary": "德黑兰--9月24日，以色列总理本雅明·内塔尼亚胡站在联合国大会讲台上，面对数百个空缺席位。在他的名字宣布之际， 77个外交代表团站起来走出大厅，协调一致地反对以色列对加沙的种族灭绝运动和对伊朗的战争，以及其他区域侵略运动。",
+      "date": "2026-09-25T17:15:36Z",
+      "url": "https://www.tehrantimes.com/news/530404/A-War-Criminal-s-Fiction-to-Empty-Seats",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530404/A-War-Criminal-s-Fiction-to-Empty-Seats"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "A War Criminal’s Fiction to Empty Seats"
+      }
+    },
+    {
+      "id": "evt_6e6037c5",
+      "title": "德黑兰的艺术画廊",
+      "summary": "阿特宾画廊目前正在举办赛义德·卡克萨尔（ Saeid Khaksar ）的绘画展览。 \n名为“Luminacy”的展览将持续到10月6日，展览地点位于Parkway十字路口附近的Vali-e Asr Ave. Khakzad Alley 42号。",
+      "date": "2026-09-25T16:56:38Z",
+      "url": "https://www.tehrantimes.com/news/530385/What-s-in-Tehran-art-galleries",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530385/What-s-in-Tehran-art-galleries"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What’s in Tehran art galleries"
+      }
+    },
+    {
+      "id": "evt_55c8da69",
+      "title": "阿拉斯巴兰文化中心屏幕“等到天黑”",
+      "summary": "特伦斯·杨（ Terence Young ） 1967年的美国心理惊悚片《等到天黑》（ Wait Until Dark ）周三在德黑兰的阿拉斯巴兰文化中心（ Arasbaran Cultural Center ）上映。",
+      "date": "2026-09-25T16:56:10Z",
+      "url": "https://www.tehrantimes.com/news/530386/Arasbaran-Cultural-Center-screens-Wait-Until-Dark",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530386/Arasbaran-Cultural-Center-screens-Wait-Until-Dark"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Arasbaran Cultural Center screens “Wait Until Dark”"
+      }
+    },
+    {
+      "id": "evt_399ff651",
+      "title": "文化部长前往俄罗斯推进联合文化项目",
+      "summary": "德黑兰--文化和伊斯兰指导部长赛义德·阿巴斯·萨利希（ Seyyed Abbas Salehi ）已前往俄罗斯参加第12届国际文化联合论坛，并推动伊朗和俄罗斯之间的联合文化项目。",
+      "date": "2026-09-25T16:55:45Z",
+      "url": "https://www.tehrantimes.com/news/530375/Culture-Minister-goes-to-Russia-to-advance-joint-cultural-programs",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530375/Culture-Minister-goes-to-Russia-to-advance-joint-cultural-programs"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Culture Minister goes to Russia to advance joint cultural programs"
+      }
+    },
+    {
+      "id": "evt_3bcd7132",
+      "title": "习近平对美国的里程碑式访问推进了中国对德黑兰-华盛顿对话和全球稳定的愿景",
+      "summary": "德黑兰--习近平主席对美国的里程碑式访问明确重申了中国作为全球和平、稳定和共识基石的关键地位。",
+      "date": "2026-09-25T16:54:23Z",
+      "url": "https://www.tehrantimes.com/news/530393/Xi-s-landmark-US-visit-advances-China-s-vision-for-Tehran-Washington",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530393/Xi-s-landmark-US-visit-advances-China-s-vision-for-Tehran-Washington"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Xi’s landmark US visit advances China’s vision for Tehran-Washington dialogue and global stability"
+      }
+    },
+    {
+      "id": "evt_3dac24ce",
+      "title": "副总理：欧洲是美国侵略伊朗的“基础设施”",
+      "summary": "德黑兰--伊朗负责法律和国际事务的外交部副部长卡齐姆·加里巴巴迪（ Kazem Gharibabadi ）周四表示，北约秘书长马克·吕特（ Mark Rutte ）最近承认欧洲领土和军事设施是美国对伊朗伊斯兰共和国发动的非法侵略行为的不可或缺的基础设施。",
+      "date": "2026-09-25T16:54:02Z",
+      "url": "https://www.tehrantimes.com/news/530399/Deputy-FM-Europe-served-as-infrastructure-for-US-aggression",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530399/Deputy-FM-Europe-served-as-infrastructure-for-US-aggression"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Deputy FM: Europe served as ‘infrastructure’ for US aggression against Iran"
+      }
+    },
+    {
+      "id": "evt_47ec41bd",
+      "title": "爪哇：伊朗-中国走廊的必要性",
+      "summary": "爪哇写道建立伊朗-中国走廊的重要性：在美国财政部长就对伊朗的航空运输制裁发表声明后，美国继续努力加剧与伊朗的紧张关系，使局势进一步复杂化。",
+      "date": "2026-09-25T16:53:40Z",
+      "url": "https://www.tehrantimes.com/news/530392/Javan-The-need-for-an-Iran-China-corridor",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530392/Javan-The-need-for-an-Iran-China-corridor"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Javan: The need for an Iran-China corridor"
+      }
+    },
+    {
+      "id": "evt_f947da7d",
+      "title": "哥伦比亚在“美国和犹太复国主义政权的影响下”与伊朗断绝外交关系",
+      "summary": "德黑兰--哥伦比亚新成立的右翼政府单方面切断了与伊朗的外交关系，此举凸显了从独立外交到屈服于美国地区议程的戏剧性退步。",
+      "date": "2026-09-25T16:53:14Z",
+      "url": "https://www.tehrantimes.com/news/530391/Colombia-cuts-diplomatic-ties-with-Iran-under-influence-of-US",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530391/Colombia-cuts-diplomatic-ties-with-Iran-under-influence-of-US"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Colombia cuts diplomatic ties with Iran under ‘influence of US and Zionist regime’"
+      }
+    },
+    {
+      "id": "evt_e920afb8",
+      "title": "Araghchi在纽约举行了一系列关于地区安全、霍尔木兹和伊朗-欧盟关系的会谈",
+      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）在纽约联合国大会第81届会议期间与外国同行举行了一系列会议，与俄罗斯、英国、葡萄牙、文莱、吉尔吉斯斯坦、波兰、西班牙、埃及、约旦、塞浦路斯、巴基斯坦和奥地利官员就地区安全、霍尔木兹海峡、西亚战争、巴勒斯坦、伊朗-欧洲关系和双边合作进行了接触。",
+      "date": "2026-09-25T16:48:33Z",
+      "url": "https://www.tehrantimes.com/news/530403/Araghchi-holds-a-series-of-talks-in-NY-on-regional-security",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530403/Araghchi-holds-a-series-of-talks-in-NY-on-regional-security"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Araghchi holds a series of talks in NY on regional security, Hormuz and Iran-EU ties"
+      }
+    },
+    {
+      "id": "evt_e30d1c31",
+      "title": "安全综合体焕然一新：伊朗涉足新建筑",
+      "summary": "库姆--始于美以袭击伊朗的战争不仅摧毁了军事目标，还重新绘制了眼前威胁的地图。它暴露了几十年来统治中东的安全架构的脆弱性。",
+      "date": "2026-09-25T16:38:54Z",
+      "url": "https://www.tehrantimes.com/news/530402/Security-complex-anew-Iran-s-venture-into-a-new-architecture",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530402/Security-complex-anew-Iran-s-venture-into-a-new-architecture"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Security complex anew: Iran's venture into a new architecture"
+      }
+    },
+    {
+      "id": "evt_29d9985a",
+      "title": "Pezeshkian利用联合国大会会议推动外交和区域稳定",
+      "summary": "TEHRAN-伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）在纽约联合国大会第81届会议期间与外国高级官员举行了一系列会议，与巴基斯坦、黎巴嫩、荷兰、亚美尼亚和孟加拉国领导人以及瑞士和欧洲理事会主席就区域安全、外交、双边关系以及最近涉及伊朗的冲突的后果进行了接触。",
+      "date": "2026-09-25T16:35:36Z",
+      "url": "https://www.tehrantimes.com/news/530401/Pezeshkian-uses-UNGA-meetings-to-press-for-diplomacy-and-regional",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530401/Pezeshkian-uses-UNGA-meetings-to-press-for-diplomacy-and-regional"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian uses UNGA meetings to press for diplomacy, and regional stability"
+      }
+    },
+    {
+      "id": "evt_d035a5cf",
+      "title": "海军告诉国会， 8名分配给亚伯拉罕·林肯号的水手企图自杀",
+      "summary": "根据美国有线电视新闻网获得的美国海军代理秘书的一封信，派往亚伯拉罕·林肯号航空母舰的八名美国海军人员在一段时间内企图自杀，其中包括在对伊朗的战争中进行作战行动，该航母创下了海上作战时间的现代记录。",
+      "date": "2026-09-25T15:21:53Z",
+      "url": "https://www.tehrantimes.com/news/530400/8-sailors-assigned-to-USS-Abraham-Lincoln-attempted-suicide",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530400/8-sailors-assigned-to-USS-Abraham-Lincoln-attempted-suicide"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "8 sailors assigned to USS Abraham Lincoln attempted suicide, Navy tells Congress"
+      }
+    },
+    {
+      "id": "evt_471954e7",
+      "title": "NAZA ，屏幕外",
+      "summary": "布宜诺斯艾利斯--几个月来，在种族灭绝的指控和指控中，我们一直生活在加沙令人痛心的图像中。图片、证词和不断的信息流，但没有任何东西可以阻挡。加沙也变成了这样：我们一遍又一遍地看到令人无法忍受的场景，而这些场景的积累似乎足以打断产生它们的机器。",
+      "date": "2026-09-25T13:59:45Z",
+      "url": "https://www.tehrantimes.com/news/530398/NAZA-off-screen",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530398/NAZA-off-screen"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "NAZA, off screen"
+      }
+    },
+    {
+      "id": "evt_49b2ed9d",
+      "title": "黎巴嫩沉默的声音",
+      "summary": "贝鲁特--9月23日，马苏德·佩泽什基安（ Masoud Pezeshkian ）总统将第81届联合国大会作为一个政治战场，而不是一个仪式平台，直接面对华盛顿和以色列的叙述。",
+      "date": "2026-09-25T13:43:59Z",
+      "url": "https://www.tehrantimes.com/news/530397/Lebanon-s-silenced-voice",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530397/Lebanon-s-silenced-voice"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanon’s silenced voice"
       }
     },
     {
       "id": "evt_4f5dc252",
       "title": "内塔尼亚胡为以色列的军事行动辩护，因为代表们在联合国讲话前走出去",
       "summary": "这位以色列领导人将那些在联合国大会上发表讲话的人称为“道德懦夫”。",
-      "date": "2026-09-25T00:44:04Z",
+      "date": "2026-09-25T11:44:44Z",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -150,146 +570,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Netanyahu defends Israeli military action as delegates walk out before UN speech"
-      }
-    },
-    {
-      "id": "evt_a8077eec",
-      "title": "阿联酋禁止伊朗航空公司，因为美国的制裁挤压了伊朗的航空业",
-      "summary": "阿联酋与阿曼、伊拉克、阿塞拜疆、格鲁吉亚和土库曼斯坦一道限制进入伊朗航空公司。",
-      "date": "2026-09-25T00:24:47Z",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector"
-      }
-    },
-    {
-      "id": "evt_a9e3e109",
-      "title": "伊朗战争现场：德黑兰希望华盛顿在美国中期选举之前重新加入谅解备忘录",
-      "summary": "伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）表示，伊朗希望美国在11月初之前重返谅解备忘录。",
-      "date": "2026-09-25T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms"
-      }
-    },
-    {
-      "id": "evt_1b025852",
-      "title": "特朗普-习近平峰会：华盛顿特区会议的四个关键要点",
-      "summary": "特朗普、习近平在白宫寻求稳定的美中关系，但在伊朗、台湾和贸易问题上的分歧仍未解决。",
-      "date": "2026-09-24T23:51:56Z",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting"
-      }
-    },
-    {
-      "id": "evt_0a01b883",
-      "title": "本雅明·内塔尼亚胡在联合国演讲中攻击以色列的敌人和盟友",
-      "summary": "以色列总理谴责伊朗、纽约市长马姆达尼和批评者指责以色列对巴勒斯坦人犯下罪行。",
-      "date": "2026-09-24T22:32:39Z",
-      "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech"
-      }
-    },
-    {
-      "id": "evt_e5f77714",
-      "title": "乌兹别克斯坦在友谊赛中击败伊朗",
-      "summary": "德黑兰-乌兹别克斯坦足球队周四在一场友谊赛中以3比1击败伊朗。",
-      "date": "2026-09-24T16:13:59Z",
-      "url": "https://www.tehrantimes.com/news/530365/Uzbekistan-defeat-Iran-in-friendly",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530365/Uzbekistan-defeat-Iran-in-friendly"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Uzbekistan defeat Iran in friendly"
       }
     },
     {
@@ -321,90 +601,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_22ec2309",
-      "title": "伊朗武术运动员穆萨维称金牌： 2026年亚运会",
-      "summary": "德黑兰-伊朗的Soheil Mousavi周四在2026年亚运会武术比赛中获得金牌。",
-      "date": "2026-09-24T07:57:00Z",
-      "url": "https://www.tehrantimes.com/news/530364/Iran-wushu-athlete-Mousavi-claims-gold-2026-Asian-Games",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530364/Iran-wushu-athlete-Mousavi-claims-gold-2026-Asian-Games"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran wushu athlete  Mousavi  claims gold:  2026 Asian Games"
-      }
-    },
-    {
-      "id": "evt_d135ff33",
-      "title": "伊朗女子轻量级双桨赢得2026年亚运会金牌",
-      "summary": "德黑兰--周四，伊朗选手基米亚·扎雷（ Kimia Zarei ）和泽纳布·诺鲁齐（ Zeynab Norouzi ）在女子轻量级双桨决赛中夺得金牌。",
-      "date": "2026-09-24T07:29:37Z",
-      "url": "https://www.tehrantimes.com/news/530363/Iran-s-women-lightweight-double-sculls-wins-gold-in-2026-Asian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530363/Iran-s-women-lightweight-double-sculls-wins-gold-in-2026-Asian"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran's women lightweight double sculls wins gold in 2026 Asian Games"
-      }
-    },
-    {
-      "id": "evt_7e622fe0",
-      "title": "伊朗女划手Mojallal在名古屋抢金牌",
-      "summary": "德黑兰--伊朗女划手法特梅·莫贾拉尔（ Fatemeh Mojallal ）周四在2026年亚运会上夺得金牌。",
-      "date": "2026-09-24T07:11:00Z",
-      "url": "https://www.tehrantimes.com/news/530362/Iranian-woman-rower-Mojallal-snatches-gold-in-Nagoya",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530362/Iranian-woman-rower-Mojallal-snatches-gold-in-Nagoya"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian woman rower  Mojallal snatches gold in Nagoya"
-      }
-    },
-    {
       "id": "evt_ae4ed73e",
       "title": "伊朗总统告诉特朗普永远不会“屈膝”",
       "summary": "马苏德·佩泽什基安（ Masoud Pezeshkian ）在联合国发表挑衅性讲话之前，美国总统威胁说，如果不尽快达成和平协议，将“消灭”伊朗。",
@@ -430,286 +626,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran's president tells Trump it will never 'bend the knee'"
-      }
-    },
-    {
-      "id": "evt_4ad29705",
-      "title": "议员： Pezeshkian和特朗普之间没有会面",
-      "summary": "德黑兰--伊朗议会国家安全和外交政策委员会成员埃斯梅尔·科萨里（ Esmaeil Kowsari ）将美国总统唐纳德·特朗普（ Donald Trump ）在联合国大会上对伊朗的言论描述为“政治虚张声势和心理战” ，称特朗普不会与伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）会面。",
-      "date": "2026-09-23T17:59:47Z",
-      "url": "https://www.tehrantimes.com/news/530361/MP-No-meeting-between-Pezeshkian-and-Trump",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530361/MP-No-meeting-between-Pezeshkian-and-Trump"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "MP: No meeting between Pezeshkian and Trump"
-      }
-    },
-    {
-      "id": "evt_3ee8bc00",
-      "title": "64个街头游戏聚焦伊朗各地的神圣防御主题",
-      "summary": "TEHRAN -来自26个伊朗省份的64部街头戏剧作品正在全国各地上演，作为“史诗叙事”计划的一部分，该计划与神圣防御周同时举行，以纪念1980-1988年两伊战争的经历和牺牲。",
-      "date": "2026-09-23T17:57:35Z",
-      "url": "https://www.tehrantimes.com/news/530328/64-street-plays-spotlight-Sacred-Defense-themes-across-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530328/64-street-plays-spotlight-Sacred-Defense-themes-across-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "64 street plays spotlight Sacred Defense themes across Iran"
-      }
-    },
-    {
-      "id": "evt_94cfda91",
-      "title": "伊朗动画《遥远的地方》在俄罗斯电影节上获奖",
-      "summary": "TEHRAN-伊朗短片“A Faraway Place”在第16届俄罗斯国际青年电影节“Light to the World”中获得6岁以上类别的第二名。",
-      "date": "2026-09-23T17:57:06Z",
-      "url": "https://www.tehrantimes.com/news/530327/Iranian-animation-A-Faraway-Place-wins-at-Russian-film-festival",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530327/Iranian-animation-A-Faraway-Place-wins-at-Russian-film-festival"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian animation “A Faraway Place” wins at Russian film festival"
-      }
-    },
-    {
-      "id": "evt_a1027cd2",
-      "title": "2026年白乌鸦目录中的四本波斯书籍",
-      "summary": "德黑兰--由慕尼黑国际青年图书馆（ International Youth Library ）编制的《白乌鸦目录》（ White Ravens Catalogue ）已推出其2026年版，其中包含约40种语言的200多种儿童和青年作品，其中包括来自伊朗的四部波斯作品。",
-      "date": "2026-09-23T17:56:41Z",
-      "url": "https://www.tehrantimes.com/news/530334/Four-Persian-books-included-in-White-Ravens-Catalogue-2026",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530334/Four-Persian-books-included-in-White-Ravens-Catalogue-2026"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Four Persian books included in White Ravens Catalogue 2026"
-      }
-    },
-    {
-      "id": "evt_2a9457ca",
-      "title": "特朗普陷入与伊朗的冲突",
-      "summary": "Farhikhtegan分析了特朗普在联合国的讲话。根据该报，特朗普的演讲围绕一个中心主题：解释为什么他对伊朗失败了。这位知道自己极有可能输掉中期选举的美国总统声称，选举对他来说无关紧要。",
-      "date": "2026-09-23T17:55:44Z",
-      "url": "https://www.tehrantimes.com/news/530337/Trump-trapped-in-a-conflict-with-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530337/Trump-trapped-in-a-conflict-with-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump trapped in a conflict with Iran"
-      }
-    },
-    {
-      "id": "evt_da3532f5",
-      "title": "伊斯兰革命卫队地面部队司令：伊朗不会向敌人让步",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）地面部队指挥官穆罕默德·卡拉米准将强调了伊朗伊斯兰共和国面对敌对威胁的坚定决心，并确认伊朗永远不会向敌人屈服。",
-      "date": "2026-09-23T17:55:00Z",
-      "url": "https://www.tehrantimes.com/news/530336/IRGC-Ground-Force-chief-Iran-will-not-yield-an-inch-to-the-enemy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530336/IRGC-Ground-Force-chief-Iran-will-not-yield-an-inch-to-the-enemy"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC Ground Force chief: Iran will not yield an inch to the enemy"
-      }
-    },
-    {
-      "id": "evt_a0e1fef2",
-      "title": "领导人顾问：伊朗已做好防御准备；美国的侵略将造成重大伤亡",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）的高级军事顾问表示，伊朗武装部队已做好在各个领域保卫国家的充分准备，并警告说，如果发生任何侵略，美国将面临重大伤亡。",
-      "date": "2026-09-23T17:43:30Z",
-      "url": "https://www.tehrantimes.com/news/530338/Leader-s-advisor-Iran-fully-prepared-for-defense-US-aggression",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530338/Leader-s-advisor-Iran-fully-prepared-for-defense-US-aggression"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Leader’s advisor: Iran fully prepared for defense; US aggression will bring heavy casualties"
-      }
-    },
-    {
-      "id": "evt_a39feb37",
-      "title": "特朗普在联合国大会期间会见阿拉伯领导人",
-      "summary": "德黑兰--周二，美国总统唐纳德·特朗普在联合国大会期间召集了与阿拉伯和穆斯林国家领导人的闭门会议，因为对伊朗长达近七个月的战争仍存在不确定性。",
-      "date": "2026-09-23T17:43:10Z",
-      "url": "https://www.tehrantimes.com/news/530339/Trump-meets-Arab-leaders-on-sidelines-of-UN-General-Assembly",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530339/Trump-meets-Arab-leaders-on-sidelines-of-UN-General-Assembly"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump meets Arab leaders on sidelines of UN General Assembly"
-      }
-    },
-    {
-      "id": "evt_754bde89",
-      "title": "穆赫森·雷扎伊少将：特朗普的联合国演讲构成“为被击败的罪犯辩护”",
-      "summary": "德黑兰--伊朗官员对美国总统唐纳德·特朗普在第81届联合国大会上的讲话做出了激烈的回应，驳斥了他对伊朗伊斯兰共和国的“歼灭”威胁，认为这是一名“被击败的罪犯”为自己的政治无关紧要而挣扎的绝望言论。",
-      "date": "2026-09-23T17:42:51Z",
-      "url": "https://www.tehrantimes.com/news/530345/Major-General-Mohsen-Rezaei-Trump-s-UN-Speech-constitutes-defense",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530345/Major-General-Mohsen-Rezaei-Trump-s-UN-Speech-constitutes-defense"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Major General Mohsen Rezaei: Trump’s UN Speech constitutes ‘defense of a defeated criminal’"
-      }
-    },
-    {
-      "id": "evt_8a957d66",
-      "title": "“我们永远不会低头”",
-      "summary": "德黑兰--马苏德·佩泽什基安总统周三在纽约联合国大会第81届会议上发表了强有力的讲话，强烈谴责美国和以色列的侵略，揭露了国际双重标准，并声称伊朗民族永远不会屈服于武力的语言。",
-      "date": "2026-09-23T17:41:49Z",
-      "url": "https://www.tehrantimes.com/news/530355/We-will-never-bow-our-head",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530355/We-will-never-bow-our-head"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘We will never bow our head’"
       }
     },
     {
