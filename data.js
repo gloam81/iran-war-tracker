@@ -1,112 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-09-26T02:53:48.590211Z
+// 自动生成的数据 - 更新时间: 2026-09-27T02:56:17.987309Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-26T02:53:48.590150Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-09-27T02:56:17.987247Z",
+    "totalEvents": 33,
     "sources": {
       "international": 20,
-      "iranian": 14,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_aff295b7",
-      "title": "亲伊姆兰汗集会因政府关闭而推迟",
-      "summary": "在巴基斯坦Tehreek-e-Insaf （ PTI ）抗议活动之前，伊斯兰堡当局封锁了装有集装箱的道路。",
-      "date": "2026-09-26T00:38:34Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+      "id": "evt_617231f0",
+      "title": "在结束美伊战争方面，最大的外交周是否取得了进展？",
+      "summary": "联合国大会以喜忧参半的外交成果结束。",
+      "date": "2026-09-27T01:59:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pro-Imran Khan rally delayed amid government closures"
-      }
-    },
-    {
-      "id": "evt_ab0748a1",
-      "title": "伊朗战争现场：德黑兰提出美国计划在七天内重新开放霍尔木兹",
-      "summary": "伊朗外交部长表示，批准重开霍尔木兹的拟议七天提案的“选择权在于美国”。",
-      "date": "2026-09-26T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days"
-      }
-    },
-    {
-      "id": "evt_05121032",
-      "title": "伊朗表示，它正在等待美国就结束战争的七天路线图作出回应",
-      "summary": "德黑兰表示，如果华盛顿同意，该计划将在一周内重新开放霍尔木兹海峡并恢复核谈判。",
-      "date": "2026-09-25T23:52:18Z",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says it awaits US response on seven-day roadmap to end war"
-      }
-    },
-    {
-      "id": "evt_96eff850",
-      "title": "如果美国同意计划，伊朗将在一周内重新开放霍尔木兹海峡",
-      "summary": "伊朗表示，它已给予美国为期七天的重新开放霍尔木兹海峡的计划，现在可以选择接受",
-      "date": "2026-09-25T22:33:27Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran to reopen Strait of Hormuz within a week if US agrees to plan"
+        "en": "Did the biggest week of diplomacy make headway in ending the US-Iran war?"
       }
     },
     {
-      "id": "evt_4240311b",
-      "title": "内塔尼亚胡称半岛电视台为“有毒媒体”",
-      "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）称半岛电视台是“有毒的媒体渠道”。",
-      "date": "2026-09-25T21:37:35Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+      "id": "evt_491cb1c5",
+      "title": "Araghchi无视特朗普，等待调解员对霍尔木兹的回应",
+      "summary": "伊朗表示，它仍在等待美国就其重新开放霍尔木兹海峡的提议做出正式回应。",
+      "date": "2026-09-27T00:50:31Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -149,104 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu calls Al Jazeera a ‘toxic media outlet’"
+        "en": "Araghchi ignores Trump, waits for mediators’ response on Hormuz"
       }
     },
     {
-      "id": "evt_09f29feb",
-      "title": "从战争罪犯的小说到空座",
-      "summary": "德黑兰--9月24日，以色列总理本雅明·内塔尼亚胡站在联合国大会讲台上，面对数百个空缺席位。在他的名字宣布之际， 77个外交代表团站起来走出大厅，协调一致地反对以色列对加沙的种族灭绝运动和对伊朗的战争，以及其他区域侵略运动。",
-      "date": "2026-09-25T17:15:36Z",
-      "url": "https://www.tehrantimes.com/news/530404/A-War-Criminal-s-Fiction-to-Empty-Seats",
+      "id": "evt_2c682fea",
+      "title": "伊朗战争现场：特朗普拒绝霍尔木兹计划，德黑兰等待官方回应",
+      "summary": "美国总统拒绝伊朗为期七天的重新开放霍尔木兹海峡的计划，称该协议“不可接受”。",
+      "date": "2026-09-27T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530404/A-War-Criminal-s-Fiction-to-Empty-Seats"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A War Criminal’s Fiction to Empty Seats"
-      }
-    },
-    {
-      "id": "evt_6e6037c5",
-      "title": "德黑兰的艺术画廊",
-      "summary": "阿特宾画廊目前正在举办赛义德·卡克萨尔（ Saeid Khaksar ）的绘画展览。 \n名为“Luminacy”的展览将持续到10月6日，展览地点位于Parkway十字路口附近的Vali-e Asr Ave. Khakzad Alley 42号。",
-      "date": "2026-09-25T16:56:38Z",
-      "url": "https://www.tehrantimes.com/news/530385/What-s-in-Tehran-art-galleries",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530385/What-s-in-Tehran-art-galleries"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "What’s in Tehran art galleries"
-      }
-    },
-    {
-      "id": "evt_55c8da69",
-      "title": "阿拉斯巴兰文化中心屏幕“等到天黑”",
-      "summary": "特伦斯·杨（ Terence Young ） 1967年的美国心理惊悚片《等到天黑》（ Wait Until Dark ）周三在德黑兰的阿拉斯巴兰文化中心（ Arasbaran Cultural Center ）上映。",
-      "date": "2026-09-25T16:56:10Z",
-      "url": "https://www.tehrantimes.com/news/530386/Arasbaran-Cultural-Center-screens-Wait-Until-Dark",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530386/Arasbaran-Cultural-Center-screens-Wait-Until-Dark"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Arasbaran Cultural Center screens “Wait Until Dark”"
-      }
-    },
-    {
-      "id": "evt_399ff651",
-      "title": "文化部长前往俄罗斯推进联合文化项目",
-      "summary": "德黑兰--文化和伊斯兰指导部长赛义德·阿巴斯·萨利希（ Seyyed Abbas Salehi ）已前往俄罗斯参加第12届国际文化联合论坛，并推动伊朗和俄罗斯之间的联合文化项目。",
-      "date": "2026-09-25T16:55:45Z",
-      "url": "https://www.tehrantimes.com/news/530375/Culture-Minister-goes-to-Russia-to-advance-joint-cultural-programs",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530375/Culture-Minister-goes-to-Russia-to-advance-joint-cultural-programs"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -261,20 +93,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Culture Minister goes to Russia to advance joint cultural programs"
+        "en": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan"
       }
     },
     {
-      "id": "evt_3bcd7132",
-      "title": "习近平对美国的里程碑式访问推进了中国对德黑兰-华盛顿对话和全球稳定的愿景",
-      "summary": "德黑兰--习近平主席对美国的里程碑式访问明确重申了中国作为全球和平、稳定和共识基石的关键地位。",
-      "date": "2026-09-25T16:54:23Z",
-      "url": "https://www.tehrantimes.com/news/530393/Xi-s-landmark-US-visit-advances-China-s-vision-for-Tehran-Washington",
+      "id": "evt_51363bce",
+      "title": "佩泽什基安表示，伊朗“不再信任与华盛顿的谈判”",
+      "summary": "伊朗的佩泽什基安表示，在特朗普拒绝其霍尔木兹提案之前不久，德黑兰不再信任美国的谈判。",
+      "date": "2026-09-26T23:49:30Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian says Iran ‘no longer trusts talks with Washington’"
+      }
+    },
+    {
+      "id": "evt_fbca29ef",
+      "title": "为什么巴基斯坦和阿富汗之间的暴力事件经常发生？",
+      "summary": "巴基斯坦在阿富汗境内发动了新的罢工。",
+      "date": "2026-09-26T20:55:44Z",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why is violence between Pakistan and Afghanistan recurring?"
+      }
+    },
+    {
+      "id": "evt_ee923fe7",
+      "title": "加里巴巴迪：领土完整不容侵犯或讨价还价",
+      "summary": "德黑兰--伊朗外交部负责法律和国际事务的副部长卡齐姆·加里巴巴迪（ Kazem Gharibabadi ）警告说，国际法的可信度取决于所有国家的平等待遇，并强调国家主权和领土完整不能受到侵犯，也不能成为政治谈判的对象。",
+      "date": "2026-09-26T17:20:57Z",
+      "url": "https://www.tehrantimes.com/news/530452/Gharibabadi-Territorial-integrity-cannot-be-violated-or-bargained",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530393/Xi-s-landmark-US-visit-advances-China-s-vision-for-Tehran-Washington"
+          "url": "https://www.tehrantimes.com/news/530452/Gharibabadi-Territorial-integrity-cannot-be-violated-or-bargained"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gharibabadi: Territorial integrity cannot be violated or bargained away"
+      }
+    },
+    {
+      "id": "evt_a5c5259b",
+      "title": "Naomi Wallace的《The Retreating World》将在纱丽上演",
+      "summary": "德黑兰--纳奥米·华莱士（ Naomi Wallace ）撰写的戏剧《撤退的世界》（ The Retreating World ）将于下个月在马赞达兰省的萨里（ Sari ）上演。",
+      "date": "2026-09-26T17:17:01Z",
+      "url": "https://www.tehrantimes.com/news/530428/The-Retreating-World-by-Naomi-Wallace-to-be-staged-in-Sari",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530428/The-Retreating-World-by-Naomi-Wallace-to-be-staged-in-Sari"
         }
       ],
       "category": "political",
@@ -289,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Xi’s landmark US visit advances China’s vision for Tehran-Washington dialogue and global stability"
+        "en": "“The Retreating World” by Naomi Wallace to be staged in Sari"
       }
     },
     {
-      "id": "evt_3dac24ce",
-      "title": "副总理：欧洲是美国侵略伊朗的“基础设施”",
-      "summary": "德黑兰--伊朗负责法律和国际事务的外交部副部长卡齐姆·加里巴巴迪（ Kazem Gharibabadi ）周四表示，北约秘书长马克·吕特（ Mark Rutte ）最近承认欧洲领土和军事设施是美国对伊朗伊斯兰共和国发动的非法侵略行为的不可或缺的基础设施。",
-      "date": "2026-09-25T16:54:02Z",
-      "url": "https://www.tehrantimes.com/news/530399/Deputy-FM-Europe-served-as-infrastructure-for-US-aggression",
+      "id": "evt_2f0fb9f3",
+      "title": "法哈迪的《平行故事》在丝绸之路国际电影节上获得最佳剧本奖",
+      "summary": "德黑兰--阿斯加尔·法哈迪（ Asghar Farhadi ）的最新电影《平行故事》（ Parallel Tales ）获得了中国第十三届丝绸之路国际电影节的奖项。",
+      "date": "2026-09-26T17:16:38Z",
+      "url": "https://www.tehrantimes.com/news/530427/Farhadi-s-Parallel-Tales-wins-best-screenplay-award-at-Silk",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530399/Deputy-FM-Europe-served-as-infrastructure-for-US-aggression"
+          "url": "https://www.tehrantimes.com/news/530427/Farhadi-s-Parallel-Tales-wins-best-screenplay-award-at-Silk"
         }
       ],
       "category": "military",
@@ -317,48 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Deputy FM: Europe served as ‘infrastructure’ for US aggression against Iran"
+        "en": "Farhadi’s “Parallel Tales” wins best screenplay award at Silk Road International Film Festival"
       }
     },
     {
-      "id": "evt_47ec41bd",
-      "title": "爪哇：伊朗-中国走廊的必要性",
-      "summary": "爪哇写道建立伊朗-中国走廊的重要性：在美国财政部长就对伊朗的航空运输制裁发表声明后，美国继续努力加剧与伊朗的紧张关系，使局势进一步复杂化。",
-      "date": "2026-09-25T16:53:40Z",
-      "url": "https://www.tehrantimes.com/news/530392/Javan-The-need-for-an-Iran-China-corridor",
+      "id": "evt_9565e1a9",
+      "title": "《父亲的回忆》提供烈士赛义德·哈桑·纳斯鲁拉的亲密肖像",
+      "summary": "TEHRAN--由赛义德·穆罕默德·马赫迪·纳斯鲁拉（ Sayyed Mohammad Mahdi Nasrallah ）撰写，由布什拉·萨赫比（ Bushra Sahebi ）翻译成波斯语的《父亲的记忆》（ Memories of My Father ） ，对黎巴嫩真主党已故秘书长赛义德·哈桑·纳斯鲁拉（ Sayyed Hassan Nasrallah ）的个人、家庭和道德层面进行了第一手描述。",
+      "date": "2026-09-26T17:16:13Z",
+      "url": "https://www.tehrantimes.com/news/530420/Memories-of-My-Father-offers-intimate-portrait-of-Martyr-Sayyed",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530392/Javan-The-need-for-an-Iran-China-corridor"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Javan: The need for an Iran-China corridor"
-      }
-    },
-    {
-      "id": "evt_f947da7d",
-      "title": "哥伦比亚在“美国和犹太复国主义政权的影响下”与伊朗断绝外交关系",
-      "summary": "德黑兰--哥伦比亚新成立的右翼政府单方面切断了与伊朗的外交关系，此举凸显了从独立外交到屈服于美国地区议程的戏剧性退步。",
-      "date": "2026-09-25T16:53:14Z",
-      "url": "https://www.tehrantimes.com/news/530391/Colombia-cuts-diplomatic-ties-with-Iran-under-influence-of-US",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530391/Colombia-cuts-diplomatic-ties-with-Iran-under-influence-of-US"
+          "url": "https://www.tehrantimes.com/news/530420/Memories-of-My-Father-offers-intimate-portrait-of-Martyr-Sayyed"
         }
       ],
       "category": "military",
@@ -373,20 +261,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Colombia cuts diplomatic ties with Iran under ‘influence of US and Zionist regime’"
+        "en": "“Memories of My Father” offers intimate portrait of Martyr Sayyed Hassan Nasrallah"
       }
     },
     {
-      "id": "evt_e920afb8",
-      "title": "Araghchi在纽约举行了一系列关于地区安全、霍尔木兹和伊朗-欧盟关系的会谈",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）在纽约联合国大会第81届会议期间与外国同行举行了一系列会议，与俄罗斯、英国、葡萄牙、文莱、吉尔吉斯斯坦、波兰、西班牙、埃及、约旦、塞浦路斯、巴基斯坦和奥地利官员就地区安全、霍尔木兹海峡、西亚战争、巴勒斯坦、伊朗-欧洲关系和双边合作进行了接触。",
-      "date": "2026-09-25T16:48:33Z",
-      "url": "https://www.tehrantimes.com/news/530403/Araghchi-holds-a-series-of-talks-in-NY-on-regional-security",
+      "id": "evt_53514e60",
+      "title": "美国情报部门称沙特阿拉伯并未放弃其核武器野心",
+      "summary": "德黑兰--根据《华盛顿邮报》援引美国官员的话报道，提交给国会的美国机密情报显示，沙特阿拉伯并未放弃发展核武器的计划。",
+      "date": "2026-09-26T17:15:50Z",
+      "url": "https://www.tehrantimes.com/news/530444/US-intelligence-says-Saudi-Arabia-has-not-abandoned-its-nuclear",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530403/Araghchi-holds-a-series-of-talks-in-NY-on-regional-security"
+          "url": "https://www.tehrantimes.com/news/530444/US-intelligence-says-Saudi-Arabia-has-not-abandoned-its-nuclear"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US intelligence says Saudi Arabia has not abandoned its nuclear weapons ambitions"
+      }
+    },
+    {
+      "id": "evt_192cd303",
+      "title": "殉道者无法沉默的声音：赛义德·纳斯鲁拉的遗产",
+      "summary": "德黑兰--2024年9月27日，真主党秘书长赛义德·哈桑·纳斯鲁拉（ Sayyed Hassan Nasrallah ）被犹太复国主义政权用美国重型武器暗杀，摧毁了贝鲁特南部的一个街区。",
+      "date": "2026-09-26T17:15:23Z",
+      "url": "https://www.tehrantimes.com/news/530443/A-voice-that-martyrdom-cannot-silence-Sayyed-Nasrallah-s-legacy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530443/A-voice-that-martyrdom-cannot-silence-Sayyed-Nasrallah-s-legacy"
         }
       ],
       "category": "military",
@@ -401,20 +317,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Araghchi holds a series of talks in NY on regional security, Hormuz and Iran-EU ties"
+        "en": "A voice that martyrdom cannot silence: Sayyed Nasrallah’s legacy"
       }
     },
     {
-      "id": "evt_e30d1c31",
-      "title": "安全综合体焕然一新：伊朗涉足新建筑",
-      "summary": "库姆--始于美以袭击伊朗的战争不仅摧毁了军事目标，还重新绘制了眼前威胁的地图。它暴露了几十年来统治中东的安全架构的脆弱性。",
-      "date": "2026-09-25T16:38:54Z",
-      "url": "https://www.tehrantimes.com/news/530402/Security-complex-anew-Iran-s-venture-into-a-new-architecture",
+      "id": "evt_815560e8",
+      "title": "伊拉克抵抗运动威胁在全国范围内静坐抗议美国推动的伊朗航班禁令",
+      "summary": "德黑兰--本周，美国将针对伊朗的经济战扩展到伊拉克领空。巴格达答应了，抵抗派立即反击。",
+      "date": "2026-09-26T17:14:34Z",
+      "url": "https://www.tehrantimes.com/news/530441/Iraqi-Resistance-threatens-nationwide-sit-ins-over-US-pushed",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530402/Security-complex-anew-Iran-s-venture-into-a-new-architecture"
+          "url": "https://www.tehrantimes.com/news/530441/Iraqi-Resistance-threatens-nationwide-sit-ins-over-US-pushed"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iraqi Resistance threatens nationwide sit-ins over US-pushed Iran flight ban"
+      }
+    },
+    {
+      "id": "evt_802b3a5c",
+      "title": "“Janfada”教育中心在德黑兰落成",
+      "summary": "德黑兰-- “Janfada” （自我牺牲）教育中心于周三下午在德黑兰正式落成， Basij组织负责人Hojjatoleslam Hossein Taeb出席了仪式。",
+      "date": "2026-09-26T17:14:01Z",
+      "url": "https://www.tehrantimes.com/news/530442/Janfada-educational-center-inaugurated-in-Tehran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530442/Janfada-educational-center-inaugurated-in-Tehran"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘Janfada’ educational center inaugurated in Tehran"
+      }
+    },
+    {
+      "id": "evt_5f4b6ea7",
+      "title": "国防部：伊朗地下防御基础设施扰乱了敌人的计算",
+      "summary": "德黑兰--伊朗国防部发言人表示，该国系统地转向深层地下防御基础设施，大大改变了西亚的战略实力平衡，迫使敌对行为体重新调整其失败的军事假设。",
+      "date": "2026-09-26T17:12:54Z",
+      "url": "https://www.tehrantimes.com/news/530435/Defense-Ministry-Iran-s-underground-defense-infrastructure-disrupts",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530435/Defense-Ministry-Iran-s-underground-defense-infrastructure-disrupts"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Defense Ministry: Iran’s underground defense infrastructure disrupts enemy calculations"
+      }
+    },
+    {
+      "id": "evt_249b8950",
+      "title": "Pezeshkian将联合国变成审理美国和以色列罪行的法庭",
+      "summary": "在一份说明中， Kayhan讨论了Pezeshkian总统在纽约联合国大会第81届会议上的有力讲话。这次演讲是对美国总统荒谬言论和无耻威胁的有力回应。",
+      "date": "2026-09-26T17:12:32Z",
+      "url": "https://www.tehrantimes.com/news/530434/Pezeshkian-turned-the-United-Nations-into-a-court-for-American",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530434/Pezeshkian-turned-the-United-Nations-into-a-court-for-American"
         }
       ],
       "category": "military",
@@ -429,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Security complex anew: Iran's venture into a new architecture"
+        "en": "Pezeshkian turned the United Nations into a court for American and Israeli crimes"
       }
     },
     {
-      "id": "evt_29d9985a",
-      "title": "Pezeshkian利用联合国大会会议推动外交和区域稳定",
-      "summary": "TEHRAN-伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）在纽约联合国大会第81届会议期间与外国高级官员举行了一系列会议，与巴基斯坦、黎巴嫩、荷兰、亚美尼亚和孟加拉国领导人以及瑞士和欧洲理事会主席就区域安全、外交、双边关系以及最近涉及伊朗的冲突的后果进行了接触。",
-      "date": "2026-09-25T16:35:36Z",
-      "url": "https://www.tehrantimes.com/news/530401/Pezeshkian-uses-UNGA-meetings-to-press-for-diplomacy-and-regional",
+      "id": "evt_70eaa352",
+      "title": "军事首长赞扬应征入伍者在加强国家威慑方面的关键作用",
+      "summary": "德黑兰--伊朗武装部队总参谋长阿里·阿卜杜拉希（ Ali Abdollahi ）少将赞扬了应征士兵对该国国防和安全架构不可或缺的贡献，称他们的存在是伊朗国家威慑战略的重要组成部分。",
+      "date": "2026-09-26T17:12:08Z",
+      "url": "https://www.tehrantimes.com/news/530433/Military-chief-lauds-crucial-role-of-conscripts-in-enhancing",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530401/Pezeshkian-uses-UNGA-meetings-to-press-for-diplomacy-and-regional"
+          "url": "https://www.tehrantimes.com/news/530433/Military-chief-lauds-crucial-role-of-conscripts-in-enhancing"
         }
       ],
       "category": "military",
@@ -457,27 +457,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pezeshkian uses UNGA meetings to press for diplomacy, and regional stability"
+        "en": "Military chief lauds crucial role of conscripts in enhancing national deterrence"
       }
     },
     {
-      "id": "evt_d035a5cf",
-      "title": "海军告诉国会， 8名分配给亚伯拉罕·林肯号的水手企图自杀",
-      "summary": "根据美国有线电视新闻网获得的美国海军代理秘书的一封信，派往亚伯拉罕·林肯号航空母舰的八名美国海军人员在一段时间内企图自杀，其中包括在对伊朗的战争中进行作战行动，该航母创下了海上作战时间的现代记录。",
-      "date": "2026-09-25T15:21:53Z",
-      "url": "https://www.tehrantimes.com/news/530400/8-sailors-assigned-to-USS-Abraham-Lincoln-attempted-suicide",
+      "id": "evt_1a85ef92",
+      "title": "拉夫罗夫谴责联合国大会对伊朗领导人的暗杀是“不可接受的”",
+      "summary": "德黑兰--俄罗斯外交部长谢尔盖·拉夫罗夫（ Sergey Lavrov ）谴责暗杀伊斯兰革命领袖阿亚图拉·赛义德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）及其家人的行为，并在联合国大会第81届会议上发言时谴责该行为“完全不可接受”。",
+      "date": "2026-09-26T17:11:26Z",
+      "url": "https://www.tehrantimes.com/news/530445/Lavrov-condemns-assassination-of-Iran-s-Leader-as-unacceptable",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530400/8-sailors-assigned-to-USS-Abraham-Lincoln-attempted-suicide"
+          "url": "https://www.tehrantimes.com/news/530445/Lavrov-condemns-assassination-of-Iran-s-Leader-as-unacceptable"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -485,27 +485,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "8 sailors assigned to USS Abraham Lincoln attempted suicide, Navy tells Congress"
+        "en": "Lavrov condemns assassination of Iran’s Leader as ‘unacceptable’ at UNGA"
       }
     },
     {
-      "id": "evt_471954e7",
-      "title": "NAZA ，屏幕外",
-      "summary": "布宜诺斯艾利斯--几个月来，在种族灭绝的指控和指控中，我们一直生活在加沙令人痛心的图像中。图片、证词和不断的信息流，但没有任何东西可以阻挡。加沙也变成了这样：我们一遍又一遍地看到令人无法忍受的场景，而这些场景的积累似乎足以打断产生它们的机器。",
-      "date": "2026-09-25T13:59:45Z",
-      "url": "https://www.tehrantimes.com/news/530398/NAZA-off-screen",
+      "id": "evt_81f7de13",
+      "title": "外交事务：随着代价高昂的西方系统步履蹒跚，世界从伊朗的“精确大规模”战争中吸取教训",
+      "summary": "德黑兰--颇具影响力的美国杂志《外交》（ Foreign Affairs ）令人震惊地承认，现代西方军事理论的基础受到了挑战。该杂志发表了一份全面的分析报告，揭示了伊朗是如何成功拆除美国和以色列的侵略性战争计划的。",
+      "date": "2026-09-26T17:10:43Z",
+      "url": "https://www.tehrantimes.com/news/530432/Foreign-Affairs-World-learning-from-Iran-s-precise-mass-warfare",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530398/NAZA-off-screen"
+          "url": "https://www.tehrantimes.com/news/530432/Foreign-Affairs-World-learning-from-Iran-s-precise-mass-warfare"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -513,35 +513,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "NAZA, off screen"
-      }
-    },
-    {
-      "id": "evt_49b2ed9d",
-      "title": "黎巴嫩沉默的声音",
-      "summary": "贝鲁特--9月23日，马苏德·佩泽什基安（ Masoud Pezeshkian ）总统将第81届联合国大会作为一个政治战场，而不是一个仪式平台，直接面对华盛顿和以色列的叙述。",
-      "date": "2026-09-25T13:43:59Z",
-      "url": "https://www.tehrantimes.com/news/530397/Lebanon-s-silenced-voice",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530397/Lebanon-s-silenced-voice"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lebanon’s silenced voice"
+        "en": "Foreign Affairs: World learning from Iran’s ‘precise mass’ warfare as costly Western systems falter"
       }
     },
     {
