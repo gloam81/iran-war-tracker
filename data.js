@@ -1,28 +1,56 @@
-// 自动生成的数据 - 更新时间: 2026-09-30T03:21:55.945100Z
+// 自动生成的数据 - 更新时间: 2026-10-01T03:28:16.652031Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-09-30T03:21:55.945041Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-10-01T03:28:16.651980Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 20,
-      "iranian": 13,
+      "international": 21,
+      "iranian": 14,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_980cc2fb",
-      "title": "美国参议院阻止寻求有关在约旦河西岸遇害的美国人的报告的决议",
-      "summary": "该决议引用了以色列政府的“缺乏问责制”和美国的“无法确保正义”。",
-      "date": "2026-09-30T02:26:20Z",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
+      "id": "evt_10c76b35",
+      "title": "美国最高法院为克里斯塔·派克在田纳西州的处决铺平道路",
+      "summary": "最高法院的裁决推翻了田纳西州200年来首次处决一名妇女的最后一刻停留。",
+      "date": "2026-10-01T02:35:59Z",
+      "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US Supreme Court clears way for Christa Pike’s execution in Tennessee"
+      }
+    },
+    {
+      "id": "evt_64d7ca6f",
+      "title": "我们对飞往以色列的Flydubai航班上刺伤的了解",
+      "summary": "官员说，一名飞行员被捕，并在另一名飞行员被刺伤后接受讯问。",
+      "date": "2026-10-01T02:31:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -37,76 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US Senate blocks resolution seeking report on Americans killed in West Bank"
+        "en": "What we know about stabbing on Flydubai flight to Israel"
       }
     },
     {
-      "id": "evt_a6853a22",
-      "title": "摩洛哥的亲巴勒斯坦抗议活动挑战拉巴特不断加深的以色列关系",
-      "summary": "摩洛哥各地的抗议活动凸显了公众反对正常化与拉巴特与以色列建立更密切关系之间的差距。",
-      "date": "2026-09-30T01:46:53Z",
-      "url": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss",
+      "id": "evt_42ecd171",
+      "title": "英国称伊朗可能与所谓的空军基地阴谋有关，引发愤怒的否认",
+      "summary": "安迪·伯纳姆（ Andy Burnham ）表示，英国有“强有力的迹象”表明伊朗卷入了美国使用的英国皇家空军基地的安全事件",
+      "date": "2026-10-01T02:30:45Z",
+      "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties"
-      }
-    },
-    {
-      "id": "evt_f8791a4d",
-      "title": "伊朗战争现场：特朗普声称战争将“很快”结束，但没有提供细节",
-      "summary": "美国总统唐纳德·特朗普重申，德黑兰将不会拥有核武器。",
-      "date": "2026-09-30T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Trump claims war will end ‘very soon’, gives no details"
-      }
-    },
-    {
-      "id": "evt_128e9e54",
-      "title": "特朗普表示，他计划在中期选举前竞选32天",
-      "summary": "美国总统撇开对他受欢迎程度的担忧，因为选民对生活成本和对伊朗的战争表示沮丧。",
-      "date": "2026-09-29T23:53:08Z",
-      "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,48 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump says he plans to campaign for 32 days before midterm elections"
+        "en": "UK says Iran may be linked to alleged airbase plot, drawing angry denial"
       }
     },
     {
-      "id": "evt_69f458ec",
-      "title": "“没有什么可以证明这一点” ：卡塔尔总理抨击以色列在加沙的暴行",
-      "summary": "卡塔尔高级外交官表示，以色列从“第一天”开始就破坏了多哈为实现加沙停火所做的努力。",
-      "date": "2026-09-29T23:49:18Z",
-      "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+      "id": "evt_0fc2c137",
+      "title": "伊拉克庆祝主权日，美军完成撤军",
+      "summary": "伊拉克人庆祝为期四天的假期开始时，夜间庆祝活动充满了空气。",
+      "date": "2026-10-01T01:11:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza"
-      }
-    },
-    {
-      "id": "evt_9f6af732",
-      "title": "随着美军撤离，伊拉克开始高风险的安全平衡行动",
-      "summary": "随着美军撤离，伊拉克将迎来国家“主权日” ，但必须应对新的安全形势带来的风险。",
-      "date": "2026-09-29T23:06:53Z",
-      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -177,20 +121,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iraq begins high-stakes security balancing act as US troops withdraw"
+        "en": "Iraq celebrates Sovereignty Day as US troops complete withdrawal"
       }
     },
     {
-      "id": "evt_2e7e5d51",
-      "title": "加沙抵抗运动高级指挥官阿布·哈姆扎在黎明突袭中殉难",
-      "summary": "德黑兰--哈马斯军事部门伊兹·丁·卡萨姆旅（ Izz al-Din al-Qassam Brigades ）证实了高级指挥官伊兹·丁·阿卜杜勒·阿齐兹·贝克（ Izz al-Din Abdul Aziz al-Beik ）在周二早些时候以色列单向无人机袭击加沙城后殉难。",
-      "date": "2026-09-29T19:02:10Z",
-      "url": "https://www.tehrantimes.com/news/530571/Senior-Gaza-resistance-commander-Abu-Hamza-martyred-in-dawn-raid",
+      "id": "evt_8bedce02",
+      "title": "乘客讲述被转移的Flydubai航班上的“噩梦”",
+      "summary": "以色列乘客讲述了一名飞行员被刺伤后被转移的Flydubai航班上的恐怖事件。",
+      "date": "2026-10-01T00:53:54Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530571/Senior-Gaza-resistance-commander-Abu-Hamza-martyred-in-dawn-raid"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight"
+      }
+    },
+    {
+      "id": "evt_f566bf56",
+      "title": "伊朗游行穿越首都的Shahed无人机",
+      "summary": "当两架Shahed无人机在德黑兰游行时，人群欢呼并挥舞着国旗。",
+      "date": "2026-10-01T00:39:04Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -205,20 +177,328 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Senior Gaza resistance commander Abu Hamza martyred in dawn raid"
+        "en": "Iran parades Shahed drones through capital"
       }
     },
     {
-      "id": "evt_2c04fdc4",
-      "title": "伊拉克的主权不应该用一天的时间来界定",
-      "summary": "德黑兰--没有捍卫它的手段的自由只是一个承诺，没有保护它的权力的主权只是一个象征。",
-      "date": "2026-09-29T19:01:39Z",
-      "url": "https://www.tehrantimes.com/news/530574/Iraq-s-sovereignty-should-not-be-defined-by-a-single-day",
+      "id": "evt_781d8a28",
+      "title": "伊朗战争现场：特朗普暗示美国可能打击伊朗，警告时间即将到来",
+      "summary": "特朗普表示，美国可能会“炸毁”伊朗或达成协议，并坚称僵局将很快以某种方式结束。",
+      "date": "2026-10-01T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump hints US could strike Iran, warns time coming"
+      }
+    },
+    {
+      "id": "evt_8bcdced3",
+      "title": "特朗普惊讶于“以色列水管工”帮助降落Flydubai航班",
+      "summary": "一位惊讶的美国总统唐纳德·特朗普（ Donald Trump ）讲述了一位“以色列水管工”如何帮助降落Flydubai航班的故事。",
+      "date": "2026-09-30T23:50:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight"
+      }
+    },
+    {
+      "id": "evt_7b3cb7da",
+      "title": "伊斯兰革命卫队在一封信中要求美国人与美国的侵略决裂",
+      "summary": "伊斯兰革命卫队（ IRGC ）发言人在德黑兰举行的新闻发布会上告诉记者，该部队已向美国人民签署了一封长达26页的信，解释了伊朗的立场，并呼吁他们重新考虑他们被告知的有关美国在西亚的战争的内容。",
+      "date": "2026-09-30T22:42:05Z",
+      "url": "https://www.tehrantimes.com/news/530619/In-a-letter-IRGC-asks-Americans-to-break-with-US-aggression",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530574/Iraq-s-sovereignty-should-not-be-defined-by-a-single-day"
+          "url": "https://www.tehrantimes.com/news/530619/In-a-letter-IRGC-asks-Americans-to-break-with-US-aggression"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "In a letter, IRGC asks Americans to break with US aggression"
+      }
+    },
+    {
+      "id": "evt_99f4116e",
+      "title": "英国认为伊朗参与了英国皇家空军费尔福德事件，伯纳姆说",
+      "summary": "伊朗外交部长对此作出回应，称总理“吠错了树”。",
+      "date": "2026-09-30T21:26:59Z",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UK believes Iran involved in RAF Fairford incident, Burnham says"
+      }
+    },
+    {
+      "id": "evt_13be3989",
+      "title": "坚持不懈，直到胜利",
+      "summary": "Siasat-e-Rooz的社论专门针对特朗普关于霍尔木兹海峡的毫无根据的言论。该报写道，自冲突开始以来已经过去了一年多，关于伊朗毁灭的美国梦已经变成了美国的噩梦。",
+      "date": "2026-09-30T17:05:47Z",
+      "url": "https://www.tehrantimes.com/news/530596/Perseverance-until-victory",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530596/Perseverance-until-victory"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Perseverance until victory"
+      }
+    },
+    {
+      "id": "evt_4b839a56",
+      "title": "联合国大会之谜：美国对伊朗的困境",
+      "summary": "德黑兰--根据美国的行为模式，华盛顿经常将国际实体和集会视为对其对手发动政治或军事行动的适当工具。",
+      "date": "2026-09-30T17:05:18Z",
+      "url": "https://www.tehrantimes.com/news/530593/The-UNGA-riddle-America-s-dilemma-over-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530593/The-UNGA-riddle-America-s-dilemma-over-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The UNGA riddle: America's dilemma over Iran"
+      }
+    },
+    {
+      "id": "evt_4d401984",
+      "title": "Pezeshkian ：美国、以色列在军事失败后诉诸播种内部分裂",
+      "summary": "德黑兰--总统马苏德·佩泽什基安（ Masoud Pezeshkian ）警告说，美国和以色列正在积极开展一场煽动伊朗内部不和的运动，未能通过直接的军事对抗来打破国家的决心。",
+      "date": "2026-09-30T17:04:51Z",
+      "url": "https://www.tehrantimes.com/news/530598/Pezeshkian-US-Israel-resort-to-sowing-internal-division-after",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530598/Pezeshkian-US-Israel-resort-to-sowing-internal-division-after"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian: US, Israel resort to sowing internal division after military failure"
+      }
+    },
+    {
+      "id": "evt_edb31c97",
+      "title": "伊朗警告地区国家不要在内塔尼亚胡访问阿联酋后接待以色列官员",
+      "summary": "德黑兰--伊朗已就以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）等破坏稳定的行为者在其土地上存在的后果向该地区国家发出警告，并警告特拉维夫试图制造地区紧张局势。",
+      "date": "2026-09-30T17:04:30Z",
+      "url": "https://www.tehrantimes.com/news/530591/Iran-warns-regional-states-against-hosting-Israeli-officials",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530591/Iran-warns-regional-states-against-hosting-Israeli-officials"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran warns regional states against hosting Israeli officials after Netanyahu’s UAE visit"
+      }
+    },
+    {
+      "id": "evt_d20a0724",
+      "title": "伊朗向第99届奥斯卡颁奖典礼提交Babak Khajehpasha的“天使之地”",
+      "summary": "德黑兰--巴巴克·卡杰帕夏（ Babak Khajehpasha ）的《天使之地》（ Land of Angels ）已被正式选为伊朗向第99届奥斯卡最佳国际故事片类奖项提交的作品。",
+      "date": "2026-09-30T17:03:45Z",
+      "url": "https://www.tehrantimes.com/news/530607/Iran-submits-Babak-Khajehpasha-s-Land-of-Angels-to-99th-Academy",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530607/Iran-submits-Babak-Khajehpasha-s-Land-of-Angels-to-99th-Academy"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran submits Babak Khajehpasha’s “Land of Angels” to 99th Academy Awards"
+      }
+    },
+    {
+      "id": "evt_7be864ee",
+      "title": "卡迈勒·达乌德（ Kamel Daoud ）以波斯语出版的“Houris”",
+      "summary": "德黑兰--卡迈勒·达乌德（ Kamel Daoud ）撰写的《Houris》（又名《处女》）一书的波斯语译本已在伊朗各地的书店发行。",
+      "date": "2026-09-30T17:03:31Z",
+      "url": "https://www.tehrantimes.com/news/530608/Kamel-Daoud-s-Houris-published-in-Persian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530608/Kamel-Daoud-s-Houris-published-in-Persian"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Kamel Daoud’s “Houris” published in Persian"
+      }
+    },
+    {
+      "id": "evt_7b2fff1d",
+      "title": "Babak Karimi在意大利电影节上获得最佳男演员奖",
+      "summary": "德黑兰--伊朗演员巴巴克·卡里米（ Babak Karimi ）在第28届奥蒂贾电影节（ Ortigia Film Festival ）上获奖，该电影节于9月26日在意大利锡拉丘兹闭幕。",
+      "date": "2026-09-30T17:03:14Z",
+      "url": "https://www.tehrantimes.com/news/530578/Babak-Karimi-receives-best-actor-award-at-Italian-festival",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530578/Babak-Karimi-receives-best-actor-award-at-Italian-festival"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Babak Karimi receives best actor award at Italian festival"
+      }
+    },
+    {
+      "id": "evt_5350cd40",
+      "title": "彼得·谢弗的《黑色喜剧》在霍马剧院上演",
+      "summary": "德黑兰--彼得·谢弗（ Peter Shaffer ）撰写的独幕闹剧《黑色喜剧》正在德黑兰的霍马剧院上演。",
+      "date": "2026-09-30T17:03:01Z",
+      "url": "https://www.tehrantimes.com/news/530609/Peter-Shaffer-s-Black-Comedy-on-stage-at-Homa-Theater",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530609/Peter-Shaffer-s-Black-Comedy-on-stage-at-Homa-Theater"
         }
       ],
       "category": "political",
@@ -233,20 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iraq’s sovereignty should not be defined by a single day"
+        "en": "Peter Shaffer’s “Black Comedy” on stage at Homa Theater"
       }
     },
     {
-      "id": "evt_e36b7d6d",
-      "title": "伊拉克的卡塔伊卜真主党威胁因伊朗航班禁令而关闭领空",
-      "summary": "德黑兰--真主党安全负责人周一警告总理阿里·法莱赫·扎伊迪（ Ali Faleh Al-Zaidi ）领导的伊拉克政府，如果伊拉克在10月1日之后继续对伊朗实施空中封锁，人们可能会关闭进入伊拉克领空的其他国家的入境点。",
-      "date": "2026-09-29T19:01:06Z",
-      "url": "https://www.tehrantimes.com/news/530569/Iraq-s-Kata-ib-Hezbollah-threatens-airspace-closure-over-ban",
+      "id": "evt_8185370e",
+      "title": "特朗普的投降幻想：谈判中的结",
+      "summary": "德黑兰—伊朗已收到华盛顿对其最新倡议的回应，该倡议旨在结束长达七个月的冲突，该冲突始于2月28日无端的美以联合罢工，因为唐纳德·特朗普总统仍然顽固地认为军事压力和经济战可以迫使伊斯兰共和国屈服。",
+      "date": "2026-09-30T17:01:17Z",
+      "url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530569/Iraq-s-Kata-ib-Hezbollah-threatens-airspace-closure-over-ban"
+          "url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks"
         }
       ],
       "category": "military",
@@ -261,20 +541,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iraq’s Kata’ib Hezbollah threatens airspace closure over ban on Iran flights"
+        "en": "Trump’s surrender fantasy: The knot in talks"
       }
     },
     {
-      "id": "evt_9f7b4710",
-      "title": "伊朗国家交响乐团在莫斯科莫斯科大剧院开启伊朗文化周",
-      "summary": "TEHRAN -伊朗国家交响乐团由Homayoun Rahimian指挥，主唱为Mojtaba Asgari ，周一晚上在莫斯科历史悠久的莫斯科大剧院举行了伊朗伊斯兰共和国文化周开幕式。",
-      "date": "2026-09-29T19:00:29Z",
-      "url": "https://www.tehrantimes.com/news/530558/Iran-National-Orchestra-opens-Iran-Cultural-Week-at-Moscow-s",
+      "id": "evt_c746fced",
+      "title": "海上力量是伊朗航运安全和经济韧性的支柱",
+      "summary": "德黑兰--伊朗高级军事指挥官强调了该国海上能力的战略重要性，将海军力量描述为维护国家利益、保护航运路线和通信、维护地区安全和加强伊朗经济韧性的关键。",
+      "date": "2026-09-30T16:57:47Z",
+      "url": "https://www.tehrantimes.com/news/530618/Maritime-power-as-pillar-of-Iran-s-shipping-security-and-economic",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530558/Iran-National-Orchestra-opens-Iran-Cultural-Week-at-Moscow-s"
+          "url": "https://www.tehrantimes.com/news/530618/Maritime-power-as-pillar-of-Iran-s-shipping-security-and-economic"
         }
       ],
       "category": "military",
@@ -289,20 +569,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran National Orchestra opens Iran Cultural Week at Moscow’s Bolshoi Theater"
+        "en": "Maritime power as pillar of Iran's shipping security and economic resilience"
       }
     },
     {
-      "id": "evt_08525631",
-      "title": "Henry Slesar的《The Thing at the Door》在波斯语有声读物中提供",
-      "summary": "TEHRAN -美国作家兼剧作家亨利·斯莱萨尔（ Henry Slesar ）的《门口之物》（ The Thing at the Door ）有声读物已由Avaye Chirok发行， Avaye Chirok是一家在伊朗生产有声读物的主要研究所。",
-      "date": "2026-09-29T18:59:57Z",
-      "url": "https://www.tehrantimes.com/news/530559/Henry-Slesar-s-The-Thing-at-the-Door-available-in-Persian-audiobook",
+      "id": "evt_700d4552",
+      "title": "伊朗在捍卫自身权利、安全和利益的同时寻求和平：国防部SPOX",
+      "summary": "德黑兰--伊朗国防部发言人表示，伊朗寻求和平和结束冲突，同时继续致力于捍卫其合法权利、国家安全和利益，并强调承认伊朗的合法权利和条件将为结束冲突开辟道路。",
+      "date": "2026-09-30T16:53:38Z",
+      "url": "https://www.tehrantimes.com/news/530616/Iran-seeks-peace-while-defending-its-rights-security-and-interests",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530559/Henry-Slesar-s-The-Thing-at-the-Door-available-in-Persian-audiobook"
+          "url": "https://www.tehrantimes.com/news/530616/Iran-seeks-peace-while-defending-its-rights-security-and-interests"
         }
       ],
       "category": "military",
@@ -317,20 +597,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Henry Slesar’s “The Thing at the Door” available in Persian audiobook"
+        "en": "Iran seeks peace while defending its rights, security and interests: MoD spox"
       }
     },
     {
-      "id": "evt_2096863f",
-      "title": "内塔尼亚胡飞越约旦和沙特阿拉伯，在阿布扎比进行秘密会谈",
-      "summary": "德黑兰--周日，一架载有本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的私人飞机从以色列起飞，进入约旦领空，进入沙特阿拉伯，并在阿布扎比降落。加沙在多年的无情轰炸下沦为废墟。国际刑事法院对以色列总理发出了逮捕令。然而，两个阿拉伯国家提供了晴朗的天空，第三个国家开放了机场停机坪，并接待了内塔尼亚胡，与其他地区参与者进行了不祥的会谈。",
-      "date": "2026-09-29T18:58:26Z",
-      "url": "https://www.tehrantimes.com/news/530573/Netanyahu-flew-over-Jordan-and-Saudi-Arabia-for-clandestine-talks",
+      "id": "evt_4d44170c",
+      "title": "伊朗寻求与邻国建立更深层次的关系，将高加索和中亚置于焦点位置",
+      "summary": "德黑兰--伊朗正在加紧努力，扩大与邻国和友好国家的政治、经济和民间接触，最近与阿塞拜疆和乌兹别克斯坦的高层接触凸显了德黑兰对与高加索和中亚北部邻国和合作伙伴建立更密切关系的重视。",
+      "date": "2026-09-30T16:48:35Z",
+      "url": "https://www.tehrantimes.com/news/530615/Iran-seeks-deeper-ties-with-neighbors-puts-Caucasus-and-Central",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530573/Netanyahu-flew-over-Jordan-and-Saudi-Arabia-for-clandestine-talks"
+          "url": "https://www.tehrantimes.com/news/530615/Iran-seeks-deeper-ties-with-neighbors-puts-Caucasus-and-Central"
         }
       ],
       "category": "military",
@@ -345,23 +625,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu flew over Jordan and Saudi Arabia for clandestine talks in Abu Dhabi"
+        "en": "Iran seeks deeper ties with neighbors, puts Caucasus and Central Asia in focus"
       }
     },
     {
-      "id": "evt_bd057cbd",
-      "title": "卡利巴夫警告我们，对任何侵略行为都要作出迅速、令人遗憾的回应",
-      "summary": "伊朗议会议长穆罕默德·巴基尔·卡利巴夫（ Mohammad Baqer Qalibaf ）警告说，任何针对伊朗伊斯兰共和国的侵略或冒险行为都将引发“强硬、令人遗憾、准确和迅速”的反应，并表示美国实施海上封锁、限制空中走廊和对伊朗贸易路线施加最大压力的努力最终将失败。",
-      "date": "2026-09-29T18:56:47Z",
-      "url": "https://www.tehrantimes.com/news/530577/Qalibaf-warns-US-of-a-swift-regret-inducing-response-to-any",
+      "id": "evt_7b950160",
+      "title": "马来西亚临时代办访问Mehr Media Group",
+      "summary": "TEHRAN-马来西亚驻德黑兰大使馆代办兼使团团长Dato ’Wan Aznainizam Yusri bin Wan Abdul Rashid于9月30日访问了Mehr通讯社和《德黑兰时报》的出版商Mehr Media Group ，在那里他与该媒体集团首席执行官Mohammad-Mahdi Rahmati博士和《德黑兰时报》主编Mohammad Sarfi进行了会谈，并在访问期间接受了采访。",
+      "date": "2026-09-30T16:47:57Z",
+      "url": "https://www.tehrantimes.com/photo/530614/Malaysian-charg%C3%A9-d-Affaires-visits-Mehr-Media-Group",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530577/Qalibaf-warns-US-of-a-swift-regret-inducing-response-to-any"
+          "url": "https://www.tehrantimes.com/photo/530614/Malaysian-charg%C3%A9-d-Affaires-visits-Mehr-Media-Group"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
         "lat": 35.6892,
         "lng": 51.389,
@@ -373,27 +653,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qalibaf warns US of a swift, regret-inducing response to any aggression"
+        "en": "Malaysian chargé d’Affaires visits Mehr Media Group"
       }
     },
     {
-      "id": "evt_f4bdcc3d",
-      "title": "Araghchi在纽约的外交活动将战争、霍尔木兹和核权利置于伊朗在联合国活动的中心",
-      "summary": "TEHRAN-伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）在纽约结束了一轮密集的外交磋商，利用联合国大会第81届会议敦促伊朗在战争、霍尔木兹海峡、核问题、国际法和继续外交方面的立场。",
-      "date": "2026-09-29T18:53:54Z",
-      "url": "https://www.tehrantimes.com/news/530576/Araghchi-s-diplomacy-in-NY-puts-war-Hormuz-and-nuclear-rights",
+      "id": "evt_cbdf27eb",
+      "title": "乘客描述在飞往以色列的飞机上被刺伤",
+      "summary": "飞往以色列的Flydubai航班上的乘客拍摄了刺伤后的时刻。",
+      "date": "2026-09-30T15:07:00Z",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530576/Araghchi-s-diplomacy-in-NY-puts-war-Hormuz-and-nuclear-rights"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -401,27 +681,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Araghchi’s diplomacy in NY puts war, Hormuz and nuclear rights at center of Iran’s UN outreach"
+        "en": "Passengers describe stabbing on Israel-bound plane"
       }
     },
     {
-      "id": "evt_c3b1a7d8",
-      "title": "伊朗在友谊赛中落后于俄罗斯",
-      "summary": "德黑兰-伊朗足球队在周二的一场友谊赛中以2比0输给了俄罗斯队。",
-      "date": "2026-09-29T18:32:19Z",
-      "url": "https://www.tehrantimes.com/news/530575/Iran-fall-short-to-Russia-in-friendly",
+      "id": "evt_8b5ba395",
+      "title": "随着反伊斯兰国任务的结束，最后一支英国和美国军队离开伊拉克",
+      "summary": "根据两年前达成的协议，撤出联军是伊拉克政府的一项关键要求。",
+      "date": "2026-09-30T11:36:23Z",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530575/Iran-fall-short-to-Russia-in-friendly"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -429,27 +709,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran fall  short  to Russia  in friendly"
+        "en": "Last UK and US troops leave Iraq as anti-Islamic State mission ends"
       }
     },
     {
-      "id": "evt_faa40a00",
-      "title": "政治分析人士表示，美国的压力未能迫使伊朗放弃其核战略",
-      "summary": "德黑兰--乔治·华盛顿大学埃利奥特国际事务学院中东政治助理教授兼中东研究硕士课程主任Sina Azodi已成为伊朗核计划最突出的声音之一。",
-      "date": "2026-09-29T18:31:47Z",
-      "url": "https://www.tehrantimes.com/news/530561/US-pressure-failed-to-force-Iran-to-abandon-its-nuclear-strategy",
+      "id": "evt_da2b7a41",
+      "title": "女孩在加沙罢工后进行了多次手术以控制感染",
+      "summary": "目击者说， Raseel的帐篷被以色列直升机击中。以色列军方表示，它没有这次袭击的记录。",
+      "date": "2026-09-30T05:02:50Z",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530561/US-pressure-failed-to-force-Iran-to-abandon-its-nuclear-strategy"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -457,91 +737,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US pressure failed to force Iran to abandon its nuclear strategy, says political analyst"
-      }
-    },
-    {
-      "id": "evt_c5c80b27",
-      "title": "卢比奥利用“勒索”来掩盖美国在伊朗的罪行",
-      "summary": "德黑兰--美国国务卿马可·卢比奥（ Marco Rubio ）再次对伊朗发表煽动性言论，显然是为了转移人们对华盛顿自身侵略和流血记录的注意力。",
-      "date": "2026-09-29T18:28:37Z",
-      "url": "https://www.tehrantimes.com/news/530550/Rubio-invokes-blackmail-to-hide-US-crimes-in-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530550/Rubio-invokes-blackmail-to-hide-US-crimes-in-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Rubio invokes ‘blackmail’ to hide US crimes in Iran"
-      }
-    },
-    {
-      "id": "evt_fbb58fdf",
-      "title": "伊朗大使馆驳斥英国媒体关于英国皇家空军费尔福德被捕的说法，警告不要助长“伊朗恐惧症”",
-      "summary": "德黑兰--伊朗伊斯兰共和国驻伦敦大使馆断然拒绝英国媒体将该国牵连到最近在皇家空军（ RAF ）费尔福德基地附近逮捕五人的企图，称这种猜测是“捏造的”和“恶意的”。",
-      "date": "2026-09-29T18:28:13Z",
-      "url": "https://www.tehrantimes.com/news/530543/Iran-embassy-rejects-UK-media-claims-over-RAF-Fairford-arrests",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530543/Iran-embassy-rejects-UK-media-claims-over-RAF-Fairford-arrests"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran embassy rejects UK media claims over RAF Fairford arrests, warns against fueling ‘Iranophobia’"
-      }
-    },
-    {
-      "id": "evt_d8e7d2ae",
-      "title": "伊朗在联合国拒绝阿联酋：三个岛屿是“伊朗领土不可分割的一部分”",
-      "summary": "德黑兰--伊朗法律和国际事务部副部长卡齐姆·加里巴巴迪（ Kazem Gharibabadi ）在社交媒体平台X上表示，在联合国讲台上重复毫无根据的主张“并不能改变阿布·穆萨（ Abu Musa ）、大通布（ Greater Tunb ）和小通布（ Lesser Tunb ）仍然是“伊朗领土不可分割的一部分”的现实。",
-      "date": "2026-09-29T18:27:54Z",
-      "url": "https://www.tehrantimes.com/news/530542/Iran-rebuffs-UAE-at-UN-Three-islands-are-inseparable-parts",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530542/Iran-rebuffs-UAE-at-UN-Three-islands-are-inseparable-parts"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran rebuffs UAE at UN: Three islands are ‘inseparable parts of Iran’s territory’"
+        "en": "Girl has multiple surgeries to control infections after strike in Gaza"
       }
     },
     {
@@ -626,34 +822,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Inside Yemen's front-line city as Houthis battle for control"
-      }
-    },
-    {
-      "id": "evt_4a2183e5",
-      "title": "观看：英国广播公司从也门战争升级的前线报道",
-      "summary": "在罕见的进入也门冲突地区的情况下，英国广播公司与亲政府士兵一起前往前线。",
-      "date": "2026-09-27T21:00:06Z",
-      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Watch: BBC reports from the front-line of an escalating war in Yemen"
       }
     },
     {
@@ -769,34 +937,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e939a924",
-      "title": "Houthis是谁，他们想要什么？",
-      "summary": "由于对全球能源市场的担忧日益加剧，也门红海沿岸的快速军事推进使伊朗支持的集团成为人们关注的焦点。",
-      "date": "2026-09-24T13:58:46Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Who are the Houthis and what do they want?"
-      }
-    },
-    {
       "id": "evt_e1cfe557",
       "title": "特朗普和平委员会公布$ 24.5亿加沙恢复计划",
       "summary": "这一数字是在纽约联合国大会期间举行的集团董事会会议上宣布的。",
@@ -825,34 +965,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_cccf4970",
-      "title": "联合国机构发现，加沙暴力侵害妇女的报告激增",
-      "summary": "联合国人口基金会还表示，早婚和强迫婚姻的数量“严重升级”。",
-      "date": "2026-09-23T05:02:26Z",
-      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Reports of violence against women in Gaza surge, UN agency finds"
-      }
-    },
-    {
       "id": "evt_689e58a4",
       "title": "七国集团在联合国大会之前表示，伊朗必须停止在也门武装胡塞武装",
       "summary": "七国集团还“最强烈地”谴责胡塞武装对沙特阿拉伯的袭击，称也门战斗升级危及全球能源安全。",
@@ -878,62 +990,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly"
-      }
-    },
-    {
-      "id": "evt_8d734603",
-      "title": "英国帮助沙特喷气式飞机加油以对抗胡塞武装袭击",
-      "summary": "英国表示，应沙特阿拉伯的要求，它将为“防御性”行动提供空中加油。",
-      "date": "2026-09-22T08:53:03Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UK to help refuel Saudi jets countering Houthi attacks"
-      }
-    },
-    {
-      "id": "evt_4fdc7a04",
-      "title": "也门人越过红海逃亡，胡塞武装和沙特支持的部队加剧了战争",
-      "summary": "英国广播公司的弗兰克·加德纳（ Frank Gardner ）采访了一些逃离战争的人，他们穿越红海前往吉布提。",
-      "date": "2026-09-21T14:14:16Z",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war"
       }
     }
   ]
