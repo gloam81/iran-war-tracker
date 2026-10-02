@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-01T03:28:16.652031Z
+// 自动生成的数据 - 更新时间: 2026-10-02T03:28:37.133455Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-01T03:28:16.651980Z",
-    "totalEvents": 35,
+    "lastUpdate": "2026-10-02T03:28:37.133391Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 21,
+      "international": 20,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,100 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_10c76b35",
-      "title": "美国最高法院为克里斯塔·派克在田纳西州的处决铺平道路",
-      "summary": "最高法院的裁决推翻了田纳西州200年来首次处决一名妇女的最后一刻停留。",
-      "date": "2026-10-01T02:35:59Z",
-      "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
+      "id": "evt_49e8c349",
+      "title": "特朗普在支持率创历史新低之际发起中期竞选闪电战",
+      "summary": "在一系列竞选风格的集会中，特朗普试图在伊朗战争和燃料成本上涨的情况下提高共和党人的胜算。",
+      "date": "2026-10-02T01:39:08Z",
+      "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump launches midterms campaign blitz amid record low approval ratings"
+      }
+    },
+    {
+      "id": "evt_511618d0",
+      "title": "伊朗战争现场：美国将2000名海军陆战队员转移到中东，油轮在霍尔木兹被击中",
+      "summary": "作为围绕伊朗更广泛集结的一部分，美国向中东部署了罗斯福打击群和2000名海军陆战队员。",
+      "date": "2026-10-02T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz"
+      }
+    },
+    {
+      "id": "evt_4cf95bc5",
+      "title": "以色列无人机在加沙杀害巴勒斯坦人，定居者在约旦河西岸杀害另一人",
+      "summary": "自2025年10月“停火”开始以来，已有1,439名巴勒斯坦人在加沙被杀， 5,052人受伤。",
+      "date": "2026-10-01T23:44:39Z",
+      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank"
+      }
+    },
+    {
+      "id": "evt_a9092c22",
+      "title": "94岁犹太大律师因支持巴勒斯坦行动而被捕",
+      "summary": "一名94岁的犹太活动家因支持巴勒斯坦行动而在英国的亲巴勒斯坦集会上被拘留。",
+      "date": "2026-10-01T22:44:56Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -37,14 +121,126 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US Supreme Court clears way for Christa Pike’s execution in Tennessee"
+        "en": "94-year-old Jewish barrister arrested for supporting Palestine Action"
+      }
+    },
+    {
+      "id": "evt_16ecafdb",
+      "title": "印度vs巴基斯坦定于2027年10月10日在板球世界杯上",
+      "summary": "随着国际刑事法院宣布比赛时间表，竞争对手再次与持有者澳大利亚一起被组合在一起。",
+      "date": "2026-10-01T22:30:32Z",
+      "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup"
+      }
+    },
+    {
+      "id": "evt_005691a0",
+      "title": "Flydubai副驾驶员在着陆前“殴打”船长：沙特初步调查",
+      "summary": "沙特阿拉伯内政部表示，飞行员与阿联酋安全团队一起返回阿联酋。",
+      "date": "2026-10-01T21:53:16Z",
+      "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe"
+      }
+    },
+    {
+      "id": "evt_7d093b50",
+      "title": "内塔尼亚胡说， Flydubai袭击者进行了“伊斯兰激进的灌输”",
+      "summary": "以色列总理说，试图接管Flydubai飞机的飞行员显然打算“击落飞机”。",
+      "date": "2026-10-01T19:59:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'"
+      }
+    },
+    {
+      "id": "evt_f26942b2",
+      "title": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
+      "summary": "Smit Machchhar上尉在飞往特拉维夫的Flydubai航班上遭到另一名飞行员的袭击。",
+      "date": "2026-10-01T15:04:32Z",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?"
       }
     },
     {
       "id": "evt_64d7ca6f",
       "title": "我们对飞往以色列的Flydubai航班上刺伤的了解",
       "summary": "官员说，一名飞行员被捕，并在另一名飞行员被刺伤后接受讯问。",
-      "date": "2026-10-01T02:31:24Z",
+      "date": "2026-10-01T14:22:14Z",
       "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -69,16 +265,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_42ecd171",
-      "title": "英国称伊朗可能与所谓的空军基地阴谋有关，引发愤怒的否认",
-      "summary": "安迪·伯纳姆（ Andy Burnham ）表示，英国有“强有力的迹象”表明伊朗卷入了美国使用的英国皇家空军基地的安全事件",
-      "date": "2026-10-01T02:30:45Z",
-      "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
+      "id": "evt_8e928410",
+      "title": "Flydubai乘客描述拥抱他的孩子，因为飞机在袭击中坠毁",
+      "summary": "Adam Polovincik告诉英国广播公司，他告诉他的小孩“一切都会好起来的” ，因为飞机坠落了超过17,000英尺（ 5,200米）。",
+      "date": "2026-10-01T13:57:28Z",
+      "url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -93,76 +289,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UK says Iran may be linked to alleged airbase plot, drawing angry denial"
+        "en": "Flydubai passenger describes hugging his children as plane nosedived during attack"
       }
     },
     {
-      "id": "evt_0fc2c137",
-      "title": "伊拉克庆祝主权日，美军完成撤军",
-      "summary": "伊拉克人庆祝为期四天的假期开始时，夜间庆祝活动充满了空气。",
-      "date": "2026-10-01T01:11:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
+      "id": "evt_164216ce",
+      "title": "阿布德瓦利在2026年亚运会上获得伊朗第12枚金牌",
+      "summary": "德黑兰--周四，伊朗希腊-罗马摔跤运动员阿里雷扎·阿布德瓦利（ Alireza Abdevali ）在2026年亚运会上夺得一枚金牌。",
+      "date": "2026-10-01T13:55:10Z",
+      "url": "https://www.tehrantimes.com/news/530622/Abdevali-gains-Iran-s-12th-gold-medal-in-2026-Asian-Games",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iraq celebrates Sovereignty Day as US troops complete withdrawal"
-      }
-    },
-    {
-      "id": "evt_8bedce02",
-      "title": "乘客讲述被转移的Flydubai航班上的“噩梦”",
-      "summary": "以色列乘客讲述了一名飞行员被刺伤后被转移的Flydubai航班上的恐怖事件。",
-      "date": "2026-10-01T00:53:54Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight"
-      }
-    },
-    {
-      "id": "evt_f566bf56",
-      "title": "伊朗游行穿越首都的Shahed无人机",
-      "summary": "当两架Shahed无人机在德黑兰游行时，人群欢呼并挥舞着国旗。",
-      "date": "2026-10-01T00:39:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530622/Abdevali-gains-Iran-s-12th-gold-medal-in-2026-Asian-Games"
         }
       ],
       "category": "military",
@@ -177,27 +317,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran parades Shahed drones through capital"
+        "en": "Abdevali gains Iran’s 12th gold medal in 2026 Asian Games"
       }
     },
     {
-      "id": "evt_781d8a28",
-      "title": "伊朗战争现场：特朗普暗示美国可能打击伊朗，警告时间即将到来",
-      "summary": "特朗普表示，美国可能会“炸毁”伊朗或达成协议，并坚称僵局将很快以某种方式结束。",
-      "date": "2026-10-01T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "id": "evt_7d3b2531",
+      "title": "伊朗的Alipour在名古屋攀岩中赢得银牌",
+      "summary": "德黑兰--伊朗的礼萨·阿里普尔（ Reza Alipour ）周四在2026年亚运会上获得了一枚银牌。",
+      "date": "2026-10-01T13:45:34Z",
+      "url": "https://www.tehrantimes.com/news/530621/Iran-s-Alipour-wins-silver-at-Nagoya-climbing",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530621/Iran-s-Alipour-wins-silver-at-Nagoya-climbing"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -205,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump hints US could strike Iran, warns time coming"
+        "en": "Iran’s Alipour wins silver at Nagoya climbing"
       }
     },
     {
-      "id": "evt_8bcdced3",
-      "title": "特朗普惊讶于“以色列水管工”帮助降落Flydubai航班",
-      "summary": "一位惊讶的美国总统唐纳德·特朗普（ Donald Trump ）讲述了一位“以色列水管工”如何帮助降落Flydubai航班的故事。",
-      "date": "2026-09-30T23:50:17Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+      "id": "evt_d996d198",
+      "title": "伊朗捕获第二架美国水下无人机",
+      "summary": "伊斯兰革命卫队在不到一个月的时间里捕获了一架新的高科技美国水下无人机，因为华盛顿继续努力开放霍尔木兹海峡，伊朗在2月份美国和以色列袭击该国后关闭了该海峡。",
+      "date": "2026-10-01T11:53:41Z",
+      "url": "https://www.tehrantimes.com/news/530620/Iran-captures-second-US-underwater-drone",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530620/Iran-captures-second-US-underwater-drone"
         }
       ],
       "category": "military",
@@ -233,7 +373,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight"
+        "en": "Iran captures second US underwater drone"
+      }
+    },
+    {
+      "id": "evt_c490e72c",
+      "title": "以色列总理表示，现在判断伊朗是否参与迪拜-特拉维夫航班袭击还为时过早",
+      "summary": "本雅明·内塔尼亚胡（ Benjamin Netanyahu ）说，一名在飞往以色列的飞机上刺伤另一名飞行员的飞行员正在沙特阿拉伯接受调查。",
+      "date": "2026-10-01T11:26:46Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says"
+      }
+    },
+    {
+      "id": "evt_4df67a15",
+      "title": "乘客说，以色列航班像“过山车”一样直线下降",
+      "summary": "一架飞往以色列的飞机在不到两分钟的时间内坠落了17,000英尺（ 5,200米）。",
+      "date": "2026-10-01T03:52:20Z",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Plummeting Israel flight like 'rollercoaster', says passenger"
       }
     },
     {
@@ -262,6 +458,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "In a letter, IRGC asks Americans to break with US aggression"
+      }
+    },
+    {
+      "id": "evt_5af1535f",
+      "title": "Flydubai乘客描述在驾驶舱刺伤后将袭击者置于窒息状态",
+      "summary": "飞往以色列的航班上的其他乘客描述了飞机坠落的“可怕”时刻。",
+      "date": "2026-09-30T21:38:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing"
       }
     },
     {
@@ -573,118 +797,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_700d4552",
-      "title": "伊朗在捍卫自身权利、安全和利益的同时寻求和平：国防部SPOX",
-      "summary": "德黑兰--伊朗国防部发言人表示，伊朗寻求和平和结束冲突，同时继续致力于捍卫其合法权利、国家安全和利益，并强调承认伊朗的合法权利和条件将为结束冲突开辟道路。",
-      "date": "2026-09-30T16:53:38Z",
-      "url": "https://www.tehrantimes.com/news/530616/Iran-seeks-peace-while-defending-its-rights-security-and-interests",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530616/Iran-seeks-peace-while-defending-its-rights-security-and-interests"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran seeks peace while defending its rights, security and interests: MoD spox"
-      }
-    },
-    {
-      "id": "evt_4d44170c",
-      "title": "伊朗寻求与邻国建立更深层次的关系，将高加索和中亚置于焦点位置",
-      "summary": "德黑兰--伊朗正在加紧努力，扩大与邻国和友好国家的政治、经济和民间接触，最近与阿塞拜疆和乌兹别克斯坦的高层接触凸显了德黑兰对与高加索和中亚北部邻国和合作伙伴建立更密切关系的重视。",
-      "date": "2026-09-30T16:48:35Z",
-      "url": "https://www.tehrantimes.com/news/530615/Iran-seeks-deeper-ties-with-neighbors-puts-Caucasus-and-Central",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530615/Iran-seeks-deeper-ties-with-neighbors-puts-Caucasus-and-Central"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran seeks deeper ties with neighbors, puts Caucasus and Central Asia in focus"
-      }
-    },
-    {
-      "id": "evt_7b950160",
-      "title": "马来西亚临时代办访问Mehr Media Group",
-      "summary": "TEHRAN-马来西亚驻德黑兰大使馆代办兼使团团长Dato ’Wan Aznainizam Yusri bin Wan Abdul Rashid于9月30日访问了Mehr通讯社和《德黑兰时报》的出版商Mehr Media Group ，在那里他与该媒体集团首席执行官Mohammad-Mahdi Rahmati博士和《德黑兰时报》主编Mohammad Sarfi进行了会谈，并在访问期间接受了采访。",
-      "date": "2026-09-30T16:47:57Z",
-      "url": "https://www.tehrantimes.com/photo/530614/Malaysian-charg%C3%A9-d-Affaires-visits-Mehr-Media-Group",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/photo/530614/Malaysian-charg%C3%A9-d-Affaires-visits-Mehr-Media-Group"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Malaysian chargé d’Affaires visits Mehr Media Group"
-      }
-    },
-    {
-      "id": "evt_cbdf27eb",
-      "title": "乘客描述在飞往以色列的飞机上被刺伤",
-      "summary": "飞往以色列的Flydubai航班上的乘客拍摄了刺伤后的时刻。",
-      "date": "2026-09-30T15:07:00Z",
-      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Passengers describe stabbing on Israel-bound plane"
-      }
-    },
-    {
       "id": "evt_8b5ba395",
       "title": "随着反伊斯兰国任务的结束，最后一支英国和美国军队离开伊拉克",
       "summary": "根据两年前达成的协议，撤出联军是伊拉克政府的一项关键要求。",
@@ -825,156 +937,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_bb180972",
-      "title": "伊朗部长表示，在特朗普拒绝霍尔木兹协议后，只有谈判才能结束冲突",
-      "summary": "这位外交部长表示，尽管美国总统发表了评论，但德黑兰仍在等待正式拒绝协议。",
-      "date": "2026-09-27T07:44:11Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "id": "evt_e939a924",
+      "title": "Houthis是谁，他们想要什么？",
+      "summary": "由于对全球能源市场的担忧日益加剧，也门红海沿岸的快速军事推进使伊朗支持的集团成为人们关注的焦点。",
+      "date": "2026-09-24T13:58:46Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal"
-      }
-    },
-    {
-      "id": "evt_cce10c63",
-      "title": "特朗普拒绝伊朗在七天内重新开放霍尔木兹海峡的协议",
-      "summary": "伊朗外交部长承认特朗普的评论，但补充说，德黑兰正在等待调解人的“明确意见”。",
-      "date": "2026-09-26T22:15:59Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days"
-      }
-    },
-    {
-      "id": "evt_4f5dc252",
-      "title": "内塔尼亚胡为以色列的军事行动辩护，因为代表们在联合国讲话前走出去",
-      "summary": "这位以色列领导人将那些在联合国大会上发表讲话的人称为“道德懦夫”。",
-      "date": "2026-09-25T11:44:44Z",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Netanyahu defends Israeli military action as delegates walk out before UN speech"
-      }
-    },
-    {
-      "id": "evt_4e204bfa",
-      "title": "米利班德告诉伊朗外交部长英国不会容忍英国领土上的“敌对活动”",
-      "summary": "这位外交大臣强调“英国坚定不移地打击英国境内与伊朗有联系的团体的威胁，包括对英国犹太社区的袭击”。",
-      "date": "2026-09-25T02:51:36Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil"
-      }
-    },
-    {
-      "id": "evt_e1cfe557",
-      "title": "特朗普和平委员会公布$ 24.5亿加沙恢复计划",
-      "summary": "这一数字是在纽约联合国大会期间举行的集团董事会会议上宣布的。",
-      "date": "2026-09-24T10:11:15Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan"
-      }
-    },
-    {
-      "id": "evt_689e58a4",
-      "title": "七国集团在联合国大会之前表示，伊朗必须停止在也门武装胡塞武装",
-      "summary": "七国集团还“最强烈地”谴责胡塞武装对沙特阿拉伯的袭击，称也门战斗升级危及全球能源安全。",
-      "date": "2026-09-22T13:39:09Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -989,7 +961,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly"
+        "en": "Who are the Houthis and what do they want?"
       }
     }
   ]
