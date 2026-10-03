@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-02T03:28:37.133455Z
+// 自动生成的数据 - 更新时间: 2026-10-03T03:12:23.102150Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-02T03:28:37.133391Z",
-    "totalEvents": 34,
+    "lastUpdate": "2026-10-03T03:12:23.102090Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 20,
+      "international": 19,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,19 +13,19 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_49e8c349",
-      "title": "特朗普在支持率创历史新低之际发起中期竞选闪电战",
-      "summary": "在一系列竞选风格的集会中，特朗普试图在伊朗战争和燃料成本上涨的情况下提高共和党人的胜算。",
-      "date": "2026-10-02T01:39:08Z",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
+      "id": "evt_f088a307",
+      "title": "印度vs巴基斯坦现场：亚运会板球决赛",
+      "summary": "我们对金牌比赛的球队新闻、天气预报、预测、投掷、得分和文本评论进行了实时更新。",
+      "date": "2026-10-03T02:30:31Z",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -37,48 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump launches midterms campaign blitz amid record low approval ratings"
+        "en": "India vs Pakistan live: Asian Games cricket final"
       }
     },
     {
-      "id": "evt_511618d0",
-      "title": "伊朗战争现场：美国将2000名海军陆战队员转移到中东，油轮在霍尔木兹被击中",
-      "summary": "作为围绕伊朗更广泛集结的一部分，美国向中东部署了罗斯福打击群和2000名海军陆战队员。",
-      "date": "2026-10-02T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "id": "evt_bd2ed9e3",
+      "title": "以色列空袭加沙市公寓造成至少5人死亡",
+      "summary": "在致命的以色列袭击袭击加沙市最拥挤的街区之一雷马尔之前，没有给出任何警告。",
+      "date": "2026-10-03T02:25:23Z",
+      "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz"
-      }
-    },
-    {
-      "id": "evt_4cf95bc5",
-      "title": "以色列无人机在加沙杀害巴勒斯坦人，定居者在约旦河西岸杀害另一人",
-      "summary": "自2025年10月“停火”开始以来，已有1,439名巴勒斯坦人在加沙被杀， 5,052人受伤。",
-      "date": "2026-10-01T23:44:39Z",
-      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,23 +65,51 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank"
+        "en": "Israeli air attack on Gaza City apartment kills at least five"
       }
     },
     {
-      "id": "evt_a9092c22",
-      "title": "94岁犹太大律师因支持巴勒斯坦行动而被捕",
-      "summary": "一名94岁的犹太活动家因支持巴勒斯坦行动而在英国的亲巴勒斯坦集会上被拘留。",
-      "date": "2026-10-01T22:44:56Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+      "id": "evt_67b7cc43",
+      "title": "伊朗战争现场：也门战斗加剧，数百人伤亡",
+      "summary": "也门各地的战斗加剧，军方称在24小时内发生了474次袭击，造成1,540名胡塞武装分子死亡或受伤。",
+      "date": "2026-10-03T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured"
+      }
+    },
+    {
+      "id": "evt_4fc845fa",
+      "title": "Flydubai飞行员讲述了与印度总理莫迪通话中的驾驶舱刺伤事件",
+      "summary": "Smit Machchhar回忆起副驾驶员袭击飞往特拉维夫的Flydubai航班后的空中灾难。",
+      "date": "2026-10-02T22:50:23Z",
+      "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -121,23 +121,303 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "94-year-old Jewish barrister arrested for supporting Palestine Action"
+        "en": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi"
       }
     },
     {
-      "id": "evt_16ecafdb",
-      "title": "印度vs巴基斯坦定于2027年10月10日在板球世界杯上",
-      "summary": "随着国际刑事法院宣布比赛时间表，竞争对手再次与持有者澳大利亚一起被组合在一起。",
-      "date": "2026-10-01T22:30:32Z",
-      "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
+      "id": "evt_a905fa4b",
+      "title": "以色列本可以结束加沙战争，更快释放俘虏：以色列前谈判代表",
+      "summary": "退役将军尼赞·阿隆（ Nitzan Alon ）表示，更多的俘虏本可以活着回来， “也许一年前”就可能达成协议。",
+      "date": "2026-10-02T21:53:17Z",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator"
+      }
+    },
+    {
+      "id": "evt_14070815",
+      "title": "Rais-Ali Delvari博物馆在伊朗南部重新设计后重新开放",
+      "summary": "德黑兰--在经过广泛的物理和内容重新设计后， Rais-Ali Delvari博物馆在南部城市Delvar重新开放，官员们将博物馆描述为记录第一次世界大战期间当地社区抵抗英国军队的场所。",
+      "date": "2026-10-02T21:32:00Z",
+      "url": "https://www.tehrantimes.com/news/530663/Rais-Ali-Delvari-Museum-reopens-after-major-redesign-in-southern",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530663/Rais-Ali-Delvari-Museum-reopens-after-major-redesign-in-southern"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Rais-Ali Delvari Museum reopens after major redesign in southern Iran"
+      }
+    },
+    {
+      "id": "evt_1245031e",
+      "title": "伊朗与联合国教科文组织讨论加强国际合作保护世界遗产",
+      "summary": "德黑兰--伊朗和联合国教科文组织讨论了扩大技术和国际合作的问题，以评估、记录、恢复和保护伊朗的世界遗产，包括据报道在最近的战争中受损的财产。",
+      "date": "2026-10-02T21:26:36Z",
+      "url": "https://www.tehrantimes.com/news/530662/Iran-UNESCO-discuss-stronger-intl-cooperation-to-protect-World",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530662/Iran-UNESCO-discuss-stronger-intl-cooperation-to-protect-World"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran, UNESCO discuss stronger intl. cooperation to protect World Heritage sites"
+      }
+    },
+    {
+      "id": "evt_011f4f51",
+      "title": "对伊朗的免费威胁时代已经结束：伊斯兰革命卫队",
+      "summary": "德黑兰--伊朗伊斯兰革命卫队（ IRGC ）警告称，任何针对伊朗伊斯兰共和国的威胁、侵略行为或敌对行动都将遭到比“真实承诺2”行动更具决定性甚至更具破坏性的回应，并宣称“对伊朗的免费威胁时代已经结束”。",
+      "date": "2026-10-02T17:45:43Z",
+      "url": "https://www.tehrantimes.com/news/530661/Era-of-cost-free-threats-against-Iran-is-over-IRGC",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530661/Era-of-cost-free-threats-against-Iran-is-over-IRGC"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Era of cost-free threats against Iran is over: IRGC"
+      }
+    },
+    {
+      "id": "evt_563f00f8",
+      "title": "伊朗谴责特朗普无视美以侵略的人力代价",
+      "summary": "德黑兰--伊朗外交部发言人伊斯梅尔·巴凯伊（ Esmaeil Baqaei ）批评美国总统唐纳德·特朗普（ Donald Trump ） “对美以战争给伊朗带来的人类代价漠不关心” ，并警告说，将死亡视为不可避免并不会降低人类生命的价值，也不会为军事侵略造成的痛苦辩护。",
+      "date": "2026-10-02T17:41:47Z",
+      "url": "https://www.tehrantimes.com/news/530660/Iran-condemns-Trump-s-dismissal-of-human-cost-of-US-Israeli-aggression",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530660/Iran-condemns-Trump-s-dismissal-of-human-cost-of-US-Israeli-aggression"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran condemns Trump’s dismissal of human cost of US-Israeli aggression"
+      }
+    },
+    {
+      "id": "evt_794d1d02",
+      "title": "日本大使通过音乐告别伊朗人",
+      "summary": "TEHRAN -日本驻伊朗大使Tamaki Tsukada在德黑兰外交使命结束时向伊朗人民告别，他从著名的日本电影制片人和动画师宫崎骏的音乐世界中拿起长笛和表演作品。",
+      "date": "2026-10-02T17:37:44Z",
+      "url": "https://www.tehrantimes.com/news/530640/Japanese-ambassador-bids-farewell-to-Iranians-through-music",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530640/Japanese-ambassador-bids-farewell-to-Iranians-through-music"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Japanese ambassador bids farewell to Iranians through music"
+      }
+    },
+    {
+      "id": "evt_f48c0591",
+      "title": "阿拉伯君主国的资本流过库什纳公司发动种族灭绝战争",
+      "summary": "德黑兰--担任白宫未经审查的外交谈判代表的贾里德·库什纳（ Jared Kushner ）与支持以色列在中东地区进行种族灭绝战争的军事机构建立了有利可图的联系。据美国有线电视新闻网10月1日报道，最近的财务透明度披露显示，库什纳位于迈阿密的私募股权基金Affinity Partners仍然是凤凰金融的单一最大股东。",
+      "date": "2026-10-02T17:37:13Z",
+      "url": "https://www.tehrantimes.com/news/530651/Arab-monarchies-capital-flows-through-Kushner-firm-to-wage-genocidal",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530651/Arab-monarchies-capital-flows-through-Kushner-firm-to-wage-genocidal"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Arab monarchies’ capital flows through Kushner firm to wage genocidal wars"
+      }
+    },
+    {
+      "id": "evt_82282308",
+      "title": "特朗普谈论自己对伊朗的想象",
+      "summary": "德黑兰--特朗普声称，如果他不是总统，伊朗会用核弹将以色列和沙特阿拉伯“从地球上” “抹去”。",
+      "date": "2026-10-02T17:36:57Z",
+      "url": "https://www.tehrantimes.com/news/530655/Trump-talking-his-own-imagination-about-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530655/Trump-talking-his-own-imagination-about-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump talking his own imagination about Iran"
+      }
+    },
+    {
+      "id": "evt_21ef936c",
+      "title": "《时代》杂志揭露了特朗普战争贩卖的核心鲁莽",
+      "summary": "德黑兰--《时代》杂志曝光的新细节揭示了目前驱动美帝国主义的混乱功能障碍。这份发表在最新一期《时代》杂志上的报告显示，白宫已将其灾难性的军事冒险主义外包给大型语言模型（ LLM ） ，暴露了一个与现实脱节的衰落的美国帝国。",
+      "date": "2026-10-02T17:36:25Z",
+      "url": "https://www.tehrantimes.com/news/530656/Time-magazine-exposes-recklessness-at-the-heart-of-Trump-s-warmongering",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530656/Time-magazine-exposes-recklessness-at-the-heart-of-Trump-s-warmongering"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Time magazine exposes recklessness at the heart of Trump’s warmongering"
+      }
+    },
+    {
+      "id": "evt_31952381",
+      "title": "黎巴嫩南部：以色列“在我们眼前夷为平地”",
+      "summary": "日复一日，以色列占领的Mansouri村庄坐落在沿海城市提尔以南几公里处的一座绿色山丘上，正在慢慢消失。在战争期间已经严重受损，现在在停火期间，它实际上被从地图上抹去了，这是最后的愤世嫉俗。",
+      "date": "2026-10-02T17:35:24Z",
+      "url": "https://www.tehrantimes.com/news/530652/Southern-Lebanese-Israel-is-razing-our-lives-before-our-eyes",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530652/Southern-Lebanese-Israel-is-razing-our-lives-before-our-eyes"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Southern Lebanese: Israel is ‘razing our lives before our eyes'"
+      }
+    },
+    {
+      "id": "evt_fad05b51",
+      "title": "在俄罗斯的伊朗伊斯兰共和国文化日之际",
+      "summary": "历史背景和人际关系：伊朗和俄罗斯之间的关系不仅仅是两国政府或邻国之间的关系。它们植根于两国人民之间悠久的接触、对话、旅行、贸易、学术、文学和相互理解的历史。",
+      "date": "2026-10-02T17:34:18Z",
+      "url": "https://www.tehrantimes.com/news/530639/Culture-the-common-language-of-the-Iranian-and-Russian-peoples",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530639/Culture-the-common-language-of-the-Iranian-and-Russian-peoples"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -149,27 +429,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup"
+        "en": "On the occasion of the Cultural Days of the Islamic Republic of Iran in Russia"
       }
     },
     {
-      "id": "evt_005691a0",
-      "title": "Flydubai副驾驶员在着陆前“殴打”船长：沙特初步调查",
-      "summary": "沙特阿拉伯内政部表示，飞行员与阿联酋安全团队一起返回阿联酋。",
-      "date": "2026-10-01T21:53:16Z",
-      "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
+      "id": "evt_e874740d",
+      "title": "美国从伊拉克撤军标志着抵抗阵线的新阶段：卡尼",
+      "summary": "TEHRAN -伊朗伊斯兰革命卫队（ IRGC ）圣城部队指挥官Esmaeil Qaani准将将美国从伊拉克撤军以及未能实现其在对伊朗战争中的目标描述为华盛顿的重大挫折，称这些事态发展标志着整个西亚的抵抗阵线进入了一个新阶段。",
+      "date": "2026-10-02T17:30:24Z",
+      "url": "https://www.tehrantimes.com/news/530659/US-withdrawal-from-Iraq-marks-new-Phase-for-Resistance-Front",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530659/US-withdrawal-from-Iraq-marks-new-Phase-for-Resistance-Front"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -177,7 +457,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe"
+        "en": "US withdrawal from Iraq marks new Phase for Resistance Front: Qaani"
+      }
+    },
+    {
+      "id": "evt_2a74691c",
+      "title": "PGSA ：三艘在霍尔木兹被击中的阿联酋油轮被列入不合规名单",
+      "summary": "德黑兰--伊朗波斯湾海峡管理局（ PGSA ）表示，最近几天在霍尔木兹海峡遇袭的三艘阿联酋油轮已被列入不合规名单。",
+      "date": "2026-10-02T17:23:32Z",
+      "url": "https://www.tehrantimes.com/news/530654/PGSA-Three-Emirati-tankers-hit-in-Hormuz-were-on-non-compliance",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530654/PGSA-Three-Emirati-tankers-hit-in-Hormuz-were-on-non-compliance"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "PGSA: Three Emirati tankers hit in Hormuz were on non-compliance list"
+      }
+    },
+    {
+      "id": "evt_099ffc5c",
+      "title": "美国在该地区结束的开始",
+      "summary": "伊朗报纸研究了二十年后美国从伊拉克撤军的原因。据报道，美国军队正式离开伊拉克，结束了长达20年的军事存在。",
+      "date": "2026-10-02T17:22:37Z",
+      "url": "https://www.tehrantimes.com/news/530641/The-beginning-of-America-s-end-in-the-region",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530641/The-beginning-of-America-s-end-in-the-region"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The beginning of America’s end in the region"
+      }
+    },
+    {
+      "id": "evt_3adae407",
+      "title": "印度大使馆在诞辰157周年之际揭幕甘地雕像，确认伊朗与印度的持久关系",
+      "summary": "德黑兰--印度驻德黑兰大使馆周五举行了一场纪念仪式，以纪念圣雄甘地诞辰157周年。此次活动在印度大使馆文化中心举行，参加者包括Vishwesh Negi大使、伊朗著名文化和市政人物、媒体代表和大使馆工作人员。",
+      "date": "2026-10-02T17:21:55Z",
+      "url": "https://www.tehrantimes.com/news/530649/Indian-Embassy-unveils-Gandhi-statue-on-157th-birth-anniversary",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530649/Indian-Embassy-unveils-Gandhi-statue-on-157th-birth-anniversary"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Indian Embassy unveils Gandhi statue on 157th birth anniversary, affirms enduring Iran-India ties"
+      }
+    },
+    {
+      "id": "evt_f26942b2",
+      "title": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
+      "summary": "Smit Machchhar上尉在飞往特拉维夫的Flydubai航班上遭到另一名飞行员的袭击。",
+      "date": "2026-10-02T11:52:04Z",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?"
       }
     },
     {
@@ -206,34 +598,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'"
-      }
-    },
-    {
-      "id": "evt_f26942b2",
-      "title": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
-      "summary": "Smit Machchhar上尉在飞往特拉维夫的Flydubai航班上遭到另一名飞行员的袭击。",
-      "date": "2026-10-01T15:04:32Z",
-      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?"
       }
     },
     {
@@ -293,90 +657,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_164216ce",
-      "title": "阿布德瓦利在2026年亚运会上获得伊朗第12枚金牌",
-      "summary": "德黑兰--周四，伊朗希腊-罗马摔跤运动员阿里雷扎·阿布德瓦利（ Alireza Abdevali ）在2026年亚运会上夺得一枚金牌。",
-      "date": "2026-10-01T13:55:10Z",
-      "url": "https://www.tehrantimes.com/news/530622/Abdevali-gains-Iran-s-12th-gold-medal-in-2026-Asian-Games",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530622/Abdevali-gains-Iran-s-12th-gold-medal-in-2026-Asian-Games"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Abdevali gains Iran’s 12th gold medal in 2026 Asian Games"
-      }
-    },
-    {
-      "id": "evt_7d3b2531",
-      "title": "伊朗的Alipour在名古屋攀岩中赢得银牌",
-      "summary": "德黑兰--伊朗的礼萨·阿里普尔（ Reza Alipour ）周四在2026年亚运会上获得了一枚银牌。",
-      "date": "2026-10-01T13:45:34Z",
-      "url": "https://www.tehrantimes.com/news/530621/Iran-s-Alipour-wins-silver-at-Nagoya-climbing",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530621/Iran-s-Alipour-wins-silver-at-Nagoya-climbing"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s Alipour wins silver at Nagoya climbing"
-      }
-    },
-    {
-      "id": "evt_d996d198",
-      "title": "伊朗捕获第二架美国水下无人机",
-      "summary": "伊斯兰革命卫队在不到一个月的时间里捕获了一架新的高科技美国水下无人机，因为华盛顿继续努力开放霍尔木兹海峡，伊朗在2月份美国和以色列袭击该国后关闭了该海峡。",
-      "date": "2026-10-01T11:53:41Z",
-      "url": "https://www.tehrantimes.com/news/530620/Iran-captures-second-US-underwater-drone",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530620/Iran-captures-second-US-underwater-drone"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran captures second US underwater drone"
-      }
-    },
-    {
       "id": "evt_c490e72c",
       "title": "以色列总理表示，现在判断伊朗是否参与迪拜-特拉维夫航班袭击还为时过早",
       "summary": "本雅明·内塔尼亚胡（ Benjamin Netanyahu ）说，一名在飞往以色列的飞机上刺伤另一名飞行员的飞行员正在沙特阿拉伯接受调查。",
@@ -433,34 +713,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_7b3cb7da",
-      "title": "伊斯兰革命卫队在一封信中要求美国人与美国的侵略决裂",
-      "summary": "伊斯兰革命卫队（ IRGC ）发言人在德黑兰举行的新闻发布会上告诉记者，该部队已向美国人民签署了一封长达26页的信，解释了伊朗的立场，并呼吁他们重新考虑他们被告知的有关美国在西亚的战争的内容。",
-      "date": "2026-09-30T22:42:05Z",
-      "url": "https://www.tehrantimes.com/news/530619/In-a-letter-IRGC-asks-Americans-to-break-with-US-aggression",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530619/In-a-letter-IRGC-asks-Americans-to-break-with-US-aggression"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "In a letter, IRGC asks Americans to break with US aggression"
-      }
-    },
-    {
       "id": "evt_5af1535f",
       "title": "Flydubai乘客描述在驾驶舱刺伤后将袭击者置于窒息状态",
       "summary": "飞往以色列的航班上的其他乘客描述了飞机坠落的“可怕”时刻。",
@@ -514,286 +766,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "UK believes Iran involved in RAF Fairford incident, Burnham says"
-      }
-    },
-    {
-      "id": "evt_13be3989",
-      "title": "坚持不懈，直到胜利",
-      "summary": "Siasat-e-Rooz的社论专门针对特朗普关于霍尔木兹海峡的毫无根据的言论。该报写道，自冲突开始以来已经过去了一年多，关于伊朗毁灭的美国梦已经变成了美国的噩梦。",
-      "date": "2026-09-30T17:05:47Z",
-      "url": "https://www.tehrantimes.com/news/530596/Perseverance-until-victory",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530596/Perseverance-until-victory"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Perseverance until victory"
-      }
-    },
-    {
-      "id": "evt_4b839a56",
-      "title": "联合国大会之谜：美国对伊朗的困境",
-      "summary": "德黑兰--根据美国的行为模式，华盛顿经常将国际实体和集会视为对其对手发动政治或军事行动的适当工具。",
-      "date": "2026-09-30T17:05:18Z",
-      "url": "https://www.tehrantimes.com/news/530593/The-UNGA-riddle-America-s-dilemma-over-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530593/The-UNGA-riddle-America-s-dilemma-over-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The UNGA riddle: America's dilemma over Iran"
-      }
-    },
-    {
-      "id": "evt_4d401984",
-      "title": "Pezeshkian ：美国、以色列在军事失败后诉诸播种内部分裂",
-      "summary": "德黑兰--总统马苏德·佩泽什基安（ Masoud Pezeshkian ）警告说，美国和以色列正在积极开展一场煽动伊朗内部不和的运动，未能通过直接的军事对抗来打破国家的决心。",
-      "date": "2026-09-30T17:04:51Z",
-      "url": "https://www.tehrantimes.com/news/530598/Pezeshkian-US-Israel-resort-to-sowing-internal-division-after",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530598/Pezeshkian-US-Israel-resort-to-sowing-internal-division-after"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian: US, Israel resort to sowing internal division after military failure"
-      }
-    },
-    {
-      "id": "evt_edb31c97",
-      "title": "伊朗警告地区国家不要在内塔尼亚胡访问阿联酋后接待以色列官员",
-      "summary": "德黑兰--伊朗已就以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）等破坏稳定的行为者在其土地上存在的后果向该地区国家发出警告，并警告特拉维夫试图制造地区紧张局势。",
-      "date": "2026-09-30T17:04:30Z",
-      "url": "https://www.tehrantimes.com/news/530591/Iran-warns-regional-states-against-hosting-Israeli-officials",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530591/Iran-warns-regional-states-against-hosting-Israeli-officials"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns regional states against hosting Israeli officials after Netanyahu’s UAE visit"
-      }
-    },
-    {
-      "id": "evt_d20a0724",
-      "title": "伊朗向第99届奥斯卡颁奖典礼提交Babak Khajehpasha的“天使之地”",
-      "summary": "德黑兰--巴巴克·卡杰帕夏（ Babak Khajehpasha ）的《天使之地》（ Land of Angels ）已被正式选为伊朗向第99届奥斯卡最佳国际故事片类奖项提交的作品。",
-      "date": "2026-09-30T17:03:45Z",
-      "url": "https://www.tehrantimes.com/news/530607/Iran-submits-Babak-Khajehpasha-s-Land-of-Angels-to-99th-Academy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530607/Iran-submits-Babak-Khajehpasha-s-Land-of-Angels-to-99th-Academy"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran submits Babak Khajehpasha’s “Land of Angels” to 99th Academy Awards"
-      }
-    },
-    {
-      "id": "evt_7be864ee",
-      "title": "卡迈勒·达乌德（ Kamel Daoud ）以波斯语出版的“Houris”",
-      "summary": "德黑兰--卡迈勒·达乌德（ Kamel Daoud ）撰写的《Houris》（又名《处女》）一书的波斯语译本已在伊朗各地的书店发行。",
-      "date": "2026-09-30T17:03:31Z",
-      "url": "https://www.tehrantimes.com/news/530608/Kamel-Daoud-s-Houris-published-in-Persian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530608/Kamel-Daoud-s-Houris-published-in-Persian"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Kamel Daoud’s “Houris” published in Persian"
-      }
-    },
-    {
-      "id": "evt_7b2fff1d",
-      "title": "Babak Karimi在意大利电影节上获得最佳男演员奖",
-      "summary": "德黑兰--伊朗演员巴巴克·卡里米（ Babak Karimi ）在第28届奥蒂贾电影节（ Ortigia Film Festival ）上获奖，该电影节于9月26日在意大利锡拉丘兹闭幕。",
-      "date": "2026-09-30T17:03:14Z",
-      "url": "https://www.tehrantimes.com/news/530578/Babak-Karimi-receives-best-actor-award-at-Italian-festival",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530578/Babak-Karimi-receives-best-actor-award-at-Italian-festival"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Babak Karimi receives best actor award at Italian festival"
-      }
-    },
-    {
-      "id": "evt_5350cd40",
-      "title": "彼得·谢弗的《黑色喜剧》在霍马剧院上演",
-      "summary": "德黑兰--彼得·谢弗（ Peter Shaffer ）撰写的独幕闹剧《黑色喜剧》正在德黑兰的霍马剧院上演。",
-      "date": "2026-09-30T17:03:01Z",
-      "url": "https://www.tehrantimes.com/news/530609/Peter-Shaffer-s-Black-Comedy-on-stage-at-Homa-Theater",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530609/Peter-Shaffer-s-Black-Comedy-on-stage-at-Homa-Theater"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Peter Shaffer’s “Black Comedy” on stage at Homa Theater"
-      }
-    },
-    {
-      "id": "evt_8185370e",
-      "title": "特朗普的投降幻想：谈判中的结",
-      "summary": "德黑兰—伊朗已收到华盛顿对其最新倡议的回应，该倡议旨在结束长达七个月的冲突，该冲突始于2月28日无端的美以联合罢工，因为唐纳德·特朗普总统仍然顽固地认为军事压力和经济战可以迫使伊斯兰共和国屈服。",
-      "date": "2026-09-30T17:01:17Z",
-      "url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump’s surrender fantasy: The knot in talks"
-      }
-    },
-    {
-      "id": "evt_c746fced",
-      "title": "海上力量是伊朗航运安全和经济韧性的支柱",
-      "summary": "德黑兰--伊朗高级军事指挥官强调了该国海上能力的战略重要性，将海军力量描述为维护国家利益、保护航运路线和通信、维护地区安全和加强伊朗经济韧性的关键。",
-      "date": "2026-09-30T16:57:47Z",
-      "url": "https://www.tehrantimes.com/news/530618/Maritime-power-as-pillar-of-Iran-s-shipping-security-and-economic",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530618/Maritime-power-as-pillar-of-Iran-s-shipping-security-and-economic"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Maritime power as pillar of Iran's shipping security and economic resilience"
       }
     },
     {
