@@ -1,22 +1,610 @@
-// 自动生成的数据 - 更新时间: 2026-10-06T04:11:43.895814Z
+// 自动生成的数据 - 更新时间: 2026-10-07T03:39:08.633553Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-06T04:11:43.895758Z",
-    "totalEvents": 29,
+    "lastUpdate": "2026-10-07T03:39:08.633494Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 17,
-      "iranian": 12,
+      "international": 21,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
+      "id": "evt_5de4dc65",
+      "title": "阿曼撤离霍尔木兹海峡受袭油轮受伤船员",
+      "summary": "印度外交部表示， “和平号”船上12名受伤船员中有11人是印度国民。",
+      "date": "2026-10-07T03:16:32Z",
+      "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_9bebeb25",
+      "title": "两枚胡塞导弹袭击也门亚丁国际机场",
+      "summary": "也门沙特支持的政府没有说胡塞武装发射了两枚导弹，亚丁国际机场附近发生爆炸。",
+      "date": "2026-10-07T01:59:15Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Two Houthi missiles target Yemen’s Aden International Airport"
+      }
+    },
+    {
+      "id": "evt_32008a06",
+      "title": "叙利亚大使馆在43年后归还被扣押的护照",
+      "summary": "叙利亚驻柏林大使馆归还了43年前被前阿萨德政府没收的一名公民的护照。",
+      "date": "2026-10-07T01:20:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Syrian embassy returns seized passport after 43 years"
+      }
+    },
+    {
+      "id": "evt_22c328cc",
+      "title": "政界人士抨击特朗普关于伊朗“夺取”洛杉矶圣地亚哥的建议",
+      "summary": "民主党和共和党都对特朗普在伊朗战争中可能牺牲城市的言论表示愤慨。",
+      "date": "2026-10-07T01:07:21Z",
+      "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles"
+      }
+    },
+    {
+      "id": "evt_a683d23f",
+      "title": "以色列日益向右转的背后是什么？",
+      "summary": "10月7日袭击事件发生三年后，以色列社会的政治进一步右转。",
+      "date": "2026-10-07T00:58:21Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "What’s behind Israel’s growing shift to the right?"
+      }
+    },
+    {
+      "id": "evt_f2eacc2d",
+      "title": "也门军队发动攻势，重新夺回塔伊兹胡塞武装控制的瓦济亚",
+      "summary": "山区是控制摩卡的关键，摩卡是胡塞武装上个月占领的红海港口。",
+      "date": "2026-10-07T00:35:57Z",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz"
+      }
+    },
+    {
+      "id": "evt_f95e4e83",
+      "title": "伊朗战争现场：也门军队声称控制了战略性的塔伊兹山峰",
+      "summary": "也门部队声称，他们已经加强了对塔伊兹Jabal Habashi地区最高峰的控制。",
+      "date": "2026-10-07T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak"
+      }
+    },
+    {
+      "id": "evt_eed3bee5",
+      "title": "霍尔木兹海峡：一张有价值的卡牌还是一张烧焦的卡牌？",
+      "summary": "伊朗对霍尔木兹海峡的关闭是前所未有的，也是不可动摇的。然而，西方媒体和西方政客正试图告诉他们的人民不同意。",
+      "date": "2026-10-06T19:40:11Z",
+      "url": "https://www.tehrantimes.com/news/530837/Strait-of-Hormuz-A-Valuable-Card-or-a-Burnt-One",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530837/Strait-of-Hormuz-A-Valuable-Card-or-a-Burnt-One"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Strait of Hormuz: A Valuable Card or a Burnt One?"
+      }
+    },
+    {
+      "id": "evt_c45476a5",
+      "title": "英国将尽最大努力阻止以色列关闭东耶路撒冷领事馆",
+      "summary": "由于英国对以色列定居点的制裁，以色列威胁要关闭负责处理英国与该市巴勒斯坦人关系的领事馆。",
+      "date": "2026-10-06T19:17:44Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate"
+      }
+    },
+    {
+      "id": "evt_44e92999",
+      "title": "特朗普无法停止妖魔化伊朗",
+      "summary": "德黑兰--唐纳德·特朗普总统周一在内布拉斯加州格兰德岛举行的竞选集会上发表讲话，建议伊朗可以“干掉”洛杉矶和圣地亚哥。",
+      "date": "2026-10-06T17:03:58Z",
+      "url": "https://www.tehrantimes.com/news/530833/Trump-can-t-stop-demonizing-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530833/Trump-can-t-stop-demonizing-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump can’t stop demonizing Iran"
+      }
+    },
+    {
+      "id": "evt_f1053ab3",
+      "title": "重新开放通过俄罗斯银行系统绕过制裁的渠道",
+      "summary": "在一篇社论中， Kayhan讨论了通过俄罗斯银行系统绕过金融制裁的渠道的重新开放。到目前为止，伊朗中央银行已通过俄罗斯银行网络转移了超过15亿美元的资金，从而利用俄罗斯的路线规避美国的金融制裁。",
+      "date": "2026-10-06T16:47:13Z",
+      "url": "https://www.tehrantimes.com/news/530832/Reopening-channels-to-bypass-sanctions-through-Russian-banking",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530832/Reopening-channels-to-bypass-sanctions-through-Russian-banking"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Reopening channels to bypass sanctions through Russian banking system"
+      }
+    },
+    {
+      "id": "evt_a65ee83e",
+      "title": "伊朗呼吁法国尊重人权",
+      "summary": "德黑兰--伊朗外交部发言人埃斯梅尔·巴凯伊（ Esmaeil Baqaei ）呼吁法国尊重人权与和平抗议权，批评“法国官员对伊朗和法国示威的态度相互矛盾”。",
+      "date": "2026-10-06T16:43:23Z",
+      "url": "https://www.tehrantimes.com/news/530831/Iran-calls-on-France-to-respect-human-rights",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530831/Iran-calls-on-France-to-respect-human-rights"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran calls on France to respect human rights"
+      }
+    },
+    {
+      "id": "evt_e226487f",
+      "title": "美国中央情报局的红色牢房警告以色列距离崩溃只有一步之遥",
+      "summary": "德黑兰--据报道，美国中央情报局的一份机密评估报告警告说，随着加沙多年的种族灭绝以及黎巴嫩和伊朗的军事侵略使政权从内部分裂，以色列正在走向潜在的内战和崩溃。",
+      "date": "2026-10-06T16:39:20Z",
+      "url": "https://www.tehrantimes.com/news/530828/CIA-s-Red-Cell-warns-Israel-sits-one-spark-away-from-collapse",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530828/CIA-s-Red-Cell-warns-Israel-sits-one-spark-away-from-collapse"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "CIA’s Red Cell warns Israel sits one spark away from collapse"
+      }
+    },
+    {
+      "id": "evt_a1e742d8",
+      "title": "内政部：技术代表团访问卡塔尔，跟进伊朗飞行员的情况",
+      "summary": "德黑兰--伊朗内政部长埃斯坎达尔·莫梅尼（ Eskandar Momeni ）表示，德黑兰和多哈已同意加强安全合作，建立一个联合工作组，并继续就双边和地区问题进行磋商。",
+      "date": "2026-10-06T16:38:48Z",
+      "url": "https://www.tehrantimes.com/news/530825/Interior-Min-Technical-delegation-to-visit-Qatar-to-follow",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530825/Interior-Min-Technical-delegation-to-visit-Qatar-to-follow"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Interior Min.: Technical delegation to visit Qatar to follow up on Iranian pilots"
+      }
+    },
+    {
+      "id": "evt_45cee7dd",
+      "title": "伊朗国防工业达到新的能力，陆军总司令警告敌人“历史混乱”",
+      "summary": "德黑兰—伊朗高级军官表示，伊朗的本土国防工业在最近的美以战争中保持了不间断的生产，并将其武器生产能力扩大到战前水平的2.5倍，并强调任何新的侵略都将面临更先进武器的更强烈反应。",
+      "date": "2026-10-06T16:38:31Z",
+      "url": "https://www.tehrantimes.com/news/530826/Iran-s-defense-industry-reaches-new-capacity-as-army-chief-warns",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530826/Iran-s-defense-industry-reaches-new-capacity-as-army-chief-warns"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s defense industry reaches new capacity as army chief warns enemies of ‘Historic Confusion’"
+      }
+    },
+    {
+      "id": "evt_be9c878d",
+      "title": "泥砖房：伊朗传统建筑的遗产",
+      "summary": "德黑兰--在伊朗的沙漠、干旱平原和山谷中，用泥土建造的房屋构成了该国最具特色的建筑景观。它们的圆形屋顶、厚厚的墙壁、阴凉的庭院，以及高大的捕风板，不仅仅是风景如画的特色。它们是几个世纪以来使用当地材料建造和适应日常生活以适应恶劣气候的经验的结果。",
+      "date": "2026-10-06T16:35:29Z",
+      "url": "https://www.tehrantimes.com/news/530775/Mudbrick-houses-The-heritage-of-traditional-Iranian-architecture",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530775/Mudbrick-houses-The-heritage-of-traditional-Iranian-architecture"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mudbrick houses: The heritage of traditional Iranian architecture"
+      }
+    },
+    {
+      "id": "evt_3bfef9d2",
+      "title": "Pezeshkian呼吁与欧盟、亚洲进行更广泛的接触",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）呼吁扩大与欧洲和亚洲国家的政治、经济、科学和文化关系，强调德黑兰致力于和平交往、多边合作和加强区域关系。",
+      "date": "2026-10-06T16:34:25Z",
+      "url": "https://www.tehrantimes.com/news/530830/Pezeshkian-calls-for-broader-engagement-with-EU-Asia",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530830/Pezeshkian-calls-for-broader-engagement-with-EU-Asia"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian calls for broader engagement with EU, Asia"
+      }
+    },
+    {
+      "id": "evt_3b4fcf99",
+      "title": "六卷《1001抵抗问题》在德黑兰揭幕",
+      "summary": "德黑兰--基于与已故真主党领导人赛义德·哈桑·纳斯鲁拉（ Sayyed Hassan Nasrallah ）三十年的对话，这本六卷本的书《关于抵抗运动的1001个问题》（ 1001 Questions on Resistance ）于周一在德黑兰的萨尔切什梅文化中心（ Sarcheshmeh Cultural Center ）揭幕，会上审查了他的思想和遗产。",
+      "date": "2026-10-06T16:26:53Z",
+      "url": "https://www.tehrantimes.com/news/530812/Six-volume-1001-Questions-on-Resistance-unveiled-in-Tehran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530812/Six-volume-1001-Questions-on-Resistance-unveiled-in-Tehran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Six-volume “1001 Questions on Resistance” unveiled in Tehran"
+      }
+    },
+    {
+      "id": "evt_ad07febc",
+      "title": "“我们的大门和心灵始终向伊朗敞开” ：马来西亚临时代办告诉《德黑兰时报》",
+      "summary": "德黑兰- Dato 'Wan Aznainizam Yusri bin Wan Abdul Rashid于8月下旬抵达德黑兰，担任马来西亚大使馆临时代办兼使团团长。在正式出示其证书后，他将被提升为社区支持代表。",
+      "date": "2026-10-06T16:26:17Z",
+      "url": "https://www.tehrantimes.com/news/530827/Our-doors-and-hearts-are-always-open-to-Iran-Malaysia-s-charg%C3%A9",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530827/Our-doors-and-hearts-are-always-open-to-Iran-Malaysia-s-charg%C3%A9"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Our doors and hearts are always open to Iran': Malaysia's chargé d'affaires tells the Tehran Times"
+      }
+    },
+    {
+      "id": "evt_94a2286b",
+      "title": "血液、炸弹和数十亿",
+      "summary": "TEHRAN -美国-以色列对伊朗的战争不仅仅是一场军事和地缘政治危机；它还造成了重大的经济冲击。根据美国国会预算办公室（ CBO ）的估计，到2026年8月1日，美国对伊朗的作战行动的直接成本已达到约380亿美元（ $ 380亿）。这一数字包括更换消耗弹药和丢失设备的成本、增加的飞行小时、军事行动以及更高的燃料成本。不包括其他公司承担的费用",
+      "date": "2026-10-06T16:12:28Z",
+      "url": "https://www.tehrantimes.com/news/530824/Blood-Bombs-Billions",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530824/Blood-Bombs-Billions"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Blood, Bombs & Billions"
+      }
+    },
+    {
+      "id": "evt_1510908b",
+      "title": "“沉默就是同谋” ：马来西亚美国对伊朗战争特使",
+      "summary": "马来西亚外交使团团长在正式提交其大使资格证书之前与《德黑兰时报》进行了会谈。在采访中，他阐述了他的国家明确谴责美以战争的理由，并概述了他希望在即将到来的任期内实现的目标。",
+      "date": "2026-10-06T16:03:58Z",
+      "url": "https://www.tehrantimes.com/news/530818/Silence-is-complicity-Malaysian-envoy-on-US-war-on-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530818/Silence-is-complicity-Malaysian-envoy-on-US-war-on-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Silence is complicity': Malaysian envoy on US war on Iran"
+      }
+    },
+    {
       "id": "evt_17b93ee2",
       "title": "也门军方表示已“保护”红海水道",
       "summary": "沙特支持的部队就他们是否还占领了Bab al-Mandab海峡附近的港口城市Mokha发表了相互矛盾的报告。",
-      "date": "2026-10-06T03:53:45Z",
+      "date": "2026-10-06T07:43:07Z",
       "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -41,72 +629,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_40684194",
-      "title": "随着也门战斗的加剧，巴基斯坦突厥将向沙特部署部队",
-      "summary": "在利雅得举行的紧急会谈中，土耳其和巴基斯坦同意向沙特阿拉伯派遣快速部署部队。",
-      "date": "2026-10-06T01:39:54Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+      "id": "evt_215f5e0d",
+      "title": "儿童勇敢地使用狙击手和迫击炮前往也门前线附近的学校",
+      "summary": "英国广播公司世界频道（ BBC World Service ）罕见地访问塔伊兹，与受战争影响的儿童、教师和家庭交谈。",
+      "date": "2026-10-06T07:23:24Z",
+      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows"
-      }
-    },
-    {
-      "id": "evt_fa936a52",
-      "title": "叙利亚航空公司推出激光锐化未来展望",
-      "summary": "叙利亚航空公司在叙利亚后阿萨德时代的发展中重塑品牌，推出了新的视觉形象。",
-      "date": "2026-10-06T00:25:01Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syrian Airlines unveils laser-sharp look for the future"
-      }
-    },
-    {
-      "id": "evt_bedee7aa",
-      "title": "伊朗战争现场：也门军队从胡塞武装手中夺回战略港口城市摩卡",
-      "summary": "作为麦加防务协议的一部分，土耳其和巴基斯坦同意迅速部署军队，以加强沙特的安全。",
-      "date": "2026-10-06T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,27 +653,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis"
+        "en": "Children brave snipers and mortars to go to school near Yemen front line"
       }
     },
     {
-      "id": "evt_aae36f33",
-      "title": "Ashkan Rahgozar将担任柏林动画节的评委",
-      "summary": "德黑兰--伊朗动画师阿什坎·拉赫戈扎尔（ Ashkan Rahgozar ）将担任第九届柏林动画节（ FAB ）新人才部分的评委，该节日将于10月8日至11日在德国柏林举行。",
-      "date": "2026-10-05T18:04:29Z",
-      "url": "https://www.tehrantimes.com/news/530781/Ashkan-Rahgozar-to-serve-as-juror-at-Festival-of-Animation-Berlin",
+      "id": "evt_91a11d38",
+      "title": "沙特阿拉伯敦促释放因Facebook帖子而被判处死刑的男子",
+      "summary": "阿诺扬·西瓦拉萨（ Anojan Sivarasa ）因Facebook评论被判犯有亵渎罪，面临处决。",
+      "date": "2026-10-05T22:28:02Z",
+      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530781/Ashkan-Rahgozar-to-serve-as-juror-at-Festival-of-Animation-Berlin"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -149,315 +681,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Ashkan Rahgozar to serve as juror at Festival of Animation Berlin"
-      }
-    },
-    {
-      "id": "evt_b26ebdf0",
-      "title": "阿尔南爱乐乐团将汉斯·齐默的《星际穿越》音乐带回德黑兰",
-      "summary": "TEHRAN -由Vahid Alipour指挥的阿尔南爱乐乐团将在德黑兰的米拉德塔（ Milad Tower ）再次演出其“星际”音乐会，此前去年的演出受到了积极的欢迎。",
-      "date": "2026-10-05T18:04:06Z",
-      "url": "https://www.tehrantimes.com/news/530756/Alnam-Philharmonic-Orchestra-brings-Hans-Zimmer-s-Interstellar",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530756/Alnam-Philharmonic-Orchestra-brings-Hans-Zimmer-s-Interstellar"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Alnam Philharmonic Orchestra brings Hans Zimmer’s “Interstellar” music back to Tehran"
-      }
-    },
-    {
-      "id": "evt_c075ec89",
-      "title": "Amir Naderi的“The Runner”将在高雄电影节上放映",
-      "summary": "TEHRAN - Amir Naderi的4K修复经典“The Runner”将在2026年台湾高雄电影节上放映，而伊朗电影制片人将担任该电影节国际短片比赛的评审团主席。",
-      "date": "2026-10-05T18:03:43Z",
-      "url": "https://www.tehrantimes.com/news/530757/Amir-Naderi-s-The-Runner-to-screen-at-Kaohsiung-Film-Festival",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530757/Amir-Naderi-s-The-Runner-to-screen-at-Kaohsiung-Film-Festival"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Amir Naderi’s “The Runner” to screen at Kaohsiung Film Festival"
-      }
-    },
-    {
-      "id": "evt_8d22b58f",
-      "title": "雇佣军在也门犯下战争罪，安萨拉拉放火烧毁阿美公司工厂",
-      "summary": "德黑兰--周一和周日，也门武装部队向沙特内陆深处发射了一连串重型弹道导弹和远程攻击无人机，袭击了沙特阿美在吉达、利雅得和库赖油田的主要设施。",
-      "date": "2026-10-05T18:02:45Z",
-      "url": "https://www.tehrantimes.com/news/530785/Ansarallah-sets-Aramco-sites-ablaze-as-mercenaries-commit-war",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530785/Ansarallah-sets-Aramco-sites-ablaze-as-mercenaries-commit-war"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Ansarallah sets Aramco sites ablaze as mercenaries commit war crimes in Yemen"
-      }
-    },
-    {
-      "id": "evt_1fee690b",
-      "title": "德黑兰为Jan-Fada参与者举办培训计划",
-      "summary": "德黑兰--伊朗Jan-Fada （自我牺牲志愿者）倡议的一组参与者参加了在德黑兰伊玛目侯赛因广场培训中心的培训课程。",
-      "date": "2026-10-05T18:02:26Z",
-      "url": "https://www.tehrantimes.com/photo/530797/Tehran-Hosts-Training-Program-for-Jan-Fada-Participants",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/photo/530797/Tehran-Hosts-Training-Program-for-Jan-Fada-Participants"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran Hosts Training Program for Jan-Fada Participants"
-      }
-    },
-    {
-      "id": "evt_8f4bfff5",
-      "title": "美国因无法解释的威胁将所有12架B-1轰炸机赶出英国",
-      "summary": "德黑兰--周末， 12架美国B-1战略轰炸机匆忙撤离费尔福德皇家空军基地，暴露了支持华盛顿对伊朗采取侵略性军事行动的西方基地日益脆弱的脆弱性。",
-      "date": "2026-10-05T17:59:57Z",
-      "url": "https://www.tehrantimes.com/news/530784/US-scrambles-all-12-B-1-bombers-out-of-Britain-over-unexplained",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530784/US-scrambles-all-12-B-1-bombers-out-of-Britain-over-unexplained"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US scrambles all 12 B-1 bombers out of Britain over unexplained threats"
-      }
-    },
-    {
-      "id": "evt_f858a867",
-      "title": "伊朗指挥官警告称，任何新的战争都将引发更广泛的地区冲突",
-      "summary": "TEHRAN-伊朗军事指挥官对美国或以色列再次采取军事行动发出了一系列越来越强烈的警告，称伊朗伊斯兰共和国已做好充分准备，并警告地区国家不要允许其领土或军事设施在新的冲突中使用。",
-      "date": "2026-10-05T17:58:15Z",
-      "url": "https://www.tehrantimes.com/news/530795/Iranian-commanders-warn-any-new-war-would-trigger-wider-regional",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530795/Iranian-commanders-warn-any-new-war-would-trigger-wider-regional"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian commanders warn any new war would trigger wider regional conflict"
-      }
-    },
-    {
-      "id": "evt_2da315bd",
-      "title": "FM Araghchi在德黑兰会见外国外交官",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）周日上午在德黑兰会见了外国大使和国际组织代表。",
-      "date": "2026-10-05T17:57:04Z",
-      "url": "https://www.tehrantimes.com/photo/530796/FM-Araghchi-meets-foreign-diplomats-in-Tehran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/photo/530796/FM-Araghchi-meets-foreign-diplomats-in-Tehran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "FM Araghchi meets foreign diplomats in Tehran"
-      }
-    },
-    {
-      "id": "evt_8f67be5f",
-      "title": "Araghchi ：伊朗利用一切外交能力捍卫国家利益",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）强调了在敏感的地区和国际事态发展中继续进行外交磋商以解释德黑兰立场的重要性。",
-      "date": "2026-10-05T17:47:04Z",
-      "url": "https://www.tehrantimes.com/news/530792/Araghchi-Iran-using-all-diplomatic-capacities-to-safeguard-national",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530792/Araghchi-Iran-using-all-diplomatic-capacities-to-safeguard-national"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Araghchi: Iran using all diplomatic capacities to safeguard national interests"
-      }
-    },
-    {
-      "id": "evt_1b97db77",
-      "title": "Pezeshkian呼吁制定切实可行的跨政治计划来应对经济压力",
-      "summary": "TEHRAN—总统马苏德·佩泽什基安（ Masoud Pezeshkian ）呼吁制定切实可行、可实施且具有政治包容性的计划，以应对伊朗的经济和社会挑战，并表示他的政府已采取新的方法来管理该国面临的特殊情况。",
-      "date": "2026-10-05T17:42:36Z",
-      "url": "https://www.tehrantimes.com/news/530791/Pezeshkian-calls-for-practical-cross-political-plans-to-counter",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530791/Pezeshkian-calls-for-practical-cross-political-plans-to-counter"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian calls for practical, cross-political plans to counter economic pressure"
-      }
-    },
-    {
-      "id": "evt_49ced491",
-      "title": "Pezeshkian ：与诉诸暗杀和威胁的敌人进行谈判毫无意义",
-      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）表示，与在违反承诺的同时一再诉诸暗杀、制裁、施压和威胁的一方进行谈判毫无意义，并强调伊朗国家不接受这种做法。",
-      "date": "2026-10-05T17:36:22Z",
-      "url": "https://www.tehrantimes.com/news/530790/Pezeshkian-Negotiations-have-no-meaning-with-an-enemy-that-resorts",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530790/Pezeshkian-Negotiations-have-no-meaning-with-an-enemy-that-resorts"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian: Negotiations have no meaning with an enemy that resorts to assassination and threats"
-      }
-    },
-    {
-      "id": "evt_67610c26",
-      "title": "伊朗抗议挪威对未经授权的Starlink行动无所作为",
-      "summary": "TEHRAN -伊朗已正式向挪威抗议未经授权的Starlink卫星互联网终端在伊朗境内持续运营，敦促奥斯陆立即采取措施，停止侵犯伊朗主权和国家安全的传输。",
-      "date": "2026-10-05T17:32:02Z",
-      "url": "https://www.tehrantimes.com/news/530789/Iran-protests-Norway-s-inaction-over-unauthorized-Starlink-operations",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530789/Iran-protests-Norway-s-inaction-over-unauthorized-Starlink-operations"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran protests Norway’s inaction over unauthorized Starlink operations"
+        "en": "Saudi Arabia urged to spare man sentenced to death over Facebook post"
       }
     },
     {
@@ -738,90 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Last UK and US troops leave Iraq as anti-Islamic State mission ends"
-      }
-    },
-    {
-      "id": "evt_da2b7a41",
-      "title": "女孩在加沙罢工后进行了多次手术以控制感染",
-      "summary": "目击者说， Raseel的帐篷被以色列直升机击中。以色列军方表示，它没有这次袭击的记录。",
-      "date": "2026-09-30T05:02:50Z",
-      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Girl has multiple surgeries to control infections after strike in Gaza"
-      }
-    },
-    {
-      "id": "evt_9fd529d6",
-      "title": "以色列定居者袭击约旦河西岸村庄并阻止巴勒斯坦家庭返回家园",
-      "summary": "属于al-Tubasi家族的两所房屋被放火焚烧，以色列安全部队也成为定居者的目标。",
-      "date": "2026-09-29T12:39:18Z",
-      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli settlers attack West Bank village and block Palestinian family's return home"
-      }
-    },
-    {
-      "id": "evt_a4419f42",
-      "title": "伊朗法院维持对未戴头巾演唱歌手的鞭刑判决",
-      "summary": "Parastoo Ahmadi在现场直播音乐会期间穿着无袖连衣裙唱歌后被判“冒犯公共礼仪”。",
-      "date": "2026-09-28T17:15:00Z",
-      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran court upholds lashes sentence for singer who performed without hijab"
       }
     }
   ]
