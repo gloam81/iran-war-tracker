@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-08T03:53:22.411265Z
+// 自动生成的数据 - 更新时间: 2026-10-09T03:58:21.201185Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-08T03:53:22.411189Z",
-    "totalEvents": 36,
+    "lastUpdate": "2026-10-09T03:58:21.201123Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 22,
+      "international": 19,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_baa31f4d",
-      "title": "全球抗议活动标志着10月7日的袭击事件，呼吁加沙停火",
-      "summary": "示威者走上世界各地的街头，要求结束以色列对加沙和约旦河西岸的袭击。",
-      "date": "2026-10-08T03:25:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
+      "id": "evt_8b1ac2c4",
+      "title": "林肯号在长期部署后返回美国，支持对伊朗的战争",
+      "summary": "船员在海上度过了创纪录的265天，船上条件紧张，船员们对此表示宽慰。",
+      "date": "2026-10-09T00:39:20Z",
+      "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "USS Lincoln returns to US after long deployment supporting war on Iran"
+      }
+    },
+    {
+      "id": "evt_e1be0f6a",
+      "title": "一名父亲在以色列空袭加沙公寓后感到痛苦",
+      "summary": "以色列空袭袭击了加沙市al-Sabra街区的一座建筑物，造成包括儿童在内的几人死亡。",
+      "date": "2026-10-09T00:12:18Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Global protests mark October 7 attack with calls for Gaza ceasefire"
+        "en": "A father’s agony after an Israeli air strike hits Gaza apartment"
       }
     },
     {
-      "id": "evt_3b241335",
-      "title": "UKMTO称，油轮在卡塔尔北海岸被多枚炮弹击中",
-      "summary": "英国海事局报告说，在重要的霍尔木兹海峡，对船只的袭击有所增加。",
-      "date": "2026-10-08T02:48:25Z",
-      "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss",
+      "id": "evt_1af475e0",
+      "title": "伊朗战争现场：伊朗媒体报道霍尔木兹海峡发生“大规模爆炸”",
+      "summary": "伊朗媒体报道了霍尔木兹海峡南部的大规模爆炸事件，法尔斯援引了未透露姓名的军方消息来源。",
+      "date": "2026-10-09T00:00:21Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,160 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says"
+        "en": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait"
       }
     },
     {
-      "id": "evt_8f00de29",
-      "title": "为什么关塔那摩监狱仍然开放？",
-      "summary": "关塔那摩湾在美国入侵阿富汗后开放。25年后，战争结束了，但监狱仍然开放",
-      "date": "2026-10-08T01:49:11Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+      "id": "evt_1378fdbc",
+      "title": "自停火以来，以色列在加沙每90分钟就有巴勒斯坦人死亡或受伤",
+      "summary": "伊斯兰救济组织呼吁采取全球行动，因为以色列在加沙的致命袭击仍在继续，人道主义状况恶化。",
+      "date": "2026-10-08T22:54:23Z",
+      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Why is Guantanamo prison still open?"
-      }
-    },
-    {
-      "id": "evt_b946af9e",
-      "title": "也门政府军声称1,860名胡塞武装“中立化”",
-      "summary": "也门政府军在一篇社交媒体帖子中表示，他们进行了2,103次“精确瞄准行动”。",
-      "date": "2026-10-08T01:02:07Z",
-      "url": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemeni government forces claim 1,860 Houthis ‘neutralised’"
-      }
-    },
-    {
-      "id": "evt_6cab4b77",
-      "title": "美国股市下跌，因油价波动加剧对伊朗战争的担忧",
-      "summary": "油价因对中东供应的新担忧而上涨，然后因可能释放更多储备而下跌。",
-      "date": "2026-10-08T00:33:03Z",
-      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US stocks slide as oil prices fluctuate over renewed Iran war fears"
-      }
-    },
-    {
-      "id": "evt_a4609597",
-      "title": "沙特阿拉伯证实胡塞武装袭击其机场造成三人死亡",
-      "summary": "沙特阿拉伯证实，胡塞武装袭击了两个国际机场，造成三人死亡。",
-      "date": "2026-10-08T00:16:25Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi Arabia confirms three dead in Houthi strikes on its airports"
-      }
-    },
-    {
-      "id": "evt_4ef65f83",
-      "title": "也门战争现场：胡塞武装继续发动袭击，也门军队宣称达到关键高度",
-      "summary": "沙特支持的也门军队声称在俯瞰海岸的塔伊兹西部山区取得了进展。",
-      "date": "2026-10-08T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on"
-      }
-    },
-    {
-      "id": "evt_9335b549",
-      "title": "联合国驻黎巴嫩维持和平部队称以色列边境哨所遭枪击",
-      "summary": "联合国驻黎巴嫩临时部队表示，在小武器袭击边境哨所后，没有人员伤亡。",
-      "date": "2026-10-07T23:33:29Z",
-      "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,7 +121,287 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UN peacekeeping force in Lebanon says shots fired at Israeli border post"
+        "en": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire"
+      }
+    },
+    {
+      "id": "evt_94bd320b",
+      "title": "普京承诺俄罗斯支持结束美国主导的伊朗战争",
+      "summary": "在地区峰会之前，俄罗斯和伊朗总统在土库曼斯坦举行了会晤。",
+      "date": "2026-10-08T22:30:37Z",
+      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Putin pledges Russia’s support to end US-led war on Iran"
+      }
+    },
+    {
+      "id": "evt_f3f25092",
+      "title": "以色列表示，大多数英国外交官将离开东耶路撒冷领事馆，因为米利班德表示要保留“重要服务”",
+      "summary": "以色列在9月份表示，将采取行动应对英国对约旦河西岸非法以色列定居点的制裁。",
+      "date": "2026-10-08T15:21:46Z",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain"
+      }
+    },
+    {
+      "id": "evt_657e4fb5",
+      "title": "海事机构称，油轮在卡塔尔海湾被多枚射弹击中",
+      "summary": "据报道，该船上有伤亡人员，一家海事情报公司将其确定为石油和化学品油轮宏碁。",
+      "date": "2026-10-08T12:11:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says"
+      }
+    },
+    {
+      "id": "evt_087fa5dd",
+      "title": "伊朗-韩国商会报告强调韩国青年就业促进知识交流",
+      "summary": "TEHRAN -伊朗-韩国商会（ Iran-Korea Chamber of Commerce ）发布了第五份政策报告，审查了韩国帮助年轻人从教育转向就业的努力。这份题为“从学位到体验：韩国如何为年轻人建立进入劳动力市场的桥梁”的报告特别强调了两国之间交流政策知识、机构经验和实践方法的机会。",
+      "date": "2026-10-08T10:38:49Z",
+      "url": "https://www.tehrantimes.com/news/530875/Iran-Korea-Chamber-report-highlights-South-Korea-s-youth-employment",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530875/Iran-Korea-Chamber-report-highlights-South-Korea-s-youth-employment"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran–Korea Chamber report highlights South Korea’s youth employment for knowledge exchange"
+      }
+    },
+    {
+      "id": "evt_7e62d84d",
+      "title": "从费尔福德到迪拜：指责伊朗",
+      "summary": "美国和英国指责伊朗在英国皇家空军费尔福德附近实施了所谓的恐怖阴谋，并在空中劫持失败，但这两项指控都在审查下崩溃，引发了关于谁从恐惧中受益的疑问。",
+      "date": "2026-10-08T08:19:09Z",
+      "url": "https://www.tehrantimes.com/news/530874/From-Fairford-to-Dubai-Blaming-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530874/From-Fairford-to-Dubai-Blaming-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "From Fairford to Dubai: Blaming Iran"
+      }
+    },
+    {
+      "id": "evt_31bf551e",
+      "title": "“每天都有杀戮” ：尽管和平协议停滞不前，但加沙人面临以色列的罢工",
+      "summary": "许多巴勒斯坦人仍然生活在拥挤的帐篷城市，美国结束战争的计划基本上停滞不前。",
+      "date": "2026-10-08T05:06:09Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls"
+      }
+    },
+    {
+      "id": "evt_4396f627",
+      "title": "英国广播公司发现，美国和黎巴嫩保护通缉的叙利亚",
+      "summary": "巴萨姆·哈桑（ Bassam al-Hassan ）正在接受庇护，以换取信息-包括有关被绑架的美国记者奥斯汀·泰斯（ Aust",
+      "date": "2026-10-08T05:00:44Z",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.8938,
+        "lng": 35.5018,
+        "name": "黎巴嫩"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US and Lebanon protecting wanted Syrian general, BBC finds"
+      }
+    },
+    {
+      "id": "evt_1a2f184a",
+      "title": "官员说，三人在胡塞武装袭击沙特阿拉伯机场时丧生",
+      "summary": "胡塞武装声称对这些袭击负责，这标志着冲突升级。",
+      "date": "2026-10-08T03:32:35Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say"
+      }
+    },
+    {
+      "id": "evt_877a77bd",
+      "title": "亚兹德拥有广泛的经济合作能力：韩国大使",
+      "summary": "TEHRAN-韩国驻伊朗大使在谈到亚兹德省在各个领域的多样化能力时说：亚兹德省有一个积极的未来，我希望熟悉该省的经济行为体将为未来更多的合作机会铺平道路。",
+      "date": "2026-10-07T21:06:00Z",
+      "url": "https://www.tehrantimes.com/news/530873/Yazd-has-extensive-capacity-for-economic-cooperation-South-Korean",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530873/Yazd-has-extensive-capacity-for-economic-cooperation-South-Korean"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yazd has extensive capacity for economic cooperation: South Korean ambassador"
+      }
+    },
+    {
+      "id": "evt_998810ad",
+      "title": "致命的哈马斯袭击三年后，以色列人哀悼10月7日的袭击受害者",
+      "summary": "在哈马斯领导的袭击引发了毁灭性的加沙战争三周年之际，以色列发生了纪念活动。",
+      "date": "2026-10-07T20:27:03Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israelis mourn 7 October attack victims three years after deadly Hamas raid"
       }
     },
     {
@@ -545,90 +713,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_e3ef8cc8",
-      "title": "Mottaki ：对领导者殉难者的报复判决即将发布",
-      "summary": "伊朗议会执行委员会主席马努切赫尔·穆塔基（ Manouchehr Mottaki ）表示，伊朗法院将很快对那些对伊朗领导人、军事指挥官和数千名伊朗公民殉难负有责任的人做出报复判决。",
-      "date": "2026-10-07T17:46:07Z",
-      "url": "https://www.tehrantimes.com/news/530864/Mottaki-Retribution-verdicts-against-those-responsible-for-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530864/Mottaki-Retribution-verdicts-against-those-responsible-for-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mottaki: Retribution verdicts against those responsible for Leader’s martyrdom to be issued soon"
-      }
-    },
-    {
-      "id": "evt_a77c7c3c",
-      "title": "伊朗和俄罗斯深化战略协调",
-      "summary": "伊朗和俄罗斯正在进一步加强战略协调，因为马苏德·佩泽什基安总统和弗拉基米尔·普京总统准备在土库曼斯坦会晤，莫斯科表示愿意为缓解地区紧张局势的外交努力做出贡献，并强调根据其《全面战略伙伴关系条约》开展双边合作的连续性。",
-      "date": "2026-10-07T17:45:21Z",
-      "url": "https://www.tehrantimes.com/news/530869/Iran-Russia-Deepen-Strategic-Coordination",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530869/Iran-Russia-Deepen-Strategic-Coordination"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran, Russia Deepen Strategic Coordination"
-      }
-    },
-    {
-      "id": "evt_d58f71f3",
-      "title": "阿卜杜拉希将军：阿克萨风暴行动超出犹太复国主义政权的预期",
-      "summary": "TEHRAN-伊朗武装部队参谋长阿卜杜拉希少将表示， 2023年10月7日的阿克萨风暴行动超出了以色列政权的预期，扰乱了其对手的计算，并对该政权造成了严重打击。",
-      "date": "2026-10-07T17:39:26Z",
-      "url": "https://www.tehrantimes.com/news/530867/Gen-Abdollahi-Al-Aqsa-storm-operation-exceeded-Zionist-regime-s",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530867/Gen-Abdollahi-Al-Aqsa-storm-operation-exceeded-Zionist-regime-s"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gen. Abdollahi: Al-Aqsa storm operation exceeded Zionist regime’s expectations"
-      }
-    },
-    {
       "id": "evt_570937ca",
       "title": "以色列人要求在袭击发生三年后的10月7日失败事件中追究责任",
       "summary": "总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）拒绝对发生的事情承担任何个人责任或下令进行国家调查。",
@@ -769,34 +853,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_215f5e0d",
-      "title": "儿童勇敢地使用狙击手和迫击炮前往也门前线附近的学校",
-      "summary": "英国广播公司世界频道（ BBC World Service ）罕见地访问塔伊兹，与受战争影响的儿童、教师和家庭交谈。",
-      "date": "2026-10-06T07:23:24Z",
-      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Children brave snipers and mortars to go to school near Yemen front line"
-      }
-    },
-    {
       "id": "evt_91a11d38",
       "title": "沙特阿拉伯敦促释放因Facebook帖子而被判处死刑的男子",
       "summary": "阿诺扬·西瓦拉萨（ Anojan Sivarasa ）因Facebook评论被判犯有亵渎罪，面临处决。",
@@ -878,146 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Yemen's government announces all-out war to reclaim land from Houthis"
-      }
-    },
-    {
-      "id": "evt_5347e089",
-      "title": "澳大利亚调查Flydubai副驾驶与国家的联系",
-      "summary": "国家警察和该国安全机构正在调查副驾驶，他试图控制一架飞往以色列的Flydubai飞机。",
-      "date": "2026-10-04T06:19:17Z",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Australia investigating Flydubai co-pilot's links to country"
-      }
-    },
-    {
-      "id": "evt_d8408da4",
-      "title": "阿联酋官员称， Flydubai副驾驶用斧头袭击了船长",
-      "summary": "被指控试图接管飞往以色列的喷气式飞机的男子被多家媒体命名为Hamam al-Hammami。",
-      "date": "2026-10-04T04:57:20Z",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Flydubai co-pilot attacked captain with axe, UAE official says"
-      }
-    },
-    {
-      "id": "evt_4975aa6c",
-      "title": "中东石油供应接近伊朗战争前水平的三个原因",
-      "summary": "专家表示，美国的军事援助，使用穿梭油轮和绕过霍尔木兹海峡的管道，意味着出口已经反弹。",
-      "date": "2026-10-02T15:29:28Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels"
-      }
-    },
-    {
-      "id": "evt_d5abb941",
-      "title": "“我不会让别人死” - Flydubai航班的飞行员描述了副驾驶员对驾驶舱的攻击",
-      "summary": "上尉斯米特·马查尔（ Smit Machchhar ）告诉印度总理纳伦德拉·莫迪（ Narendra Modi ） ，他在袭击期间打开了驾驶舱门，让其他人",
-      "date": "2026-10-02T09:08:06Z",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot"
-      }
-    },
-    {
-      "id": "evt_8b5ba395",
-      "title": "随着反伊斯兰国任务的结束，最后一支英国和美国军队离开伊拉克",
-      "summary": "根据两年前达成的协议，撤出联军是伊拉克政府的一项关键要求。",
-      "date": "2026-09-30T11:36:23Z",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Last UK and US troops leave Iraq as anti-Islamic State mission ends"
       }
     }
   ]
