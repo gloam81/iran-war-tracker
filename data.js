@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-10T03:43:11.626607Z
+// 自动生成的数据 - 更新时间: 2026-10-11T03:18:04.258192Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-10T03:43:11.626551Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-10-11T03:18:04.258129Z",
+    "totalEvents": 36,
     "sources": {
-      "international": 17,
+      "international": 22,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_d02554e7",
-      "title": "以色列无人机袭击在叙利亚边境附近的黎巴嫩造成6人受伤",
-      "summary": "黎巴嫩卫生当局表示，在以色列最近的袭击中，五名叙利亚人和一名黎巴嫩人受伤。",
-      "date": "2026-10-10T00:22:52Z",
-      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "id": "evt_2ac4b0e0",
+      "title": "世界谴责胡塞武装袭击沙特阿拉伯利雅得机场",
+      "summary": "特朗普谴责“可怕”的袭击，并表示美国正在评估是否加入沙特阿拉伯对胡塞武装的袭击。",
+      "date": "2026-10-11T02:12:07Z",
+      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli drone attack wounds six in Lebanon near Syria border"
-      }
-    },
-    {
-      "id": "evt_9b381d85",
-      "title": "伊朗战争现场：克里姆林宫表示，特朗普欢迎俄罗斯在伊朗协议中的努力",
-      "summary": "克里姆林宫表示，美国总统欢迎俄罗斯参与旨在解决伊朗问题的努力。",
-      "date": "2026-10-10T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal"
+        "en": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport"
       }
     },
     {
-      "id": "evt_d836d864",
-      "title": "联合国特使警告也门已恢复“全面战争” ，敦促对话",
-      "summary": "沙特阿拉伯和也门的国际公认政府并未敦促联合国安理会在胡塞武装升级期间采取行动。",
-      "date": "2026-10-09T20:56:01Z",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "id": "evt_59172bfa",
+      "title": "在利雅得机场遭到袭击后，特朗普“可能”加入沙特对胡塞武装的袭击",
+      "summary": "美国总统唐纳德·特朗普表示，美国“可能”加入沙特对也门胡塞武装的打击。",
+      "date": "2026-10-11T01:59:02Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +65,244 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue"
+        "en": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack"
       }
     },
     {
-      "id": "evt_14e05d8e",
-      "title": "经过20年的等待， Shams Tabrizi陵墓在Khoy开放",
-      "summary": "TEHRAN -位于西阿扎尔拜占省霍伊的Shams Tabrizi陵墓在经过二十年的期待后正式开放，标志着在促进伊朗苏菲遗产和文化旅游方面迈出了新的一步。",
-      "date": "2026-10-09T18:52:34Z",
-      "url": "https://www.tehrantimes.com/news/530887/Shams-Tabrizi-mausoleum-opens-in-Khoy-after-20-year-wait",
+      "id": "evt_ab2c2c4c",
+      "title": "加沙“停火”一年后全球亲巴勒斯坦抗议活动",
+      "summary": "自所谓的加沙“停火”以来，亲巴勒斯坦的示威活动已经在世界各地举行了一年。",
+      "date": "2026-10-11T01:11:10Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’"
+      }
+    },
+    {
+      "id": "evt_50af2ca3",
+      "title": "利雅得机场袭击造成12人死亡， 300多人受伤",
+      "summary": "沙特阿拉伯证实，在胡塞武装袭击利雅得后，至少有12人死亡， 300多人受伤。",
+      "date": "2026-10-11T01:02:07Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Twelve killed, more than 300 injured in Riyadh airport attack"
+      }
+    },
+    {
+      "id": "evt_aed35251",
+      "title": "沙特首都利雅得机场遇袭12人死亡",
+      "summary": "另有309人在沙特领导的军事联盟称之为“战争罪”的袭击中受伤。",
+      "date": "2026-10-11T00:21:52Z",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Twelve killed in attack on airport in Saudi capital Riyadh"
+      }
+    },
+    {
+      "id": "evt_bbd2ab93",
+      "title": "伊朗战争现场： 12人在利雅得丧生，特朗普与沙特阿拉伯的MBS交谈",
+      "summary": "随着对沙特阿拉伯机场的罢工变得致命，华盛顿就打击胡塞武装和重启对伊朗的罢工进行了辩论。",
+      "date": "2026-10-11T00:00:13Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: 12 killed in Riyadh, Trump to speak with Saudi Arabia’s MBS"
+      }
+    },
+    {
+      "id": "evt_6c6f322b",
+      "title": "也门政府军表示其部队正在推进对抗胡塞武装",
+      "summary": "沙特支持的部队表示，在过去24小时内，有1,150名胡塞武装在针对伊朗结盟组织的行动中丧生。",
+      "date": "2026-10-10T22:12:25Z",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemeni government’s military says its forces advancing against Houthis"
+      }
+    },
+    {
+      "id": "evt_5eba0556",
+      "title": "数百名医生要求世界医学协会暂停以色列",
+      "summary": "医生指责以色列医学协会在巴勒斯坦医疗保健遭到系统性破坏时保持沉默。",
+      "date": "2026-10-10T21:12:04Z",
+      "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hundreds of doctors demand World Medical Association suspend Israel"
+      }
+    },
+    {
+      "id": "evt_bce20bde",
+      "title": "也门胡塞武装发布无人机袭击政府军视频",
+      "summary": "也门的胡塞武装发布了无人机视频，显示沙特支持的也门政府军遭到袭击。",
+      "date": "2026-10-10T21:02:49Z",
+      "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen’s Houthis release video of drone attacks on gov’t forces"
+      }
+    },
+    {
+      "id": "evt_450a8b11",
+      "title": "德黑兰剧院将上演弗朗西斯·维伯（ Francis Veber ）的喜剧《傻瓜的晚餐》",
+      "summary": "德黑兰–德黑兰的Sahne-ye Abi （蓝色舞台）剧院将于10月15日至24日主办弗朗西斯·维伯（ Francis Veber ）的喜剧“愚人晚餐”。",
+      "date": "2026-10-10T17:15:07Z",
+      "url": "https://www.tehrantimes.com/news/530908/Tehran-Theater-to-host-Francis-Veber-s-comedy-The-Dinner-of",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530887/Shams-Tabrizi-mausoleum-opens-in-Khoy-after-20-year-wait"
+          "url": "https://www.tehrantimes.com/news/530908/Tehran-Theater-to-host-Francis-Veber-s-comedy-The-Dinner-of"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tehran Theater to host Francis Veber’s comedy “The Dinner of Fools”"
+      }
+    },
+    {
+      "id": "evt_554cbff7",
+      "title": "“Shootinga”在第38届伊斯法罕儿童电影节上获得最高荣誉",
+      "summary": "TEHRAN -电影“Shootinga”在伊斯法罕举行的第38届国际儿童和青年电影节上成为领先的获奖者之一，在周四的闭幕式上获得最佳儿童电影，最佳导演和技术成就奖。",
+      "date": "2026-10-10T17:14:45Z",
+      "url": "https://www.tehrantimes.com/news/530912/Shootinga-takes-top-honors-at-38th-Isfahan-children-s-film",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530912/Shootinga-takes-top-honors-at-38th-Isfahan-children-s-film"
         }
       ],
       "category": "military",
@@ -121,20 +317,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Shams Tabrizi mausoleum opens in Khoy after 20-year wait"
+        "en": "“Shootinga” takes top honors at 38th Isfahan children’s film festival"
       }
     },
     {
-      "id": "evt_a4001dce",
-      "title": "培训讲习班帮助Kermanshah工匠探索伊拉克手工艺品市场",
-      "summary": "TEHRAN -伊朗西部克尔曼沙阿省近50名手工艺艺术家和从业人员参加了向伊拉克出口产品的培训课程，这是扩大当地传统工艺品国际市场的努力的一部分。",
-      "date": "2026-10-09T18:51:35Z",
-      "url": "https://www.tehrantimes.com/news/530885/Training-workshop-helps-Kermanshah-artisans-explore-Iraq-s-handicrafts",
+      "id": "evt_4e56a219",
+      "title": "殉道者领袖的“14号牢房”以亚美尼亚语出版",
+      "summary": "德黑兰--周五，亚美尼亚埃里温国立大学东方研究学院（ Faculty of Oriental Studies of Yerevan State University ）推出了伊斯兰革命烈士阿亚图拉·塞耶德·阿里·哈梅内伊（ Ayatollah Seyyed Ali Khamenei ）的自传回忆录《第14号牢房》（ Cell No. 14 ）的亚美尼亚语译本。",
+      "date": "2026-10-10T17:14:15Z",
+      "url": "https://www.tehrantimes.com/news/530907/Martyr-Leader-s-Cell-No-14-published-in-Armenian",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530885/Training-workshop-helps-Kermanshah-artisans-explore-Iraq-s-handicrafts"
+          "url": "https://www.tehrantimes.com/news/530907/Martyr-Leader-s-Cell-No-14-published-in-Armenian"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Martyr Leader’s “Cell No. 14” published in Armenian"
+      }
+    },
+    {
+      "id": "evt_fa37ef05",
+      "title": "也门再次袭击利雅得机场，沙特航班坍塌",
+      "summary": "德黑兰--周六，也门导弹在那里击毙三名沙特人两天后，利雅得机场再次遭到袭击。地区官员告诉美联社，空中交通停止，机场被疏散。",
+      "date": "2026-10-10T17:13:55Z",
+      "url": "https://www.tehrantimes.com/news/530944/Yemen-hits-Riyadh-airport-again-as-Saudi-flights-collapse",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530944/Yemen-hits-Riyadh-airport-again-as-Saudi-flights-collapse"
         }
       ],
       "category": "military",
@@ -149,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Training workshop helps Kermanshah artisans explore Iraq’s handicrafts market"
+        "en": "Yemen hits Riyadh airport again as Saudi flights collapse"
       }
     },
     {
-      "id": "evt_117b44f2",
-      "title": "韩国特使呼吁采取切实步骤扩大与伊朗的旅游联系",
-      "summary": "TEHRAN -韩国驻伊朗大使Kim Junpyo呼吁将关于旅游、文化遗产和手工艺品的双边会谈转化为具体举措，并表示两国应抓住机会扩大合作。",
-      "date": "2026-10-09T18:50:59Z",
-      "url": "https://www.tehrantimes.com/news/530886/South-Korean-envoy-calls-for-practical-steps-to-expand-tourism",
+      "id": "evt_49f24d2c",
+      "title": "特朗普看到没有人认识她；纳维·皮莱无论如何都惹恼了美国和以色列",
+      "summary": "德黑兰--在纳维·皮莱（ Navi Pillay ）被任命为诺贝尔和平奖获得者后的几个小时内，这位美国总统分享了一个帖子，称她为美国和以色列的仇恨者，他的国务卿批准了整个国际法院。以色列召见了约瑟夫·戈培尔。",
+      "date": "2026-10-10T17:12:44Z",
+      "url": "https://www.tehrantimes.com/news/530941/Trump-seethes-that-no-one-knows-her-Navi-Pillay-has-rattled",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530886/South-Korean-envoy-calls-for-practical-steps-to-expand-tourism"
+          "url": "https://www.tehrantimes.com/news/530941/Trump-seethes-that-no-one-knows-her-Navi-Pillay-has-rattled"
         }
       ],
       "category": "military",
@@ -177,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "South Korean envoy calls for practical steps to expand tourism ties with Iran"
+        "en": "Trump seethes that no one knows her; Navi Pillay has rattled US and Israel anyway"
       }
     },
     {
-      "id": "evt_a072f4ed",
-      "title": "马克·莱文（ Mark Levin ）的继子系统性地撤销了美国大使馆关于以色列战争罪行的报告",
-      "summary": "德黑兰--美国驻圣城（耶路撒冷）大使馆的一名高级官员有系统地压制和更改了内部外交电报，以向华盛顿决策者和国会隐瞒以色列的土地盗窃、政权支持的暴力和战争罪行。",
-      "date": "2026-10-09T18:50:17Z",
-      "url": "https://www.tehrantimes.com/news/530896/Mark-Levin-s-stepson-systematically-quashed-US-embassy-reports",
+      "id": "evt_1b3a6510",
+      "title": "地平线上的三场选举",
+      "summary": "德黑兰--三场选举迫在眉睫：以色列议会选举、美国中期选举和巴勒斯坦立法选举。",
+      "date": "2026-10-10T17:12:11Z",
+      "url": "https://www.tehrantimes.com/news/530939/Three-elections-on-the-horizon",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530896/Mark-Levin-s-stepson-systematically-quashed-US-embassy-reports"
+          "url": "https://www.tehrantimes.com/news/530939/Three-elections-on-the-horizon"
         }
       ],
       "category": "military",
@@ -205,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Mark Levin’s stepson systematically quashed US embassy reports on Israeli war crimes"
+        "en": "Three elections on the horizon"
       }
     },
     {
-      "id": "evt_be5ac86d",
-      "title": "华盛顿在伊朗赌博中的控制幻觉",
-      "summary": "德黑兰--戈尔·维达尔（ Gore Vidal ）著名的观点认为，美国是一个健忘的国家，因为什么都不记得而一无所获，这绝不仅仅是一个诙谐的旁白。这是一个装扮成讽刺的预言。华盛顿花了几十年时间证明他是对的。",
-      "date": "2026-10-09T18:50:03Z",
-      "url": "https://www.tehrantimes.com/news/530893/The-illusion-of-control-in-Washington-s-Iran-gamble",
+      "id": "evt_f8a4e625",
+      "title": "美国制裁整个国际刑事法院，以保护美国和以色列的战争罪犯",
+      "summary": "德黑兰--美国于10月9日星期五将国际刑事法院置于制裁之下，放弃了争吵仅限于个别法官和检察官的任何借口。",
+      "date": "2026-10-10T17:11:12Z",
+      "url": "https://www.tehrantimes.com/news/530938/US-sanctions-the-entire-ICC-to-shield-American-and-Israeli-war",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530893/The-illusion-of-control-in-Washington-s-Iran-gamble"
+          "url": "https://www.tehrantimes.com/news/530938/US-sanctions-the-entire-ICC-to-shield-American-and-Israeli-war"
         }
       ],
       "category": "military",
@@ -233,20 +457,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The illusion of control in Washington’s Iran gamble"
+        "en": "US sanctions the entire ICC to shield American and Israeli war criminals"
       }
     },
     {
-      "id": "evt_63a39951",
-      "title": "根据虚假的“停火” ，以色列每90分钟在加沙杀害或伤害一名巴勒斯坦人",
-      "summary": "德黑兰--据人道主义慈善机构伊斯兰救济组织（ Islamic Relief ）称，自去年10月宣布停火以来，以色列军队在加沙平均每90分钟就有一名巴勒斯坦人被杀或受伤。",
-      "date": "2026-10-09T18:49:43Z",
-      "url": "https://www.tehrantimes.com/news/530892/Israel-kills-or-wounds-a-Palestinian-in-Gaza-every-90-minutes",
+      "id": "evt_82d72a88",
+      "title": "外交和战场必须管理",
+      "summary": "在一篇文章中， Etemad研究了伊朗的现状及其政策立场。在为期40天的战争之后，伊朗的对手发起了一场针对伊朗公众的心理战，一再宣布爆发涉及伊朗、美国或以色列政权的第三次战争的不同日期。",
+      "date": "2026-10-10T17:10:09Z",
+      "url": "https://www.tehrantimes.com/news/530942/Diplomacy-and-the-battlefield-must-be-managed",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530892/Israel-kills-or-wounds-a-Palestinian-in-Gaza-every-90-minutes"
+          "url": "https://www.tehrantimes.com/news/530942/Diplomacy-and-the-battlefield-must-be-managed"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Diplomacy and the battlefield must be managed"
+      }
+    },
+    {
+      "id": "evt_fad7435f",
+      "title": "国会议员表示，根据为期七天的提案，伊朗的七项条件仍然不可谈判",
+      "summary": "德黑兰--伊朗议会国家安全和外交政策委员会发言人哈桑·卡什卡维（ Hassan Qashqavi ）表示，伊朗七天提案中的七项条件保持不变，强调这些条件是由该国最高当局设定的，不能在较低级别的决策中修改或放弃。",
+      "date": "2026-10-10T17:06:14Z",
+      "url": "https://www.tehrantimes.com/news/530940/Iran-s-seven-conditions-remain-non-negotiable-under-seven-day",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/530940/Iran-s-seven-conditions-remain-non-negotiable-under-seven-day"
         }
       ],
       "category": "military",
@@ -261,20 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israel kills or wounds a Palestinian in Gaza every 90 minutes under sham ‘ceasefire’"
+        "en": "Iran’s seven conditions remain non-negotiable under seven-day proposal, says MP"
       }
     },
     {
-      "id": "evt_113b27e4",
-      "title": "特朗普再次失去诺贝尔奖，加沙种族灭绝调查结果背后的法学家获奖",
-      "summary": "德黑兰--唐纳德·特朗普一再表示他渴望获得诺贝尔和平奖，但挪威诺贝尔委员会将其交给了揭露以色列在加沙种族灭绝的法律调查员。",
-      "date": "2026-10-09T18:48:25Z",
-      "url": "https://www.tehrantimes.com/news/530894/Trump-loses-Nobel-again-as-jurist-behind-Gaza-genocide-findings",
+      "id": "evt_37e19506",
+      "title": "Pezeshkian ， Qalibaf誓言在爆炸杀死高级女警官后伸张正义",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）、议会议长穆罕默德·巴盖尔·卡利巴夫（ Mohammad Baqer Qalibaf ）和警察局长艾哈迈德雷扎·拉丹（ Ahmadreza Radan ）准将谴责在伊朗东南部的一起恐怖爆炸事件中杀害一名高级女警官，并发誓这次袭击不会削弱该国维护安全和公共秩序的决心。",
+      "date": "2026-10-10T17:04:14Z",
+      "url": "https://www.tehrantimes.com/news/530937/Pezeshkian-Qalibaf-vow-justice-after-bombing-kills-senior-female",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530894/Trump-loses-Nobel-again-as-jurist-behind-Gaza-genocide-findings"
+          "url": "https://www.tehrantimes.com/news/530937/Pezeshkian-Qalibaf-vow-justice-after-bombing-kills-senior-female"
         }
       ],
       "category": "military",
@@ -289,20 +541,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump loses Nobel again as jurist behind Gaza genocide findings takes prize"
+        "en": "Pezeshkian, Qalibaf vow justice after bombing kills senior female police official"
       }
     },
     {
-      "id": "evt_05a15e93",
-      "title": "沙特阿拉伯永远不会打破也门的抵抗：安萨拉拉赫领导人",
-      "summary": "德黑兰--在沙特空袭萨那大厅十周年之际，伊斯兰捍卫者组织领导人赛义德·阿卜杜勒-马利克·胡塞（ Sayyed Abdul-Malik al-Houthi ）周四宣布，利雅得长达十年的征服也门战争已陷入战略失败。",
-      "date": "2026-10-09T18:47:48Z",
-      "url": "https://www.tehrantimes.com/news/530895/Saudi-Arabia-will-never-break-Yemen-s-resistance-Ansarallah",
+      "id": "evt_11b1c766",
+      "title": "从雅典到愤怒",
+      "summary": "德黑兰--美国国务卿马可·卢比奥（ Marco Rubio ） 10月7日在雅典普尼克斯山（ Pnyx hill ）发表讲话，援引古希腊呼吁西方复兴，并将伊朗伊斯兰共和国称为“死亡崇拜” ，引发了伊朗各地的愤怒反应--从高级官员和前外交官到学者、报纸和社交媒体用户。",
+      "date": "2026-10-10T16:50:17Z",
+      "url": "https://www.tehrantimes.com/news/530933/From-Athens-to-Anger",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530895/Saudi-Arabia-will-never-break-Yemen-s-resistance-Ansarallah"
+          "url": "https://www.tehrantimes.com/news/530933/From-Athens-to-Anger"
         }
       ],
       "category": "military",
@@ -317,20 +569,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Saudi Arabia will never break Yemen’s resistance: Ansarallah leader"
+        "en": "From Athens to Anger"
       }
     },
     {
-      "id": "evt_80ef0af4",
-      "title": "IRGC报告在霍尔木兹海峡的液化石油气运输船上发生火灾，警告未经授权的过境",
-      "summary": "TEHRAN-伊朗伊斯兰革命卫队（ IRGC ）海军报告称，一艘大型液化石油气（ LPG ）运输船在试图在霍尔木兹海峡以南未经授权的航线上航行时被击中后起火，伊朗高级军事指挥官重申战略航道仍在伊朗控制之下，并警告不要受到外国干涉。",
-      "date": "2026-10-09T17:35:29Z",
-      "url": "https://www.tehrantimes.com/news/530903/IRGC-reports-fire-aboard-LPG-carrier-in-Strait-of-Hormuz-warns",
+      "id": "evt_3f942c48",
+      "title": "指挥官说，沿边界部署了50多支伊朗军队",
+      "summary": "德黑兰--伊朗陆军地面部队指挥官表示，伊朗已在该国边境部署了50多个作战和支援部队，包括机动、快速反应、装甲和机械化旅，以及火炮、工程、导弹和无人驾驶飞行器（ UAV ）部队。",
+      "date": "2026-10-10T16:49:12Z",
+      "url": "https://www.tehrantimes.com/news/530936/More-than-50-Iranian-army-units-deployed-along-borders-commander",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530903/IRGC-reports-fire-aboard-LPG-carrier-in-Strait-of-Hormuz-warns"
+          "url": "https://www.tehrantimes.com/news/530936/More-than-50-Iranian-army-units-deployed-along-borders-commander"
         }
       ],
       "category": "military",
@@ -345,20 +597,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "IRGC reports fire aboard LPG carrier in Strait of Hormuz, warns against unauthorized transit"
+        "en": "More than 50 Iranian army units deployed along borders, commander says"
       }
     },
     {
-      "id": "evt_9e6af48d",
-      "title": "伊朗对德国议员在议会联盟大会上的言论提出正式投诉",
-      "summary": "TEHRAN-各国议会联盟（ IPU ）执行理事会主席Manouchehr Mottaki对德国议员在坦桑尼亚举行的第153届议会联盟大会期间就伊朗发表的言论提出了正式抗议，认为这些言论违反了大会的议事规则。",
-      "date": "2026-10-09T17:32:38Z",
-      "url": "https://www.tehrantimes.com/news/530902/Iran-lodges-formal-complaint-over-German-lawmaker-s-remarks-at",
+      "id": "evt_08843dd8",
+      "title": "国会议员警告说，对伊朗的任何攻击都将引发更强有力的反应",
+      "summary": "德黑兰--伊朗议会主席团成员阿巴斯·古达尔齐（ Abbas Goudarzi ）将美国总统唐纳德·特朗普（ Donald Trump ）对伊朗的威胁描述为华盛顿心理战的一部分，并警告称，对伊朗的任何攻击都将遭到多倍强有力的回应。",
+      "date": "2026-10-10T16:46:42Z",
+      "url": "https://www.tehrantimes.com/news/530935/MP-warns-any-attack-on-Iran-would-trigger-a-much-stronger-response",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530902/Iran-lodges-formal-complaint-over-German-lawmaker-s-remarks-at"
+          "url": "https://www.tehrantimes.com/news/530935/MP-warns-any-attack-on-Iran-would-trigger-a-much-stronger-response"
         }
       ],
       "category": "military",
@@ -373,20 +625,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran lodges formal complaint over German lawmaker’s remarks at IPU assembly"
+        "en": "MP warns any attack on Iran would trigger a much stronger response"
       }
     },
     {
-      "id": "evt_9094ab19",
-      "title": "伊朗领导人称赞警方是“国家安全的关键支柱”",
-      "summary": "TEHRAN -伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）赞扬了伊朗警察人员的勇气、牺牲和坚定，将该部队描述为国家安全的关键支柱，并强调了其在美以袭击该国期间在维护公共秩序方面的作用。",
-      "date": "2026-10-09T17:30:27Z",
-      "url": "https://www.tehrantimes.com/news/530901/Iran-s-leader-praises-police-as-a-key-pillar-of-national-security",
+      "id": "evt_39ddcd17",
+      "title": "伊朗核负责人指责国际原子能机构屈服于美国和以色列的压力",
+      "summary": "德黑兰--伊朗原子能组织（ AEOI ）负责人穆罕默德·埃斯拉米（ Mohammad Eslami ）批评国际原子能机构（ IAEA ） “屈服于美国和以色列的压力” ，称联合国核监督机构未能履行其促进和平利用核能并确保所有国家平等获得技术的责任。",
+      "date": "2026-10-10T16:35:40Z",
+      "url": "https://www.tehrantimes.com/news/530934/Iran-nuclear-chief-accuses-IAEA-of-yielding-to-US-and-Israeli",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530901/Iran-s-leader-praises-police-as-a-key-pillar-of-national-security"
+          "url": "https://www.tehrantimes.com/news/530934/Iran-nuclear-chief-accuses-IAEA-of-yielding-to-US-and-Israeli"
         }
       ],
       "category": "military",
@@ -401,27 +653,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s leader praises police as a 'key pillar of national security'"
+        "en": "Iran nuclear chief accuses IAEA of yielding to US and Israeli Pressure"
       }
     },
     {
-      "id": "evt_0a41a74b",
-      "title": "伊朗质疑法国的核双重标准",
-      "summary": "伊朗外交部发言人Esmaeil Baqaei批评了“法国对核武器的矛盾态度” ，质疑为什么巴黎认为自己的核威慑对国家安全至关重要，同时坚持认为伊朗绝不能拥有核武器，尽管德黑兰明确承诺和平利用核能。",
-      "date": "2026-10-09T17:27:54Z",
-      "url": "https://www.tehrantimes.com/news/530899/Iran-questions-France-s-nuclear-double-standards",
+      "id": "evt_6ad16d9a",
+      "title": "阿联酋表示， Flydubai袭击者在澳大利亚开始“走向极端主义和恐怖主义”",
+      "summary": "阿联酋总检察长还声称，副驾驶试图将飞机撞上特拉维夫机场。",
+      "date": "2026-10-10T04:34:55Z",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530899/Iran-questions-France-s-nuclear-double-standards"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -429,63 +681,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran questions France’s nuclear double standards"
-      }
-    },
-    {
-      "id": "evt_98200858",
-      "title": "Pezeshkian在土库曼斯坦峰会上呼吁区域一体化，多极合作",
-      "summary": "TEHRAN—伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）呼吁深化区域一体化，加强经济和运输互联互通，加强邻国之间的合作，并提出了一个新的“独联体+1”框架，以扩大伊朗与独立国家联合体（独联体）成员国的接触。",
-      "date": "2026-10-09T17:24:51Z",
-      "url": "https://www.tehrantimes.com/news/530897/Pezeshkian-Calls-for-Regional-Integration-Multipolar-Cooperation",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530897/Pezeshkian-Calls-for-Regional-Integration-Multipolar-Cooperation"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian Calls for Regional Integration, Multipolar Cooperation at Turkmenistan Summits"
-      }
-    },
-    {
-      "id": "evt_ee4f8bf8",
-      "title": "“死亡崇拜” ？请检查您的名片，卢比奥先生",
-      "summary": "德黑兰--美国国务卿马可·卢比奥（ Marco Rubio ）周三晚间在雅典卫城发表演讲时对伊朗发表了部分讲话。总的来说，他的演讲是对历史的选择性解读；是塞缪尔·亨廷顿（ Samuel Huntington ）的《文明的冲突》（ Clash of Civilizations ）的脆弱版本。“当争论脆弱时，戏剧舞台必须不可避免地建立在历史符号之上。观众应该被背景所打动，而不是被推理的力量所打动。",
-      "date": "2026-10-09T17:24:19Z",
-      "url": "https://www.tehrantimes.com/news/530898/Cult-of-Death-Check-your-calling-card-Mr-Rubio",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/530898/Cult-of-Death-Check-your-calling-card-Mr-Rubio"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Cult of Death”? Check your calling card, Mr. Rubio"
+        "en": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says"
       }
     },
     {
@@ -766,62 +962,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "White House defends Trump comment to let Iran 'take out' LA and San Diego"
-      }
-    },
-    {
-      "id": "evt_c45476a5",
-      "title": "英国将尽最大努力阻止以色列关闭东耶路撒冷领事馆",
-      "summary": "由于英国对以色列定居点的制裁，以色列威胁要关闭负责处理英国与该市巴勒斯坦人关系的领事馆。",
-      "date": "2026-10-06T19:17:44Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate"
-      }
-    },
-    {
-      "id": "evt_17b93ee2",
-      "title": "也门军方表示已“保护”红海水道",
-      "summary": "沙特支持的部队就他们是否还占领了Bab al-Mandab海峡附近的港口城市Mokha发表了相互矛盾的报告。",
-      "date": "2026-10-06T07:43:07Z",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Yemeni military says it has 'secured' Red Sea waterway"
       }
     },
     {
