@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-15T02:39:17.709321Z
+// 自动生成的数据 - 更新时间: 2026-10-16T02:34:54.353058Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-15T02:39:17.709261Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-10-16T02:34:54.352996Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 18,
+      "international": 19,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,16 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_da040fe7",
-      "title": "在黑海袭击事件不断增加的情况下，船只在罗马尼亚水域起火",
-      "summary": "当局正在调查无人机是否可能参与了最新的事件。",
-      "date": "2026-10-15T01:20:26Z",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
+      "id": "evt_226a0c28",
+      "title": "白沙瓦哀悼在学校屋顶倒塌中丧生的儿童",
+      "summary": "在巴基斯坦白沙瓦，学校屋顶坍塌造成至少34名儿童死亡，数千人聚集在一起进行葬礼祈祷。",
+      "date": "2026-10-16T02:01:43Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea"
+        "en": "Peshawar mourns children killed in school roof collapse"
       }
     },
     {
-      "id": "evt_3e8a35ab",
-      "title": "伊朗战争现场：德黑兰发誓要战斗，直到美国屈服，因为船只在霍尔木兹沉没",
-      "summary": "伊朗表示，它不寻求无休止的战争，但发誓要战斗，直到美国接受其要求，因为船只在霍尔木兹沉没。",
-      "date": "2026-10-15T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "id": "evt_b5d2088a",
+      "title": "在经济问题日益严重的情况下，伊拉克议会批准了扎伊迪的内阁",
+      "summary": "在扎伊迪政府就职五个月后，伊拉克议会最终确定了关键部长的任命。",
+      "date": "2026-10-16T00:31:18Z",
+      "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
       },
       "languages": [
         "zh",
@@ -65,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz"
+        "en": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns"
       }
     },
     {
-      "id": "evt_c81eee5d",
-      "title": "美国摧毁涉嫌伊朗指挥和控制的单桅帆船",
-      "summary": "美国表示，它在阿曼湾摧毁了一艘与伊朗有关联的船只，指责它进行监视。",
-      "date": "2026-10-14T23:58:13Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+      "id": "evt_107ce2dc",
+      "title": "伊朗战争现场：沙特爆炸胡塞“战争罪行” ；美国在沙特机场发出警告",
+      "summary": "沙特阿拉伯称胡塞武装袭击是“全面的战争罪行” ，而美国则警告可能对沙特机场发动袭击。",
+      "date": "2026-10-16T00:02:37Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US destroys dhow suspected of Iranian command and control"
+        "en": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports"
       }
     },
     {
-      "id": "evt_ae626cf0",
-      "title": "哥伦比亚反对派组织发起抗议de la Espriella的削减",
-      "summary": "前总统古斯塔沃·佩特罗（ Gustavo Petro ）与数千名示威者一起在波哥大游行，反对紧缩，以色列关系。",
-      "date": "2026-10-14T21:35:27Z",
-      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+      "id": "evt_d0710d6b",
+      "title": "胡塞武装对也门总统府的导弹袭击造成5人死亡，部长说",
+      "summary": "也门新闻部长说，当弹道导弹袭击al-Maashiq宫时，总理和其他部长没有受伤。",
+      "date": "2026-10-15T23:38:46Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Houthi missile attack on Yemeni presidential palace kills five, minister says"
+      }
+    },
+    {
+      "id": "evt_fbe0c8c2",
+      "title": "两条叙利亚管道因能源基础设施遭受袭击而受损",
+      "summary": "由于哈塞克的天然气出口线起火，巴尼亚斯-霍姆斯泄漏事件中引用的燃料盗窃案。",
+      "date": "2026-10-15T23:35:26Z",
+      "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure"
+      }
+    },
+    {
+      "id": "evt_9439bfa5",
+      "title": "以色列禁止商品进入加沙；哈马斯否认税收主张",
+      "summary": "包括水果和冬季服装在内的商业运输暂停，切断了关键供应品的主要来源。",
+      "date": "2026-10-15T21:57:58Z",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +177,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Colombia opposition groups launch protest against de la Espriella’s cuts"
+        "en": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims"
       }
     },
     {
-      "id": "evt_74435b62",
-      "title": "以色列四轴飞行器在黎巴嫩投掷炸弹",
-      "summary": "一架以色列四轴飞行器在黎巴嫩南部Zibqin村郊区投掷炸弹。",
-      "date": "2026-10-14T20:47:46Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+      "id": "evt_93367643",
+      "title": "以色列“广告”公司帮助将间谍软件感染到半岛电视台的设备中",
+      "summary": "一家伪装成数字广告公司的以色列间谍软件瞄准了半岛电视台的记者设备。",
+      "date": "2026-10-15T21:05:01Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,7 +205,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli quadcopter drone drops bomb in Lebanon"
+        "en": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices"
+      }
+    },
+    {
+      "id": "evt_44707f0c",
+      "title": "BBC Verify发现，以色列国防军对数百起杀人事件的调查仍然没有公开结果",
+      "summary": "BBC Verify在过去三年中发现了254起事件，以色列军方表示，在被指控造成伤害后正在进行审查。",
+      "date": "2026-10-15T05:00:23Z",
+      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds"
+      }
+    },
+    {
+      "id": "evt_a98d9325",
+      "title": "全球慈善机构拒绝报告其在叙利亚“失踪”儿童中的作用",
+      "summary": "国际SOS儿童村承认，叙利亚安全部门将140多名儿童带到其设施。",
+      "date": "2026-10-14T23:20:57Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Global charity withholds report into its role in Syria's 'disappeared' children"
       }
     },
     {
@@ -769,118 +881,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_72f70fa5",
-      "title": "联合国称，在前往也门的船只在吉布提附近倾覆后， 139名儿童死亡",
-      "summary": "周四晚上，这艘船从吉布提驶往也门，船上载有305人，当时它在港口城镇奥博克附近倾覆。",
-      "date": "2026-10-11T15:32:23Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Children among 139 dead after Yemen-bound boat capsizes off Djibouti, UN says"
-      }
-    },
-    {
-      "id": "evt_aed35251",
-      "title": "沙特首都利雅得机场遇袭， 12人死亡， 300人受伤",
-      "summary": "星期六的袭击是自2015年5月以来沙特阿拉伯最致命的袭击。美国和沙特官员指责也门的胡塞武装，他们尚未对罢工发表评论。",
-      "date": "2026-10-11T08:41:30Z",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh"
-      }
-    },
-    {
-      "id": "evt_6ad16d9a",
-      "title": "阿联酋表示， Flydubai袭击者在澳大利亚开始“走向极端主义和恐怖主义”",
-      "summary": "阿联酋总检察长还声称，副驾驶试图将飞机撞上特拉维夫机场。",
-      "date": "2026-10-10T04:34:55Z",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says"
-      }
-    },
-    {
-      "id": "evt_cf32cced",
-      "title": "三名沙特国民在胡塞武装袭击利雅得机场时丧生",
-      "summary": "导弹袭击发生之际，伊朗支持的团体与支持也门政府的沙特阿拉伯之间的战斗升级。",
-      "date": "2026-10-09T13:50:25Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Three Saudi nationals killed in Houthi attacks on Riyadh airport"
-      }
-    },
-    {
       "id": "evt_31bf551e",
       "title": "“每天都有杀戮” ：尽管和平协议停滞不前，但加沙人面临以色列的罢工",
       "summary": "许多巴勒斯坦人仍然生活在拥挤的帐篷城市，美国结束战争的计划基本上停滞不前。",
@@ -906,6 +906,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls"
+      }
+    },
+    {
+      "id": "evt_570937ca",
+      "title": "以色列人要求在袭击发生三年后的10月7日失败事件中追究责任",
+      "summary": "总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）拒绝对发生的事情承担任何个人责任或下令进行国家调查。",
+      "date": "2026-10-07T16:00:18Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israelis demand accountability over 7 October failures three years after attacks"
       }
     }
   ]
