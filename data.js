@@ -1,8 +1,8 @@
-// 自动生成的数据 - 更新时间: 2026-10-17T02:27:24.650819Z
+// 自动生成的数据 - 更新时间: 2026-10-18T02:27:43.478559Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-17T02:27:24.650779Z",
+    "lastUpdate": "2026-10-18T02:27:43.478500Z",
     "totalEvents": 35,
     "sources": {
       "international": 21,
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_9fa6f5fd",
-      "title": "也门被围困的塔伊兹医疗危机升级",
-      "summary": "也门的胡塞武装与国际公认的政府之间的战斗正在加深人道主义危机。",
-      "date": "2026-10-17T01:37:07Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+      "id": "evt_5f1609a3",
+      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷后起火",
+      "summary": "IRGC表示，这些船只每艘运载约200万桶原油，使用的是未经授权的航线。",
+      "date": "2026-10-18T01:54:18Z",
+      "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz"
+      }
+    },
+    {
+      "id": "evt_3da63793",
+      "title": "沙特领导的部队试图通过空袭打破胡塞对塔伊兹的围攻",
+      "summary": "沙特领导的部队表示，他们已经袭击了也门塔伊兹市周围的多个阵地，以打破胡塞武装的围困。",
+      "date": "2026-10-18T01:12:44Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Healthcare crisis escalating in Yemen’s besieged Taiz"
+        "en": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes"
       }
     },
     {
-      "id": "evt_e7764a00",
-      "title": "伊朗战争现场：特朗普声称美国海军封锁在霍尔木兹拦截伊朗船只",
-      "summary": "特朗普表示，美国海军的封锁已阻止所有伊朗船只穿越霍尔木兹海峡。",
-      "date": "2026-10-17T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+      "id": "evt_f9b2fcdd",
+      "title": "以色列定居者在被占领的约旦河西岸袭击欧洲外交官",
+      "summary": "蒙面以色列定居者袭击了欧洲外交官、法国市长和被占领的约旦河西岸的巴勒斯坦人。",
+      "date": "2026-10-18T01:02:37Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -65,20 +93,104 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz"
+        "en": "Israeli settlers attack European diplomats in the occupied West Bank"
       }
     },
     {
-      "id": "evt_6e3c766d",
-      "title": "特朗普用“穆罕默德”笑话嘲笑中东名字",
-      "summary": "“如果你对中东某人的名字有疑问，只需说‘穆罕默德‘ ，”美国总统唐纳德·特朗普说。",
-      "date": "2026-10-16T23:55:57Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+      "id": "evt_a242c04e",
+      "title": "伊朗战争现场：以色列定居者袭击欧盟外交官；无人机瞄准利雅得",
+      "summary": "据报道，三艘油轮发生火灾，因为蒙面定居者袭击了被占领的约旦河西岸的欧洲政客。",
+      "date": "2026-10-18T00:00:11Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh"
+      }
+    },
+    {
+      "id": "evt_f77abaf8",
+      "title": "欧洲外交官在约旦河西岸遭到以色列定居者袭击",
+      "summary": "以色列军方谴责暴力事件，但总理办公室表示，这是“诽谤”运动的一部分。",
+      "date": "2026-10-17T23:52:38Z",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "European diplomats attacked by Israeli settlers in West Bank"
+      }
+    },
+    {
+      "id": "evt_4d19a212",
+      "title": "美国大使敦促以色列起诉袭击美国记者的人",
+      "summary": "特朗普任命的大使迈克·赫卡比（ Mike Huckabee ）称在被占领的约旦河西岸的袭击是“卑鄙的恐怖行为",
+      "date": "2026-10-17T23:40:59Z",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US ambassador urges Israel to prosecute attackers of American journalist"
+      }
+    },
+    {
+      "id": "evt_5e605fb7",
+      "title": "沙特领导的联军在埃及称重派遣帮助时拦截无人机",
+      "summary": "部队在沙特阿拉伯利雅得、东部省和南部地区上空拦截并摧毁了四架无人机。",
+      "date": "2026-10-17T23:21:57Z",
+      "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -93,48 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump mocks Middle Eastern names with ‘Mohammed’ joke"
+        "en": "Saudi-led coalition intercepts drones as Egypt weighs sending help"
       }
     },
     {
-      "id": "evt_64c7103d",
-      "title": "意大利调查以色列的卡茨对船队活动家的虐待和性侵犯",
-      "summary": "罗马检察官还指出， 12名高级军官、警察和监狱官员涉嫌虐待被拘留的活动人士。",
-      "date": "2026-10-16T22:48:54Z",
-      "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+      "id": "evt_74e98e38",
+      "title": "伊朗电视台播放视频显示霍尔木兹油轮爆炸",
+      "summary": "伊朗国家电视台播放视频，声称一艘油轮在袭击霍尔木兹海军水雷后爆炸",
+      "date": "2026-10-17T20:02:22Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists"
-      }
-    },
-    {
-      "id": "evt_f0d55212",
-      "title": "巴基斯坦学校倒塌后家庭要求伸张正义",
-      "summary": "在巴基斯坦白沙瓦的学校屋顶坍塌导致34名儿童死亡后，家长们要求追究责任。",
-      "date": "2026-10-16T22:38:04Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,27 +233,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Families demand justice after Pakistan school collapse"
+        "en": "Iranian TV airs video said to show tanker explosion in Hormuz"
       }
     },
     {
-      "id": "evt_5f59f77d",
-      "title": "也门政府称胡塞武装向亚丁机场发射两枚导弹",
-      "summary": "袭击发生之际，也门政府军声称在马里布取得了进展，并表示他们在24小时内“中和”了430名胡塞武装分子。",
-      "date": "2026-10-16T21:56:07Z",
-      "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "id": "evt_e74c53a8",
+      "title": "阿尔巴尼亚警方发射橡皮子弹抗议拉玛事件升级",
+      "summary": "为期五天的冲突撼动了地拉那，学生们加入了一场更广泛的运动，要求总理埃迪·拉马辞职。",
+      "date": "2026-10-17T19:26:13Z",
+      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -177,251 +261,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Yemen’s government says Houthis fired two missiles at Aden airport"
+        "en": "Albanian police fire rubber bullets as protests against Rama escalate"
       }
     },
     {
-      "id": "evt_4718fe10",
-      "title": "以色列间谍软件如何使用“零点击”黑客攻击半岛电视台工作人员",
-      "summary": "2024年，以色列间谍软件公司使用一种新的“adfection”方法入侵了半岛电视台的设备。以下是具体操作方法。",
-      "date": "2026-10-16T21:08:44Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff"
-      }
-    },
-    {
-      "id": "evt_b2d3aa51",
-      "title": "由于以色列停止销售商品，人们对食品负担能力的担忧困扰着加沙",
-      "summary": "新鲜水果、蔬菜、肉类和冬季服装等商品已有两天没有进入加沙。",
-      "date": "2026-10-16T20:37:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Food affordability fears plague Gaza as Israel halts commercial goods"
-      }
-    },
-    {
-      "id": "evt_3fd76c51",
-      "title": "“天使之地”入选安塔利亚金橙电影节",
-      "summary": "TEHRAN -伊朗电影制片人Babak Khajehpasha的《天使之地》将在土耳其第63届国际安塔利亚金橙电影节上放映，并将继续参加国际电影活动。",
-      "date": "2026-10-16T17:06:17Z",
-      "url": "https://www.tehrantimes.com/news/531113/Land-of-Angels-selected-for-Antalya-Golden-Orange-Film-Festival",
+      "id": "evt_5d2f18ad",
+      "title": "德黑兰的艺术画廊",
+      "summary": "Ech画廊正在举办Sahar Farah的绘画展览。   \n名为“Xabnameh”的展览将于10月30日在位于Shariati大道Dowlat街对面的Mirza Taraj 10号的画廊展出。",
+      "date": "2026-10-17T17:45:48Z",
+      "url": "https://www.tehrantimes.com/news/531146/What-s-in-Tehran-art-galleries",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531113/Land-of-Angels-selected-for-Antalya-Golden-Orange-Film-Festival"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“Land of Angels” selected for Antalya Golden Orange Film Festival"
-      }
-    },
-    {
-      "id": "evt_24811cb2",
-      "title": "《低语者》来到伊朗书店",
-      "summary": "TEHRAN--意大利作家多纳托·卡里西（ Donato Carrisi ）的首部小说《耳语者》（ The Whisperer ）的波斯语译本最近由德黑兰的Vazn-e Donya Publications出版社出版。",
-      "date": "2026-10-16T17:05:55Z",
-      "url": "https://www.tehrantimes.com/news/531114/The-Whisperer-comes-to-Iranian-bookstores",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531114/The-Whisperer-comes-to-Iranian-bookstores"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "“The Whisperer” comes to Iranian bookstores"
-      }
-    },
-    {
-      "id": "evt_e85ce08a",
-      "title": "北京在国际危机中的调解力量",
-      "summary": "德黑兰--在新的国际秩序中， “力量”的概念不再仅仅由核弹头、海外军事基地或传统安全联盟的数量来定义；相反，全球力量的新几何形态是由供应链、货币兑换、基础设施投资和经济相互依存的能力塑造的。",
-      "date": "2026-10-16T17:04:41Z",
-      "url": "https://www.tehrantimes.com/news/531123/Beijing-s-mediating-power-in-international-crises",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531123/Beijing-s-mediating-power-in-international-crises"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Beijing’s mediating power in international crises"
-      }
-    },
-    {
-      "id": "evt_fb1c1dc0",
-      "title": "陷入混乱，特朗普诉诸更公然的谎言和误导性主张",
-      "summary": "德黑兰--随着11月3日国会中期选举的临近，唐纳德·特朗普似乎正在失去对现实的把握。",
-      "date": "2026-10-16T17:04:15Z",
-      "url": "https://www.tehrantimes.com/news/531124/Caught-in-an-imbroglio-Trump-resorts-to-more-blatant-lies-and",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531124/Caught-in-an-imbroglio-Trump-resorts-to-more-blatant-lies-and"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Caught in an imbroglio, Trump resorts to more blatant lies and misleading claims"
-      }
-    },
-    {
-      "id": "evt_028a5f99",
-      "title": "以色列公司将网络广告武器化，以黑客攻击目标，监视数亿人",
-      "summary": "德黑兰—一家以色列广告公司将横幅广告变成了黑客工具，至少两年来，运营全球广告平台的公司未能阻止它。",
-      "date": "2026-10-16T17:03:50Z",
-      "url": "https://www.tehrantimes.com/news/531126/Israeli-firm-weaponized-online-ads-to-hack-targets-spy-on-hundreds",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531126/Israeli-firm-weaponized-online-ads-to-hack-targets-spy-on-hundreds"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli firm weaponized online ads to hack targets, spy on hundreds of millions"
-      }
-    },
-    {
-      "id": "evt_74706eca",
-      "title": "在辛瓦尔殉难两年后，巴勒斯坦派系发誓要继续他的道路",
-      "summary": "德黑兰--自叶海亚·辛瓦尔（ Yahya Sinwar ）殉难以来，巴勒斯坦抵抗运动各派系周五迎来了两年的纪念活动，纪念在拉法（ Rafah ）牺牲的哈马斯领导人，而以色列在加沙的种族灭绝运动仅在名义上继续停火。",
-      "date": "2026-10-16T17:03:20Z",
-      "url": "https://www.tehrantimes.com/news/531122/Two-years-after-Sinwar-s-martyrdom-Palestinian-factions-vow",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531122/Two-years-after-Sinwar-s-martyrdom-Palestinian-factions-vow"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Two years after Sinwar’s martyrdom, Palestinian factions vow to continue his path"
-      }
-    },
-    {
-      "id": "evt_dc6377eb",
-      "title": "沙特阿拉伯也门“遏制战略”的终结",
-      "summary": "根据分析师和外交官的说法，沙特阿拉伯试图“遏制”也门的安萨拉拉赫，同时加倍推动国内经济增长的努力正在崩溃，这对王储穆罕默德·本·萨勒曼（ Mohammed bin Salman ）上台以来构成了最严重的考验之一。",
-      "date": "2026-10-16T17:02:45Z",
-      "url": "https://www.tehrantimes.com/news/531125/The-end-of-Saudi-Arabia-s-Yemen-containment-strategy",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531125/The-end-of-Saudi-Arabia-s-Yemen-containment-strategy"
+          "url": "https://www.tehrantimes.com/news/531146/What-s-in-Tehran-art-galleries"
         }
       ],
       "category": "diplomatic",
       "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -429,27 +289,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The end of Saudi Arabia’s Yemen 'containment strategy'"
+        "en": "What’s in Tehran art galleries"
       }
     },
     {
-      "id": "evt_7d68c3aa",
-      "title": "战胜伊朗的幻觉",
-      "summary": "在一篇文章中， Donya-e-Eqtesad讨论了它所描述的华盛顿对伊朗胜利的幻想。该报援引国际事务分析师法里德·扎卡里亚（ Farid Zakaria ）的话说，军事成功不一定会带来政治或战略上的成功。",
-      "date": "2026-10-16T17:02:02Z",
-      "url": "https://www.tehrantimes.com/news/531135/The-illusion-of-victory-over-Iran",
+      "id": "evt_5b2ba444",
+      "title": "TMoCA电影展，回顾斯坦利·库布里克（ Stanley Kubrick ）的6部电影",
+      "summary": "德黑兰--德黑兰当代艺术博物馆（ TMoCA ）的电影馆将于周日回顾斯坦利·库布里克（ Stanley Kubrick ）的六部电影。",
+      "date": "2026-10-17T17:45:28Z",
+      "url": "https://www.tehrantimes.com/news/531150/TMoCA-cinematheque-to-review-6-films-by-Stanley-Kubrick",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531135/The-illusion-of-victory-over-Iran"
+          "url": "https://www.tehrantimes.com/news/531150/TMoCA-cinematheque-to-review-6-films-by-Stanley-Kubrick"
         }
       ],
-      "category": "military",
+      "category": "diplomatic",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -457,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The illusion of victory over Iran"
+        "en": "TMoCA cinematheque to review 6 films by Stanley Kubrick"
       }
     },
     {
-      "id": "evt_d2c2d6d0",
-      "title": "伊朗， 19个国家谴责哥伦比亚在被占领的圣城开设大使馆",
-      "summary": "德黑兰--伊朗和其他19个国家谴责哥伦比亚在被占领的圣城开设大使馆的决定，警告说，此举违反了国际法，破坏了巴勒斯坦城市的国际公认地位，与建立独立巴勒斯坦国的努力背道而驰。",
-      "date": "2026-10-16T16:58:36Z",
-      "url": "https://www.tehrantimes.com/news/531134/Iran-19-countries-condemn-Colombia-s-embassy-opening-in-occupied",
+      "id": "evt_8c2588fd",
+      "title": "研究人员呼吁加深伊朗宗教与音乐之间的理解",
+      "summary": "TEHRAN-文化社会学家侯赛因·萨尔维（ Hossein Sarvi ）表示，加深对宗教机构与艺术之间关系的理解对于解决伊朗围绕音乐的长期挑战至关重要，他强调了知情对话和重新评估机构关系的必要性。",
+      "date": "2026-10-17T17:45:05Z",
+      "url": "https://www.tehrantimes.com/news/531149/Researcher-calls-for-greater-understanding-between-religion-and",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531134/Iran-19-countries-condemn-Colombia-s-embassy-opening-in-occupied"
+          "url": "https://www.tehrantimes.com/news/531149/Researcher-calls-for-greater-understanding-between-religion-and"
         }
       ],
       "category": "military",
@@ -485,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran, 19 countries condemn Colombia’s embassy opening in occupied Al-Quds"
+        "en": "Researcher calls for greater understanding between religion and music in Iran"
       }
     },
     {
-      "id": "evt_54504678",
-      "title": "伊朗斥责英国扭转侵略者和受害者的角色",
-      "summary": "伊朗外交部发言人Esmaeil Baqaei谴责英国对伊朗的指控，指责伦敦在短短九个月内对伊朗伊斯兰共和国进行了两轮非法侵略，包括德黑兰正在进行谈判，但仍扭转了侵略者和受害者的角色。",
-      "date": "2026-10-16T16:56:20Z",
-      "url": "https://www.tehrantimes.com/news/531133/Iran-raps-UK-for-reversing-roles-of-aggressor-and-victim",
+      "id": "evt_95f21f79",
+      "title": "第26届德黑兰拍卖会实现超过460万$",
+      "summary": "德黑兰--致力于伊朗现代和当代艺术的第26届德黑兰拍卖会的总收入超过460万$。在这个版本中， Parviz Tanavoli的青铜“Heech”雕塑被拍卖为拍卖史上最昂贵的艺术品。",
+      "date": "2026-10-17T17:44:38Z",
+      "url": "https://www.tehrantimes.com/news/531151/26th-Tehran-Auction-realizes-over-4-6-million",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531133/Iran-raps-UK-for-reversing-roles-of-aggressor-and-victim"
+          "url": "https://www.tehrantimes.com/news/531151/26th-Tehran-Auction-realizes-over-4-6-million"
         }
       ],
       "category": "military",
@@ -513,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran raps UK for reversing roles of aggressor and victim"
+        "en": "26th Tehran Auction realizes over $4.6 million"
       }
     },
     {
-      "id": "evt_dd5ffa83",
-      "title": "领袖致辞，纪念国家护士节",
-      "summary": "TEHRAN -伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·侯赛尼·哈梅内伊（ Ayatollah Seyyed Mojtaba Hosseini Khamenei ）发布了一条消息，纪念泽纳布夫人（ Lady Zeinab ，简称pbuh ）诞辰和国家护士节。在他的信息中，他谈到了妇女和女儿的存在，她们就像伊朗前所未有的Bi 'tha （崛起）期间伊斯兰教的Zeinab夫人一样，是非凡的。",
-      "date": "2026-10-16T16:54:36Z",
-      "url": "https://www.tehrantimes.com/news/531132/The-Leader-s-message-commemorating-National-Nurse-s-Day",
+      "id": "evt_155a8ecc",
+      "title": "以色列人在军方支持的约旦河西岸袭击中击败《华盛顿邮报》记者",
+      "summary": "德黑兰--周五上午8点后不久，这些人从山顶定居点下来，身穿黑色衣服，手持弹弓和警棍。至少有一个人有枪。当他们结束时，拉马拉东北部阿布法拉周围的橄榄树林正在燃烧，村民们正在流血，《华盛顿邮报》的一名美国摄影师被踢倒在地。",
+      "date": "2026-10-17T17:40:51Z",
+      "url": "https://www.tehrantimes.com/news/531167/Israelis-beat-Washington-Post-journalist-in-military-backed-West",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531132/The-Leader-s-message-commemorating-National-Nurse-s-Day"
+          "url": "https://www.tehrantimes.com/news/531167/Israelis-beat-Washington-Post-journalist-in-military-backed-West"
         }
       ],
       "category": "military",
@@ -541,20 +401,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The Leader's message commemorating National Nurse’s Day"
+        "en": "Israelis beat Washington Post journalist in military-backed West Bank raids"
       }
     },
     {
-      "id": "evt_0cf57591",
-      "title": "人工智能增强了伊朗的情报和瞄准能力： TAEB",
-      "summary": "TEHRAN—伊朗Basij组织负责人Hossein Taeb表示，在国防和情报行动中使用人工智能提高了目标识别和精确打击的准确性，凸显了该技术在伊朗军事能力中日益重要的作用。",
-      "date": "2026-10-16T16:52:35Z",
-      "url": "https://www.tehrantimes.com/news/531130/AI-has-enhanced-Iran-s-intelligence-and-targeting-capabilities",
+      "id": "evt_8a10768a",
+      "title": "随着共和党人为失败做准备，特朗普的白宫混乱地开启了自己",
+      "summary": "德黑兰--一名新闻秘书在周五受聘，接下来就离开了。一位社区支持代表在她唯一的简报中宣布下台。忠诚者争夺金钱，而参谋长的家人则受到审查。距离11月3日的中期选举还有不到三周的时间，唐纳德·特朗普的白宫已经停止隐瞒其混乱。",
+      "date": "2026-10-17T17:40:27Z",
+      "url": "https://www.tehrantimes.com/news/531169/Trump-s-White-House-chaotically-turns-on-itself-as-Republicans",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531130/AI-has-enhanced-Iran-s-intelligence-and-targeting-capabilities"
+          "url": "https://www.tehrantimes.com/news/531169/Trump-s-White-House-chaotically-turns-on-itself-as-Republicans"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump’s White House chaotically turns on itself as Republicans brace for defeat"
+      }
+    },
+    {
+      "id": "evt_3f00696d",
+      "title": "西班牙首相桑切斯表示，对伊朗的战争已使欧盟损失超过1120亿美元（ $ 1120亿）",
+      "summary": "TEHRAN-西班牙首相佩德罗·桑切斯（ Pedro Sánchez ）警告说，对伊朗的战争使欧洲人损失了超过1000亿欧元（ 1120亿美元） ，他认为普通公民正在为他们反对的冲突付出代价。",
+      "date": "2026-10-17T17:37:12Z",
+      "url": "https://www.tehrantimes.com/news/531180/War-on-Iran-has-cost-EU-more-than-112-billion-Spanish-PM-S%C3%A1nchez",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531180/War-on-Iran-has-cost-EU-more-than-112-billion-Spanish-PM-S%C3%A1nchez"
         }
       ],
       "category": "military",
@@ -569,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "AI has enhanced Iran’s intelligence and targeting capabilities: Taeb"
+        "en": "War on Iran has cost EU more than $112 billion, Spanish PM Sánchez says"
       }
     },
     {
-      "id": "evt_3f17209c",
-      "title": "“炸弹之母”不会将特朗普从伊朗战争泥潭中拯救出来",
-      "summary": "德黑兰--分析人士警告说，可能对伊朗使用美国最大的非核炸弹可能会让唐纳德·特朗普总统戏剧性地展示军事力量，但这不太可能解决华盛顿面临的战略困境，他们认为，一次壮观的爆炸不能取代摆脱旷日持久的战争的可行途径。",
-      "date": "2026-10-16T16:49:46Z",
-      "url": "https://www.tehrantimes.com/news/531129/Mother-of-all-bombs-will-not-rescue-Trump-from-Iran-war-quagmire",
+      "id": "evt_9a60bfbf",
+      "title": "伊朗的导弹能力改变了这个等式，看守国防部长警告美国",
+      "summary": "TEHRAN-伊朗看守国防部长马吉德·埃本·雷扎（ Majid Ebn al-Reza ）准将回应了美国总统唐纳德·特朗普（ Donald Trump ）对伊朗的威胁，警告说，任何重新采取的军事行动都将对华盛顿的国际地位、经济和国内政治计算产生影响。",
+      "date": "2026-10-17T17:34:06Z",
+      "url": "https://www.tehrantimes.com/news/531179/Iran-s-missile-capabilities-have-changed-the-equation-caretaker",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531129/Mother-of-all-bombs-will-not-rescue-Trump-from-Iran-war-quagmire"
+          "url": "https://www.tehrantimes.com/news/531179/Iran-s-missile-capabilities-have-changed-the-equation-caretaker"
         }
       ],
       "category": "military",
@@ -597,20 +485,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Mother of all bombs’ will not rescue Trump from Iran war quagmire"
+        "en": "Iran’s missile capabilities have changed the equation, caretaker defense minister warns US"
       }
     },
     {
-      "id": "evt_2ca6cb98",
-      "title": "伊朗重申关闭霍尔木兹海峡，表示必须协调通行",
-      "summary": "德黑兰--伊朗军方官员重申，霍尔木兹海峡仍然对未经协调的海上交通关闭，将任何放宽限制与“尊重伊朗的权利”联系起来，并警告说，美国在该地区的持续军事存在将加深不安全状况。",
-      "date": "2026-10-16T16:38:25Z",
-      "url": "https://www.tehrantimes.com/news/531128/Iran-reaffirms-Strait-of-Hormuz-closure-says-passage-must-be",
+      "id": "evt_f6aa3ffd",
+      "title": "拉夫罗夫将于周一访问德黑兰，与Araghchi会谈",
+      "summary": "德黑兰--俄罗斯外交部发言人玛丽亚·扎哈罗娃（ Maria Zakharova ）宣布，俄罗斯外交部长谢尔盖·拉夫罗夫（ Sergei Lavrov ）将于周一访问德黑兰，与伊朗外长阿巴斯·阿拉格奇（ Abbas Araghchi ）进行会谈。",
+      "date": "2026-10-17T17:32:08Z",
+      "url": "https://www.tehrantimes.com/news/531178/Lavrov-to-visit-Tehran-on-Monday-for-talks-with-Araghchi",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531128/Iran-reaffirms-Strait-of-Hormuz-closure-says-passage-must-be"
+          "url": "https://www.tehrantimes.com/news/531178/Lavrov-to-visit-Tehran-on-Monday-for-talks-with-Araghchi"
         }
       ],
       "category": "military",
@@ -625,7 +513,147 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran reaffirms Strait of Hormuz closure, says passage must be coordinated"
+        "en": "Lavrov to visit Tehran on Monday for talks with Araghchi"
+      }
+    },
+    {
+      "id": "evt_d5366d79",
+      "title": "外交官表示，停火必须覆盖所有战线，以结束地区战争",
+      "summary": "TEHRAN -伊朗强调，结束所有战线上的敌对行动对于实现西亚的持久和平至关重要，并警告说，该地区任何地方的持续战斗都将意味着战争仍未得到解决。",
+      "date": "2026-10-17T17:30:23Z",
+      "url": "https://www.tehrantimes.com/news/531177/Ceasefire-must-cover-all-fronts-to-end-regional-war-says-diplomat",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531177/Ceasefire-must-cover-all-fronts-to-end-regional-war-says-diplomat"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Ceasefire must cover all fronts to end regional war, says diplomat"
+      }
+    },
+    {
+      "id": "evt_1e7184a8",
+      "title": "Pezeshkian ：伊朗的导弹，建立在学校和大学基础之上的防御能力",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）强调了伊朗中小学和大学对该国国防和导弹能力的贡献，称对教育和年轻一代的投资对于加强国家安全和保护国家免受外部威胁至关重要。",
+      "date": "2026-10-17T17:25:42Z",
+      "url": "https://www.tehrantimes.com/news/531176/Pezeshkian-Iran-s-missile-defense-capabilities-built-on-foundations",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531176/Pezeshkian-Iran-s-missile-defense-capabilities-built-on-foundations"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pezeshkian: Iran’s missile, defense capabilities built on foundations laid by schools, universities"
+      }
+    },
+    {
+      "id": "evt_64e45946",
+      "title": "第二艘超级油轮袭击霍尔木兹海峡的海上水雷：伊斯兰革命卫队海军",
+      "summary": "TEHRAN—伊斯兰革命卫队（ IRGC ）海军宣布，第二艘载有200多万桶原油的超级油轮在袭击霍尔木兹海峡的一枚海上矿井后起火，并在24小时内报告了第二起此类事件。",
+      "date": "2026-10-17T17:22:34Z",
+      "url": "https://www.tehrantimes.com/news/531175/Second-supertanker-strikes-sea-mine-in-Strait-of-Hormuz-IRGC",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531175/Second-supertanker-strikes-sea-mine-in-Strait-of-Hormuz-IRGC"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Second supertanker strikes sea mine in Strait of Hormuz: IRGC Navy"
+      }
+    },
+    {
+      "id": "evt_35127946",
+      "title": "伊朗呼吁联合国安理会追究以色列的责任",
+      "summary": "德黑兰--伊朗呼吁联合国安理会采取果断行动，迫使以色列履行国际法规定的义务，结束其在整个西亚的军事侵略，并对严重违反国际法的行为追究责任。",
+      "date": "2026-10-17T17:16:58Z",
+      "url": "https://www.tehrantimes.com/news/531172/Iran-calls-on-UNSC-to-hold-Israel-accountable",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531172/Iran-calls-on-UNSC-to-hold-Israel-accountable"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran calls on UNSC to hold Israel accountable"
+      }
+    },
+    {
+      "id": "evt_fdd256d8",
+      "title": "在卢比奥发表讲话后，伊朗人在波斯波利斯集会捍卫民族认同",
+      "summary": "德黑兰--周三下午，来自法尔斯省的数百人聚集在联合国教科文组织注册的波斯波利斯综合体，举行了一场名为“文明奉献者”的集会，抗议美国国务卿马可·卢比奥（ Marco Rubio ）最近的反伊朗言论。\n这次聚会于15日在Takht-e Jamshid举行，旨在展示伊朗的古老文明和民族认同，并向世界传达坚韧不拔的信息。",
+      "date": "2026-10-17T17:14:10Z",
+      "url": "https://www.tehrantimes.com/photo/531174/Iranians-rally-at-Persepolis-in-defense-of-national-identity",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/photo/531174/Iranians-rally-at-Persepolis-in-defense-of-national-identity"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranians rally at Persepolis in defense of national identity after Rubio remarks"
       }
     },
     {
@@ -962,34 +990,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls"
-      }
-    },
-    {
-      "id": "evt_570937ca",
-      "title": "以色列人要求在袭击发生三年后的10月7日失败事件中追究责任",
-      "summary": "总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）拒绝对发生的事情承担任何个人责任或下令进行国家调查。",
-      "date": "2026-10-07T16:00:18Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israelis demand accountability over 7 October failures three years after attacks"
       }
     }
   ]
