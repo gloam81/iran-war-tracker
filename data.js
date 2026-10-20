@@ -1,112 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-10-19T02:41:31.809262Z
+// 自动生成的数据 - 更新时间: 2026-10-20T02:53:38.326746Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-19T02:41:31.809210Z",
-    "totalEvents": 31,
+    "lastUpdate": "2026-10-20T02:53:38.326705Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 17,
-      "iranian": 14,
+      "international": 19,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_6033bd1c",
-      "title": "伊朗战争现场：德黑兰称内塔尼亚胡寻求更多战争；也门打击照明弹",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）希望在选举",
-      "date": "2026-10-18T23:59:34Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "id": "evt_6b71691b",
+      "title": "沙特阿拉伯在胡塞武装袭击中取消2026年“沙漠中的达沃斯”",
+      "summary": "利雅得将旗舰投资会议推迟到2027年，命令政府工作人员在家工作。",
+      "date": "2026-10-20T01:05:31Z",
+      "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares"
-      }
-    },
-    {
-      "id": "evt_37af90e3",
-      "title": "来自以色列的航班在受到炸弹威胁后紧急降落在保加利亚",
-      "summary": "保加利亚当局称，奥地利航空公司OS82航班的机组人员在收到炸弹威胁后决定在索非亚降落。",
-      "date": "2026-10-18T23:58:05Z",
-      "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Flight from Israel makes emergency landing in Bulgaria after bomb threat"
-      }
-    },
-    {
-      "id": "evt_94ed5195",
-      "title": "抗议者扰乱了Ben-Gvir的活动，迫使他离开舞台",
-      "summary": "以色列抗议者扰乱了由极右翼国家安全部长伊塔马尔·本-格维尔（ Itamar Ben-Gvir ）主持的特拉维夫大学活动。",
-      "date": "2026-10-18T23:06:16Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Protesters disrupt Ben-Gvir event forcing him off stage"
-      }
-    },
-    {
-      "id": "evt_3308f8df",
-      "title": "随着抗议活动进入第五天，大火吞噬了阿尔巴尼亚最高法院",
-      "summary": "随着反政府抗议活动的继续，地拉那最高法院的办公室被点燃。",
-      "date": "2026-10-18T20:26:03Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Fire engulfs Albania’s Supreme Court as protests enter fifth day"
+        "en": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks"
       }
     },
     {
-      "id": "evt_da6f8b79",
-      "title": "欧洲外交官感受到西岸定居者暴力的刺痛",
-      "summary": "保护以色列免于追究责任，向其提供先进武器，并对其近八十年来针对巴勒斯坦人的非法和残忍行为视而不见，终于又回到了欧洲和美国。其后果已经到了甚至欧洲外交官、记者和其他官员都不再能免受以色列占领者的威胁的地步。",
-      "date": "2026-10-18T17:17:15Z",
-      "url": "https://www.tehrantimes.com/news/531213/European-diplomats-feel-the-sting-of-settler-violence-in-West",
+      "id": "evt_cae5fe15",
+      "title": "Rashida Tlaib要求逮捕与Hind Rajab死亡有关的以色列士兵",
+      "summary": "美国国会议员表示，政府必须逮捕据称在美国期间应对袭击事件负责的以色列指挥官。",
+      "date": "2026-10-20T00:18:20Z",
+      "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531213/European-diplomats-feel-the-sting-of-settler-violence-in-West"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,27 +65,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "European diplomats feel the sting of settler violence in West Bank"
+        "en": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death"
       }
     },
     {
-      "id": "evt_0e68cded",
-      "title": "伊朗以“炸弹之父”回答“所有炸弹之母” ：伊斯兰革命卫队高级指挥官",
-      "summary": "德黑兰--伊斯兰革命卫队(Islamic Revolution Guards Corps)副协调员穆罕默德·礼萨·纳克迪(Mohammad Reza Naqdi)准将警告美国不要对伊朗进行任何军事误判，称德黑兰将以“炸弹之父”回应华盛顿的“炸弹之母”。",
-      "date": "2026-10-18T17:13:22Z",
-      "url": "https://www.tehrantimes.com/news/531219/Iran-to-answer-mother-of-all-bombs-with-father-of-bombs",
+      "id": "evt_0cf35667",
+      "title": "赫格塞特在未经宣布的以色列访问中会见内塔尼亚胡",
+      "summary": "据Axios报道， Hegseth在竞争激烈的选举之前前往以色列与内塔尼亚胡会面。",
+      "date": "2026-10-20T00:08:01Z",
+      "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531219/Iran-to-answer-mother-of-all-bombs-with-father-of-bombs"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -177,20 +93,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran to answer 'mother of all bombs' with 'father of bombs': senior IRGC commander"
+        "en": "Hegseth meets Netanyahu in unannounced Israel visit"
       }
     },
     {
-      "id": "evt_eff353e8",
-      "title": "美国在西亚的主导地位下降",
-      "summary": "德黑兰--有几个因素导致了美国在西亚的霸权地位下降。",
-      "date": "2026-10-18T17:12:55Z",
-      "url": "https://www.tehrantimes.com/news/531218/The-decline-of-US-dominance-in-West-Asia",
+      "id": "evt_41082a4b",
+      "title": "伊朗战争现场：特朗普称美国“在经济和军事上”严重打击伊朗",
+      "summary": "特朗普表示，美国继续“在经济和军事上”打击伊朗，同时赞扬俄罗斯在帮助伊朗方面“无所作为”。",
+      "date": "2026-10-20T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531218/The-decline-of-US-dominance-in-West-Asia"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’"
+      }
+    },
+    {
+      "id": "evt_5ed6a48f",
+      "title": "德黑兰拒绝在杀害德国犹太团体领导人的阴谋中扮演任何角色",
+      "summary": "在两名男子因试图杀害犹太团体领导人而被定罪后，德黑兰传唤了德国特使，拒绝任何角色。",
+      "date": "2026-10-19T23:16:01Z",
+      "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -205,20 +149,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The decline of US dominance in West Asia"
+        "en": "Tehran rejects any role in plot to kill leaders of German Jewish groups"
       }
     },
     {
-      "id": "evt_173b74d8",
-      "title": "法国陷入一系列问题，部分原因是对伊朗的战争",
-      "summary": "德黑兰--法国在经历了多年来最严重的街头骚乱后，于周日进行了扫荡。里摩日的市政厅被夷为平地，约有1800人被捕，截至撰写本文时，政府尚未说明下一步该怎么做。",
-      "date": "2026-10-18T17:08:35Z",
-      "url": "https://www.tehrantimes.com/news/531216/France-in-a-web-of-problems-partly-fueled-by-the-war-on-Iran",
+      "id": "evt_3a90a0eb",
+      "title": "埃及议会推迟就对沙特阿拉伯的军事支持进行投票",
+      "summary": "立法者休会，因为反对党告诉议员们放弃不明确的承诺。",
+      "date": "2026-10-19T21:46:00Z",
+      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Egyptian parliament delays vote on military support for Saudi Arabia"
+      }
+    },
+    {
+      "id": "evt_f6ffdd8d",
+      "title": "Pezeshkian呼吁加强伊朗与俄罗斯的合作，以促进和平与多边主义",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）呼吁加快实施德黑兰与莫斯科之间的协议，将能源、运输、贸易和发电列为扩大双边合作的优先领域。",
+      "date": "2026-10-19T18:29:22Z",
+      "url": "https://www.tehrantimes.com/news/531261/Pezeshkian-calls-for-stronger-Iran-Russia-cooperation-to-advance",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531216/France-in-a-web-of-problems-partly-fueled-by-the-war-on-Iran"
+          "url": "https://www.tehrantimes.com/news/531261/Pezeshkian-calls-for-stronger-Iran-Russia-cooperation-to-advance"
         }
       ],
       "category": "military",
@@ -233,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "France in a web of problems partly fueled by the war on Iran"
+        "en": "Pezeshkian calls for stronger Iran-Russia cooperation to advance peace and multilateralism"
       }
     },
     {
-      "id": "evt_9b5ff8ae",
-      "title": "TPO举办最后一届会议，越南贸易代表团通过农业谅解备忘录结束对德黑兰的访问",
-      "summary": "德黑兰--由Nguyen Dang Dinh先生率领的越南贸易代表团于10月18日星期日在伊朗贸易促进组织（ TPO ）举行了一次高级别会议，结束了对伊朗为期12天的访问。代表团于10月6日抵达德黑兰，旨在扩大越南在中东的商业影响力，并直接与伊朗市场接触， TPO主办了最后一次工作会议。",
-      "date": "2026-10-18T16:57:49Z",
-      "url": "https://www.tehrantimes.com/news/531214/TPO-hosts-final-session-as-Vietnamese-trade-delegation-concludes",
+      "id": "evt_ea28615d",
+      "title": "领导祝贺U23自由式摔跤队获得世界锦标赛冠军",
+      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫塔巴·哈梅内伊（ Ayatollah Seyed Mojtaba Khamenei ）在致辞中祝贺经理、教练、摔跤手和伟大的伊朗国家，特别是该国英勇的年轻一代，在美国举行的世界锦标赛上赢得了伊朗U23自由式摔跤队的冠军。",
+      "date": "2026-10-19T18:16:32Z",
+      "url": "https://www.tehrantimes.com/news/531260/Leader-congratulates-U23-freestyle-wrestling-team-on-world-championship",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531214/TPO-hosts-final-session-as-Vietnamese-trade-delegation-concludes"
+          "url": "https://www.tehrantimes.com/news/531260/Leader-congratulates-U23-freestyle-wrestling-team-on-world-championship"
         }
       ],
       "category": "military",
@@ -261,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "TPO hosts final session as Vietnamese trade delegation concludes Tehran visit with agricultural MOU"
+        "en": "Leader congratulates U23 freestyle wrestling team on world championship"
       }
     },
     {
-      "id": "evt_52ca73b4",
-      "title": "正在巴黎举办的Farshchian作品展",
-      "summary": "德黑兰--已故大师马哈茂德·法什基安（ Mahmoud Farshchian ）精选微型画作图片展览于周五在巴黎伊朗伊斯兰共和国大使馆文化参赞办公室开幕，为期一周。",
-      "date": "2026-10-18T16:46:29Z",
-      "url": "https://www.tehrantimes.com/news/531194/Exhibition-of-Farshchian-s-works-underway-in-Paris",
+      "id": "evt_1aef1ee4",
+      "title": "沙特阿拉伯因对伊朗的误判而陷入困境",
+      "summary": "伊朗报纸认为，沙特阿拉伯误判了伊朗对也门的更广泛战略和抵抗轴心。利雅得认为，对也门的军事行动将削弱伊朗。相反，这场冲突演变成德黑兰的战略优势。通过精心管理和不承担直接控制，伊朗从也门的事态发展中受益。",
+      "date": "2026-10-19T17:35:37Z",
+      "url": "https://www.tehrantimes.com/news/531258/Saudi-Arabia-trapped-by-miscalculations-regarding-Iran",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531194/Exhibition-of-Farshchian-s-works-underway-in-Paris"
+          "url": "https://www.tehrantimes.com/news/531258/Saudi-Arabia-trapped-by-miscalculations-regarding-Iran"
         }
       ],
       "category": "military",
@@ -289,20 +261,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Exhibition of Farshchian’s works underway in Paris"
+        "en": "Saudi Arabia trapped by miscalculations regarding Iran"
       }
     },
     {
-      "id": "evt_d1350603",
-      "title": "在鲁达基音乐厅欣赏鲜为人知的古典音乐作品",
-      "summary": "德黑兰--周六，德黑兰的鲁达基音乐厅（ Roudaki Hall ）举办了“哀悼到黎明” （ Mourning to Dawn ）音乐会，表演古典音乐作品。",
-      "date": "2026-10-18T16:45:53Z",
-      "url": "https://www.tehrantimes.com/news/531195/Lesser-known-classical-music-pieces-performed-at-Roudaki-Hall",
+      "id": "evt_78a27ecc",
+      "title": "Mohajerani ：伊朗的抵抗历史反映了国家捍卫主权的决心",
+      "summary": "德黑兰--伊朗政府发言人法特梅·莫哈杰拉尼（ Fatemeh Mohajerani ）赞扬了伊朗国家抵御外部侵略的决心和能力，称过去的战争表明了该国捍卫其独立、领土完整和国家主权的决心。",
+      "date": "2026-10-19T17:30:19Z",
+      "url": "https://www.tehrantimes.com/news/531257/Mohajerani-Iran-s-history-of-resistance-reflects-nation-s-resolve",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531195/Lesser-known-classical-music-pieces-performed-at-Roudaki-Hall"
+          "url": "https://www.tehrantimes.com/news/531257/Mohajerani-Iran-s-history-of-resistance-reflects-nation-s-resolve"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mohajerani: Iran’s history of resistance reflects nation’s resolve to defend its sovereignty"
+      }
+    },
+    {
+      "id": "evt_402f03ec",
+      "title": "德黑兰剧院将举办《我所有的儿子》的阅读表演",
+      "summary": "TEHRAN--美国作家亚瑟·米勒（ Arthur Miller ） 1946年流行戏剧《我所有的儿子》（ All My Sons ）的阅读表演将于10月31日在德黑兰的Neauphle-le-Chateau剧院上演。",
+      "date": "2026-10-19T17:25:40Z",
+      "url": "https://www.tehrantimes.com/news/531197/Tehran-theater-to-host-reading-performance-of-All-My-Sons",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531197/Tehran-theater-to-host-reading-performance-of-All-My-Sons"
         }
       ],
       "category": "political",
@@ -317,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Lesser-known classical music pieces performed at Roudaki Hall"
+        "en": "Tehran theater to host reading performance of “All My Sons”"
       }
     },
     {
-      "id": "evt_5e143396",
-      "title": "伊朗Kanoon提名两名候选人角逐2027年Astrid Lindgren奖",
-      "summary": "伊朗儿童和青少年智力发展研究所（ IIDCY-Kanoon ）提名作家阿巴斯·贾汉吉里安（ Abbas Jahangirian ）和插画家阿米尔·沙巴尼普尔（ Amir Shabanipour ）获得2027年阿斯特丽德·林德格伦纪念奖（ ALMA ） ，这是世界上最负盛名的儿童文学荣誉之一。",
-      "date": "2026-10-18T16:45:14Z",
-      "url": "https://www.tehrantimes.com/news/531193/Iran-s-Kanoon-nominates-two-candidates-for-2027-Astrid-Lindgren",
+      "id": "evt_cd91f30a",
+      "title": "艾米·格里芬（ Amy Griffin ）的“The Tell”来到伊朗书店",
+      "summary": "TEHRAN--美国作家艾米·格里芬（ Amy Griffin ）的回忆录“The Tell”的波斯语译本已由德黑兰的Milkan Publications出版社出版， Naghmeh Hadadian将该书翻译成波斯语。",
+      "date": "2026-10-19T17:25:14Z",
+      "url": "https://www.tehrantimes.com/news/531198/Amy-Griffin-s-The-Tell-comes-to-Iranian-bookstores",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531193/Iran-s-Kanoon-nominates-two-candidates-for-2027-Astrid-Lindgren"
+          "url": "https://www.tehrantimes.com/news/531198/Amy-Griffin-s-The-Tell-comes-to-Iranian-bookstores"
         }
       ],
       "category": "military",
@@ -345,20 +345,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s Kanoon nominates two candidates for 2027 Astrid Lindgren Award"
+        "en": "Amy Griffin’s “The Tell” comes to Iranian bookstores"
       }
     },
     {
-      "id": "evt_609a2305",
-      "title": "Handala入侵以色列军方媒体情报中心，泄露数千份文件",
-      "summary": "德黑兰--汉达拉周日表示，它闯入了以色列军方的媒体情报监测和分析部门，并在网上发布了500多份机密文件和数万条内部消息。",
-      "date": "2026-10-18T16:44:39Z",
-      "url": "https://www.tehrantimes.com/news/531204/Handala-breaches-Israeli-military-s-media-intelligence-hub-leaks",
+      "id": "evt_7c75f291",
+      "title": "巴勒斯坦摄影师的作品将在德黑兰展出",
+      "summary": "德黑兰--以巴勒斯坦摄影师马哈茂德·阿布·哈姆达（ Mahmoud Abu Hamda ）作品为主题的摄影展“看不见的东西！”将于周三在德黑兰的巴勒斯坦当代艺术博物馆（ Palestine Museum of Contemporary Art ）开幕。",
+      "date": "2026-10-19T17:24:51Z",
+      "url": "https://www.tehrantimes.com/news/531242/Palestinian-photographer-s-works-to-be-displayed-in-Tehran",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531204/Handala-breaches-Israeli-military-s-media-intelligence-hub-leaks"
+          "url": "https://www.tehrantimes.com/news/531242/Palestinian-photographer-s-works-to-be-displayed-in-Tehran"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Palestinian photographer’s works to be displayed in Tehran"
+      }
+    },
+    {
+      "id": "evt_f7322314",
+      "title": "中国大使：北京致力于与德黑兰建立稳定、长期的关系",
+      "summary": "TEHRAN–中国驻伊朗大使丛培武重申了北京方面对保持对德黑兰的一贯和稳定政策的承诺，强调两国决心深化双边合作，并将两国关系置于可持续的基础上。",
+      "date": "2026-10-19T17:20:24Z",
+      "url": "https://www.tehrantimes.com/news/531256/Chinese-ambassador-Beijing-committed-to-stable-long-term-ties",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531256/Chinese-ambassador-Beijing-committed-to-stable-long-term-ties"
         }
       ],
       "category": "military",
@@ -373,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Handala breaches Israeli military’s media intelligence hub, leaks thousands of files"
+        "en": "Chinese ambassador: Beijing committed to stable, long-term ties with Tehran"
       }
     },
     {
-      "id": "evt_c9b8da86",
-      "title": "德黑兰抨击马克龙“站不住脚的双重标准”",
-      "summary": "德黑兰--伊朗外交部发言人埃斯梅尔·巴凯伊（ Esmaeil Baqaei ）指责法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）对伊朗和法国的抗议活动采取双重标准，指出马克龙对伊朗动乱的反应与他对法国公共机构袭击的立场之间存在“鲜明对比”。",
-      "date": "2026-10-18T16:44:15Z",
-      "url": "https://www.tehrantimes.com/news/531212/Tehran-slams-Macron-over-Indefensible-Double-Standards",
+      "id": "evt_74d16da7",
+      "title": "伊朗、俄罗斯和中国在上海合作组织会议上强调合作",
+      "summary": "德黑兰--在塔吉克斯坦杜尚别举行的上海合作组织（ SCO ）会议期间，伊朗、俄罗斯和中国在与伊朗第一副总统穆罕默德-雷扎·阿雷夫（ Mohammad-Reza Aref ）的会晤中强调了加强经济联系和区域合作。",
+      "date": "2026-10-19T16:56:43Z",
+      "url": "https://www.tehrantimes.com/news/531255/Iran-Russia-and-China-stress-cooperation-at-SCO-meeting",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531212/Tehran-slams-Macron-over-Indefensible-Double-Standards"
+          "url": "https://www.tehrantimes.com/news/531255/Iran-Russia-and-China-stress-cooperation-at-SCO-meeting"
         }
       ],
       "category": "military",
@@ -401,48 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Tehran slams Macron over ‘Indefensible Double Standards’"
+        "en": "Iran, Russia and China stress cooperation at SCO meeting"
       }
     },
     {
-      "id": "evt_a67a1219",
-      "title": "没有国王的抗议活动在美国中期选举之前将焦点转向提前投票",
-      "summary": "TEHRAN - 10月17日星期六，美国各地的最新一轮“无国王”抗议活动侧重于一个新目标：在11月3日的中期选举之前，将对唐纳德·特朗普总统政策的反对转变为选举参与。",
-      "date": "2026-10-18T16:39:40Z",
-      "url": "https://www.tehrantimes.com/news/531211/No-Kings-protests-shift-focus-to-early-voting-ahead-of-US-midterms",
+      "id": "evt_0149642f",
+      "title": "Araghchi警告内塔尼亚胡反对另一场战争，称伊朗有“未竟事业”",
+      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）警告以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）不要对伊朗发动另一场战争，称该国从先前的对抗中变得更加强大，并与以色列有“未竟事业”。",
+      "date": "2026-10-19T16:36:55Z",
+      "url": "https://www.tehrantimes.com/news/531254/Araghchi-warns-Netanyahu-against-another-war-says-Iran-has-Unfinished",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531211/No-Kings-protests-shift-focus-to-early-voting-ahead-of-US-midterms"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "No Kings protests shift focus to early voting ahead of US midterms"
-      }
-    },
-    {
-      "id": "evt_8e2c6f25",
-      "title": "Basij负责人表示，伊朗对任何新袭击的反应都将是不可预测的",
-      "summary": "德黑兰--伊朗巴斯基组织负责人表示，使美国的计算复杂化的因素之一是伊朗回应的不可预测性，因为华盛顿不知道在未来的任何对抗中，德黑兰会在何处、以何种方式或何时进行报复。",
-      "date": "2026-10-18T16:35:18Z",
-      "url": "https://www.tehrantimes.com/news/531210/Iran-s-response-to-any-new-attack-will-be-unpredictable-Basij",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531210/Iran-s-response-to-any-new-attack-will-be-unpredictable-Basij"
+          "url": "https://www.tehrantimes.com/news/531254/Araghchi-warns-Netanyahu-against-another-war-says-Iran-has-Unfinished"
         }
       ],
       "category": "military",
@@ -457,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran's response to any new attack will be unpredictable, Basij chief says"
+        "en": "Araghchi warns Netanyahu against another war, says Iran has ‘Unfinished Business’"
       }
     },
     {
-      "id": "evt_7ca07e1b",
-      "title": "阿拉格奇的巴格达外交：霍尔木兹、地区安全和穆斯林团结是伊朗的首要议程",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）在巴格达举行了一系列外交会议，敦促结束西亚的军事升级，概述伊朗恢复霍尔木兹海峡安全的条件，并呼吁伊斯兰合作组织（ OIC ）在解决穆斯林国家之间的争端方面发挥更积极的作用。",
-      "date": "2026-10-18T16:31:37Z",
-      "url": "https://www.tehrantimes.com/news/531209/Araghchi-s-Baghdad-diplomacy-Hormuz-regional-security-and-Muslim",
+      "id": "evt_ca933c8b",
+      "title": "伊朗警告美国和以色列，我们正在倒计时你们愚蠢决定的时刻",
+      "summary": "德黑兰--伊朗武装部队参谋长阿里·阿卜杜拉希（ Ali Abdollahi ）少将警告美国和以色列不要再做任何军事误判，称伊朗准备对未来的侵略行为做出更具破坏性的回应。",
+      "date": "2026-10-19T16:34:34Z",
+      "url": "https://www.tehrantimes.com/news/531253/We-are-counting-down-the-moments-to-your-foolish-decisions-Iran",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531209/Araghchi-s-Baghdad-diplomacy-Hormuz-regional-security-and-Muslim"
+          "url": "https://www.tehrantimes.com/news/531253/We-are-counting-down-the-moments-to-your-foolish-decisions-Iran"
         }
       ],
       "category": "military",
@@ -485,20 +485,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Araghchi’s Baghdad diplomacy: Hormuz, regional security and Muslim unity top Iran’s agenda"
+        "en": "We are counting down the moments to your foolish decisions, Iran warns US and Israel"
       }
     },
     {
-      "id": "evt_de4610e8",
-      "title": "拉夫罗夫周一对德黑兰的重要访问，带有调解的味道",
-      "summary": "Arman-e-Emrooz分析了俄罗斯外交部长谢尔盖·拉夫罗夫（ Sergey Lavrov ）周一即将访问德黑兰的情况。有报道称，此行是俄罗斯正在伊朗和美国之间进行的调解努力的一部分。最近几个月，莫斯科一直试图将自己定位为缓解德黑兰与华盛顿之间紧张局势的调解人。",
-      "date": "2026-10-18T16:10:06Z",
-      "url": "https://www.tehrantimes.com/news/531208/Lavrov-s-pivotal-Monday-visit-to-Tehran-with-a-mediation-flavor",
+      "id": "evt_1743d6f7",
+      "title": "黎巴嫩总统称以色列违反框架协议",
+      "summary": "据aa.com.tr称，黎巴嫩总统约瑟夫·奥恩（ Joseph Aoun ）周一表示，以色列未能遵守6月份签署的由美国调解的框架协议，并继续在黎巴嫩南部进行日常违规行为。",
+      "date": "2026-10-19T16:27:47Z",
+      "url": "https://www.tehrantimes.com/news/531252/Lebanese-president-says-Israel-violating-framework-agreement",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531208/Lavrov-s-pivotal-Monday-visit-to-Tehran-with-a-mediation-flavor"
+          "url": "https://www.tehrantimes.com/news/531252/Lebanese-president-says-Israel-violating-framework-agreement"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lebanese president says Israel violating framework agreement"
+      }
+    },
+    {
+      "id": "evt_687d2c96",
+      "title": "特朗普在以色列大选前支持战争罪犯内塔尼亚胡",
+      "summary": "德黑兰--唐纳德·特朗普总统周日支持他的本雅明·内塔尼亚胡（ Benjamin Netanyahu ） ，他被国际刑事法院（ ICC ）通缉为战争罪犯，因为总理正在为下周的议会选举争夺优势。",
+      "date": "2026-10-19T16:23:09Z",
+      "url": "https://www.tehrantimes.com/news/531251/Trump-endorses-war-criminal-Netanyahu-ahead-of-Israeli-election",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531251/Trump-endorses-war-criminal-Netanyahu-ahead-of-Israeli-election"
         }
       ],
       "category": "military",
@@ -513,7 +541,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Lavrov’s pivotal Monday visit to Tehran with a mediation flavor"
+        "en": "Trump endorses war criminal Netanyahu ahead of Israeli election"
+      }
+    },
+    {
+      "id": "evt_72f73211",
+      "title": "以色列警方逮捕10名在约旦河西岸袭击记者和外交官的定居者",
+      "summary": "此前，蒙面定居者在橄榄收获季节袭击了访问约旦河西岸的巴勒斯坦人和欧洲官员。",
+      "date": "2026-10-19T10:34:18Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank"
+      }
+    },
+    {
+      "id": "evt_9d750cf8",
+      "title": "孟加拉国表示，沙特阿拉伯没有告知其公民被处决",
+      "summary": "沙特阿拉伯表示，上周处决了两名在清真寺犯下“猥亵行为”的孟加拉国人。",
+      "date": "2026-10-19T08:17:19Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "humanitarian",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia"
+      }
+    },
+    {
+      "id": "evt_75b3193f",
+      "title": "炸弹威胁迫使以色列飞往奥地利紧急降落",
+      "summary": "官员说，空客飞机安全降落在保加利亚，机上所有乘客和机组人员都没有受伤。",
+      "date": "2026-10-19T06:29:55Z",
+      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Bomb threat forces Israel to Austria flight into emergency landing"
+      }
+    },
+    {
+      "id": "evt_a0ed54dd",
+      "title": "资金短缺迫使世界粮食计划署削减对加沙的援助",
+      "summary": "联合国机构在巴勒斯坦领土上帮助的人数将减少约三分之一，从160万减少到110万。",
+      "date": "2026-10-19T06:00:18Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Funding shortages force World Food Programme to cut aid to Gaza"
       }
     },
     {
@@ -738,118 +878,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says"
-      }
-    },
-    {
-      "id": "evt_5f84a153",
-      "title": "沙特员工被控在OpenAI办公室种植录音设备",
-      "summary": "检察官说，该设备用卫生纸包裹，被发现插入行政会议室电视背面的USB端口。",
-      "date": "2026-10-13T21:42:49Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi employee charged with planting recording device in OpenAI office"
-      }
-    },
-    {
-      "id": "evt_392c0eb0",
-      "title": "死亡威胁和孤立--在伊拉克打击性暴力的代价",
-      "summary": "女性表示，尽管存在社会压力和安全担忧，但她们还是分享了虐待的故事来强调这一问题。",
-      "date": "2026-10-13T05:02:57Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.3152,
-        "lng": 44.3661,
-        "name": "伊拉克"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Death threats and isolation - the cost of fighting sexual violence in Iraq"
-      }
-    },
-    {
-      "id": "evt_7cf2206f",
-      "title": "沙特外长誓言对胡塞武装袭击机场作出“严肃回应”",
-      "summary": "此前，武装团体袭击了利雅得的国际机场和另一处设施，造成13人死亡，事态严重升级。",
-      "date": "2026-10-13T04:30:09Z",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Saudi minister vows 'serious response' to Houthi attacks on airports"
-      }
-    },
-    {
-      "id": "evt_e01fec7c",
-      "title": "在也门的沙漠战场上，正在发动一场具有全球影响的战争",
-      "summary": "也门根深蒂固的内战现在不可忽视。但在其港口城市亚丁的手术室里，地缘政治感觉很遥远。",
-      "date": "2026-10-12T16:28:10Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "On Yemen's desert battlefield, a war with global consequences is being waged"
       }
     },
     {
