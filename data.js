@@ -1,28 +1,336 @@
-// 自动生成的数据 - 更新时间: 2026-10-21T02:47:46.077664Z
+// 自动生成的数据 - 更新时间: 2026-10-22T02:46:07.240237Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-21T02:47:46.077622Z",
+    "lastUpdate": "2026-10-22T02:46:07.240184Z",
     "totalEvents": 30,
     "sources": {
-      "international": 16,
-      "iranian": 14,
+      "international": 18,
+      "iranian": 12,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_d8d888c4",
-      "title": "查尔斯国王欢迎阿曼苏丹，在英国国事访问中赞扬和平努力",
-      "summary": "国王查理三世向马斯喀特帮助重新开放霍尔木兹海峡的“崇高努力”致敬。",
-      "date": "2026-10-21T00:08:25Z",
-      "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
+      "id": "evt_8e4c838e",
+      "title": "卡塔尔、法国呼吁开放霍尔木兹和加沙停火实施",
+      "summary": "卡塔尔和法国领导人强调需要恢复霍尔木兹海峡的航行自由。",
+      "date": "2026-10-22T01:45:48Z",
+      "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation"
+      }
+    },
+    {
+      "id": "evt_88ad8ac6",
+      "title": "沙特阿拉伯国王法赫德机场遇袭一人死亡，八人受伤",
+      "summary": "受伤人员立即被送往医院，因为航空当局表示即将更新。",
+      "date": "2026-10-22T00:25:41Z",
+      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport"
+      }
+    },
+    {
+      "id": "evt_b87c332f",
+      "title": "伊朗战争现场：伊斯兰革命卫队誓言入侵，因为国防学说变成了“进攻”",
+      "summary": "伊朗伊斯兰革命卫队威胁要入侵任何以新的“进攻性和不对称”原则攻击它的国家。",
+      "date": "2026-10-22T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’"
+      }
+    },
+    {
+      "id": "evt_a4d315ea",
+      "title": "美国以胡塞威胁为由下令人员撤离沙特阿拉伯",
+      "summary": "美国国务院表示，与伊朗结盟的胡塞武装“越来越多地参与针对沙特阿拉伯的敌对行动”。",
+      "date": "2026-10-21T23:13:35Z",
+      "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US orders departure of personnel from Saudi Arabia, citing Houthi threat"
+      }
+    },
+    {
+      "id": "evt_ac9cc6c5",
+      "title": "精美的手写古兰经在TMOCA揭幕",
+      "summary": "德黑兰--世界著名的伊朗书法家穆罕默德·埃赫赛（ Mohammad Ehsai ）手写的《古兰经》揭幕仪式于周三举行，德黑兰当代艺术博物馆（ TMOCA ）的文化和伊斯兰指导部长赛义德·阿巴斯·萨利希（ Seyyed Abbas Salehi ）和埃赫赛大师出席了揭幕仪式。",
+      "date": "2026-10-21T17:19:29Z",
+      "url": "https://www.tehrantimes.com/news/531343/Exquisite-handwritten-Quran-unveiled-at-the-TMOCA",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531343/Exquisite-handwritten-Quran-unveiled-at-the-TMOCA"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Exquisite handwritten Quran unveiled at the TMOCA"
+      }
+    },
+    {
+      "id": "evt_c3ea0c41",
+      "title": "巴西改编的《樱桃之味》将于2027年上映",
+      "summary": "德黑兰--阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ） 1997年金棕榈奖得主《樱桃的味道》（ Taste of Cherry ）的改编作品正在巴西进行后期制作。",
+      "date": "2026-10-21T17:19:05Z",
+      "url": "https://www.tehrantimes.com/news/531342/Brazilian-adaptation-of-Taste-of-Cherry-to-be-released-in-2027",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531342/Brazilian-adaptation-of-Taste-of-Cherry-to-be-released-in-2027"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Brazilian adaptation of ‘Taste of Cherry’ to be released in 2027"
+      }
+    },
+    {
+      "id": "evt_2e5b924f",
+      "title": "巴基斯坦文化遗产在德黑兰展览中占据中心位置",
+      "summary": "TEHRAN--一个探索巴基斯坦历史和文化发展的展览，从古代文明到持久的文学传统，于周二在德黑兰开幕，外交官、文化官员和研究人员齐聚一堂，强调伊朗和巴基斯坦之间的长期关系。",
+      "date": "2026-10-21T17:18:30Z",
+      "url": "https://www.tehrantimes.com/news/531341/Pakistan-s-cultural-heritage-takes-center-stage-at-Tehran-exhibition",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531341/Pakistan-s-cultural-heritage-takes-center-stage-at-Tehran-exhibition"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistan’s cultural heritage takes center stage at Tehran exhibition"
+      }
+    },
+    {
+      "id": "evt_1df3570b",
+      "title": "议会议长卡利巴夫会见伊斯兰革命领袖",
+      "summary": "德黑兰--伊朗议会议长穆罕默德·巴盖尔·卡利巴夫（ Mohammad Baqer Qalibaf ）会见了伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·侯赛尼·哈梅内伊（ Ayatollah Seyyed Mojtaba Hosseini Khamenei ） ，讨论了美以对手对伊朗发动的军事、经济和认知战争的最新发展。",
+      "date": "2026-10-21T17:17:49Z",
+      "url": "https://www.tehrantimes.com/news/531356/Parliament-Speaker-Qalibaf-meets-Leader-of-the-Islamic-Revolution",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531356/Parliament-Speaker-Qalibaf-meets-Leader-of-the-Islamic-Revolution"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Parliament Speaker Qalibaf meets Leader of the Islamic Revolution"
+      }
+    },
+    {
+      "id": "evt_38ec95aa",
+      "title": "皇帝没有衣服：特朗普的权力游行和赤裸裸的美国帝国",
+      "summary": "德黑兰--1837年，丹麦作家汉斯·克里斯蒂安·安徒生（ Hans Christian Andersen ）出版了《皇帝的新衣》（ The Emperor's New Clothes ） ，这是一个虚荣的统治者的故事，他被骗相信自己穿着傻瓜和不适合担任公职的人看不见的华丽服装。他的大臣们称赞了不存在的东西，公众也随之而来，直到一个孩子终于喊道： “但他什么也没穿！”",
+      "date": "2026-10-21T17:17:35Z",
+      "url": "https://www.tehrantimes.com/news/531349/The-emperor-has-no-clothes-Trump-s-parade-of-power-and-the-naked",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531349/The-emperor-has-no-clothes-Trump-s-parade-of-power-and-the-naked"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The emperor has no clothes: Trump’s parade of power and the naked American empire"
+      }
+    },
+    {
+      "id": "evt_705aed8b",
+      "title": "希腊与阿联酋和以色列的联盟未能通过利比亚-土耳其东部测试",
+      "summary": "该地区的多名官员告诉中东之眼，在利比亚东部议会批准与土耳其达成有争议的海事协议之前的几天，希腊正试图召集其盟友--埃及、以色列和阿联酋--来阻止这笔交易。",
+      "date": "2026-10-21T17:16:35Z",
+      "url": "https://www.tehrantimes.com/news/531346/Greece-s-alliances-with-UAE-and-Israel-fail-eastern-Libya-Turkey",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531346/Greece-s-alliances-with-UAE-and-Israel-fail-eastern-Libya-Turkey"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Greece’s alliances with UAE and Israel fail eastern Libya–Turkey test"
+      }
+    },
+    {
+      "id": "evt_d52fca9f",
+      "title": "为什么今年10月欧洲会起火？",
+      "summary": "德黑兰--最初是青少年封锁他们的学校。内政部长洛朗·努涅斯（ Laurent Nuñez ）表示，三周后（ 10月17日） ，约有55万人在法国城镇游行。工会说80万。",
+      "date": "2026-10-21T17:15:18Z",
+      "url": "https://www.tehrantimes.com/news/531347/Why-is-Europe-on-fire-this-October",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531347/Why-is-Europe-on-fire-this-October"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Why is Europe on fire this October?"
+      }
+    },
+    {
+      "id": "evt_2999d68a",
+      "title": "土耳其、卡塔尔、巴基斯坦和印度尼西亚签署防务协议",
+      "summary": "土耳其、卡塔尔、巴基斯坦和印度尼西亚周三签署了“巴德尔谅解备忘录” ，以加强多哈的防务合作。",
+      "date": "2026-10-21T17:13:54Z",
+      "url": "https://www.tehrantimes.com/news/531362/Turkey-Qatar-Pakistan-and-Indonesia-sign-defense-pact",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531362/Turkey-Qatar-Pakistan-and-Indonesia-sign-defense-pact"
         }
       ],
       "category": "diplomatic",
@@ -37,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit"
+        "en": "Turkey, Qatar, Pakistan, and Indonesia sign defense pact"
       }
     },
     {
-      "id": "evt_a92022f0",
-      "title": "伊朗战争现场：美国警告与德黑兰的和平协议极其困难",
-      "summary": "卢比奥告诉美国媒体，在霍尔木兹袭击仍在继续的情况下，与德黑兰达成和平协议极其困难。",
-      "date": "2026-10-21T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+      "id": "evt_cc20caf8",
+      "title": "防御无极限",
+      "summary": "德黑兰--敌人对伊朗的态度再次急剧升级，美国和以色列的高级官员公开谈论完成这项工作，一些分析人士警告说，新一轮战争即将到来，而伊朗政治和军事官员表示，该国已完全准备好做出严厉和不受限制的回应。",
+      "date": "2026-10-21T17:10:54Z",
+      "url": "https://www.tehrantimes.com/news/531361/Defense-Without-Limits",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531361/Defense-Without-Limits"
         }
       ],
       "category": "military",
@@ -65,48 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US warns peace deal with Tehran is extremely difficult"
+        "en": "Defense Without Limits"
       }
     },
     {
-      "id": "evt_d03c5c9f",
-      "title": "探索英国作曲家马尔科姆·阿诺德的音乐遗产",
-      "summary": "TEHRAN -英国作曲家马尔科姆·阿诺德爵士（ Sir Malcolm Arnold ）以其九部交响曲和奥斯卡获奖作品《桂河上的桥》（ The Bridge on the River Kwai ）而闻名的电影音乐专家会议将于周四在德黑兰的阿拉斯巴兰文化中心（ Arasbaran Cultural Center ）举行。",
-      "date": "2026-10-20T18:41:20Z",
-      "url": "https://www.tehrantimes.com/news/531287/Tehran-session-to-explore-British-composer-Malcolm-Arnold-s-musical",
+      "id": "evt_6873085f",
+      "title": "Baqaei ：美国试图将自己侵略造成的不安全归咎于伊朗",
+      "summary": "德黑兰--伊朗外交部发言人Esmaeil Baqaei谴责华盛顿呼吁国际社会谴责伊朗在波斯湾和霍尔木兹海峡的不安全状况，称美国不能通过将受害者描绘成侵略者来逃避对自己行为的责任。",
+      "date": "2026-10-21T16:55:18Z",
+      "url": "https://www.tehrantimes.com/news/531360/Baqaei-US-seeks-to-blame-Iran-for-insecurity-caused-by-its-own",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531287/Tehran-session-to-explore-British-composer-Malcolm-Arnold-s-musical"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran session to explore British composer Malcolm Arnold’s musical legacy"
-      }
-    },
-    {
-      "id": "evt_bea184fb",
-      "title": "《加沙女孩》短片向法国、美国电影节传递反战信息",
-      "summary": "TEHRAN-由Hossein Babaeian编剧和导演的伊朗短片“加沙女孩”在法国第13届Hendaia电影节上放映，并将于11月参加美国正宗的全球电影节，继续其国际电影节的运行。",
-      "date": "2026-10-20T18:41:08Z",
-      "url": "https://www.tehrantimes.com/news/531291/Gaza-Girl-short-film-takes-anti-war-message-to-festivals-in",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531291/Gaza-Girl-short-film-takes-anti-war-message-to-festivals-in"
+          "url": "https://www.tehrantimes.com/news/531360/Baqaei-US-seeks-to-blame-Iran-for-insecurity-caused-by-its-own"
         }
       ],
       "category": "military",
@@ -121,160 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "“Gaza Girl” short film takes anti-war message to festivals in France, US"
+        "en": "Baqaei: US seeks to blame Iran for insecurity caused by its own aggression"
       }
     },
     {
-      "id": "evt_8061cb80",
-      "title": "TMoCA网站展示1000件艺术品",
-      "summary": "德黑兰--德黑兰当代艺术博物馆（ TMoCA ）馆长宣布，现在可以在线查看博物馆的藏品。",
-      "date": "2026-10-20T18:40:46Z",
-      "url": "https://www.tehrantimes.com/news/531320/TMoCA-website-displays-1-000-artworks",
+      "id": "evt_4a40e98c",
+      "title": "伊朗谴责美国对古巴采取的措施是“犯罪和非法的”",
+      "summary": "德黑兰--伊朗外交部谴责美国对古巴的制裁和压力，称华盛顿对这个加勒比国家采取的措施违反了国际法和《联合国宪章》所载原则。",
+      "date": "2026-10-21T16:37:55Z",
+      "url": "https://www.tehrantimes.com/news/531359/Iran-condemns-US-measures-against-Cuba-as-criminal-and-illegal",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531320/TMoCA-website-displays-1-000-artworks"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "TMoCA website displays 1,000 artworks"
-      }
-    },
-    {
-      "id": "evt_6170fed9",
-      "title": "Mehr Media Group代表团访问Armenpress ，讨论扩大媒体合作",
-      "summary": "德黑兰– Mehr媒体集团的一个代表团与亚美尼亚的亚美尼亚新闻社管理层就扩大媒体合作和联合制作的发展进行了会谈。",
-      "date": "2026-10-20T18:40:21Z",
-      "url": "https://www.tehrantimes.com/news/531319/Mehr-Media-Group-delegation-visits-Armenpress-discusses-expanding",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531319/Mehr-Media-Group-delegation-visits-Armenpress-discusses-expanding"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mehr Media Group delegation visits Armenpress, discusses expanding media cooperation"
-      }
-    },
-    {
-      "id": "evt_3a291aa2",
-      "title": "宵禁未能阻止法国各地日益增长的民众愤怒",
-      "summary": "德黑兰--据黄背心运动的法律代表称，巴黎、里昂、里尔和尼斯的夜间宵禁将无助于阻止法国各地不断扩大的反政府起义。",
-      "date": "2026-10-20T18:39:51Z",
-      "url": "https://www.tehrantimes.com/news/531311/Curfews-fail-to-halt-growing-popular-rage-across-France",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531311/Curfews-fail-to-halt-growing-popular-rage-across-France"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Curfews fail to halt growing popular rage across France"
-      }
-    },
-    {
-      "id": "evt_761c0284",
-      "title": "英国大学压制学生和学术界的亲巴勒斯坦团结：国际特赦组织",
-      "summary": "国际特赦组织（ Amnesty International ）的一份新报告称，几所英国大学系统地限制了学生和学者之间的亲巴勒斯坦团结，以及任何被视为“批评”以色列的言论。",
-      "date": "2026-10-20T18:39:42Z",
-      "url": "https://www.tehrantimes.com/news/531318/UK-universities-silencing-pro-Palestinian-solidarity-among-students",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531318/UK-universities-silencing-pro-Palestinian-solidarity-among-students"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UK universities silencing pro-Palestinian solidarity among students and academics: Amnesty"
-      }
-    },
-    {
-      "id": "evt_041b8e86",
-      "title": "NAZA ：当技术使杀戮成为一种计算时",
-      "summary": "印度果阿--有些电影讲述了战争的恐怖，有些电影让观众感受到那些忍受战争的人的痛苦，还有一些电影把我们带到了更令人不安的地方：让这种恐怖成为可能的机器。以色列电影制作人尤瓦尔·亚伯拉罕（ Yuval Abraham ）和雷切尔·索尔（ Rachel Szor ）的纪录片《NAZA》属于第三类。它要求我们超越从加沙变得悲惨熟悉的破坏形象，面对系统、机构文化和技术",
-      "date": "2026-10-20T18:39:31Z",
-      "url": "https://www.tehrantimes.com/news/531316/NAZA-When-technology-makes-killing-a-calculation",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531316/NAZA-When-technology-makes-killing-a-calculation"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "NAZA: When technology makes killing a calculation"
-      }
-    },
-    {
-      "id": "evt_c86c0037",
-      "title": "加沙人心之战",
-      "summary": "德黑兰--在阿克萨洪水行动三年多后，巴勒斯坦事业出现了内外转变。",
-      "date": "2026-10-20T18:39:05Z",
-      "url": "https://www.tehrantimes.com/news/531314/Gaza-s-battle-for-hearts-and-minds",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531314/Gaza-s-battle-for-hearts-and-minds"
+          "url": "https://www.tehrantimes.com/news/531359/Iran-condemns-US-measures-against-Cuba-as-criminal-and-illegal"
         }
       ],
       "category": "military",
@@ -289,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Gaza’s battle for hearts and minds"
+        "en": "Iran condemns US measures against Cuba as ‘criminal and illegal’"
       }
     },
     {
-      "id": "evt_ab72caa4",
-      "title": "随着伊朗战争的强烈反对，特朗普的支持率跌至创纪录的31 ％",
-      "summary": "德黑兰--美国选民在11月3日中期选举前夕坚决反对唐纳德·特朗普总统，在10月20日（周二）发布的全国性路透社/益普索（ Reuters/Ipsos ）调查中，将他的支持率降至31%。这个数字标志着他两届总统任期内的最低点。",
-      "date": "2026-10-20T18:32:42Z",
-      "url": "https://www.tehrantimes.com/news/531312/Trump-approval-crashes-to-record-low-31-as-Iran-war-backlash",
+      "id": "evt_fefa58ea",
+      "title": "Pezeshkian ：伊朗不会屈服于美国的压力，但不会寻求战争",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）强调，伊朗不寻求战争，但将坚决抵制美国的压力，绝不会屈服于华盛顿的威胁、胁迫或欺凌。",
+      "date": "2026-10-21T16:35:18Z",
+      "url": "https://www.tehrantimes.com/news/531358/Pezeshkian-Iran-will-not-bow-to-US-pressure-but-does-not-seek",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531312/Trump-approval-crashes-to-record-low-31-as-Iran-war-backlash"
+          "url": "https://www.tehrantimes.com/news/531358/Pezeshkian-Iran-will-not-bow-to-US-pressure-but-does-not-seek"
         }
       ],
       "category": "military",
@@ -317,147 +457,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump approval crashes to record low 31% as Iran war backlash mounts"
-      }
-    },
-    {
-      "id": "evt_c2a421f0",
-      "title": "炸弹之母还是导弹之父？",
-      "summary": "在一份说明中，埃特马德审查了美国关于使用“所有炸弹之母”的言论，以及伊朗的回应，即它可以雇用“所有导弹之父”。该报称，伊朗的声明并不一定意味着此类炸弹无效，德黑兰也没有公开披露任何潜在反应的性质或范围。政治宣言、威慑警告和军事行动计划是三个截然不同的问题。",
-      "date": "2026-10-20T18:28:22Z",
-      "url": "https://www.tehrantimes.com/news/531324/Mother-of-all-bombs-or-father-of-all-missiles",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531324/Mother-of-all-bombs-or-father-of-all-missiles"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mother of all bombs or father of all missiles?"
-      }
-    },
-    {
-      "id": "evt_b4f2aaff",
-      "title": "达尔说，巴基斯坦将继续在伊朗和美国之间进行调解",
-      "summary": "巴基斯坦副总理兼外交部长穆罕默德·伊斯哈克·达尔（ Mohammad Ishaq Dar ）周二表示，巴基斯坦将继续通过外交努力促进伊朗和美国之间的接触，重申伊斯兰堡支持对话与和平解决地区争端。",
-      "date": "2026-10-20T18:21:49Z",
-      "url": "https://www.tehrantimes.com/news/531322/Pakistan-to-continue-mediation-between-Iran-and-US-Dar-says",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531322/Pakistan-to-continue-mediation-between-Iran-and-US-Dar-says"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pakistan to continue mediation between Iran and US, Dar says"
-      }
-    },
-    {
-      "id": "evt_e472ca70",
-      "title": "穆尼尔兄弟！球在美国法院",
-      "summary": "德黑兰--巴基斯坦陆军元帅阿西姆·穆尼尔（ Asim Munir ）周二抵达德黑兰，与伊朗官员进行磋商。这是自2月28日美以战争开始以来，穆尼尔将军第五次访问德黑兰。",
-      "date": "2026-10-20T18:14:28Z",
-      "url": "https://www.tehrantimes.com/news/531321/Brother-Munir-The-Ball-Is-in-the-US-Court",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531321/Brother-Munir-The-Ball-Is-in-the-US-Court"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Brother Munir! The Ball Is in the US Court"
-      }
-    },
-    {
-      "id": "evt_867adfe6",
-      "title": "伊朗敦促国际法律机构采取行动，打击Dena驱逐舰",
-      "summary": "德黑兰--伊朗陆军副协调员Habibollah Sayyari海军少将呼吁国际法律机构履行其对袭击伊朗驱逐舰Dena的责任，强调该船已部署到印度，以传达和平与友谊的信息并执行培训任务。",
-      "date": "2026-10-20T16:25:30Z",
-      "url": "https://www.tehrantimes.com/news/531317/Iran-urges-Int-l-legal-bodies-to-act-over-attack-on-Dena-destroyer",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531317/Iran-urges-Int-l-legal-bodies-to-act-over-attack-on-Dena-destroyer"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran urges Int'l legal bodies to act over attack on Dena destroyer"
-      }
-    },
-    {
-      "id": "evt_4441b23d",
-      "title": "伊朗表示将对任何侵略作出相称的回应",
-      "summary": "德黑兰--伊朗外交部发言人Esmaeil Baqaei警告说，任何对伊朗的再次侵略都将得到与袭击相称的回应，并强调德黑兰准备在任何情况下保卫国家。",
-      "date": "2026-10-20T16:22:48Z",
-      "url": "https://www.tehrantimes.com/news/531315/Iran-says-will-respond-proportionately-to-any-aggression",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531315/Iran-says-will-respond-proportionately-to-any-aggression"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran says will respond proportionately to any aggression"
+        "en": "Pezeshkian: Iran will not bow to US pressure, but does not seek war"
       }
     },
     {
