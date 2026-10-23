@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-22T02:46:07.240237Z
+// 自动生成的数据 - 更新时间: 2026-10-23T02:49:41.509478Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-22T02:46:07.240184Z",
-    "totalEvents": 30,
+    "lastUpdate": "2026-10-23T02:49:41.509423Z",
+    "totalEvents": 28,
     "sources": {
-      "international": 18,
+      "international": 16,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,23 +13,23 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_8e4c838e",
-      "title": "卡塔尔、法国呼吁开放霍尔木兹和加沙停火实施",
-      "summary": "卡塔尔和法国领导人强调需要恢复霍尔木兹海峡的航行自由。",
-      "date": "2026-10-22T01:45:48Z",
-      "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+      "id": "evt_8b312009",
+      "title": "伊尔汗·奥马尔（ Ilhan Omar ）计划在联邦突袭后搬出她在华盛顿特区的家",
+      "summary": "作为对涉嫌移民欺诈的调查的一部分，美国联邦特工上周突击搜查了女议员的家。",
+      "date": "2026-10-23T02:09:38Z",
+      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "humanitarian",
       "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
       },
       "languages": [
         "zh",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation"
+        "en": "Ilhan Omar plans to move out of her Washington DC home after federal raid"
       }
     },
     {
-      "id": "evt_88ad8ac6",
-      "title": "沙特阿拉伯国王法赫德机场遇袭一人死亡，八人受伤",
-      "summary": "受伤人员立即被送往医院，因为航空当局表示即将更新。",
-      "date": "2026-10-22T00:25:41Z",
-      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "id": "evt_d3b236e2",
+      "title": "伊朗战争现场：特朗普暗示新的罢工，称美国击败了伊朗的“地狱”",
+      "summary": "特朗普表示将对伊朗发动新的打击，称美国已经将该国“地狱般的”淘汰出局。",
+      "date": "2026-10-23T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +65,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport"
+        "en": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran"
       }
     },
     {
-      "id": "evt_b87c332f",
-      "title": "伊朗战争现场：伊斯兰革命卫队誓言入侵，因为国防学说变成了“进攻”",
-      "summary": "伊朗伊斯兰革命卫队威胁要入侵任何以新的“进攻性和不对称”原则攻击它的国家。",
-      "date": "2026-10-22T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+      "id": "evt_3ce41479",
+      "title": "新生双胞胎为生存而战，冲突加剧了也门的饥饿危机",
+      "summary": "由于亲政府部队和胡塞武装之间的战斗， Raghad和Raad的家人不得不徒步逃离家园。",
+      "date": "2026-10-22T15:56:36Z",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis"
+      }
+    },
+    {
+      "id": "evt_f91ea3de",
+      "title": "伊朗的Eslami赢得1500米铜牌： 2026名古屋",
+      "summary": "德黑兰--伊朗选手哈米德·埃斯拉米(Hamid Eslami)周四夺得2026年亚洲残疾人运动会男子1500米T11项目的铜牌。",
+      "date": "2026-10-22T14:37:55Z",
+      "url": "https://www.tehrantimes.com/news/531378/Iran-s-Eslami-wins-bronze-in-1500m-2026-Nagoya",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531378/Iran-s-Eslami-wins-bronze-in-1500m-2026-Nagoya"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s Eslami wins bronze in 1500m: 2026 Nagoya"
+      }
+    },
+    {
+      "id": "evt_1929eae1",
+      "title": "当局称，两人在沙特阿拉伯东部机场的胡塞袭击中丧生",
+      "summary": "这是胡塞武装针对沙特机场和其他地点发动的一系列袭击中的最新一起。",
+      "date": "2026-10-22T13:46:33Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -93,188 +149,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’"
+        "en": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say"
       }
     },
     {
-      "id": "evt_a4d315ea",
-      "title": "美国以胡塞威胁为由下令人员撤离沙特阿拉伯",
-      "summary": "美国国务院表示，与伊朗结盟的胡塞武装“越来越多地参与针对沙特阿拉伯的敌对行动”。",
-      "date": "2026-10-21T23:13:35Z",
-      "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+      "id": "evt_46323964",
+      "title": "Rozbahani在名古屋2026用举重银创造历史",
+      "summary": "德黑兰--伊朗选手尼古·罗兹巴哈尼(Nikoo Rozbahani)在名古屋亚洲残疾人运动会(Nagoya Asian Para Games)的记录簿中写下了自己的名字，在女子86公斤以上的残疾人举重决赛中拿下了银牌。",
+      "date": "2026-10-22T10:25:01Z",
+      "url": "https://www.tehrantimes.com/news/531377/Rozbahani-makes-history-with-powerlifting-silver-at-Nagoya-2026",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531377/Rozbahani-makes-history-with-powerlifting-silver-at-Nagoya-2026"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Rozbahani makes history with powerlifting silver at Nagoya 2026"
+      }
+    },
+    {
+      "id": "evt_374ea9dd",
+      "title": "伊朗残疾人游泳运动员在2026年名古屋奥运会上赢得金牌和银牌",
+      "summary": "德黑兰-伊朗的Sina Zeighaminejad和Shahin Izadyar在名古屋亚洲残疾人运动会的男子SB9 100米蛙泳决赛中获得金牌和银牌。",
+      "date": "2026-10-22T09:40:26Z",
+      "url": "https://www.tehrantimes.com/news/531376/Iran-para-swimmers-win-gold-silver-at-Nagoya-2026s",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531376/Iran-para-swimmers-win-gold-silver-at-Nagoya-2026s"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran para swimmers win gold, silver at Nagoya 2026"
+      }
+    },
+    {
+      "id": "evt_0bff6f0d",
+      "title": "以色列的选举是如何运作的？谁是主要的竞争者？",
+      "summary": "许多人认为这是以色列历史上最关键的选举之一，具有全球影响。",
+      "date": "2026-10-22T09:27:10Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US orders departure of personnel from Saudi Arabia, citing Houthi threat"
-      }
-    },
-    {
-      "id": "evt_ac9cc6c5",
-      "title": "精美的手写古兰经在TMOCA揭幕",
-      "summary": "德黑兰--世界著名的伊朗书法家穆罕默德·埃赫赛（ Mohammad Ehsai ）手写的《古兰经》揭幕仪式于周三举行，德黑兰当代艺术博物馆（ TMOCA ）的文化和伊斯兰指导部长赛义德·阿巴斯·萨利希（ Seyyed Abbas Salehi ）和埃赫赛大师出席了揭幕仪式。",
-      "date": "2026-10-21T17:19:29Z",
-      "url": "https://www.tehrantimes.com/news/531343/Exquisite-handwritten-Quran-unveiled-at-the-TMOCA",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531343/Exquisite-handwritten-Quran-unveiled-at-the-TMOCA"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Exquisite handwritten Quran unveiled at the TMOCA"
-      }
-    },
-    {
-      "id": "evt_c3ea0c41",
-      "title": "巴西改编的《樱桃之味》将于2027年上映",
-      "summary": "德黑兰--阿巴斯·基亚罗斯塔米（ Abbas Kiarostami ） 1997年金棕榈奖得主《樱桃的味道》（ Taste of Cherry ）的改编作品正在巴西进行后期制作。",
-      "date": "2026-10-21T17:19:05Z",
-      "url": "https://www.tehrantimes.com/news/531342/Brazilian-adaptation-of-Taste-of-Cherry-to-be-released-in-2027",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531342/Brazilian-adaptation-of-Taste-of-Cherry-to-be-released-in-2027"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Brazilian adaptation of ‘Taste of Cherry’ to be released in 2027"
-      }
-    },
-    {
-      "id": "evt_2e5b924f",
-      "title": "巴基斯坦文化遗产在德黑兰展览中占据中心位置",
-      "summary": "TEHRAN--一个探索巴基斯坦历史和文化发展的展览，从古代文明到持久的文学传统，于周二在德黑兰开幕，外交官、文化官员和研究人员齐聚一堂，强调伊朗和巴基斯坦之间的长期关系。",
-      "date": "2026-10-21T17:18:30Z",
-      "url": "https://www.tehrantimes.com/news/531341/Pakistan-s-cultural-heritage-takes-center-stage-at-Tehran-exhibition",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531341/Pakistan-s-cultural-heritage-takes-center-stage-at-Tehran-exhibition"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pakistan’s cultural heritage takes center stage at Tehran exhibition"
-      }
-    },
-    {
-      "id": "evt_1df3570b",
-      "title": "议会议长卡利巴夫会见伊斯兰革命领袖",
-      "summary": "德黑兰--伊朗议会议长穆罕默德·巴盖尔·卡利巴夫（ Mohammad Baqer Qalibaf ）会见了伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·侯赛尼·哈梅内伊（ Ayatollah Seyyed Mojtaba Hosseini Khamenei ） ，讨论了美以对手对伊朗发动的军事、经济和认知战争的最新发展。",
-      "date": "2026-10-21T17:17:49Z",
-      "url": "https://www.tehrantimes.com/news/531356/Parliament-Speaker-Qalibaf-meets-Leader-of-the-Islamic-Revolution",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531356/Parliament-Speaker-Qalibaf-meets-Leader-of-the-Islamic-Revolution"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Parliament Speaker Qalibaf meets Leader of the Islamic Revolution"
-      }
-    },
-    {
-      "id": "evt_38ec95aa",
-      "title": "皇帝没有衣服：特朗普的权力游行和赤裸裸的美国帝国",
-      "summary": "德黑兰--1837年，丹麦作家汉斯·克里斯蒂安·安徒生（ Hans Christian Andersen ）出版了《皇帝的新衣》（ The Emperor's New Clothes ） ，这是一个虚荣的统治者的故事，他被骗相信自己穿着傻瓜和不适合担任公职的人看不见的华丽服装。他的大臣们称赞了不存在的东西，公众也随之而来，直到一个孩子终于喊道： “但他什么也没穿！”",
-      "date": "2026-10-21T17:17:35Z",
-      "url": "https://www.tehrantimes.com/news/531349/The-emperor-has-no-clothes-Trump-s-parade-of-power-and-the-naked",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531349/The-emperor-has-no-clothes-Trump-s-parade-of-power-and-the-naked"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The emperor has no clothes: Trump’s parade of power and the naked American empire"
-      }
-    },
-    {
-      "id": "evt_705aed8b",
-      "title": "希腊与阿联酋和以色列的联盟未能通过利比亚-土耳其东部测试",
-      "summary": "该地区的多名官员告诉中东之眼，在利比亚东部议会批准与土耳其达成有争议的海事协议之前的几天，希腊正试图召集其盟友--埃及、以色列和阿联酋--来阻止这笔交易。",
-      "date": "2026-10-21T17:16:35Z",
-      "url": "https://www.tehrantimes.com/news/531346/Greece-s-alliances-with-UAE-and-Israel-fail-eastern-Libya-Turkey",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531346/Greece-s-alliances-with-UAE-and-Israel-fail-eastern-Libya-Turkey"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -289,23 +233,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Greece’s alliances with UAE and Israel fail eastern Libya–Turkey test"
+        "en": "How do Israel's elections work and who are the main contenders?"
       }
     },
     {
-      "id": "evt_d52fca9f",
-      "title": "为什么今年10月欧洲会起火？",
-      "summary": "德黑兰--最初是青少年封锁他们的学校。内政部长洛朗·努涅斯（ Laurent Nuñez ）表示，三周后（ 10月17日） ，约有55万人在法国城镇游行。工会说80万。",
-      "date": "2026-10-21T17:15:18Z",
-      "url": "https://www.tehrantimes.com/news/531347/Why-is-Europe-on-fire-this-October",
+      "id": "evt_fc6a35f5",
+      "title": "伊朗副举重机Aminzadeh在名古屋收集黄金",
+      "summary": "德黑兰--伊朗的艾哈迈德·阿明扎德(Ahmad Aminzadeh)周四在2026年亚洲残疾人运动会举重比赛中赢得了男子107公斤以上金牌。",
+      "date": "2026-10-22T08:48:56Z",
+      "url": "https://www.tehrantimes.com/news/531375/Iran-s-para-powerlifter-Aminzadeh-collects-gold-in-Nagoya",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531347/Why-is-Europe-on-fire-this-October"
+          "url": "https://www.tehrantimes.com/news/531375/Iran-s-para-powerlifter-Aminzadeh-collects-gold-in-Nagoya"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 35.6892,
         "lng": 51.389,
@@ -317,23 +261,275 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Why is Europe on fire this October?"
+        "en": "Iran’s para powerlifter Aminzadeh collects gold in Nagoya"
       }
     },
     {
-      "id": "evt_2999d68a",
-      "title": "土耳其、卡塔尔、巴基斯坦和印度尼西亚签署防务协议",
-      "summary": "土耳其、卡塔尔、巴基斯坦和印度尼西亚周三签署了“巴德尔谅解备忘录” ，以加强多哈的防务合作。",
-      "date": "2026-10-21T17:13:54Z",
-      "url": "https://www.tehrantimes.com/news/531362/Turkey-Qatar-Pakistan-and-Indonesia-sign-defense-pact",
+      "id": "evt_03ef50af",
+      "title": "Safarzadeh在亚洲残疾人运动会上夺得女子400米金牌",
+      "summary": "德黑兰—伊朗短跑运动员Hajar Safarzadeh周四在2026年爱知-名古屋亚洲残疾人运动会上赢得了女子400米T12金牌，创造了新的运动会纪录。",
+      "date": "2026-10-22T08:42:38Z",
+      "url": "https://www.tehrantimes.com/news/531374/Safarzadeh-takes-gold-in-women-s-400m-at-Asian-Para-Games",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531362/Turkey-Qatar-Pakistan-and-Indonesia-sign-defense-pact"
+          "url": "https://www.tehrantimes.com/news/531374/Safarzadeh-takes-gold-in-women-s-400m-at-Asian-Para-Games"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Safarzadeh takes gold in women’s 400m at Asian Para Games"
+      }
+    },
+    {
+      "id": "evt_8604b550",
+      "title": "Para游泳运动员Izadyar在400米自由泳中获得铜牌： 2026年名古屋",
+      "summary": "德黑兰—伊朗游泳运动员Shahin Izadyar在2026年爱知-名古屋亚洲残疾人运动会男子400米自由泳S10决赛中获得铜牌。",
+      "date": "2026-10-22T08:22:46Z",
+      "url": "https://www.tehrantimes.com/news/531373/Para-swimmer-Izadyar-takes-bronze-in-400m-freestyle-2026-Nagoya",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531373/Para-swimmer-Izadyar-takes-bronze-in-400m-freestyle-2026-Nagoya"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Para swimmer Izadyar takes bronze in 400m freestyle: 2026 Nagoya"
+      }
+    },
+    {
+      "id": "evt_8bf33c52",
+      "title": "Golmohammadi被任命为伊朗U23足球队主教练",
+      "summary": "德黑兰-叶海亚·戈尔莫哈马迪（ Yahya Golmohammadi ）在终止与伊拉克俱乐部杜霍克（ Duhok ）的合同后，正式被任命为伊朗U23国家足球队的主教练。",
+      "date": "2026-10-22T08:09:24Z",
+      "url": "https://www.tehrantimes.com/news/531372/Golmohammadi-appointed-Iran-s-U23-football-team-head-coach",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531372/Golmohammadi-appointed-Iran-s-U23-football-team-head-coach"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Golmohammadi appointed Iran’s U23 football team head coach"
+      }
+    },
+    {
+      "id": "evt_b43abaa6",
+      "title": "伊朗女排进入2026年亚洲残疾人运动会决赛",
+      "summary": "德黑兰--周四，伊朗女排在半决赛中以3比0 （ 25–14、25–16、25–20 ）击败东道主日本，晋级名古屋2026年亚洲残疾人运动会决赛。",
+      "date": "2026-10-22T07:41:50Z",
+      "url": "https://www.tehrantimes.com/news/531371/Iran-s-women-s-sitting-volleyball-into-2026-Asian-Para-Games",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531371/Iran-s-women-s-sitting-volleyball-into-2026-Asian-Para-Games"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s women’s sitting volleyball into 2026 Asian Para Games final"
+      }
+    },
+    {
+      "id": "evt_49c67f6b",
+      "title": "Shahi在2026年名古屋50米手枪中射出铜牌",
+      "summary": "德黑兰-周四，伊朗选手纳斯林·沙希（ Nasrin Shahi ）在名古屋残疾人亚运会（ Nagoya Para Asian Games ）的P4混合50米手枪SH1决赛中登上领奖台。",
+      "date": "2026-10-22T07:33:39Z",
+      "url": "https://www.tehrantimes.com/news/531370/Shahi-shoots-bronze-in-50m-Pistol-at-Nagoya-2026",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531370/Shahi-shoots-bronze-in-50m-Pistol-at-Nagoya-2026"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shahi shoots bronze in 50m Pistol at Nagoya 2026"
+      }
+    },
+    {
+      "id": "evt_b9e609f8",
+      "title": "伊朗男子坐式排球达到2026年亚洲残疾人运动会决赛",
+      "summary": "德黑兰--伊朗男子国家坐式排球队以主导地位击败中国后，在第五届亚洲残疾人运动会决赛中获得了一席之地。",
+      "date": "2026-10-22T07:08:34Z",
+      "url": "https://www.tehrantimes.com/news/531369/Iran-s-men-s-sitting-volleyball-reach-2026-Asian-Para-Games-final",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531369/Iran-s-men-s-sitting-volleyball-reach-2026-Asian-Para-Games-final"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s men’s sitting volleyball reach 2026 Asian Para Games final"
+      }
+    },
+    {
+      "id": "evt_b95817d4",
+      "title": "Afrooz在2026年亚洲残疾人运动会上打破世界纪录",
+      "summary": "德黑兰-伊朗运动员在2026年亚洲残疾人运动会上取得了一系列令人印象深刻的表现，赛义德·阿弗鲁奥兹（ Saeid Afrooz ）在男子标枪方面创造了世界纪录，并在田径比赛中登上了几个领奖台。",
+      "date": "2026-10-22T06:55:29Z",
+      "url": "https://www.tehrantimes.com/news/531368/Afrooz-breaks-world-record-at-2026-Asian-Para-Games",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531368/Afrooz-breaks-world-record-at-2026-Asian-Para-Games"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Afrooz breaks world record at 2026 Asian Para Games"
+      }
+    },
+    {
+      "id": "evt_b3217666",
+      "title": "阿拉伯政党如何在以色列选举中保持关键的权力平衡",
+      "summary": "不满情绪常常压低了阿拉伯裔以色列人的投票率，但强烈推动摆脱右翼执政联盟。",
+      "date": "2026-10-22T05:30:22Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How Arab parties could hold critical balance of power in Israeli election"
+      }
+    },
+    {
+      "id": "evt_a4446aef",
+      "title": "巴基斯坦驻德黑兰大使馆、ECO文化研究所举办展览，展示巴基斯坦悠久的历史",
+      "summary": "TEHRAN -德黑兰展览将为参观者提供穿越巴基斯坦文明弧线的旅程，从古老的根源到持久的文学传统，同时突出伊朗和巴基斯坦之间的文化桥梁。这场名为“穿越时代的巴基斯坦”的展览于10月20日开幕，吸引了外交官、文化官员和研究人员。",
+      "date": "2026-10-22T03:04:45Z",
+      "url": "https://www.tehrantimes.com/news/531367/Pakistani-Embassy-in-Tehran-ECO-Cultural-Institute-host-exhibit",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531367/Pakistani-Embassy-in-Tehran-ECO-Cultural-Institute-host-exhibit"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Pakistani Embassy in Tehran, ECO Cultural Institute host exhibit showcasing Pakistan’s rich history"
+      }
+    },
+    {
+      "id": "evt_cbcc7d7a",
+      "title": "随着胡塞武装袭击升级，美国命令一些外交官离开沙特阿拉伯",
+      "summary": "对美国官员发出警告之际，最近在机场和油田发生的袭击中至少有三人死亡。",
+      "date": "2026-10-22T01:07:34Z",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -345,119 +541,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Turkey, Qatar, Pakistan, and Indonesia sign defense pact"
-      }
-    },
-    {
-      "id": "evt_cc20caf8",
-      "title": "防御无极限",
-      "summary": "德黑兰--敌人对伊朗的态度再次急剧升级，美国和以色列的高级官员公开谈论完成这项工作，一些分析人士警告说，新一轮战争即将到来，而伊朗政治和军事官员表示，该国已完全准备好做出严厉和不受限制的回应。",
-      "date": "2026-10-21T17:10:54Z",
-      "url": "https://www.tehrantimes.com/news/531361/Defense-Without-Limits",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531361/Defense-Without-Limits"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Defense Without Limits"
-      }
-    },
-    {
-      "id": "evt_6873085f",
-      "title": "Baqaei ：美国试图将自己侵略造成的不安全归咎于伊朗",
-      "summary": "德黑兰--伊朗外交部发言人Esmaeil Baqaei谴责华盛顿呼吁国际社会谴责伊朗在波斯湾和霍尔木兹海峡的不安全状况，称美国不能通过将受害者描绘成侵略者来逃避对自己行为的责任。",
-      "date": "2026-10-21T16:55:18Z",
-      "url": "https://www.tehrantimes.com/news/531360/Baqaei-US-seeks-to-blame-Iran-for-insecurity-caused-by-its-own",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531360/Baqaei-US-seeks-to-blame-Iran-for-insecurity-caused-by-its-own"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Baqaei: US seeks to blame Iran for insecurity caused by its own aggression"
-      }
-    },
-    {
-      "id": "evt_4a40e98c",
-      "title": "伊朗谴责美国对古巴采取的措施是“犯罪和非法的”",
-      "summary": "德黑兰--伊朗外交部谴责美国对古巴的制裁和压力，称华盛顿对这个加勒比国家采取的措施违反了国际法和《联合国宪章》所载原则。",
-      "date": "2026-10-21T16:37:55Z",
-      "url": "https://www.tehrantimes.com/news/531359/Iran-condemns-US-measures-against-Cuba-as-criminal-and-illegal",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531359/Iran-condemns-US-measures-against-Cuba-as-criminal-and-illegal"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran condemns US measures against Cuba as ‘criminal and illegal’"
-      }
-    },
-    {
-      "id": "evt_fefa58ea",
-      "title": "Pezeshkian ：伊朗不会屈服于美国的压力，但不会寻求战争",
-      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）强调，伊朗不寻求战争，但将坚决抵制美国的压力，绝不会屈服于华盛顿的威胁、胁迫或欺凌。",
-      "date": "2026-10-21T16:35:18Z",
-      "url": "https://www.tehrantimes.com/news/531358/Pezeshkian-Iran-will-not-bow-to-US-pressure-but-does-not-seek",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531358/Pezeshkian-Iran-will-not-bow-to-US-pressure-but-does-not-seek"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian: Iran will not bow to US pressure, but does not seek war"
+        "en": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate"
       }
     },
     {
@@ -685,90 +769,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_ce9337c6",
-      "title": "巴勒斯坦人和美国记者在约旦河西岸收获袭击中被以色列定居者打伤",
-      "summary": "英国广播公司（ BBC ）看到，在类似事件激增的情况下，蒙面定居者袭击了试图收获橄榄的巴勒斯坦人。",
-      "date": "2026-10-16T14:31:04Z",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack"
-      }
-    },
-    {
-      "id": "evt_72a13b7e",
-      "title": "中国要求以色列停止“强行建立”约旦河西岸定居点",
-      "summary": "中国外交部长王毅在一次会议间隙与以色列总统埃萨克·赫尔佐格进行了会谈。",
-      "date": "2026-10-16T08:45:54Z",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "China tells Israel to stop 'forced establishment' of West Bank settlements"
-      }
-    },
-    {
-      "id": "evt_d0710d6b",
-      "title": "胡塞武装对也门总统府的导弹袭击造成5人死亡，部长说",
-      "summary": "也门新闻部长说，当弹道导弹袭击al-Maashiq宫时，总理和其他部长没有受伤。",
-      "date": "2026-10-15T23:38:46Z",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 15.5527,
-        "lng": 47.5198,
-        "name": "也门"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Houthi missile attack on Yemeni presidential palace kills five, minister says"
-      }
-    },
-    {
       "id": "evt_44707f0c",
       "title": "BBC Verify发现，以色列国防军对数百起杀人事件的调查仍然没有公开结果",
       "summary": "BBC Verify在过去三年中发现了254起事件，以色列军方表示，在被指控造成伤害后正在进行审查。",
@@ -794,62 +794,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds"
-      }
-    },
-    {
-      "id": "evt_a98d9325",
-      "title": "全球慈善机构拒绝报告其在叙利亚“失踪”儿童中的作用",
-      "summary": "国际SOS儿童村承认，叙利亚安全部门将140多名儿童带到其设施。",
-      "date": "2026-10-14T23:20:57Z",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Global charity withholds report into its role in Syria's 'disappeared' children"
-      }
-    },
-    {
-      "id": "evt_31bf551e",
-      "title": "“每天都有杀戮” ：尽管和平协议停滞不前，但加沙人面临以色列的罢工",
-      "summary": "许多巴勒斯坦人仍然生活在拥挤的帐篷城市，美国结束战争的计划基本上停滞不前。",
-      "date": "2026-10-08T05:06:09Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls"
       }
     }
   ]
