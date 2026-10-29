@@ -1,28 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-10-28T03:25:06.799134Z
+// 自动生成的数据 - 更新时间: 2026-10-29T03:47:49.660256Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-28T03:25:06.799064Z",
-    "totalEvents": 39,
+    "lastUpdate": "2026-10-29T03:47:49.660208Z",
+    "totalEvents": 32,
     "sources": {
-      "international": 25,
-      "iranian": 14,
+      "international": 19,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_58fd76f8",
-      "title": "以色列议会选举的五个关键要点",
-      "summary": "内塔尼亚胡的利库德集团成为以色列最大的单一政党，超过反对派。",
-      "date": "2026-10-28T02:53:35Z",
-      "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+      "id": "evt_707fcfad",
+      "title": "活动人士指责以色列定居者在被占领的约旦河西岸发动袭击",
+      "summary": "镜头显示，一些持有武器的男子在乌姆海尔殴打一名美国记者和一名以色列-俄罗斯活动家。",
+      "date": "2026-10-29T03:12:47Z",
+      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,160 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Five key takeaways from Israel’s parliamentary elections"
+        "en": "Activists accuse Israeli settlers of assault in occupied West Bank"
       }
     },
     {
-      "id": "evt_d3d5a9f0",
-      "title": "以色列出口民意调查显示，在关键的大选中没有明确的赢家",
-      "summary": "两项民意调查显示，资深总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和前军事首领加迪·艾森科特（ Gadi Eisenkot ）并列，两人都没有赢得多数席",
-      "date": "2026-10-28T02:09:11Z",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_30dc8d7e",
+      "title": "以色列定居者在被占领的约旦河西岸野蛮袭击记者",
+      "summary": "社交媒体上流传的视频显示，以色列定居者在约旦河西岸袭击了三名外国记者",
+      "date": "2026-10-29T02:43:29Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli settlers savagely attack journalists in occupied West Bank"
+      }
+    },
+    {
+      "id": "evt_a0f4eb21",
+      "title": "选举胜利后，以色列人支持犹太-阿拉伯政府",
+      "summary": "在代表以色列阿拉伯公民的政党在选举中获胜后，以色列人团结起来支持犹太-阿拉伯政府。",
+      "date": "2026-10-29T00:34:24Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israelis rally for Jewish-Arab government after election gains"
+      }
+    },
+    {
+      "id": "evt_931e4aea",
+      "title": "在以色列选举中没有明确的赢家，统计了近90 ％的选票",
+      "summary": "内塔尼亚胡的右翼集团领先，但没有达到组建政府所需的选票。",
+      "date": "2026-10-29T00:01:07Z",
+      "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "No clear winner in Israel election with nearly 90 percent of votes counted"
+      }
+    },
+    {
+      "id": "evt_0093aa6e",
+      "title": "伊朗战争现场：德黑兰推动为期7天的霍尔木兹计划；特朗普否认和平谈判",
+      "summary": "Araghchi表示，伊朗正与调解人就实施其为期七天的重开霍尔木兹海峡计划的想法保持密切联系。",
+      "date": "2026-10-29T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks"
+      }
+    },
+    {
+      "id": "evt_06e76d06",
+      "title": "罗马尼亚延长对极右翼政治家Calin Georgescu的审前拘留",
+      "summary": "布加勒斯特法院已将Calin Georgescu的审前拘留延长30天，并对下级法院的裁决提出上诉。",
+      "date": "2026-10-28T23:43:06Z",
+      "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Romania extends pre-trial detention of far-right politician Calin Georgescu"
+      }
+    },
+    {
+      "id": "evt_d97c63ac",
+      "title": "内塔尼亚胡的集团领导以色列选举，但缺少多数，部分结果显示",
+      "summary": "内塔尼亚胡的利库德党及其盟友获得了85%的选票，将在120个席位的议会中赢得53个席位。",
+      "date": "2026-10-28T20:24:39Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -65,27 +205,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli exit polls suggest no clear winner in pivotal general election"
+        "en": "Netanyahu's bloc leading Israel election but short of majority, partial results show"
       }
     },
     {
-      "id": "evt_d020f7f8",
-      "title": "出口民意调查显示，阿拉伯政党可以在以色列选举中赢得创纪录的18个席位",
-      "summary": "早期迹象显示，以色列巴勒斯坦公民的选民投票率达到创纪录的80 ％左右。",
-      "date": "2026-10-28T00:43:56Z",
-      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "id": "evt_d954a089",
+      "title": "以色列公司将Starlink流量转化为105个国家的间谍工具",
+      "summary": "德黑兰--数字防御监管机构最近的披露揭露了一家在特拉维夫注册的广告公司Discover-Tech ，该公司正在开展激进的在线广告活动，旨在对SpaceX的Starlink卫星互联网网络在100多个国家的用户进行地理定位和跟踪。",
+      "date": "2026-10-28T19:31:40Z",
+      "url": "https://www.tehrantimes.com/news/531624/Israeli-firm-turned-Starlink-traffic-into-espionage-tool-across",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531624/Israeli-firm-turned-Starlink-traffic-into-espionage-tool-across"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -93,244 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Arab parties could win record 18 seats in Israel election, exit polls show"
+        "en": "Israeli firm turned Starlink traffic into espionage tool across 105 countries"
       }
     },
     {
-      "id": "evt_1aa66fdd",
-      "title": "内塔尼亚胡、艾森科特阵营就以色列选举预测发生冲突",
-      "summary": "尽管出口民意调查数据缩小，但反对派领导人坚持认为这一结果是政府的失败。",
-      "date": "2026-10-28T00:43:02Z",
-      "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "id": "evt_a1c9ba9e",
+      "title": "美国在与伊朗对抗时所面临的三种选择中的每一种都会带来战略损失",
+      "summary": "伦敦--美国在西亚地区的可用选择受到大量战略成本的制约，这意味着似乎没有一个是没有损失的。这些选择可以总结为三种主要情况：维持既不战争也不和平的状态，未经协议退出，或根据协议退出。",
+      "date": "2026-10-28T19:23:09Z",
+      "url": "https://www.tehrantimes.com/news/531623/Each-of-the-three-options-facing-US-in-confrontation-with-Iran",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Netanyahu, Eisenkot camps clash over Israel election projections"
-      }
-    },
-    {
-      "id": "evt_c311ca2d",
-      "title": "以色列的艾森科特说，国家投票赞成变革",
-      "summary": "以色列反对派领导人加迪·艾森科特说，数百万以色列人投票赞成变革，厌倦了内塔尼亚胡的“谎言”。",
-      "date": "2026-10-28T00:30:22Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel’s Eisenkot says country voted for change"
-      }
-    },
-    {
-      "id": "evt_3429d943",
-      "title": "随着新学院的推出，加沙的女性电影制作人将痛苦转化为电影",
-      "summary": "加沙电影节通过战争、损失和生存的故事来突出女性的韧性。",
-      "date": "2026-10-27T23:35:51Z",
-      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.5,
-        "lng": 34.47,
-        "name": "加沙"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Gaza’s women filmmakers turn pain into cinema as new academy launches"
-      }
-    },
-    {
-      "id": "evt_735094d2",
-      "title": "本-格维尔在向支持者发表讲话时度过了糟糕的一天",
-      "summary": "伊塔马尔·本·格维尔（ Itamar Ben Gvir ）在民意调查显示他的Otzma Yehudit党在以色列选举中失去了席位后表现出挑衅。",
-      "date": "2026-10-27T23:16:38Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "A bad day for Ben-Gvir as he addresses his supporters"
-      }
-    },
-    {
-      "id": "evt_c4d5dc53",
-      "title": "以色列选举结果：没有明确的赢家预测，下一步是什么？",
-      "summary": "一旦选举结果出来，总统艾萨克·赫尔佐格（ Isaac Herzog ）将指派他认为最适合的候选人组建政府。",
-      "date": "2026-10-27T23:06:47Z",
-      "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel election results: No clear winner projected, what’s next?"
-      }
-    },
-    {
-      "id": "evt_f5b5e964",
-      "title": "尽管极右翼势力衰落，但以色列的Smotrich舞蹈",
-      "summary": "以色列财政部长斯莫特里奇庆祝，尽管出口民意调查显示他的极右翼政党的支持率下降。",
-      "date": "2026-10-27T23:03:44Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Smotrich dances in Israel despite far-right decline"
-      }
-    },
-    {
-      "id": "evt_07037340",
-      "title": "以色列的阿拉伯城镇用烟花庆祝以色列议会的历史性胜利",
-      "summary": "在以色列媒体出口民意调查显示以色列议会共有18个席位后， Lod ， Kafr Manda和Tayibe爆发了庆祝活动",
-      "date": "2026-10-27T22:56:32Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Arab towns in Israel celebrate historic Knesset gains with fireworks"
-      }
-    },
-    {
-      "id": "evt_f0820fbb",
-      "title": "“回家吧，本-格维尔” ；阿拉伯集团庆祝以色列选举中创纪录的投票率",
-      "summary": "以色列的阿拉伯联合名单党举行了庆祝活动，因为出口民意调查预计阿拉伯集团将获得多达18个议会席位。",
-      "date": "2026-10-27T22:31:31Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election"
-      }
-    },
-    {
-      "id": "evt_596fdfe2",
-      "title": "伊朗战争现场： Pezeshkian说中东可以在没有美国的情况下解决自己的问题",
-      "summary": "伊朗总统的讲话是在俄罗斯天然气出口国峰会上发表的。",
-      "date": "2026-10-27T22:29:31Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531623/Each-of-the-three-options-facing-US-in-confrontation-with-Iran"
         }
       ],
       "category": "military",
@@ -345,20 +261,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Pezeshkian says Middle East can solve own issues without US"
+        "en": "Each of the three options facing US in confrontation with Iran carries strategic losses"
       }
     },
     {
-      "id": "evt_c9c5e068",
-      "title": "莫斯科代理石油部长：三边能源合作社，通过阿塞拜疆进行伊朗-俄罗斯天然气交换",
-      "summary": "TEHRAN -石油部看守Hamid Bovard周一在第28届天然气出口国论坛部长级会议上宣布了伊朗伊斯兰共和国的立场，同时举行了双边和多边磋商，旨在加强伊朗与其他能源储备持有国的合作。",
-      "date": "2026-10-27T22:19:00Z",
-      "url": "https://www.tehrantimes.com/news/531587/Acting-oil-minister-in-Moscow-trilateral-energy-co-op-Iran-Russia",
+      "id": "evt_8514c6ed",
+      "title": "卢拉的胜利再次表明拉丁美洲不是美国的后院",
+      "summary": "德黑兰--历史有一种让那些认为政治对手可以被监禁、流放或抹去的人感到尴尬的特殊方式。纳尔逊·曼德拉在27年后出狱，成为南非第一位黑人总统。胡安·庇隆（ Juan Perón ）在流亡近二十年后返回阿根廷，重新担任总统。",
+      "date": "2026-10-28T19:17:21Z",
+      "url": "https://www.tehrantimes.com/news/531622/Lula-s-victory-once-again-showed-Latin-America-is-not-US-backyard",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531587/Acting-oil-minister-in-Moscow-trilateral-energy-co-op-Iran-Russia"
+          "url": "https://www.tehrantimes.com/news/531622/Lula-s-victory-once-again-showed-Latin-America-is-not-US-backyard"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Lula’s victory once again showed Latin America is not US backyard"
+      }
+    },
+    {
+      "id": "evt_0faa5b7f",
+      "title": "伊朗驻科威特大使馆否认将伊朗国民与暗杀阴谋联系起来的指控",
+      "summary": "TEHRAN -伊朗驻科威特大使馆断然驳斥了有关伊朗国民参与暗杀公众人物或破坏科威特国家安全阴谋的指控，称该人过去十年没有在该国。",
+      "date": "2026-10-28T19:11:31Z",
+      "url": "https://www.tehrantimes.com/news/531621/Iran-s-embassy-in-Kuwait-rejects-allegations-linking-Iranian",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531621/Iran-s-embassy-in-Kuwait-rejects-allegations-linking-Iranian"
         }
       ],
       "category": "military",
@@ -373,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Acting oil minister in Moscow: trilateral energy co-op, Iran–Russia gas swap via Azerbaijan"
+        "en": "Iran’s embassy in Kuwait rejects allegations linking Iranian national to assassination plot"
       }
     },
     {
-      "id": "evt_663acee8",
-      "title": "伊朗呼吁天然气出口国加强合作，维护能源安全",
-      "summary": "TEHRAN -在莫斯科举行的天然气出口国论坛（ GECF ）第28届部长级会议上，伊朗代理石油部长Hamid Bovard提出了一个广泛的战略愿景，将全球能源安全与和平、区域稳定、关键基础设施安全和尊重国家主权联系起来。",
-      "date": "2026-10-27T22:16:35Z",
-      "url": "https://www.tehrantimes.com/news/531586/Iran-calls-on-gas-exporters-to-strengthen-cooperation-safeguard",
+      "id": "evt_6cfad2fd",
+      "title": "美伊战争账单达到471亿美元（ $ 471亿）",
+      "summary": "德黑兰--据《纽约时报》报道，五角大楼向美国立法者提供的数据显示，截至10月16日，美国对伊朗的战争成本估计达到471亿美元，其中炸弹、导弹和其他弹药占总数的60%以上。",
+      "date": "2026-10-28T19:06:56Z",
+      "url": "https://www.tehrantimes.com/news/531620/US-Iran-war-bill-reaches-47-1-billion",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531586/Iran-calls-on-gas-exporters-to-strengthen-cooperation-safeguard"
+          "url": "https://www.tehrantimes.com/news/531620/US-Iran-war-bill-reaches-47-1-billion"
         }
       ],
       "category": "military",
@@ -401,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran calls on gas exporters to strengthen cooperation, safeguard energy security"
+        "en": "US-Iran war bill reaches $47.1 billion"
       }
     },
     {
-      "id": "evt_910a04a0",
-      "title": "流动性增长放缓，每月通胀呈下降趋势：经济部长",
-      "summary": "伊朗经济事务和财政部长赛义德·阿里·马达尼扎德（ Seyed Ali Madanizadeh ）周二告诉议会，流动性增长已进入下降轨道，过去四个月的月度通货膨胀一直在下降。在回答议员Mostafa Pourdehqan Ardakani和其他几位立法者的问题时，他说，政府充分意识到通货膨胀和高物价给普通家庭、退休人员、工人和雇员带来的压力，并且经济指标",
-      "date": "2026-10-27T22:13:15Z",
-      "url": "https://www.tehrantimes.com/news/531585/Liquidity-growth-slowed-monthly-inflation-on-a-downward-trend",
+      "id": "evt_4df3a87d",
+      "title": "以色列议会僵局使以色列陷入政治瘫痪",
+      "summary": "德黑兰--10月27日，以色列以创纪录的数字进行了投票，产生了一个没有人可以竞选的议会。",
+      "date": "2026-10-28T19:05:47Z",
+      "url": "https://www.tehrantimes.com/news/531619/Knesset-stalemate-plunges-Israel-into-political-paralysis",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531585/Liquidity-growth-slowed-monthly-inflation-on-a-downward-trend"
+          "url": "https://www.tehrantimes.com/news/531619/Knesset-stalemate-plunges-Israel-into-political-paralysis"
         }
       ],
       "category": "military",
@@ -429,48 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Liquidity growth slowed, monthly inflation on a downward trend: economy minister"
+        "en": "Knesset stalemate plunges Israel into political paralysis"
       }
     },
     {
-      "id": "evt_7ed8d506",
-      "title": "保持对霍尔木兹的控制，领导坚持与安全主管会面",
-      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·塞耶德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）会见了最高国家安全委员会（ SNSC ）秘书穆赫森·雷扎伊（ Mohsen Rezaei ）少将，以审查该国的文化、政治、经济和安全状况以及该地区不断变化的秩序。",
-      "date": "2026-10-27T16:40:18Z",
-      "url": "https://www.tehrantimes.com/news/531583/Maintain-control-of-Hormuz",
+      "id": "evt_0cebbee8",
+      "title": "伊朗、俄罗斯联合建造小型模块化核反应堆",
+      "summary": "伊朗原子能组织（ AEOI ）发言人表示，伊朗正在与俄罗斯达成协议，加快小型模块化反应堆（ SMR ）的联合建设，因为该国正在推进其国内核能力，并寻求扩大核能在满足不断增长的电力需求方面的作用。",
+      "date": "2026-10-28T18:58:29Z",
+      "url": "https://www.tehrantimes.com/news/531618/Iran-s-nuclear-industry-reaches-full-maturity-AEOI-spokesman",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531583/Maintain-control-of-Hormuz"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Maintain control of Hormuz, Leader insists in meeting with security chief"
-      }
-    },
-    {
-      "id": "evt_9962edcb",
-      "title": "Araghchi分别与埃及、约旦和土库曼同行通话",
-      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）分别与埃及、约旦和土库曼斯坦外长进行了电话交谈，讨论双边关系、地区发展和促进稳定与安全的外交努力。",
-      "date": "2026-10-27T16:38:45Z",
-      "url": "https://www.tehrantimes.com/news/531579/Araghchi-holds-separate-calls-with-Egyptian-Jordanian-and-Turkmen",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531579/Araghchi-holds-separate-calls-with-Egyptian-Jordanian-and-Turkmen"
+          "url": "https://www.tehrantimes.com/news/531618/Iran-s-nuclear-industry-reaches-full-maturity-AEOI-spokesman"
         }
       ],
       "category": "military",
@@ -485,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Araghchi holds separate calls with Egyptian, Jordanian and Turkmen counterparts"
+        "en": "Iran, Russia move toward joint construction of small modular nuclear reactors"
       }
     },
     {
-      "id": "evt_7b168046",
-      "title": "由于担心冲突蔓延，中国将派遣特使前往中东",
-      "summary": "德黑兰--中国外交部周二宣布，中国将在不久的将来派遣一名特使前往中东及周边地区，以加强外交接触，缓解紧张局势，并防止持续不断的冲突进一步蔓延。",
-      "date": "2026-10-27T16:35:21Z",
-      "url": "https://www.tehrantimes.com/news/531578/China-to-send-special-envoy-to-Middle-East-amid-fears-of-conflict",
+      "id": "evt_e1a5da17",
+      "title": "Araghchi向内阁通报德黑兰安全峰会，警告全球能源市场面临风险",
+      "summary": "TEHRAN-伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）向内阁简要介绍了最新的外交事态发展，重点是伊朗、沙特阿拉伯、巴基斯坦和土耳其在德黑兰举行的四方会议，强调需要开展区域合作以维护安全、防止升级和保护国家主权。",
+      "date": "2026-10-28T18:43:47Z",
+      "url": "https://www.tehrantimes.com/news/531617/Araghchi-briefs-cabinet-on-Tehran-security-summit-warns-of-risks",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531578/China-to-send-special-envoy-to-Middle-East-amid-fears-of-conflict"
+          "url": "https://www.tehrantimes.com/news/531617/Araghchi-briefs-cabinet-on-Tehran-security-summit-warns-of-risks"
         }
       ],
       "category": "military",
@@ -513,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "China to send special envoy to Middle East amid fears of conflict spillover"
+        "en": "Araghchi briefs cabinet on Tehran security summit, warns of risks to global energy markets"
       }
     },
     {
-      "id": "evt_7695f42d",
-      "title": "阿曼：没有伊朗的参与，波斯湾的安全就无法持久",
-      "summary": "德黑兰--阿曼外交部长巴德尔·本·哈马德·布赛迪（ Badr bin Hamad Al Busaidi ）呼吁建立一个包容性的区域安全框架，将伊朗、伊拉克和海湾合作委员会（ GCC ）的六个成员国聚集在一起，并警告说，除德黑兰之外的任何安排本质上都是不稳定的，无法提供持久的安全。",
-      "date": "2026-10-27T16:32:06Z",
-      "url": "https://www.tehrantimes.com/news/531577/Oman-No-lasting-Persian-Gulf-security-without-Iran-s-participation",
+      "id": "evt_c81cc8d3",
+      "title": "Pezeshkian承诺结束“既不战争也不和平”的局面",
+      "summary": "德黑兰--伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）承诺，他的政府将动员一切力量，执行伊斯兰革命领袖阿亚图拉·塞耶德·莫伊塔巴·侯赛尼·哈梅内伊（ Ayatollah Seyyed Mojtaba Hosseini Khamenei ）的指令，旨在满足伊朗结束“既不战争也不和平”的现状的条件。",
+      "date": "2026-10-28T18:39:21Z",
+      "url": "https://www.tehrantimes.com/news/531616/Pezeshkian-pledges-to-end-neither-war-nor-peace-situation",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531577/Oman-No-lasting-Persian-Gulf-security-without-Iran-s-participation"
+          "url": "https://www.tehrantimes.com/news/531616/Pezeshkian-pledges-to-end-neither-war-nor-peace-situation"
         }
       ],
       "category": "military",
@@ -541,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Oman: No lasting Persian Gulf security without Iran’s participation"
+        "en": "Pezeshkian pledges to end ‘neither war nor peace’ situation"
       }
     },
     {
-      "id": "evt_269f824e",
-      "title": "巴盖里：德黑兰四方会议反映了伊朗的国防能力",
-      "summary": "德黑兰--伊朗最高国家安全委员会秘书处负责国际事务的副手阿里·巴盖里·卡尼（ Ali Bagheri Kani ）称，伊朗、沙特阿拉伯、土耳其和巴基斯坦在德黑兰举行的四方会议是伊朗国家抵抗和武装部队勇气的产物，并表示此次会晤反映了地区国家日益认识到“必须通过合作和依赖国内能力来建立持久的安全”。",
-      "date": "2026-10-27T16:29:12Z",
-      "url": "https://www.tehrantimes.com/news/531576/Bagheri-Tehran-quadrilateral-meeting-reflects-Iran-s-defense",
+      "id": "evt_90da4be7",
+      "title": "伊朗表示，美国特使应该根据事实发言，而不是捏造的指控",
+      "summary": "德黑兰--伊朗驻联合国大使兼临时代办格拉姆侯赛因·达尔齐（ Gholamhossein Darzi ）敦促美国处理事实，而不是“对德黑兰进行捏造的指控” ，谴责美国和以色列对伊朗的军事攻击，并呼吁根据国际法追究责任。在向联合国大会发表的另一份讲话中，达尔齐谴责单方面制裁是经济恐怖主义，并要求结束华盛顿对古巴长达数十年的封锁。",
+      "date": "2026-10-28T18:36:20Z",
+      "url": "https://www.tehrantimes.com/news/531615/US-envoy-should-speak-based-on-facts-not-fabricated-accusations",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531576/Bagheri-Tehran-quadrilateral-meeting-reflects-Iran-s-defense"
+          "url": "https://www.tehrantimes.com/news/531615/US-envoy-should-speak-based-on-facts-not-fabricated-accusations"
         }
       ],
       "category": "military",
@@ -569,20 +485,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Bagheri: Tehran quadrilateral meeting reflects Iran’s defense capabilities"
+        "en": "US envoy should speak based on facts, not fabricated accusations, Iran says"
       }
     },
     {
-      "id": "evt_81c81beb",
-      "title": "强迫邻居撤退",
-      "summary": "呼罗珊审查了伊朗的东部和西部邻国巴基斯坦和伊拉克在被迫退出限制性政策后重新开放边境的情况。该论文认为，斯科特·贝森特（ Scott Bessent ）最近关于华盛顿与伊朗邻国合作限制陆路路线的声明代表了德黑兰经济压力的新阶段。然而，两国边境的事态发展表明，通过区域封锁孤立伊朗既不容易，也不是免费的。",
-      "date": "2026-10-27T16:27:24Z",
-      "url": "https://www.tehrantimes.com/news/531575/Forced-retreat-of-neighbors",
+      "id": "evt_d1699301",
+      "title": "普京对佩泽什基安：俄罗斯履行与伊朗联合项目的所有承诺",
+      "summary": "德黑兰--俄罗斯总统弗拉基米尔·普京（ Vladimir Putin ）周二晚上在莫斯科与伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）会晤时表示，莫斯科仍然完全致力于与伊朗的所有联合项目，包括继续建造布什尔核电站。",
+      "date": "2026-10-28T18:31:17Z",
+      "url": "https://www.tehrantimes.com/news/531614/Putin-to-Pezeshkian-Russia-honoring-all-commitments-in-joint",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531575/Forced-retreat-of-neighbors"
+          "url": "https://www.tehrantimes.com/news/531614/Putin-to-Pezeshkian-Russia-honoring-all-commitments-in-joint"
         }
       ],
       "category": "military",
@@ -597,20 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Forced retreat of neighbors"
+        "en": "Putin to Pezeshkian: Russia honoring all commitments in joint projects with Iran"
       }
     },
     {
-      "id": "evt_560602f9",
-      "title": "伊朗反对核技术垄断，呼吁平等获得先进技术",
-      "summary": "德黑兰--伊朗呼吁全球平等获得先进核技术，敦促国际社会消除歧视性障碍，扩大技术合作，加强对和平核设施的保护。",
-      "date": "2026-10-27T16:26:35Z",
-      "url": "https://www.tehrantimes.com/news/531580/Iran-opposes-nuclear-technology-monopoly-calls-for-equal-access",
+      "id": "evt_80ae8a38",
+      "title": "领导对学生：用知识和信仰武装自己，建设伊斯兰-伊朗文明",
+      "summary": "德黑兰--伊斯兰革命领袖阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）呼吁大学生掌握知识、信仰和自我净化，为伊朗的实力和迈向伊斯兰-伊朗文明做出贡献。",
+      "date": "2026-10-28T18:27:32Z",
+      "url": "https://www.tehrantimes.com/news/531613/Leader-to-students-Arm-yourselves-with-knowledge-and-faith-to",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531580/Iran-opposes-nuclear-technology-monopoly-calls-for-equal-access"
+          "url": "https://www.tehrantimes.com/news/531613/Leader-to-students-Arm-yourselves-with-knowledge-and-faith-to"
         }
       ],
       "category": "military",
@@ -625,20 +541,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran opposes nuclear technology monopoly, calls for equal access to advanced technologies"
+        "en": "Leader to students: Arm yourselves with knowledge and faith to build Islamic-Iranian Civilization"
       }
     },
     {
-      "id": "evt_24ec4795",
-      "title": "Pezeshkian呼吁加强天然气合作，谴责美国的制裁和军事侵略",
-      "summary": "伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）呼吁主要天然气生产商加强战略和技术合作，以维护全球能源安全，并警告说，单方面制裁和美国在波斯湾的军事干预正在破坏能源市场的稳定，并威胁到全球经济增长。",
-      "date": "2026-10-27T16:24:38Z",
-      "url": "https://www.tehrantimes.com/news/531582/Pezeshkian-calls-for-stronger-gas-cooperation-condemns-US-sanctions",
+      "id": "evt_82114100",
+      "title": "TMoCA展览，探索“伊朗”如何在艺术品中呈现和概念化",
+      "summary": "德黑兰-- “寻找伊朗：德黑兰当代艺术博物馆收藏”展览将于周六下午在博物馆开幕。",
+      "date": "2026-10-28T18:22:55Z",
+      "url": "https://www.tehrantimes.com/news/531605/TMoCA-exhibition-to-explore-how-Iran-is-presented-and-conceptualized",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531582/Pezeshkian-calls-for-stronger-gas-cooperation-condemns-US-sanctions"
+          "url": "https://www.tehrantimes.com/news/531605/TMoCA-exhibition-to-explore-how-Iran-is-presented-and-conceptualized"
         }
       ],
       "category": "military",
@@ -653,76 +569,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Pezeshkian calls for stronger gas cooperation, condemns US sanctions and military aggression"
+        "en": "TMoCA exhibition to explore how ‘Iran’ is presented and conceptualized in artworks"
       }
     },
     {
-      "id": "evt_63d66f0c",
-      "title": "以色列选民在“狂热的黄狗和贪婪的豺狼”之间做出选择",
-      "summary": "德黑兰--周二，以色列人排起了半个世纪以来从未见过的队伍，本雅明·内塔尼亚胡（ Benjamin Netanyahu ）整个下午都在乞求自己的选民与他们匹敌。",
-      "date": "2026-10-27T16:01:12Z",
-      "url": "https://www.tehrantimes.com/news/531581/Israeli-voters-chose-between-rabid-yellow-dogs-and-ravenous",
+      "id": "evt_4c40bbb4",
+      "title": "以色列如何打破选举僵局？以下是四种场景",
+      "summary": "85%的选票被计入，所有迹象都指向僵局。最有可能的结果可能是新的选举。",
+      "date": "2026-10-28T14:30:31Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531581/Israeli-voters-chose-between-rabid-yellow-dogs-and-ravenous"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli voters chose between ‘rabid yellow dogs and ravenous jackals’"
-      }
-    },
-    {
-      "id": "evt_5b13de2c",
-      "title": "联合国调查证实以色列在约旦河西岸继续实施加沙种族灭绝、酷刑和强奸",
-      "summary": "德黑兰--自去年10月美国支持的“停火”以来，以色列一直在加沙实施种族灭绝，并在整个被占领的约旦河西岸犯下了危害人类罪，包括灭绝、酷刑、强奸和系统迫害巴勒斯坦人。",
-      "date": "2026-10-27T15:20:17Z",
-      "url": "https://www.tehrantimes.com/news/531574/UN-inquiry-confirms-Israel-continued-Gaza-genocide-committed",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531574/UN-inquiry-confirms-Israel-continued-Gaza-genocide-committed"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN inquiry confirms Israel continued Gaza genocide, committed torture and rape in West Bank"
-      }
-    },
-    {
-      "id": "evt_9b56e48b",
-      "title": "以色列和美国的选举可能加速伊朗战争的结束",
-      "summary": "伦敦--除了军事和经济计算，以色列议会选举和美国国会中期选举正在成为影响美以战争持续时间和结束条件的因素。这些选举考虑因素也影响了本雅明·内塔尼亚胡的政治未来与唐纳德·特朗普的决定之间的关系。",
-      "date": "2026-10-27T15:07:05Z",
-      "url": "https://www.tehrantimes.com/news/531573/Israeli-and-US-elections-could-hasten-the-end-of-Iran-war",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531573/Israeli-and-US-elections-could-hasten-the-end-of-Iran-war"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -737,7 +597,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli and US elections could hasten the end of Iran war"
+        "en": "How could Israel break election deadlock? Here are four scenarios"
+      }
+    },
+    {
+      "id": "evt_b604ddd0",
+      "title": "以色列的选举结果很混乱-原因如下",
+      "summary": "尽管以色列的选民投票率是近三十年来最高的，但以色列的选举并没有明显的赢家。BBC的Yolande Knell问道，这对这个国家意味着什么。",
+      "date": "2026-10-28T14:26:24Z",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel's election result is messy - here's why"
       }
     },
     {
@@ -1018,90 +906,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran trying harder to target US personnel in Middle East, intelligence chief warns"
-      }
-    },
-    {
-      "id": "evt_55003581",
-      "title": "官员说，约旦教堂葬礼上有7人被枪手枪杀",
-      "summary": "在卡拉克省南部的袭击中也有34人受伤，目前正在进行搜捕。",
-      "date": "2026-10-23T19:46:30Z",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Seven shot dead by gunmen at church funeral in Jordan, officials say"
-      }
-    },
-    {
-      "id": "evt_0ac69ac3",
-      "title": "油轮罢工后阿联酋海滩溢油冲刷",
-      "summary": "卫星图像显示石油沿着海岸线蔓延数英里，威胁着当地的海洋野生动物",
-      "date": "2026-10-23T15:30:47Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Oil spill washes up on UAE beaches after tanker strike"
-      }
-    },
-    {
-      "id": "evt_1929eae1",
-      "title": "当局称，两人在沙特阿拉伯东部机场的胡塞袭击中丧生",
-      "summary": "这是胡塞武装针对沙特机场和其他地点发动的一系列袭击中的最新一起。",
-      "date": "2026-10-22T13:46:33Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say"
       }
     }
   ]
