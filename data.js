@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-10-29T03:47:49.660256Z
+// 自动生成的数据 - 更新时间: 2026-10-30T03:50:57.147517Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-29T03:47:49.660208Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-10-30T03:50:57.147473Z",
+    "totalEvents": 30,
     "sources": {
-      "international": 19,
+      "international": 17,
       "iranian": 13,
       "social": 0,
       "osm": 0
@@ -13,16 +13,44 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_707fcfad",
-      "title": "活动人士指责以色列定居者在被占领的约旦河西岸发动袭击",
-      "summary": "镜头显示，一些持有武器的男子在乌姆海尔殴打一名美国记者和一名以色列-俄罗斯活动家。",
-      "date": "2026-10-29T03:12:47Z",
-      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+      "id": "evt_24252ef4",
+      "title": "叙利亚5人死于山洪暴发",
+      "summary": "四名儿童溺水身亡，一名男子在汽车被洪水淹死后死亡。",
+      "date": "2026-10-30T03:11:55Z",
+      "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Flash floods kill five in Syria"
+      }
+    },
+    {
+      "id": "evt_97054d23",
+      "title": "内塔尼亚胡攻击以色列的阿拉伯政党，因为他没有达到多数",
+      "summary": "以色列总理指责巴勒斯坦-以色列政党选举舞弊。",
+      "date": "2026-10-30T02:40:26Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,104 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Activists accuse Israeli settlers of assault in occupied West Bank"
+        "en": "Netanyahu attacks Israel’s Arab parties as he falls short of majority"
       }
     },
     {
-      "id": "evt_30dc8d7e",
-      "title": "以色列定居者在被占领的约旦河西岸野蛮袭击记者",
-      "summary": "社交媒体上流传的视频显示，以色列定居者在约旦河西岸袭击了三名外国记者",
-      "date": "2026-10-29T02:43:29Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+      "id": "evt_2735ecf1",
+      "title": "胡塞武装声称对沙特机场和石油设施发动六次袭击",
+      "summary": "尽管伊朗和麦加条约国家本周早些时候在德黑兰举行了会谈，但还是宣布了这一消息。",
+      "date": "2026-10-30T00:11:20Z",
+      "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli settlers savagely attack journalists in occupied West Bank"
-      }
-    },
-    {
-      "id": "evt_a0f4eb21",
-      "title": "选举胜利后，以色列人支持犹太-阿拉伯政府",
-      "summary": "在代表以色列阿拉伯公民的政党在选举中获胜后，以色列人团结起来支持犹太-阿拉伯政府。",
-      "date": "2026-10-29T00:34:24Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israelis rally for Jewish-Arab government after election gains"
-      }
-    },
-    {
-      "id": "evt_931e4aea",
-      "title": "在以色列选举中没有明确的赢家，统计了近90 ％的选票",
-      "summary": "内塔尼亚胡的右翼集团领先，但没有达到组建政府所需的选票。",
-      "date": "2026-10-29T00:01:07Z",
-      "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "No clear winner in Israel election with nearly 90 percent of votes counted"
-      }
-    },
-    {
-      "id": "evt_0093aa6e",
-      "title": "伊朗战争现场：德黑兰推动为期7天的霍尔木兹计划；特朗普否认和平谈判",
-      "summary": "Araghchi表示，伊朗正与调解人就实施其为期七天的重开霍尔木兹海峡计划的想法保持密切联系。",
-      "date": "2026-10-29T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -149,23 +93,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks"
+        "en": "Houthi forces claim six attacks on Saudi airports, oil facilities"
       }
     },
     {
-      "id": "evt_06e76d06",
-      "title": "罗马尼亚延长对极右翼政治家Calin Georgescu的审前拘留",
-      "summary": "布加勒斯特法院已将Calin Georgescu的审前拘留延长30天，并对下级法院的裁决提出上诉。",
-      "date": "2026-10-28T23:43:06Z",
-      "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "id": "evt_0d1dbd3e",
+      "title": "伊朗战争现场：伊斯兰革命卫队说，四艘油轮袭击了霍尔木兹海峡的地雷",
+      "summary": "伊朗伊斯兰革命卫队表示，四艘油轮在使用“未经授权”的霍尔木兹海峡航线后袭击了海军水雷。",
+      "date": "2026-10-30T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -177,20 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Romania extends pre-trial detention of far-right politician Calin Georgescu"
+        "en": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz"
       }
     },
     {
-      "id": "evt_d97c63ac",
-      "title": "内塔尼亚胡的集团领导以色列选举，但缺少多数，部分结果显示",
-      "summary": "内塔尼亚胡的利库德党及其盟友获得了85%的选票，将在120个席位的议会中赢得53个席位。",
-      "date": "2026-10-28T20:24:39Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_7321dfb1",
+      "title": "以色列反对派指责内塔尼亚胡试图将选举“非法化”",
+      "summary": "总理的利库德党声称受到外国干涉，并表示阿拉伯领导的政党在他的联盟失去多数席位后“偷走了”选举。",
+      "date": "2026-10-29T20:21:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -205,7 +149,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu's bloc leading Israel election but short of majority, partial results show"
+        "en": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election"
+      }
+    },
+    {
+      "id": "evt_4c40bbb4",
+      "title": "以色列如何打破选举僵局？以下是四种场景",
+      "summary": "超过90%的选票被计入，所有迹象都指向僵局。最有可能的结果可能是新的选举。",
+      "date": "2026-10-29T09:06:48Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "How could Israel break election deadlock? Here are four scenarios"
+      }
+    },
+    {
+      "id": "evt_376b6c27",
+      "title": "以色列的选举僵局是该国深刻分裂的迹象",
+      "summary": "詹姆斯·兰代尔（ James Landale ）写道，这次选举在某些方面是对民主的庆祝，但它使以色列没有明确的新政府道路。",
+      "date": "2026-10-28T20:53:02Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel's election deadlock is a sign of the country's deep divisions"
       }
     },
     {
@@ -573,34 +573,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_4c40bbb4",
-      "title": "以色列如何打破选举僵局？以下是四种场景",
-      "summary": "85%的选票被计入，所有迹象都指向僵局。最有可能的结果可能是新的选举。",
-      "date": "2026-10-28T14:30:31Z",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How could Israel break election deadlock? Here are four scenarios"
-      }
-    },
-    {
       "id": "evt_b604ddd0",
       "title": "以色列的选举结果很混乱-原因如下",
       "summary": "尽管以色列的选民投票率是近三十年来最高的，但以色列的选举并没有明显的赢家。BBC的Yolande Knell问道，这对这个国家意味着什么。",
@@ -626,6 +598,34 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel's election result is messy - here's why"
+      }
+    },
+    {
+      "id": "evt_f60ff430",
+      "title": "部长说，塞尔维亚人在袭击以色列大使馆外的官员后被枪杀",
+      "summary": "当局称，贝尔格莱德的袭击者是一名未成年男性，正受到安全部门的监控。",
+      "date": "2026-10-28T10:17:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Serbian shot dead after attacking officer outside Israeli embassy, minister says"
       }
     },
     {
@@ -850,62 +850,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "The bitter row over military service that could shape Israel's future"
-      }
-    },
-    {
-      "id": "evt_c39e4fc9",
-      "title": "因以色列军队拆除希伯伦房屋而流离失所的巴勒斯坦家庭",
-      "summary": "镇压行动发生在周五两名巴勒斯坦枪手杀害两名以色列士兵之后--就在以色列大选前几天。",
-      "date": "2026-10-24T23:02:06Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Palestinian families displaced as Israeli forces demolish Hebron homes"
-      }
-    },
-    {
-      "id": "evt_9c9fc181",
-      "title": "情报部门负责人警告说，伊朗更加努力地瞄准在中东的美国人员",
-      "summary": "这一警告是在美国国务院对该地区外交职位的人员配置进行调整之际发出的。",
-      "date": "2026-10-24T07:36:02Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran trying harder to target US personnel in Middle East, intelligence chief warns"
       }
     }
   ]
