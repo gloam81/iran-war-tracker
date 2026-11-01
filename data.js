@@ -1,35 +1,35 @@
-// 自动生成的数据 - 更新时间: 2026-10-31T03:34:02.367015Z
+// 自动生成的数据 - 更新时间: 2026-11-01T03:40:38.439206Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-10-31T03:34:02.366960Z",
-    "totalEvents": 28,
+    "lastUpdate": "2026-11-01T03:40:38.439149Z",
+    "totalEvents": 29,
     "sources": {
-      "international": 14,
-      "iranian": 14,
+      "international": 17,
+      "iranian": 12,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_d4bb344d",
-      "title": "伊朗战争现场： 4艘油轮在霍尔木兹被击中；特朗普表示冲突将很快结束",
-      "summary": "伊斯兰革命卫队说，四艘油轮在霍尔木兹海峡被击中，特朗普说，对伊朗的战争将“很快结束”。",
-      "date": "2026-10-31T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "id": "evt_a7c0ea64",
+      "title": "以色列数千人集会敦促“犹太-阿拉伯”联盟推翻内塔尼亚胡",
+      "summary": "在一次反抗议中，内塔尼亚胡的支持者要求以色列不应该有一个有“恐怖分子”的政府。",
+      "date": "2026-11-01T02:05:40Z",
+      "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
       },
       "languages": [
         "zh",
@@ -37,20 +37,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon"
+        "en": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu"
       }
     },
     {
-      "id": "evt_aeb97b53",
-      "title": "在Macklemore的“自由巴勒斯坦”之旅的最后一晚，粉丝们表示支持",
-      "summary": "半岛电视台在埃德·希兰（ Ed Sheeran ）的巡回演唱会结束后，与参加麦克尔莫尔（ Macklemore ） “自由巴勒斯坦”音乐会的粉丝",
-      "date": "2026-10-30T23:39:19Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+      "id": "evt_b0bffbfe",
+      "title": "伊朗战争现场： Araghchi表示正在就重新开放霍尔木兹的为期两天的计划进行谈判",
+      "summary": "高级外交官表示，如果美国满足德黑兰的条件，伊朗和卡塔尔已达成一项计划，在两天内重新开放霍尔木兹。",
+      "date": "2026-11-01T00:00:51Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz"
+      }
+    },
+    {
+      "id": "evt_97c202ce",
+      "title": "冰特工的猛推把女人推向空中",
+      "summary": "一名目击者拍摄了一段视频，一名ICE特工在芝加哥猛烈推挤一名堵车的老师。",
+      "date": "2026-10-31T23:45:36Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -65,23 +93,23 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour"
+        "en": "ICE agent’s violent shove propels woman through the air"
       }
     },
     {
-      "id": "evt_bad9081e",
-      "title": "特朗普的虚张声势符合伊朗的决心：美国力量的局限性",
-      "summary": "印度果阿--唐纳德·特朗普(Donald Trump)长期以来一直在虚张声势。他威胁说，他警告说，他发出最后通牒，然后他希望世界相信他已经控制了一切。但到了某个时候，即使是最响亮的威胁也会开始失去效果。对特朗普来说，伊朗很可能就是这一点。他似乎低估了一个其政治本能、历史记忆和文明信心无法通过美国力量的狭隘视角来理解的国家。",
-      "date": "2026-10-30T20:17:09Z",
-      "url": "https://www.tehrantimes.com/news/531659/Trump-s-bluff-meets-Iran-s-resolve-Limits-of-American-power",
+      "id": "evt_036852b4",
+      "title": "巴勒斯坦行动支持者在美国驻伦敦大使馆外被捕",
+      "summary": "数百名抗议者聚集在美国驻伦敦大使馆外，反对英国政府禁止巴勒斯坦行动。",
+      "date": "2026-10-31T22:10:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531659/Trump-s-bluff-meets-Iran-s-resolve-Limits-of-American-power"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss"
         }
       ],
-      "category": "military",
+      "category": "political",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -93,20 +121,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Trump’s bluff meets Iran’s resolve : Limits of American power"
+        "en": "Palestine Action supporters arrested outside US embassy in London"
       }
     },
     {
-      "id": "evt_30d59705",
-      "title": "第十九届国际抵抗电影节拉开帷幕",
-      "summary": "德黑兰--第十九届国际抵抗电影节开幕式于周四在伊斯法罕举行。",
-      "date": "2026-10-30T20:07:01Z",
-      "url": "https://www.tehrantimes.com/news/531641/19th-International-Resistance-Film-Festival-kicks-off",
+      "id": "evt_d8808ee3",
+      "title": "以色列关于卡塔尔干涉选举的指控被驳回",
+      "summary": "以色列关于卡塔尔干涉选举的指控被驳回",
+      "date": "2026-10-31T20:24:58Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel’s allegations of Qatari election interference rejected"
+      }
+    },
+    {
+      "id": "evt_fd3a3730",
+      "title": "区域协议和联合应对的威胁",
+      "summary": "Donya-e-Eqtesad讨论了沙特阿拉伯国防部长哈立德·本·萨勒曼（ Khalid bin Salman ）对德黑兰的意外访问。随着人们对伊朗和美国之间可能重新爆发战争的担忧加剧，沙特阿拉伯正试图通过经济激励、政治提案和安全警告来影响德黑兰的计算。",
+      "date": "2026-10-31T19:29:58Z",
+      "url": "https://www.tehrantimes.com/news/531698/Regional-agreement-and-threat-of-a-joint-response",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531641/19th-International-Resistance-Film-Festival-kicks-off"
+          "url": "https://www.tehrantimes.com/news/531698/Regional-agreement-and-threat-of-a-joint-response"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Regional agreement and threat of a joint response"
+      }
+    },
+    {
+      "id": "evt_5c8da78b",
+      "title": "伊朗主要歌手和管弦乐队本周在全国各地演出",
+      "summary": "TEHRAN -一系列由伊朗著名歌手、音乐家和管弦乐队参加的音乐会正在全国各地举行，计划于11月6日在德黑兰和其他几个城市举行，为观众提供各种各样的现场音乐。",
+      "date": "2026-10-31T19:24:39Z",
+      "url": "https://www.tehrantimes.com/news/531666/Major-Iranian-singers-orchestras-take-stage-across-country-this",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531666/Major-Iranian-singers-orchestras-take-stage-across-country-this"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Major Iranian singers, orchestras take stage across country this week"
+      }
+    },
+    {
+      "id": "evt_dd22db73",
+      "title": "伊朗团队制作IDFA 2026预告片",
+      "summary": "德黑兰--2026年阿姆斯特丹国际纪录片电影节（ IDFA ）的官方宣传片由伊朗团队制作。",
+      "date": "2026-10-31T19:24:09Z",
+      "url": "https://www.tehrantimes.com/news/531665/Iranian-team-makes-IDFA-2026-trailer",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531665/Iranian-team-makes-IDFA-2026-trailer"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian team makes IDFA 2026 trailer"
+      }
+    },
+    {
+      "id": "evt_d2e35c2e",
+      "title": "伊朗罢工破坏了24个与美国有关联的军事地点的274座建筑物",
+      "summary": "根据一份基于卫星图像和美国官员的报告，伊朗的报复性导弹和无人机袭击已经损坏了中东24个与美国有关的军事设施的至少274座建筑物，估计维修成本高达150亿美元（ $ ）。",
+      "date": "2026-10-31T19:23:24Z",
+      "url": "https://www.tehrantimes.com/news/531697/Iranian-strikes-damage-274-structures-at-24-US-linked-military",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531697/Iranian-strikes-damage-274-structures-at-24-US-linked-military"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian strikes damage 274 structures at 24 US-linked military sites"
+      }
+    },
+    {
+      "id": "evt_ed8cb034",
+      "title": "德黑兰表示，加拿大支持阿联酋对伊朗群岛的主权主张违反了《联合国宪章》",
+      "summary": "德黑兰--伊朗外交部发言人伊斯梅尔·巴凯伊（ Esmaeil Baqaei ）谴责加拿大总理马克·卡尼（ Mark Carney ）支持阿拉伯联合酋长国对波斯湾三个伊朗岛屿的主张，称渥太华的立场公然矛盾，违反了《联合国宪章》的原则。",
+      "date": "2026-10-31T19:18:52Z",
+      "url": "https://www.tehrantimes.com/news/531696/Canada-s-support-for-UAE-claim-to-Iranian-islands-violates-UN",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531696/Canada-s-support-for-UAE-claim-to-Iranian-islands-violates-UN"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Canada’s support for UAE claim to Iranian islands violates UN Charter, Tehran says"
+      }
+    },
+    {
+      "id": "evt_3959e62f",
+      "title": "副总裁下令成立五个专门委员会，为德黑兰经济合作组织峰会做准备",
+      "summary": "德黑兰--第一副总统穆罕默德·雷扎·阿雷夫（ Mohammad Reza Aref ）已下令成立五个专门委员会，涵盖文化、旅游、外交、经济和政治事务，以协调筹备即将在德黑兰举行的经济合作组织（ ECO ）峰会。",
+      "date": "2026-10-31T19:15:39Z",
+      "url": "https://www.tehrantimes.com/news/531695/VP-orders-formation-of-five-specialized-committees-to-prepare",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531695/VP-orders-formation-of-five-specialized-committees-to-prepare"
         }
       ],
       "category": "political",
@@ -121,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "19th International Resistance Film Festival kicks off"
+        "en": "VP orders formation of five specialized committees to prepare for ECO summit in Tehran"
       }
     },
     {
-      "id": "evt_b8a5b10d",
-      "title": "伊朗陆军参谋长：被动防御是国家抵御新兴威胁的关键",
-      "summary": "德黑兰--陆军参谋长兼副协调员哈比波拉·萨亚里海军少将强调了被动防御在保护国家重要基础设施、维持基本服务和加强国家抵御新出现和日益复杂威胁的能力方面的战略重要性。",
-      "date": "2026-10-30T20:06:17Z",
-      "url": "https://www.tehrantimes.com/news/531658/Iranian-army-chief-of-staff-Passive-defense-key-to-national",
+      "id": "evt_c248db02",
+      "title": "伊朗军方警告美国不要采取新的军事冒险主义，称战争可能会蔓延到整个地区",
+      "summary": "德黑兰--伊朗陆军发言人穆罕默德·阿克拉米尼亚准将警告美国不要在该地区发动另一次军事冒险，强调任何新的侵略都将扩大战争的地理范围，其后果将不会留在华盛顿的控制之下。",
+      "date": "2026-10-31T19:11:08Z",
+      "url": "https://www.tehrantimes.com/news/531694/Iranian-army-warns-US-against-renewed-military-adventurism",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531658/Iranian-army-chief-of-staff-Passive-defense-key-to-national"
+          "url": "https://www.tehrantimes.com/news/531694/Iranian-army-warns-US-against-renewed-military-adventurism"
         }
       ],
       "category": "military",
@@ -149,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian army chief of staff: Passive defense key to national resilience against emerging threats"
+        "en": "Iranian army warns US against renewed military adventurism, says war could spread across region"
       }
     },
     {
-      "id": "evt_97f64e36",
-      "title": "伊朗认为美国和以色列应对破坏海上安全负责",
-      "summary": "德黑兰--伊朗驻纽约大使兼联合国临时代办格拉姆侯赛因·达尔齐（ Gholamhossein Darzi ）表示，美国和以色列政权对波斯湾和霍尔木兹海峡海上航行的任何干扰或阻碍负有直接责任，并警告称，他们持续的侵略行为和海上限制威胁到整个地区的安全。",
-      "date": "2026-10-30T20:00:47Z",
-      "url": "https://www.tehrantimes.com/news/531657/Iran-holds-US-and-Israel-responsible-for-disruption-of-maritime",
+      "id": "evt_73163601",
+      "title": "国际艺术家和知识分子呼吁保护伊朗平民",
+      "summary": "德黑兰--一群来自不同国家的艺术家、作家、学者和文化人物呼吁保护伊朗平民和不受限制地获得人道主义援助，强调普通民众不得承担政治和军事目标的代价。",
+      "date": "2026-10-31T19:09:11Z",
+      "url": "https://www.tehrantimes.com/news/531693/International-artists-and-intellectuals-call-for-protection-of",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531657/Iran-holds-US-and-Israel-responsible-for-disruption-of-maritime"
+          "url": "https://www.tehrantimes.com/news/531693/International-artists-and-intellectuals-call-for-protection-of"
         }
       ],
       "category": "military",
@@ -177,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran holds US and Israel responsible for disruption of maritime Security"
+        "en": "International artists and intellectuals call for protection of Iranian civilians"
       }
     },
     {
-      "id": "evt_ca810df6",
-      "title": "海军中校说，伊朗用巡航导弹袭击亚伯拉罕·林肯号",
-      "summary": "德黑兰--伊朗海军副协调员表示，在为期40天的斋月战争期间，伊朗海军用战略巡航导弹瞄准了亚伯拉罕·林肯号航空母舰，并指出该部队对美国军舰进行了20多次行动，并在不同地点对美国利益进行了约300次行动。",
-      "date": "2026-10-30T19:56:24Z",
-      "url": "https://www.tehrantimes.com/news/531656/Iran-targeted-USS-Abraham-Lincoln-with-cruise-missile-Navy-Cmdr",
+      "id": "evt_159506e1",
+      "title": "美国的下一个战场创新：在战前准备坟墓",
+      "summary": "德黑兰-美国的军事优势显然伴随着一个新的后勤优先事项：确保在炸弹停止下降时有足够的坟墓。随着华盛顿继续承诺在下一次大对抗中取得胜利，美国陆军正忙于排练如何埋葬伤亡人员。人们想知道美国人是否被告知这是计划的一部分。",
+      "date": "2026-10-31T19:05:42Z",
+      "url": "https://www.tehrantimes.com/news/531692/America-s-next-battlefield-innovation-Preparing-the-graves-before",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531656/Iran-targeted-USS-Abraham-Lincoln-with-cruise-missile-Navy-Cmdr"
+          "url": "https://www.tehrantimes.com/news/531692/America-s-next-battlefield-innovation-Preparing-the-graves-before"
         }
       ],
       "category": "military",
@@ -205,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran targeted USS Abraham Lincoln with cruise missile, Navy Cmdr. says"
+        "en": "America’s next battlefield innovation: Preparing the graves before the war"
       }
     },
     {
-      "id": "evt_09b4b5bd",
-      "title": "伊朗报告在霍尔木兹海峡摧毁美国无人机和三起油轮事件",
-      "summary": "德黑兰--伊朗武装部队报告称，两座不同的美国无人驾驶平台被摧毁，三艘油轮试图通过霍尔木兹海峡（ Strait of Hormuz ）在未经授权的航线上航行，因为该国对通过战略航道的海上交通保持限制。",
-      "date": "2026-10-30T19:49:19Z",
-      "url": "https://www.tehrantimes.com/news/531655/Iran-reports-destruction-of-US-drone-and-three-tanker-incidents",
+      "id": "evt_2147da87",
+      "title": "即时、有效、无地域限制",
+      "summary": "德黑兰--武装部队领导人兼总司令阿亚图拉·赛义德·莫伊塔巴·哈梅内伊（ Ayatollah Seyyed Mojtaba Khamenei ）与伊朗武装部队高级指挥官举行了会晤，阐述了伊朗应对任何新的军事或恐怖主义侵略的原则。",
+      "date": "2026-10-31T19:02:15Z",
+      "url": "https://www.tehrantimes.com/news/531691/Immediate-effective-with-no-geographical-limitation",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531655/Iran-reports-destruction-of-US-drone-and-three-tanker-incidents"
+          "url": "https://www.tehrantimes.com/news/531691/Immediate-effective-with-no-geographical-limitation"
         }
       ],
       "category": "military",
@@ -233,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran reports destruction of US drone and three tanker incidents in Strait of Hormuz"
+        "en": "Immediate, effective, with no geographical limitation"
       }
     },
     {
-      "id": "evt_66b02249",
-      "title": "伊朗谴责加拿大和阿联酋重申对三个波斯湾岛屿的领土主张",
-      "summary": "TEHRAN–伊朗强烈谴责加拿大和阿拉伯联合酋长国重申对阿布穆萨、大通布和小通布的领土主张，重申这三个岛屿是伊朗领土不可分割的永恒部分。",
-      "date": "2026-10-30T19:38:35Z",
-      "url": "https://www.tehrantimes.com/news/531654/Iran-condemns-Canada-UAE-for-reiterating-territorial-claims",
+      "id": "evt_b61aed56",
+      "title": "Araghchi ：在条件得到满足之前，伊朗没有与美国进行谈判的计划",
+      "summary": "德黑兰--伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）表示，在当前情况下，伊朗没有计划与美国举行会谈，并强调只有在华盛顿接受其条件后，德黑兰才会考虑直接或间接谈判。",
+      "date": "2026-10-31T17:27:29Z",
+      "url": "https://www.tehrantimes.com/news/531688/Araghchi-Iran-has-no-plans-for-talks-with-US-until-its-conditions",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531654/Iran-condemns-Canada-UAE-for-reiterating-territorial-claims"
+          "url": "https://www.tehrantimes.com/news/531688/Araghchi-Iran-has-no-plans-for-talks-with-US-until-its-conditions"
         }
       ],
       "category": "military",
@@ -261,20 +457,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran condemns Canada, UAE for reiterating territorial claims over three Persian Gulf Islands"
+        "en": "Araghchi: Iran has no plans for talks with US until its conditions are met"
       }
     },
     {
-      "id": "evt_7059f2a2",
-      "title": "华盛顿的中期信函游戏",
-      "summary": "德黑兰--美国副总统万斯给伊朗最高国家安全委员会秘书穆赫森·雷扎伊（ Mohsen Rezaei ）的一封信的披露引发了华盛顿一波相互矛盾的叙述，美国媒体的猜测性报道，以及德黑兰平静、有条件的回应。",
-      "date": "2026-10-30T19:34:49Z",
-      "url": "https://www.tehrantimes.com/news/531653/Washington-s-Midterm-Letter-Game",
+      "id": "evt_3ac3cec8",
+      "title": "在家乡面临歧视和国家暴力的少数群体",
+      "summary": "德黑兰-- “以色列的巴勒斯坦公民” ，也被称为“1948年的巴勒斯坦人”或“以色列境内的巴勒斯坦人” ，在以色列历届政府手中受到歧视和暴力。",
+      "date": "2026-10-31T16:29:02Z",
+      "url": "https://www.tehrantimes.com/news/531687/A-minority-in-their-homeland-who-have-been-facing-discrimination",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531653/Washington-s-Midterm-Letter-Game"
+          "url": "https://www.tehrantimes.com/news/531687/A-minority-in-their-homeland-who-have-been-facing-discrimination"
         }
       ],
       "category": "military",
@@ -289,175 +485,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Washington’s Midterm Letter Game"
-      }
-    },
-    {
-      "id": "evt_44e4cfa8",
-      "title": "伊朗的核理论辩论反映了国家对更强威慑的需求",
-      "summary": "德黑兰--德黑兰临时周五祈祷领袖穆罕默德·贾瓦德·哈吉·阿里·阿克巴里（ Mohammad Javad Haj Ali Akbari ）称，要求审查伊朗核理论的呼声源于伊朗人民对西方行为的经历、安全问题的加剧以及加强该国威慑能力的必要性。",
-      "date": "2026-10-30T19:27:55Z",
-      "url": "https://www.tehrantimes.com/news/531652/Iran-s-nuclear-doctrine-debate-reflects-national-demand-for-stronger",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531652/Iran-s-nuclear-doctrine-debate-reflects-national-demand-for-stronger"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran’s nuclear doctrine debate reflects national demand for stronger deterrence"
-      }
-    },
-    {
-      "id": "evt_c814dc4c",
-      "title": "投票支持阿联酋候选人竞选联合国秘书长将支持种族灭绝",
-      "summary": "德黑兰--前联合国安理会表示，阿联酋竞选联合国秘书长一职的候选人拉娜·努赛贝（ Lana Nusseibeh ）的投票将标志着对种族灭绝、大规模暴行和战争的支持。",
-      "date": "2026-10-30T18:03:52Z",
-      "url": "https://www.tehrantimes.com/news/531651/Vote-for-UAE-candidate-for-UN-chief-will-endorse-genocide",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531651/Vote-for-UAE-candidate-for-UN-chief-will-endorse-genocide"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Vote for UAE candidate for UN chief will endorse genocide"
-      }
-    },
-    {
-      "id": "evt_449f4851",
-      "title": "将卡塔尔与议会选举中的高阿拉伯选民投票率联系起来从根本上具有误导性",
-      "summary": "德黑兰--以色列总理本雅明·内塔尼亚胡(Benjamin Netanyahu)领导的利库德集团(Likud)声称，以色列的选举在创纪录的投票率和选举胜利后被巴勒斯坦公民“偷走” ，尽管选举官员和反对派政客认为这一指控“毫无根据”。",
-      "date": "2026-10-30T17:49:47Z",
-      "url": "https://www.tehrantimes.com/news/531648/Linking-Qatar-to-high-Arab-voter-turnout-in-Knesset-elections",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531648/Linking-Qatar-to-high-Arab-voter-turnout-in-Knesset-elections"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Linking Qatar to high Arab voter turnout in Knesset elections is fundamentally misleading"
-      }
-    },
-    {
-      "id": "evt_ddf4d0ea",
-      "title": "真主党领袖宣布美国斡旋的框架协议“实际上不存在”",
-      "summary": "德黑兰--真主党秘书长谢赫·纳伊姆·卡西姆（ Sheikh Naim Qassem ）在10月28日的一次演讲中表示，只要以色列占领黎巴嫩土地，抵抗运动就会保留其武器。",
-      "date": "2026-10-30T17:27:56Z",
-      "url": "https://www.tehrantimes.com/news/531647/Hezbollah-chief-declares-US-brokered-framework-agreement-effectively",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531647/Hezbollah-chief-declares-US-brokered-framework-agreement-effectively"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hezbollah chief declares US-brokered framework agreement 'effectively nonexistent'"
-      }
-    },
-    {
-      "id": "evt_f03c02fe",
-      "title": "特朗普的支持率下降笼罩在伊朗战争、通货膨胀形成的中期投票之上",
-      "summary": "德黑兰--唐纳德·特朗普（ Donald Trump ）不在选票上，但选举几乎没有别的意思。11月3日，大约2.1亿登记选民将决定所有435个众议院席位， 35个参议院席位和36个州长职位。",
-      "date": "2026-10-30T17:15:51Z",
-      "url": "https://www.tehrantimes.com/news/531646/Trump-s-falling-popularity-hangs-over-a-midterm-vote-shaped-by",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531646/Trump-s-falling-popularity-hangs-over-a-midterm-vote-shaped-by"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump’s falling popularity hangs over a midterm vote shaped by Iran war, inflation"
-      }
-    },
-    {
-      "id": "evt_31f867b7",
-      "title": "哈桑·亚兹达尼在2026年世界摔跤锦标赛中获得铜牌",
-      "summary": "德黑兰-伊朗的哈桑·亚兹达尼（ Hassan Yazdani ）周五在2026年世界摔跤锦标赛上获得铜牌。",
-      "date": "2026-10-30T16:16:54Z",
-      "url": "https://www.tehrantimes.com/news/531645/Hassan-Yazdani-wins-bronze-in-2026-World-Wrestling-Championships",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531645/Hassan-Yazdani-wins-bronze-in-2026-World-Wrestling-Championships"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Hassan Yazdani wins bronze in 2026 World Wrestling  Championships"
+        "en": "A minority in their homeland who have been facing discrimination and state violence"
       }
     },
     {
