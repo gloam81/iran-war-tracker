@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-11-03T04:55:12.400500Z
+// 自动生成的数据 - 更新时间: 2026-11-04T04:16:40.243081Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-11-03T04:55:12.400460Z",
-    "totalEvents": 29,
+    "lastUpdate": "2026-11-04T04:16:40.243014Z",
+    "totalEvents": 28,
     "sources": {
-      "international": 17,
+      "international": 16,
       "iranian": 12,
       "social": 0,
       "osm": 0
@@ -13,44 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_36ea124c",
-      "title": "以色列士兵在希伯伦突袭中逮捕半岛电视台记者",
-      "summary": "以色列士兵在突袭半岛电视台记者蒙塔泽尔·纳萨尔（ Montaser Nassar ）的家时被蒙住双眼、戴上手铐并被捕",
-      "date": "2026-11-03T03:53:09Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "id": "evt_102eec1d",
+      "title": "欧盟敦促采取行动，因为德国，罗马尼亚和英国报告超市网络攻击",
+      "summary": "欧盟表示，至少11个国家的超市黑客攻击“并非孤立” ，但一名罗马尼亚官员怀疑没有国家行为者。",
+      "date": "2026-11-04T03:16:37Z",
+      "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids"
-      }
-    },
-    {
-      "id": "evt_02c874e0",
-      "title": "美国媒体报道美国在霍尔木兹罢工时，伊朗格什姆岛发生爆炸",
-      "summary": "美国媒体称，美军在格什姆岛（ Geshm Island ）和伦格港（ Bandar Lengeh ）进行了几次爆炸。",
-      "date": "2026-11-03T02:25:02Z",
-      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz"
+        "en": "EU urges action as Germany, Romania and UK report supermarket cyberattacks"
       }
     },
     {
-      "id": "evt_674dda7b",
-      "title": "美国议员要求特朗普政府停止驱逐阿富汗人",
-      "summary": "至少有150名阿富汗人面临被驱逐到巴基斯坦和阿富汗。",
-      "date": "2026-11-03T02:12:33Z",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+      "id": "evt_58f02470",
+      "title": "作为格鲁吉亚首位黑人女州长， Keisha Lance Bottoms创造了历史",
+      "summary": "前总统乔·拜登（ Joe Biden ）的前顾问博顿斯（ Bottoms ）击败了共和党人里克·杰克逊（ Rick Jack",
+      "date": "2026-11-04T02:25:51Z",
+      "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss"
         }
       ],
       "category": "political",
@@ -93,132 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US lawmakers ask Trump administration to stop deportation of Afghans"
+        "en": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor"
       }
     },
     {
-      "id": "evt_e2d5f029",
-      "title": "伊朗战争现场：美国在霍尔木兹海峡进行“防御性”打击",
-      "summary": "美军在导弹威胁后对霍尔木兹海峡的伊朗阵地进行“防御性”打击。",
-      "date": "2026-11-03T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "id": "evt_e7d3ce30",
+      "title": "特朗普表示他将结束以色列38亿美元的军事援助协议",
+      "summary": "美国总统唐纳德·特朗普（ Donald Trump ）表示，他计划在今年年底前停止向以色列提供38亿美元的年度军事援助计划。",
+      "date": "2026-11-04T01:13:49Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz"
-      }
-    },
-    {
-      "id": "evt_25546ded",
-      "title": "战争、关税与中国：美国中期选举对亚太地区的意义",
-      "summary": "受特朗普关税和对伊朗战争的严重打击，亚太地区国家希望美国的政策发生“巨大变化”。",
-      "date": "2026-11-02T23:41:18Z",
-      "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "War, tariffs and China: What the US midterms mean for the Asia-Pacific"
-      }
-    },
-    {
-      "id": "evt_fcf001a0",
-      "title": "伊朗和亚美尼亚：超越邻里关系的纽带",
-      "summary": "TEHRAN -乍一看，连接伊朗和亚美尼亚的似乎是地理上的接近以及随之而来的地缘政治考虑因素。然而，仔细观察两国的历史和文化，就会发现两国之间的关系远远超出了邻国之间的传统关系。几个世纪以来，伊朗和亚美尼亚不仅仅是并存；它们一直是彼此历史、文化和社会发展的一部分。此共享状态可以是tr",
-      "date": "2026-11-02T17:55:58Z",
-      "url": "https://www.tehrantimes.com/news/531743/Iran-and-Armenia-A-Bond-Beyond-Neighborly-Ties",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531743/Iran-and-Armenia-A-Bond-Beyond-Neighborly-Ties"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran and Armenia: A Bond Beyond Neighborly Ties"
-      }
-    },
-    {
-      "id": "evt_28a39212",
-      "title": "伊朗拒绝将铀转移到国外，霍尔木兹的重新开放取决于美国结束封锁",
-      "summary": "德黑兰--伊朗拒绝将其浓缩铀转移到国外，并表示霍尔木兹海峡的重新开放取决于美国结束其海上封锁并满足德黑兰的要求，伊朗外交部发言人Esmaeil Baqaei概述了该国在核问题、地区安全和正在进行的外交努力方面的立场。",
-      "date": "2026-11-02T17:50:22Z",
-      "url": "https://www.tehrantimes.com/news/531768/Iran-rejects-uranium-transfer-abroad-says-Hormuz-reopening-depends",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531768/Iran-rejects-uranium-transfer-abroad-says-Hormuz-reopening-depends"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran rejects uranium transfer abroad, says Hormuz reopening depends on US ending blockade"
-      }
-    },
-    {
-      "id": "evt_30e84664",
-      "title": "以色列选举：种族灭绝获胜",
-      "summary": "马德里--以色列大选的初步结果显示，退伍军人总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）领先于其竞争对手、前武装部队参谋长加迪·艾森科特（ Gadi Eisenkot ） ，但仍未获得议会多数席位。",
-      "date": "2026-11-02T17:47:38Z",
-      "url": "https://www.tehrantimes.com/news/531767/Israeli-elections-The-genocide-wins",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531767/Israeli-elections-The-genocide-wins"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -233,76 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli elections: The genocide wins"
+        "en": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal"
       }
     },
     {
-      "id": "evt_cb03293f",
-      "title": "没有伊朗，就不可能出现稳定的安全",
-      "summary": "Vatan-e-Emrooz认为，伊朗的地区影响力仍然是影响整个西亚安全发展的决定性因素。根据分析，任何试图建立一个不包括区域大国的持久安全框架的尝试都将面临重大限制。在这种背景下，伊朗伊斯兰共和国寻求超越简单地成为地区事务的有影响力的参与者，成为设计未来安全机制的主要参与者之一",
-      "date": "2026-11-02T17:44:12Z",
-      "url": "https://www.tehrantimes.com/news/531766/No-stable-security-can-emerge-without-Iran",
+      "id": "evt_3faf85d8",
+      "title": "炸弹威胁扰乱了整个欧洲的航班，没有发现爆炸装置",
+      "summary": "至少有七个航班和一艘前往以色列的游轮受到威胁，但官员说，搜查没有发现爆炸物。",
+      "date": "2026-11-04T00:35:44Z",
+      "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531766/No-stable-security-can-emerge-without-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "No stable security can emerge without Iran"
-      }
-    },
-    {
-      "id": "evt_e2318d0a",
-      "title": "警察局长警告全球敌人的利益可能成为未来战争的目标",
-      "summary": "伊朗执法司令部司令艾哈迈德·雷扎·拉丹（ Ahmad Reza Radan ）准将警告说，未来的任何冲突都可能超出传统的地理边界，并表示拥有伊朗对手利益的地点可能成为目标。",
-      "date": "2026-11-02T17:39:54Z",
-      "url": "https://www.tehrantimes.com/news/531765/Police-chief-warns-enemy-interests-worldwide-could-be-targeted",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531765/Police-chief-warns-enemy-interests-worldwide-could-be-targeted"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Police chief warns enemy interests worldwide could be targeted in future war"
-      }
-    },
-    {
-      "id": "evt_ab6d105a",
-      "title": "10月份对约旦河西岸人的397次袭击，是20年来的最高月度总数：联合国",
-      "summary": "10月，以色列定居者在被占领的西岸发动的袭击达到前所未有的水平，造成伤亡或财产损失的事件数量超过了联合国2006年开始监测以来的每月总数。",
-      "date": "2026-11-02T17:35:30Z",
-      "url": "https://www.tehrantimes.com/news/531764/397-attacks-on-West-Bankers-in-Oct-highest-monthly-total-in",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531764/397-attacks-on-West-Bankers-in-Oct-highest-monthly-total-in"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -317,20 +121,188 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "397 attacks on West Bankers in Oct, highest monthly total in 20 years: UN"
+        "en": "Bomb threats disrupt flights across Europe, no explosive devices found"
       }
     },
     {
-      "id": "evt_cfae6d37",
-      "title": "作为华盛顿的盟友，加拿大正在证明美国不是世界的中心",
-      "summary": "德黑兰--加拿大正在采取具体步骤使其国际关系多样化，因为加拿大官员，特别是总理马克·卡尼，已经意识到美国，特别是在唐纳德·特朗普的领导下，不再是一个可预测或可靠的伙伴。",
-      "date": "2026-11-02T17:31:08Z",
-      "url": "https://www.tehrantimes.com/news/531762/Canada-a-Washington-ally-is-proving-that-US-is-not-the-center",
+      "id": "evt_3dcef37d",
+      "title": "霍尔木兹海峡在美国中期选举中的阴影",
+      "summary": "Kayhan认为，与伊朗和霍尔木兹海峡有关的问题已成为美国中期选举的一个重要因素。据该报报道，选举是在与地区紧张局势有关的经济问题在美国引起相当大公众关注的时候举行的。根据民意调查趋势，该文件建议民主党人可能在众议院获得多数席位。",
+      "date": "2026-11-03T17:11:38Z",
+      "url": "https://www.tehrantimes.com/news/531811/Shadow-of-Hormuz-Strait-on-US-midterm-elections",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531762/Canada-a-Washington-ally-is-proving-that-US-is-not-the-center"
+          "url": "https://www.tehrantimes.com/news/531811/Shadow-of-Hormuz-Strait-on-US-midterm-elections"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Shadow of Hormuz Strait on US midterm elections"
+      }
+    },
+    {
+      "id": "evt_586ea7e9",
+      "title": "《麦迪逊县的桥梁》有声读物在伊朗发行",
+      "summary": "TEHRAN -美国作家罗伯特·詹姆斯·沃勒（ Robert James Waller ）的畅销小说《麦迪逊县的桥梁》（ The Bridges of Madison County ）的有声读物已由伊朗生产有声读物的主要研究所Avaye Chirok发行。",
+      "date": "2026-11-03T16:55:02Z",
+      "url": "https://www.tehrantimes.com/news/531784/The-Bridges-of-Madison-County-audiobook-released-in-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531784/The-Bridges-of-Madison-County-audiobook-released-in-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "‘The Bridges of Madison County’ audiobook released in Iran"
+      }
+    },
+    {
+      "id": "evt_ba5090c7",
+      "title": "伊朗短片《阿尔弗雷多意大利面》入选萨拉戈萨电影节",
+      "summary": "TEHRAN -由Leila Noee编剧和导演的伊朗短片“Pasta Alfredo”已被选中参加西班牙第31届萨拉戈萨电影节（ FCZ ）。",
+      "date": "2026-11-03T16:54:47Z",
+      "url": "https://www.tehrantimes.com/news/531785/Iranian-short-film-Pasta-Alfredo-selected-for-Zaragoza-Film",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531785/Iranian-short-film-Pasta-Alfredo-selected-for-Zaragoza-Film"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian short film ‘Pasta Alfredo’ selected for Zaragoza Film Festival"
+      }
+    },
+    {
+      "id": "evt_fe0808fc",
+      "title": "以色列军队拆除约旦河西岸的五家巴勒斯坦企业",
+      "summary": "当地消息人士称，以色列军队周二在重型机械的陪同下袭击了希伯伦西北部的哈斯卡路地区，摧毁了五家巴勒斯坦人拥有的商业企业。",
+      "date": "2026-11-03T16:54:21Z",
+      "url": "https://www.tehrantimes.com/news/531810/Israeli-forces-demolish-five-Palestinian-businesses-in-West-Bank",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531810/Israeli-forces-demolish-five-Palestinian-businesses-in-West-Bank"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli forces demolish five Palestinian businesses in West Bank"
+      }
+    },
+    {
+      "id": "evt_45e36459",
+      "title": "伊朗艺术家的音乐作品在全球音乐奖上获奖",
+      "summary": "德黑兰--由Pouria Ghelichkhani创作、Ahmad Mirmasoumi编曲的音乐作品《自然之谜： 706》在美国2026年全球音乐奖中获得银牌。",
+      "date": "2026-11-03T16:54:14Z",
+      "url": "https://www.tehrantimes.com/news/531795/Musical-composition-by-Iranian-artists-wins-at-Global-Music-Awards",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531795/Musical-composition-by-Iranian-artists-wins-at-Global-Music-Awards"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Musical composition by Iranian artists wins at Global Music Awards"
+      }
+    },
+    {
+      "id": "evt_e3ce9d3a",
+      "title": "伊朗电视连续剧《白色和红色柏树》赢得阿布奖",
+      "summary": "德黑兰--伊朗电视连续剧《白色和红色柏树》在2026年亚太广播联盟（ ABU ）奖中获奖。",
+      "date": "2026-11-03T16:53:47Z",
+      "url": "https://www.tehrantimes.com/news/531793/Iranian-TV-series-The-White-and-Red-Cypress-wins-at-ABU-Prizes",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531793/Iranian-TV-series-The-White-and-Red-Cypress-wins-at-ABU-Prizes"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iranian TV series ‘The White and Red Cypress’ wins at ABU Prizes"
+      }
+    },
+    {
+      "id": "evt_b34bb428",
+      "title": "Maqbarat-o-Shoara ：大不里士的文学圣地",
+      "summary": "德黑兰-坐落在大不里士（ Tabriz ）历史悠久的Sorkhab区、Maqbarat-o-Shoara或诗人陵墓（ Mausoleum of Poets ） ，是该市最具特色的文化景点之一。",
+      "date": "2026-11-03T16:53:04Z",
+      "url": "https://www.tehrantimes.com/news/531809/Maqbarat-o-Shoara-A-literary-sanctuary-in-Tabriz",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531809/Maqbarat-o-Shoara-A-literary-sanctuary-in-Tabriz"
         }
       ],
       "category": "political",
@@ -345,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Canada, a Washington ally, is proving that US is not the center of the world"
+        "en": "Maqbarat-o-Shoara: A literary sanctuary in Tabriz"
       }
     },
     {
-      "id": "evt_fd3df669",
-      "title": "最高法官呼吁对美国对伊朗的罪行进行迅速、彻底的司法诉讼",
-      "summary": "德黑兰--伊朗司法部长Gholamhossein Mohseni-Ejei呼吁迅速处理涉及美国对伊朗国家犯下的罪行的案件，强调迅速的司法程序必须伴随着对证据的仔细审查以及发布合理、合法的判决。",
-      "date": "2026-11-02T17:30:21Z",
-      "url": "https://www.tehrantimes.com/news/531763/Top-judge-calls-for-expedited-thorough-judicial-proceedings",
+      "id": "evt_7d919282",
+      "title": "伊朗、印度探索复兴历史悠久的香料之路",
+      "summary": "德黑兰--伊朗和印度正在通过一项恢复历史悠久的香料之路的倡议，探索新的文化、旅游和经济合作，克尔曼省正在成为拟议伙伴关系的焦点。",
+      "date": "2026-11-03T16:50:09Z",
+      "url": "https://www.tehrantimes.com/news/531808/Iran-India-explore-reviving-historic-Spice-Route",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531763/Top-judge-calls-for-expedited-thorough-judicial-proceedings"
+          "url": "https://www.tehrantimes.com/news/531808/Iran-India-explore-reviving-historic-Spice-Route"
         }
       ],
       "category": "military",
@@ -373,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Top judge calls for expedited, thorough judicial proceedings into US crimes against Iran"
+        "en": "Iran, India explore reviving historic Spice Route"
       }
     },
     {
-      "id": "evt_4ea0d6b0",
-      "title": "持续杀戮的加沙停火",
-      "summary": "德黑兰--在承诺结束种族灭绝战争的停火一年后，加沙正在经历名义上的和平。",
-      "date": "2026-11-02T17:23:01Z",
-      "url": "https://www.tehrantimes.com/news/531760/The-Gaza-ceasefire-that-keeps-killing",
+      "id": "evt_a5c90410",
+      "title": "美国未能实现其针对伊朗的目标：副总统",
+      "summary": "德黑兰--第一副总统穆罕默德-雷扎·阿雷夫（ Mohammad-Reza Aref ）周二表示，即使通过直接的军事侵略，美国也未能实现其对伊朗的任何目标。",
+      "date": "2026-11-03T16:42:50Z",
+      "url": "https://www.tehrantimes.com/news/531807/US-has-failed-to-achieve-its-goals-against-Iran-VP",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531760/The-Gaza-ceasefire-that-keeps-killing"
+          "url": "https://www.tehrantimes.com/news/531807/US-has-failed-to-achieve-its-goals-against-Iran-VP"
         }
       ],
       "category": "military",
@@ -401,20 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The Gaza ceasefire that keeps killing"
+        "en": "US has failed to achieve its goals against Iran: VP"
       }
     },
     {
-      "id": "evt_353bcddc",
-      "title": "Araghchi ：邻国是伊朗外交政策的首要任务",
-      "summary": "伊朗外交部长阿巴斯·阿拉格奇（ Abbas Araghchi ）周一表示，邻国是伊朗外交政策的首要任务，并补充说，最近的事态发展进一步强调了这些关系的重要性。",
-      "date": "2026-11-02T17:20:45Z",
-      "url": "https://www.tehrantimes.com/news/531761/Araghchi-Neighbours-top-priority-of-Iran-s-foreign-policy",
+      "id": "evt_90151194",
+      "title": "加里巴巴迪：伊朗准备好应对任何情况，与美国的外交交流仍在继续",
+      "summary": "德黑兰--伊朗外交部负责法律和国际事务的副部长卡齐姆·加里巴巴迪（ Kazem Gharibabadi ）周二表示，随着与美国的外交交流继续通过调解人进行，伊朗随时准备应对任何可能发生的情况，并强调德黑兰仍然准备在寻求外交解决方案的同时防御进一步的侵略。",
+      "date": "2026-11-03T16:41:15Z",
+      "url": "https://www.tehrantimes.com/news/531805/Gharibabadi-Iran-ready-for-any-scenario-as-diplomatic-exchanges",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531761/Araghchi-Neighbours-top-priority-of-Iran-s-foreign-policy"
+          "url": "https://www.tehrantimes.com/news/531805/Gharibabadi-Iran-ready-for-any-scenario-as-diplomatic-exchanges"
         }
       ],
       "category": "military",
@@ -429,20 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Araghchi: Neighbours top priority of Iran’s foreign policy"
+        "en": "Gharibabadi: Iran ready for any scenario as diplomatic exchanges with US continue"
       }
     },
     {
-      "id": "evt_44a1a80c",
-      "title": "伊朗国家安全委员会秘书和普京在电话中讨论西亚问题",
-      "summary": "德黑兰--伊朗最高国家安全委员会秘书穆赫森·雷扎伊（ Mohsen Rezaei ）少将和俄罗斯总统弗拉基米尔·普京（ Vladimir Putin ）就最新的地区和国际事态发展进行了电话交谈，特别关注西亚。",
-      "date": "2026-11-02T17:15:55Z",
-      "url": "https://www.tehrantimes.com/news/531759/Iran-s-SNSC-secretary-and-Putin-discuss-West-Asia-in-phone-call",
+      "id": "evt_123bfca2",
+      "title": "摧毁黎巴嫩南部而不受惩罚",
+      "summary": "德黑兰--黎巴嫩从未实现任何停火，只有签署停火协议的黎巴嫩政府和从未停止轰炸的占领军。",
+      "date": "2026-11-03T16:40:29Z",
+      "url": "https://www.tehrantimes.com/news/531799/Destroying-south-Lebanon-with-impunity",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531759/Iran-s-SNSC-secretary-and-Putin-discuss-West-Asia-in-phone-call"
+          "url": "https://www.tehrantimes.com/news/531799/Destroying-south-Lebanon-with-impunity"
         }
       ],
       "category": "military",
@@ -457,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran’s SNSC secretary and Putin discuss West Asia in phone call"
+        "en": "Destroying south Lebanon with impunity"
       }
     },
     {
-      "id": "evt_060d2f0f",
-      "title": "反犹太主义的政治：欧洲的历史记录和伊朗的犹太社区",
-      "summary": "德黑兰--指控可能是一种强大的政治武器。很少有人具有反犹太主义的道德和情感分量。该术语最初旨在识别和应对对犹太人的敌意，现已越来越多地成为政治词汇的一部分，用于诋毁对手，压制批评者，并使跨越不同政治领域和地理边界的立场非法化。",
-      "date": "2026-11-02T17:06:50Z",
-      "url": "https://www.tehrantimes.com/news/531756/The-politics-of-anti-Semitism-Europe-s-historical-record-and",
+      "id": "evt_7ffe601b",
+      "title": "伊朗主张对霍尔木兹海峡的控制，概述了地区安全的愿景",
+      "summary": "德黑兰--伊朗武装部队参谋长阿里·阿卜杜拉希少将表示，伊朗通过控制霍尔木兹海峡已经成为一个新的全球权力中心，将战略航道描述为该国影响力的关键来源和重塑全球力量平衡的因素。",
+      "date": "2026-11-03T16:38:54Z",
+      "url": "https://www.tehrantimes.com/news/531804/Iran-asserts-control-over-Strait-of-Hormuz-outlines-vision-for",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531756/The-politics-of-anti-Semitism-Europe-s-historical-record-and"
+          "url": "https://www.tehrantimes.com/news/531804/Iran-asserts-control-over-Strait-of-Hormuz-outlines-vision-for"
         }
       ],
       "category": "military",
@@ -485,7 +457,63 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "The politics of anti-Semitism: Europe’s historical record and Iran’s Jewish community"
+        "en": "Iran asserts control over Strait of Hormuz, outlines vision for regional security"
+      }
+    },
+    {
+      "id": "evt_5fca4363",
+      "title": "特朗普称美国“不会在年底前向以色列付款”",
+      "summary": "总统指责民主党人将美国对以色列的援助武器化，作为攻击共和党人的“谈话要点”。",
+      "date": "2026-11-03T15:09:51Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump says US 'won't be paying Israel' by end of year"
+      }
+    },
+    {
+      "id": "evt_47321ac3",
+      "title": "美国在中期选举前袭击伊朗岛",
+      "summary": "据英国广播公司的美国合作伙伴哥伦比亚广播公司称，美国官员将格什姆岛的袭击描述为有限和防御性的。",
+      "date": "2026-11-03T11:33:33Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US strikes Iranian island ahead of midterm elections"
       }
     },
     {
@@ -738,62 +766,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Jordan carries out deadly strike in Syria in retaliation for church attack"
-      }
-    },
-    {
-      "id": "evt_8ea436ec",
-      "title": "以色列和美国都将参加民意调查-后果将是全球性的",
-      "summary": "接下来的两周将在不同的大陆举行两次选举。结果将塑造地缘政治和全球经济，詹姆斯·兰代尔写道",
-      "date": "2026-10-26T16:30:34Z",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel and the US are both going to the polls - the consequences will be global"
-      }
-    },
-    {
-      "id": "evt_0bff6f0d",
-      "title": "以色列的选举是如何运作的？谁是主要的竞争者？",
-      "summary": "以色列将于周二前往民意调查，许多人认为这是该国历史上最关键的选举之一。",
-      "date": "2026-10-25T17:13:51Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "How do Israel's elections work and who are the main contenders?"
       }
     },
     {
