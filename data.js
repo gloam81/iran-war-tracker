@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-11-05T04:34:32.213353Z
+// 自动生成的数据 - 更新时间: 2026-11-06T04:33:06.053642Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-11-05T04:34:32.213267Z",
-    "totalEvents": 30,
+    "lastUpdate": "2026-11-06T04:33:06.053599Z",
+    "totalEvents": 34,
     "sources": {
-      "international": 16,
+      "international": 20,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,100 +13,16 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_16b5f8a6",
-      "title": "叙利亚、沙特阿拉伯签署防务合作协议，同意4.03亿美元贷款",
-      "summary": "叙利亚总统沙拉在不到一个月内第二次访问利雅得时签署了防务合作协议。",
-      "date": "2026-11-05T03:46:13Z",
-      "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+      "id": "evt_02c34aac",
+      "title": "伊朗安全局局长会见普京，传递哈梅内伊的信息",
+      "summary": "普京会见了伊朗最高安全官员，讨论地区安全问题，并收到了哈梅内伊的一封信。",
+      "date": "2026-11-06T02:48:19Z",
+      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 33.5138,
-        "lng": 36.2765,
-        "name": "叙利亚"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans"
-      }
-    },
-    {
-      "id": "evt_8817fa1d",
-      "title": "前以色列将军帮助巴勒斯坦橄榄种植者",
-      "summary": "一群前以色列军事将领向被占领的约旦河西岸的巴勒斯坦橄榄种植者提供了帮助。",
-      "date": "2026-11-05T02:52:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Former Israeli generals help Palestinian olive farmers"
-      }
-    },
-    {
-      "id": "evt_04846d9e",
-      "title": "以色列的赫尔佐格接受投票结果，开始就组建政府进行谈判",
-      "summary": "此举打击了内塔尼亚胡诋毁选举的努力，他和他的盟友在这次选举中失去了多数席位。",
-      "date": "2026-11-05T01:53:30Z",
-      "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel’s Herzog accepts vote results, opens talks on forming a government"
-      }
-    },
-    {
-      "id": "evt_932f5ccb",
-      "title": "民主党赢得了国会。但他们能兑现承诺吗？",
-      "summary": "尽管他们在中期选举中获胜，但民主党在控制特朗普、关税等问题上面临重大障碍。",
-      "date": "2026-11-05T00:25:43Z",
-      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -121,7 +37,259 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Democrats won Congress. But can they deliver on their promises?"
+        "en": "Iran’s security chief meets Putin, delivers message from Khamenei"
+      }
+    },
+    {
+      "id": "evt_2ed7cc91",
+      "title": "加沙将废弃的烹饪锅变成海堤",
+      "summary": "随着冬季的临近，加沙的巴勒斯坦人正在将受损的烹饪锅变成临时海堤，以避免洪水泛滥。",
+      "date": "2026-11-06T02:03:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza turns discarded cooking pots into seawalls"
+      }
+    },
+    {
+      "id": "evt_146e7d5d",
+      "title": "以色列定居者放火焚烧拉马拉附近的巴勒斯坦橄榄园",
+      "summary": "以色列定居者在拉马拉附近的Burqa村放火焚烧了属于巴勒斯坦农民的橄榄树。",
+      "date": "2026-11-06T00:19:57Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli settlers set fire to Palestinian olive grove near Ramallah"
+      }
+    },
+    {
+      "id": "evt_70efb3be",
+      "title": "土耳其议会批准麦加防务协议",
+      "summary": "议会的批准为土耳其进一步介入沙特阿拉伯与胡塞武装的冲突奠定了基础。",
+      "date": "2026-11-06T00:15:22Z",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Turkiye’s parliament ratifies Mecca defence agreement"
+      }
+    },
+    {
+      "id": "evt_daa0bcbb",
+      "title": "伊朗战争现场：特朗普警告美国可能不得不“摧毁”伊朗其他地区",
+      "summary": "特朗普表示，美国可能不得不“摧毁”伊朗其他地区，并补充说，人们“很快就会知道”。",
+      "date": "2026-11-06T00:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran"
+      }
+    },
+    {
+      "id": "evt_1cf4e29a",
+      "title": "韩国驻伊朗大使馆在2026年韩国周期间举办韩国-伊朗艺术展",
+      "summary": "TEHRAN -为了生动地庆祝文化外交，大韩民国驻伊朗大使馆在金俊平大使的带领下，于11月5日在大使官邸举办了韩国-伊朗艺术展VIP开幕式，这是2026年韩国周的一部分。",
+      "date": "2026-11-05T23:46:51Z",
+      "url": "https://www.tehrantimes.com/news/531851/Korean-embassy-in-Iran-bridges-cultures-through-Korea-Iran-art",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531851/Korean-embassy-in-Iran-bridges-cultures-through-Korea-Iran-art"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Korean embassy in Iran bridges cultures through Korea–Iran art exhibition during Korea Week 2026"
+      }
+    },
+    {
+      "id": "evt_02771292",
+      "title": "Z一代和年轻选民在中期选举后帮助重新定义美国政治",
+      "summary": "Melat Kiros成为第一位入选国会的Z世代女性，体现了政治代表性的新时代。",
+      "date": "2026-11-05T21:49:31Z",
+      "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Generation Z and young voters help redefine US politics after midterms"
+      }
+    },
+    {
+      "id": "evt_41f43795",
+      "title": "以色列在比杜拆除房屋导致100多名巴勒斯坦人流离失所",
+      "summary": "以色列军队在被占领的约旦河西岸比杜拆毁了五栋房屋，造成100多人流离失所。",
+      "date": "2026-11-05T21:33:40Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli demolitions displace more than 100 Palestinians in Biddu"
+      }
+    },
+    {
+      "id": "evt_ecaea7d7",
+      "title": "沙特联军拦截向麦地那发射的导弹",
+      "summary": "在拦截之前，沙特民防机构警告说，战略港口延布附近存在潜在危险。",
+      "date": "2026-11-05T20:48:47Z",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Saudi coalition intercepts missile fired towards Medina"
+      }
+    },
+    {
+      "id": "evt_861f2fd7",
+      "title": "伊朗女子五人制足球在2026年青年奥运会上击败意大利",
+      "summary": "德黑兰--周四，伊朗女子五人制足球队在2026年青年奥运会上以3比1击败意大利。",
+      "date": "2026-11-05T18:09:01Z",
+      "url": "https://www.tehrantimes.com/news/531850/Iran-s-girls-futsal-beat-Italy-in-2026-Youth-Olympic-Games",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531850/Iran-s-girls-futsal-beat-Italy-in-2026-Youth-Olympic-Games"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran's girls' futsal beat Italy in 2026 Youth  Olympic  Games"
       }
     },
     {
@@ -486,62 +654,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran's chief negotiator says Americans voted 'no to war'"
-      }
-    },
-    {
-      "id": "evt_6b419166",
-      "title": "伊朗科学家为可能爆发的新战争研发“惊人武器” ：官方",
-      "summary": "德黑兰--一名高级国防官员周三表示，伊朗国防部科学家已经开发出具有惊人能力的新武器，为任何潜在的未来冲突做准备。",
-      "date": "2026-11-04T16:58:30Z",
-      "url": "https://www.tehrantimes.com/news/531840/Iran-s-scientists-develop-surprise-weapons-for-possible-new",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531840/Iran-s-scientists-develop-surprise-weapons-for-possible-new"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran's scientists develop ‘surprise weapons’ for possible new war: official"
-      }
-    },
-    {
-      "id": "evt_e55d56ae",
-      "title": "伊朗官员将共和党大选失败与美国对伊朗的战争联系起来",
-      "summary": "德黑兰--伊朗官员将共和党在美国中期选举中的预计失败描述为拒绝唐纳德·特朗普总统的政策，特别是他对伊朗的战争，称这一结果反映了公众对华盛顿军事冒险主义及其经济后果的日益反对。",
-      "date": "2026-11-04T16:55:06Z",
-      "url": "https://www.tehrantimes.com/news/531839/Iranian-officials-link-Republican-election-defeat-to-US-war-against",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531839/Iranian-officials-link-Republican-election-defeat-to-US-war-against"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian officials link Republican election defeat to US war against Iran"
       }
     },
     {
