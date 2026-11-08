@@ -1,28 +1,28 @@
-// 自动生成的数据 - 更新时间: 2026-11-07T03:59:11.427873Z
+// 自动生成的数据 - 更新时间: 2026-11-08T03:44:55.666596Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-11-07T03:59:11.427834Z",
-    "totalEvents": 30,
+    "lastUpdate": "2026-11-08T03:44:55.666520Z",
+    "totalEvents": 33,
     "sources": {
-      "international": 17,
-      "iranian": 13,
+      "international": 19,
+      "iranian": 14,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_834bfcd2",
-      "title": "伊朗战争现场：卡塔尔称美国、伊朗不应等待达成和平协议",
-      "summary": "卡塔尔首相敦促美国和伊朗不要等待达成结束战争协议的“完美时机”。",
-      "date": "2026-11-07T00:00:00Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "id": "evt_498a9ea3",
+      "title": "美国启动特遣部队扰乱伊朗的陆上供应路线",
+      "summary": "美国表示，此次行动是为了防止伊朗使用地面路线运输武器和其他材料。",
+      "date": "2026-11-08T02:34:04Z",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,20 +37,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal"
+        "en": "US launches task force to disrupt Iran’s land-based supply routes"
       }
     },
     {
-      "id": "evt_bf0aab66",
-      "title": "特朗普对伊朗的不令人信服的叙述如何使他失去了美国的中期选举",
-      "summary": "唐纳德·特朗普和共和党人难以在美国中期选举中取得历史性的失败。",
-      "date": "2026-11-06T23:07:22Z",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "id": "evt_53322293",
+      "title": "伊朗战争现场：美国采取行动封锁陆地供应路线；阿联酋营救22名水手",
+      "summary": "伊朗国家媒体报道了霍尔木兹海峡格什姆岛以及贾斯克、西里克和阿巴斯港等城市的爆炸事件。",
+      "date": "2026-11-08T00:00:56Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -65,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "How Trump’s unconvincing narrative on Iran lost him the US midterms"
+        "en": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors"
       }
     },
     {
-      "id": "evt_59f11637",
-      "title": "巴勒斯坦夫妇在加沙举行群众婚礼",
-      "summary": "尽管以色列对加沙发动了种族灭绝战争，但仍有250对夫妇聚集在一起庆祝爱情和新的开始。",
-      "date": "2026-11-06T21:37:30Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "id": "evt_a64bd752",
+      "title": "艾森科特选择内塔尼亚胡组建以色列下届政府",
+      "summary": "以色列总统要求反对派领导人加迪·艾森科特（ Gadi Eisenkot ）组建下一届政府，而不是总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）",
+      "date": "2026-11-07T23:45:45Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,20 +93,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Palestinian couples tie the knot in mass wedding in Gaza"
+        "en": "Eisenkot chosen over Netanyahu to form Israel’s next government"
       }
     },
     {
-      "id": "evt_784708de",
-      "title": "内塔尼亚胡被指控在选举失败后企图“政变”",
-      "summary": "以色列政界人士和评论家指责本雅明·内塔尼亚胡总理在10月27日大选失败后企图发动政变，此前以色列巴勒斯坦公民中出现了历史性的投票率。",
-      "date": "2026-11-06T17:07:35Z",
-      "url": "https://www.tehrantimes.com/news/531888/Netanyahu-accused-of-attempting-coup-after-election-defeat",
+      "id": "evt_0f717754",
+      "title": "以色列总统责成反对派领导人艾森科特组建政府",
+      "summary": "本雅明·内塔尼亚胡（ Benjamin Netanyahu ）总理和他的对手都没有在上周的选举中获得多数席位。",
+      "date": "2026-11-07T22:19:59Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531888/Netanyahu-accused-of-attempting-coup-after-election-defeat"
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -121,48 +121,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Netanyahu accused of attempting ‘coup’ after election defeat"
+        "en": "Israel's president tasks opposition leader Eisenkot with forming government"
       }
     },
     {
-      "id": "evt_29c77244",
-      "title": "伊朗让华盛顿跪下",
-      "summary": "德黑兰–烈士领袖阿亚图拉·阿里·哈梅内伊（ Ayatollah Ali Khamenei ）在2026年1月3日寒冷的夜晚说： “我们将使敌人屈服。”",
-      "date": "2026-11-06T17:05:25Z",
-      "url": "https://www.tehrantimes.com/news/531887/Iran-brings-Washington-to-its-knees",
+      "id": "evt_a457e41a",
+      "title": "梅朗雄承诺，如果当选总统，将采取行动反对以色列的吞并",
+      "summary": "梅朗雄承诺，如果当选总统，将采取行动反对以色列的吞并",
+      "date": "2026-11-07T20:53:47Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
       "sources": [
         {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531887/Iran-brings-Washington-to-its-knees"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran brings Washington to its knees"
-      }
-    },
-    {
-      "id": "evt_d2f87bd7",
-      "title": "三年地区对抗的结果：新联盟的出现",
-      "summary": "伦敦-自10月7日以来在整个西亚地区发生的对抗的结果必须从所有相互关联的方面来理解，包括加沙、黎巴嫩和最近的伊朗。美国-以色列对伊朗的侵略最终将决定所有这些战线上的冲突的总体结果以及所发生的变化。",
-      "date": "2026-11-06T16:56:17Z",
-      "url": "https://www.tehrantimes.com/news/531886/Outcome-of-three-years-of-regional-confrontation-The-emergence",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531886/Outcome-of-three-years-of-regional-confrontation-The-emergence"
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -177,20 +149,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Outcome of three years of regional confrontation: The emergence of new alliances"
+        "en": "Mélenchon promises action against Israeli annexation if elected President"
       }
     },
     {
-      "id": "evt_955bdd3f",
-      "title": "伊斯兰革命卫队顾问：美军已将海军资产撤离伊朗边境1000多公里",
-      "summary": "德黑兰--伊朗伊斯兰革命卫队（ IRGC ）司令咨询小组负责人阿里·法达维（ Ali Fadavi ）少将表示，在最近的冲突中，美军已将其海军舰艇和装备转移到距离伊朗边境1000多公里的地方，并警告称，任何接近该地区的企图都已得到伊朗武装部队的迅速回应。",
-      "date": "2026-11-06T16:47:15Z",
-      "url": "https://www.tehrantimes.com/news/531884/IRGC-adviser-US-forces-have-pulled-naval-assets-more-than-1-000",
+      "id": "evt_86e65c72",
+      "title": "以色列总统选择艾森科特而不是内塔尼亚胡组建下届政府",
+      "summary": "艾萨克·赫尔佐格（ Isaac Herzog ）正式给予加迪·艾森科特（ Gadi Eisenkot ） 28天的时间，以确保获得61个议会席位并取代内塔尼亚胡担任总理",
+      "date": "2026-11-07T20:26:58Z",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israel’s president picks Eisenkot over Netanyahu to form next government"
+      }
+    },
+    {
+      "id": "evt_6b939ce2",
+      "title": "以色列继续在黎巴嫩南部进行拆除和轰炸",
+      "summary": "德黑兰--周六，以色列工兵部队在南部城镇巴尼海扬（ Bani Hayyan ）引爆了建筑物，与此同时，炮兵炮击了胡贾尔谷（ Wadi al-Hujair ）郊区，结束了黎巴嫩南部又一天的激烈军事行动，这暴露了华盛顿外交姿态的真空。",
+      "date": "2026-11-07T17:56:03Z",
+      "url": "https://www.tehrantimes.com/news/531910/Israel-continues-demolitions-and-bombardment-in-southern-Lebanon",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531884/IRGC-adviser-US-forces-have-pulled-naval-assets-more-than-1-000"
+          "url": "https://www.tehrantimes.com/news/531910/Israel-continues-demolitions-and-bombardment-in-southern-Lebanon"
         }
       ],
       "category": "military",
@@ -205,20 +205,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "IRGC adviser: US forces have pulled naval assets more than 1,000 kilometers from Iran’s borders"
+        "en": "Israel continues demolitions and bombardment in southern Lebanon"
       }
     },
     {
-      "id": "evt_2bb8fe7f",
-      "title": "伊斯兰革命卫队在格什姆岛上空击落另外两架美国MQM-170侦察无人机",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）表示，其电子战系统在伊朗南部的格什姆岛上空又击落了两架美国制造的MQM-170侦察无人机，使在那里拦截的无人机数量达到6架。",
-      "date": "2026-11-06T16:44:52Z",
-      "url": "https://www.tehrantimes.com/news/531883/IRGC-downs-two-more-US-MQM-170-reconnaissance-drones-over-Qeshm",
+      "id": "evt_03417cf0",
+      "title": "美以军事援助：结束依赖，还是开启新篇章？",
+      "summary": "德黑兰--11月3日，特朗普总统表示，美国将在年底前结束对以色列约40亿美元的年度援助。",
+      "date": "2026-11-07T17:55:49Z",
+      "url": "https://www.tehrantimes.com/news/531911/US-Israel-military-aid-End-of-dependence-or-a-new-chapter",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531883/IRGC-downs-two-more-US-MQM-170-reconnaissance-drones-over-Qeshm"
+          "url": "https://www.tehrantimes.com/news/531911/US-Israel-military-aid-End-of-dependence-or-a-new-chapter"
         }
       ],
       "category": "military",
@@ -233,20 +233,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "IRGC downs two more US MQM-170 reconnaissance drones over Qeshm Island"
+        "en": "US-Israel military aid: End of dependence, or a new chapter?"
       }
     },
     {
-      "id": "evt_f498e975",
-      "title": "伊朗电影院、法国大使馆愿意实施文化、电影节目",
-      "summary": "德黑兰--伊朗电影院首席执行官Homayoun Asadian在德黑兰“新浪潮”会议期间会见了法国驻德黑兰大使Pierre Cochard ，并讨论了扩大文化合作和组织联合电影节目。",
-      "date": "2026-11-06T16:41:10Z",
-      "url": "https://www.tehrantimes.com/news/531853/Iranian-House-of-Cinema-French-Embassy-willing-to-implement",
+      "id": "evt_c7a38b52",
+      "title": "巴林什叶派领导人敦促和平捍卫面临大规模审判的酷刑被告",
+      "summary": "德黑兰--巴林统治者于2016年剥夺其公民身份的什叶派高级神职人员谢赫·伊萨·卡西姆（ Sheikh Isa Qassim ）周五敦促公众和平地站在等待11月8日法庭判决的60名神职人员身后，并警告君主制，基于“捏造和诽谤性指控”的案件可能会产生严重后果。",
+      "date": "2026-11-07T17:55:19Z",
+      "url": "https://www.tehrantimes.com/news/531909/Bahrain-s-Shia-leader-urges-peaceful-defense-of-tortured-defendants",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531853/Iranian-House-of-Cinema-French-Embassy-willing-to-implement"
+          "url": "https://www.tehrantimes.com/news/531909/Bahrain-s-Shia-leader-urges-peaceful-defense-of-tortured-defendants"
         }
       ],
       "category": "military",
@@ -261,20 +261,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iranian House of Cinema, French Embassy willing to implement cultural, cinematic programs"
+        "en": "Bahrain’s Shia leader urges peaceful defense of tortured defendants facing mass trial"
       }
     },
     {
-      "id": "evt_9dacf93b",
-      "title": "艺术家向殉难的Minab学童致敬",
-      "summary": "德黑兰--周三，在国家学生节之际，一群来自戏剧、电影、电视和音乐领域的伊朗艺术家访问了南部城市米纳布，向在以色列对Shajareh Tayyebeh学校的袭击中丧生的学童致敬。",
-      "date": "2026-11-06T16:40:34Z",
-      "url": "https://www.tehrantimes.com/news/531865/Artists-pay-tribute-to-martyred-Minab-schoolchildren",
+      "id": "evt_31e38080",
+      "title": "特朗普通过提升其被拒绝议程的“极端主义”设计师来应对中期失败",
+      "summary": "德黑兰--就在共和党人在周二的选举中失去对国会的控制权几天后，唐纳德·特朗普总统周五任命斯蒂芬·米勒（ Stephen Miller ）为白宫办公厅主任。米勒是政府移民和驱逐战略的主要设计师，取代了苏茜·怀尔斯，并于周一正式就职。",
+      "date": "2026-11-07T17:54:37Z",
+      "url": "https://www.tehrantimes.com/news/531912/Trump-answers-midterm-defeat-by-elevating-the-extremist-architect",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531865/Artists-pay-tribute-to-martyred-Minab-schoolchildren"
+          "url": "https://www.tehrantimes.com/news/531912/Trump-answers-midterm-defeat-by-elevating-the-extremist-architect"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump answers midterm defeat by elevating the ‘extremist’ architect of his rejected agenda"
+      }
+    },
+    {
+      "id": "evt_f7ed4695",
+      "title": "TMoCA电影院将放映有关伊朗的法国纪录片",
+      "summary": "德黑兰--在“寻找伊朗：德黑兰当代艺术博物馆收藏”展览的同时，一个名为“在电影中寻找伊朗”的节目将在博物馆的电影院举行。",
+      "date": "2026-11-07T17:54:03Z",
+      "url": "https://www.tehrantimes.com/news/531890/TMoCA-cinematheque-to-show-French-documentary-about-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531890/TMoCA-cinematheque-to-show-French-documentary-about-Iran"
         }
       ],
       "category": "military",
@@ -289,20 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Artists pay tribute to martyred Minab schoolchildren"
+        "en": "TMoCA cinematheque to show French documentary about Iran"
       }
     },
     {
-      "id": "evt_c217b615",
-      "title": "“燃烧的平原”在第19届国际抵抗电影节上领先获奖者",
-      "summary": "TEHRAN -伊朗故事片“燃烧的平原”是第19届国际抵抗电影节的最大赢家，在周四于德黑兰米拉德塔会议中心举行的闭幕式上获得了包括最佳电影和最佳导演在内的六个奖项。",
-      "date": "2026-11-06T16:40:01Z",
-      "url": "https://www.tehrantimes.com/news/531864/Burning-Plain-leads-winners-at-19th-International-Resistance",
+      "id": "evt_7a30cf84",
+      "title": "第19届Mehr Muharram比赛摄影展在Semnan开幕",
+      "summary": "德黑兰–第19届Mehr Muharram国际数字媒体大赛的摄影展于11月7日星期六在塞姆南启动，展出伊朗和其他12个国家的摄影师的作品。",
+      "date": "2026-11-07T17:53:38Z",
+      "url": "https://www.tehrantimes.com/news/531891/Photo-exhibition-of-19th-Mehr-Muharram-contest-opens-in-Semnan",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531864/Burning-Plain-leads-winners-at-19th-International-Resistance"
+          "url": "https://www.tehrantimes.com/news/531891/Photo-exhibition-of-19th-Mehr-Muharram-contest-opens-in-Semnan"
         }
       ],
       "category": "military",
@@ -317,20 +345,76 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "‘Burning Plain’ leads winners at 19th International Resistance Film Festival"
+        "en": "Photo exhibition of 19th Mehr Muharram contest opens in Semnan"
       }
     },
     {
-      "id": "evt_edca3a97",
-      "title": "领导顾问：伊朗对西亚新兴区域秩序不可或缺",
-      "summary": "德黑兰--伊斯兰革命领袖国际事务顾问阿里·阿克巴尔·维拉亚提（ Ali Akbar Velayati ）将伊朗描述为西亚新兴区域秩序的主要设计者之一，并警告说，任何地缘政治安排都不能使伊斯兰共和国边缘化或破坏其安全利益，尤其是在南高加索地区。",
-      "date": "2026-11-06T16:38:22Z",
-      "url": "https://www.tehrantimes.com/news/531882/Leader-adviser-Iran-is-indispensable-to-West-Asia-s-emerging",
+      "id": "evt_d3483fae",
+      "title": "Mehr Media Group首席执行官在北京峰会上提出新闻业人工智能的国际合作",
+      "summary": "TEHRAN - Mehr Media Group首席执行官Mohammad Mahdi Rahmati在北京第七届世界媒体峰会期间提议成立一个国际工作组，就新闻业人工智能进行合作和知识共享，并共同投资开发一个开源的人工智能驱动的编辑管理系统。",
+      "date": "2026-11-07T17:53:01Z",
+      "url": "https://www.tehrantimes.com/news/531900/Mehr-Media-Group-CEO-proposes-international-cooperation-on-AI",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531882/Leader-adviser-Iran-is-indispensable-to-West-Asia-s-emerging"
+          "url": "https://www.tehrantimes.com/news/531900/Mehr-Media-Group-CEO-proposes-international-cooperation-on-AI"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Mehr Media Group CEO proposes international cooperation on AI in journalism at Beijing summit"
+      }
+    },
+    {
+      "id": "evt_0b011375",
+      "title": "工业，采矿，贸易部长访问，在阿尔达比勒省开设工业单位",
+      "summary": "TEHRAN -工业、矿业和贸易部长周六前往阿尔达比勒省，参观了几个生产项目，并开设了一个工业单位。",
+      "date": "2026-11-07T17:52:35Z",
+      "url": "https://www.tehrantimes.com/news/531905/Industry-mining-trade-minister-visits-inaugurates-industrial",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531905/Industry-mining-trade-minister-visits-inaugurates-industrial"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Industry, mining, trade minister visits, inaugurates industrial units in Ardabil province"
+      }
+    },
+    {
+      "id": "evt_3b99c5db",
+      "title": "伊朗馆在上海中国国际进口博览会上开幕",
+      "summary": "TEHRAN -伊朗贸易促进组织组织负责人兼东部和次大陆办事处总干事助理宣布，经伊朗贸易促进组织授权，在上海中国国际进口博览会（ CIIE ）上建立伊朗伊斯兰共和国国家和商业展馆。",
+      "date": "2026-11-07T17:51:20Z",
+      "url": "https://www.tehrantimes.com/news/531903/Iran-pavilion-opens-at-China-International-Import-Expo-in-Shanghai",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531903/Iran-pavilion-opens-at-China-International-Import-Expo-in-Shanghai"
         }
       ],
       "category": "military",
@@ -345,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Leader adviser: Iran is indispensable to West Asia’s emerging regional order"
+        "en": "Iran pavilion opens at China International Import Expo in Shanghai"
       }
     },
     {
-      "id": "evt_c2579003",
-      "title": "两艘油轮袭击霍尔木兹海峡水雷：伊斯兰革命卫队海军",
-      "summary": "德黑兰--伊斯兰革命卫队（ IRGC ）海军表示，两艘试图通过霍尔木兹海峡（ Strait of Hormuz ）的未经授权航线的油轮触雷并着火。",
-      "date": "2026-11-06T16:34:35Z",
-      "url": "https://www.tehrantimes.com/news/531881/Two-tankers-strike-mines-in-Strait-of-Hormuz-IRGC-Navy",
+      "id": "evt_60d25716",
+      "title": "CBI州长强调支持重建天然气行业",
+      "summary": "TEHRAN -伊朗中央银行行长在访问南帕尔斯期间，强调为重建受损设施提供资金，并恢复该国三分之一的天然气产量。",
+      "date": "2026-11-07T17:50:42Z",
+      "url": "https://www.tehrantimes.com/news/531902/CBI-governor-emphasizes-support-for-rebuilding-gas-industry",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531881/Two-tankers-strike-mines-in-Strait-of-Hormuz-IRGC-Navy"
+          "url": "https://www.tehrantimes.com/news/531902/CBI-governor-emphasizes-support-for-rebuilding-gas-industry"
         }
       ],
       "category": "military",
@@ -373,20 +457,48 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Two tankers strike mines in Strait of Hormuz: IRGC Navy"
+        "en": "CBI governor emphasizes support for rebuilding gas industry"
       }
     },
     {
-      "id": "evt_2919c1c0",
-      "title": "SNSC负责人说，伊朗在战场上和投票箱上对特朗普造成了战略性失败",
-      "summary": "德黑兰--伊朗最高国家安全委员会（ SNSC ）秘书长穆赫森·雷扎伊（ Mohsen Rezaei ）少将将美国中期选举的结果描述为唐纳德·特朗普总统的重大战略挫折，称伊朗国家已经在战场上和霍尔木兹海峡取得了重大失败，然后在国内造成了政治打击。",
-      "date": "2026-11-06T16:32:44Z",
-      "url": "https://www.tehrantimes.com/news/531880/Iran-inflicted-a-strategic-defeat-on-Trump-on-the-battlefield",
+      "id": "evt_f735423f",
+      "title": "国家大坝储量增长57%",
+      "summary": "TEHRAN -该国大坝水库的水量达到225.8亿立方米，与去年相比增长了30 ％。",
+      "date": "2026-11-07T17:49:18Z",
+      "url": "https://www.tehrantimes.com/news/531901/Country-s-dam-reserves-up-57",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531880/Iran-inflicted-a-strategic-defeat-on-Trump-on-the-battlefield"
+          "url": "https://www.tehrantimes.com/news/531901/Country-s-dam-reserves-up-57"
+        }
+      ],
+      "category": "diplomatic",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Country’s dam reserves up 57%"
+      }
+    },
+    {
+      "id": "evt_62b376ff",
+      "title": "伊斯兰革命卫队将推出新的地下导弹城市，誓言不间断地生产武器",
+      "summary": "德黑兰–伊朗伊斯兰革命卫队（ IRGC ）发言人宣布计划推出一个新的地下导弹生产综合体和其他几项军事成就，同时强调该国的武器制造和开发计划将继续不间断，即使在敌人的轰炸下。",
+      "date": "2026-11-07T17:48:17Z",
+      "url": "https://www.tehrantimes.com/news/531921/IRGC-to-unveil-new-underground-missile-city-vows-uninterrupted",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531921/IRGC-to-unveil-new-underground-missile-city-vows-uninterrupted"
         }
       ],
       "category": "military",
@@ -401,48 +513,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran inflicted a strategic defeat on Trump on the battlefield and at the ballot box, SNSC chief says"
+        "en": "IRGC to unveil new underground missile city, vows uninterrupted weapons production"
       }
     },
     {
-      "id": "evt_a93da932",
-      "title": "攻击、谈判或持续的不确定性",
-      "summary": "Shargh研究了以共和党失败告终的美国中期选举后的伊朗-美国关系状况。美国外交关系委员会在唐纳德·特朗普之前看到了三条可能的道路：重新进行军事打击，在保持军事压力的同时进行谈判，或者保持目前的局势，希望持续的压力将迫使伊朗做出让步。",
-      "date": "2026-11-06T16:29:45Z",
-      "url": "https://www.tehrantimes.com/news/531879/Attack-negotiations-or-continued-uncertainty",
+      "id": "evt_e7798549",
+      "title": "联合国特别报告员将米纳布学校袭击描述为战争罪：伊朗官员",
+      "summary": "德黑兰--据一名伊朗司法官员称，联合国特别报告员将2月28日美以袭击伊朗南部米纳布Shajareh Tayyebeh学校的行为定性为战争罪和侵略罪。",
+      "date": "2026-11-07T17:45:07Z",
+      "url": "https://www.tehrantimes.com/news/531919/UN-special-rapporteur-describes-Minab-school-attack-as-war-crime",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531879/Attack-negotiations-or-continued-uncertainty"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Attack, negotiations, or continued uncertainty"
-      }
-    },
-    {
-      "id": "evt_e5bbd373",
-      "title": "美国对伊朗核设施的威胁反映了华盛顿日益增长的绝望： Eslami",
-      "summary": "德黑兰--伊朗原子能组织（ AEOI ）负责人穆罕默德·埃斯拉米（ Mohammad Eslami ）表示，华盛顿一再威胁要攻击伊朗的核设施，这是日益绝望的迹象，因为美国未能通过压力和恐吓实现其目标。",
-      "date": "2026-11-06T16:23:16Z",
-      "url": "https://www.tehrantimes.com/news/531878/US-threats-against-Iranian-nuclear-sites-reflect-Washington-s",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531878/US-threats-against-Iranian-nuclear-sites-reflect-Washington-s"
+          "url": "https://www.tehrantimes.com/news/531919/UN-special-rapporteur-describes-Minab-school-attack-as-war-crime"
         }
       ],
       "category": "military",
@@ -457,7 +541,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US threats against Iranian nuclear sites reflect Washington’s growing desperation: Eslami"
+        "en": "UN special rapporteur describes Minab school attack as war crime: Iranian official"
+      }
+    },
+    {
+      "id": "evt_87c5d2b3",
+      "title": "伊朗战争标志着向非极性世界秩序的构造转变：全球事务学者",
+      "summary": "TEHRAN- Arshin Adib-Moghaddam ， SOAS伦敦大学全球思想和比较哲学教授，是国际政治、伊朗研究和比较哲学的领先学者。他共同领导该大学的人工智能未来中心和伊朗研究中心。他的新书《The Myth of Good AI: A Manifesto for Critical Artificial Intelligence》探讨了人工智能的批判观点。",
+      "date": "2026-11-07T17:41:22Z",
+      "url": "https://www.tehrantimes.com/news/531918/The-Iran-war-signals-a-tectonic-shift-toward-a-non-polar-world",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531918/The-Iran-war-signals-a-tectonic-shift-toward-a-non-polar-world"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The Iran war signals a tectonic shift toward a non-polar world order: global affairs scholar"
       }
     },
     {
@@ -822,34 +934,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Israel's election result is messy - here's why"
-      }
-    },
-    {
-      "id": "evt_3cd2ae19",
-      "title": "围绕兵役的激烈争吵可能会塑造以色列的未来",
-      "summary": "极端东正教社区正在抵制被以色列军队征召入伍。但他们现在会推翻内塔尼亚胡政府吗？",
-      "date": "2026-10-24T23:03:21Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The bitter row over military service that could shape Israel's future"
       }
     }
   ]
