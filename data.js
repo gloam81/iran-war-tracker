@@ -1,28 +1,448 @@
-// 自动生成的数据 - 更新时间: 2026-11-08T03:44:55.666596Z
+// 自动生成的数据 - 更新时间: 2026-11-09T03:57:20.827541Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-11-08T03:44:55.666520Z",
-    "totalEvents": 33,
+    "lastUpdate": "2026-11-09T03:57:20.827480Z",
+    "totalEvents": 35,
     "sources": {
-      "international": 19,
-      "iranian": 14,
+      "international": 22,
+      "iranian": 13,
       "social": 0,
       "osm": 0
     }
   },
   "events": [
     {
-      "id": "evt_498a9ea3",
-      "title": "美国启动特遣部队扰乱伊朗的陆上供应路线",
-      "summary": "美国表示，此次行动是为了防止伊朗使用地面路线运输武器和其他材料。",
-      "date": "2026-11-08T02:34:04Z",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "id": "evt_c22cdc52",
+      "title": "特朗普在中国间谍指控中为英伟达首席执行官辩护",
+      "summary": "唐纳德·特朗普(Donald Trump)为英伟达(Nvidia)首席执行官黄延森(Jensen Huang)辩护，后者承认与一名涉嫌为中国从事间谍活动的女性",
+      "date": "2026-11-09T03:26:21Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Trump defends Nvidia CEO amid Chinese spying allegations"
+      }
+    },
+    {
+      "id": "evt_3a787182",
+      "title": "摩尔多瓦推出通往罗马尼亚的新电力线，以减少对俄罗斯的依赖",
+      "summary": "摩尔多瓦总统马亚·桑杜（ Maia Sandu ）表示， “另外两条通往罗马尼亚的电力线正在路上”。",
+      "date": "2026-11-09T02:35:15Z",
+      "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Moldova launches new power line to Romania to cut reliance on Russia"
+      }
+    },
+    {
+      "id": "evt_3e2be3fa",
+      "title": "无人机袭击伊拉克库尔德斯坦气田引发大规模停电",
+      "summary": "无人机袭击导致伊拉克北部霍尔莫尔气田停产，导致大范围停电。",
+      "date": "2026-11-09T02:23:11Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout"
+      }
+    },
+    {
+      "id": "evt_6fd889aa",
+      "title": "无人机袭击暂停伊拉克Khor Mor气田的生产",
+      "summary": "这次罢工使伊拉克北部70 ％以上的库尔德地区没有电力。",
+      "date": "2026-11-09T01:19:09Z",
+      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Drone attack suspends production at Iraq’s Khor Mor gasfield"
+      }
+    },
+    {
+      "id": "evt_19c7d79f",
+      "title": "伊朗战争现场：特朗普与习近平会谈，普京谈论德黑兰， “无核化”",
+      "summary": "特朗普表示，伊朗陆地封锁现在已经生效，因为德黑兰威胁说，如果美国恢复进攻，将“下地狱”。",
+      "date": "2026-11-09T00:00:34Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’"
+      }
+    },
+    {
+      "id": "evt_674756de",
+      "title": "英伟达首席执行官事件引发中国间谍调查",
+      "summary": "英伟达首席执行官黄延森（ Jensen Huang ）承认与一名涉嫌为中国从事间谍活动的女性有染。",
+      "date": "2026-11-08T23:58:53Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Nvidia CEO’s affair sparks Chinese espionage probe"
+      }
+    },
+    {
+      "id": "evt_eb994d5f",
+      "title": "默兹总理提名艾格纳为德国首位女总统",
+      "summary": "巴伐利亚州议会议长Ilse Aigner属于巴伐利亚基督教社会联盟（ CSU ）党。",
+      "date": "2026-11-08T23:39:47Z",
+      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Chancellor Merz to nominate Aigner as Germany’s first woman president"
+      }
+    },
+    {
+      "id": "evt_2deba966",
+      "title": "美国芯片制造商英伟达（ Nvidia ）调查首席执行官黄延森（ Jensen Huang ）的事件",
+      "summary": "Huang证实，他与一名被指控为中国从事间谍活动的女性有染。",
+      "date": "2026-11-08T22:16:10Z",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US chipmaker Nvidia investigates CEO Jensen Huang over affair"
+      }
+    },
+    {
+      "id": "evt_0b0b8e37",
+      "title": "风暴淹没了加沙的7万顶帐篷，因为以色列将避难所供应品拒之门外",
+      "summary": "德黑兰--周五晚些时候开始的降雨淹没了加沙地带约7万个帐篷，导致成千上万流离失所的巴勒斯坦人被湿透的床上用品淹没，没有干地，几乎没有人能够提供帮助。",
+      "date": "2026-11-08T17:32:24Z",
+      "url": "https://www.tehrantimes.com/news/531946/Storm-floods-70-000-tents-in-Gaza-as-Israel-keeps-shelter-supplies",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531946/Storm-floods-70-000-tents-in-Gaza-as-Israel-keeps-shelter-supplies"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Storm floods 70,000 tents in Gaza as Israel keeps shelter supplies out"
+      }
+    },
+    {
+      "id": "evt_c73238f0",
+      "title": "美国人从未想要的战争",
+      "summary": "德黑兰--没有民意调查显示大多数美国人支持美国对伊朗的非法战争。从来没有一个。",
+      "date": "2026-11-08T17:31:56Z",
+      "url": "https://www.tehrantimes.com/news/531948/The-war-Americans-never-wanted",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531948/The-war-Americans-never-wanted"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "The war Americans never wanted"
+      }
+    },
+    {
+      "id": "evt_5fa0a690",
+      "title": "也门袭击沙特阿美在利雅得的塔楼，以应对沙特对平民的袭击",
+      "summary": "德黑兰--周日，在沙特阿拉伯王国与也门武装部队（ YAF ）之间不断升级的战争中，沙特阿拉伯国家石油公司（ Saudi Aramco ）的一座办公大楼遭到袭击。",
+      "date": "2026-11-08T17:31:22Z",
+      "url": "https://www.tehrantimes.com/news/531947/Yemen-hits-Aramco-tower-in-Riyadh-in-response-to-Saudi-attacks",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531947/Yemen-hits-Aramco-tower-in-Riyadh-in-response-to-Saudi-attacks"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Yemen hits Aramco tower in Riyadh in response to Saudi attacks on civilians"
+      }
+    },
+    {
+      "id": "evt_3df92589",
+      "title": "在共和党历史性地击败以色列之后， Massie的“亲吻墙壁”刺戳很难落地",
+      "summary": "德黑兰--托马斯·马西（ Thomas Massie ）需要九个词。“共和党人撞墙是因为他们亲吻了隔离墙，”这位肯塔基州共和党人于11月7日在X上写道，就在他的政党失去国会几天后。不久之后，这篇帖子悄悄地获得了超过600万的浏览量，这个数字让你抬起了眉毛。",
+      "date": "2026-11-08T17:30:37Z",
+      "url": "https://www.tehrantimes.com/news/531949/Massie-s-kissed-The-Wall-jab-lands-hard-after-GOP-s-historic",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531949/Massie-s-kissed-The-Wall-jab-lands-hard-after-GOP-s-historic"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Massie’s ‘kissed The Wall’ jab lands hard after GOP’s historic defeat over Israel"
+      }
+    },
+    {
+      "id": "evt_58dbe497",
+      "title": "德黑兰戏剧节目表彰Bahram Beyzaie六场演出",
+      "summary": "TEHRAN - “Beyzaie周”的第一天于周日在德黑兰的城市剧院大楼开幕，由已故的伊朗剧作家、导演兼研究员Bahram Beyzaie上演了两部戏剧的朗诵。",
+      "date": "2026-11-08T17:29:33Z",
+      "url": "https://www.tehrantimes.com/news/531940/Tehran-theater-program-honors-Bahram-Beyzaie-with-six-staged",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531940/Tehran-theater-program-honors-Bahram-Beyzaie-with-six-staged"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tehran theater program honors Bahram Beyzaie with six staged readings"
+      }
+    },
+    {
+      "id": "evt_8ec877a4",
+      "title": "麦克尔莫尔拒绝对巴勒斯坦保持沉默",
+      "summary": "德黑兰--这位获得格莱美奖的说唱歌手在从Ed Sheeran的美国巡演中被淘汰后，面临着来自美国九个主要舞台的拒绝，他正在把他的音乐会变成一个巴勒斯坦团结的平台。",
+      "date": "2026-11-08T17:29:04Z",
+      "url": "https://www.tehrantimes.com/news/531942/Macklemore-refuses-to-stay-silent-on-Palestine",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531942/Macklemore-refuses-to-stay-silent-on-Palestine"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Macklemore refuses to stay silent on Palestine"
+      }
+    },
+    {
+      "id": "evt_c6458455",
+      "title": "德黑兰不会从其立场退缩",
+      "summary": "凯汉研究了美国著名政治学家罗伯特·佩普（ Robert Pape ）的言论。佩普认为，北约已经摆脱了以前的作战角色，对伊朗的袭击暴露了美国与其欧洲盟国之间日益增长的分歧。他的评论是在美国总统再次警告该国中期选举后可能恢复对伊朗的军事行动之际发表的。",
+      "date": "2026-11-08T17:27:58Z",
+      "url": "https://www.tehrantimes.com/news/531959/Tehran-will-not-back-down-from-its-positions",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531959/Tehran-will-not-back-down-from-its-positions"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Tehran will not back down from its positions"
+      }
+    },
+    {
+      "id": "evt_f8db8094",
+      "title": "伊朗让特朗普付出代价",
+      "summary": "马德里--共和党在美国中期选举中遭遇惨败。",
+      "date": "2026-11-08T17:24:03Z",
+      "url": "https://www.tehrantimes.com/news/531958/Iran-makes-Trump-pay-the-price",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531958/Iran-makes-Trump-pay-the-price"
         }
       ],
       "category": "military",
@@ -37,27 +457,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "US launches task force to disrupt Iran’s land-based supply routes"
+        "en": "Iran makes Trump pay the price"
       }
     },
     {
-      "id": "evt_53322293",
-      "title": "伊朗战争现场：美国采取行动封锁陆地供应路线；阿联酋营救22名水手",
-      "summary": "伊朗国家媒体报道了霍尔木兹海峡格什姆岛以及贾斯克、西里克和阿巴斯港等城市的爆炸事件。",
-      "date": "2026-11-08T00:00:56Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "id": "evt_d64c1069",
+      "title": "伊朗谴责沙特对也门的空袭，呼吁立即停止军事行动。",
+      "summary": "德黑兰--伊朗外交部强烈谴责沙特对也门的军事空袭，特别是对民用基础设施和住宅区的袭击，造成包括儿童在内的数十人死亡，并将这些行动描述为违反国际法和人道主义原则。",
+      "date": "2026-11-08T17:21:30Z",
+      "url": "https://www.tehrantimes.com/news/531956/Iran-condemns-Saudi-airstrikes-on-Yemen-calls-for-immediate",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531956/Iran-condemns-Saudi-airstrikes-on-Yemen-calls-for-immediate"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -65,27 +485,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors"
+        "en": "Iran condemns Saudi airstrikes on Yemen, calls for immediate end to military ops."
       }
     },
     {
-      "id": "evt_a64bd752",
-      "title": "艾森科特选择内塔尼亚胡组建以色列下届政府",
-      "summary": "以色列总统要求反对派领导人加迪·艾森科特（ Gadi Eisenkot ）组建下一届政府，而不是总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）",
-      "date": "2026-11-07T23:45:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "id": "evt_56c9c1e8",
+      "title": "伊朗对100名美以侵略受害者提起的诉讼进行审判",
+      "summary": "德黑兰--伊朗一家法院就美以侵略伊朗战争的100名受害者提起的诉讼举行了听证会，要求赔偿对伊朗人民犯下的罪行所造成的物质、道德和惩罚性损害。",
+      "date": "2026-11-08T17:18:34Z",
+      "url": "https://www.tehrantimes.com/news/531955/Iran-holds-trial-in-lawsuit-filed-by-100-victims-of-US-Israeli",
       "sources": [
         {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531955/Iran-holds-trial-in-lawsuit-filed-by-100-victims-of-US-Israeli"
         }
       ],
       "category": "military",
       "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
       },
       "languages": [
         "zh",
@@ -93,7 +513,119 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Eisenkot chosen over Netanyahu to form Israel’s next government"
+        "en": "Iran holds trial in lawsuit filed by 100 victims of US-Israeli aggression"
+      }
+    },
+    {
+      "id": "evt_f3de8b1b",
+      "title": "伊朗SNSC批准与俄罗斯关于拉什特-阿斯塔拉铁路的协议",
+      "summary": "伊朗一位高级官员宣布，伊朗最高国家安全委员会（ SNSC ）已批准与俄罗斯就建设拉什特–阿斯塔拉铁路达成的协议，为加快实施战略基础设施项目扫清了道路。",
+      "date": "2026-11-08T17:13:17Z",
+      "url": "https://www.tehrantimes.com/news/531954/Iran-s-SNSC-ratifies-agreement-with-Russia-on-Rasht-Astara-railway",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531954/Iran-s-SNSC-ratifies-agreement-with-Russia-on-Rasht-Astara-railway"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran’s SNSC ratifies agreement with Russia on Rasht–Astara railway"
+      }
+    },
+    {
+      "id": "evt_5bebe338",
+      "title": "伊朗驳回美国“铁门”特遣部队，称其试图迫使经济崩溃的又一次失败",
+      "summary": "德黑兰--伊朗驳斥了新宣布的针对其陆上贸易和过境路线的美国军事倡议，认为这是另一次试图削弱该国经济的失败尝试，认为华盛顿的经济胁迫战略无法实现削弱或拆除伊朗伊斯兰共和国的最终目标。",
+      "date": "2026-11-08T17:10:03Z",
+      "url": "https://www.tehrantimes.com/news/531953/Iran-dismisses-US-Iron-Gate-task-force-as-another-failed-bid",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531953/Iran-dismisses-US-Iron-Gate-task-force-as-another-failed-bid"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran dismisses US ‘Iron Gate’ task force as another failed bid to force economic collapse"
+      }
+    },
+    {
+      "id": "evt_858442a9",
+      "title": "伦敦人谴责美以对伊朗的威胁",
+      "summary": "德黑兰--周六，反战活动人士、民间社会活动人士和伊朗外籍人士在美国驻伦敦大使馆外举行示威活动，谴责华盛顿对伊朗的军事威胁，并要求结束美国和以色列在整个地区的侵略。",
+      "date": "2026-11-08T17:05:30Z",
+      "url": "https://www.tehrantimes.com/news/531952/Londoners-condemn-US-Israeli-threats-against-Iran",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/531952/Londoners-condemn-US-Israeli-threats-against-Iran"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Londoners condemn US-Israeli threats against Iran"
+      }
+    },
+    {
+      "id": "evt_d281ebb0",
+      "title": "胡塞武装称至少33人在沙特空袭中丧生",
+      "summary": "领导在也门与胡塞武装作战的联盟的沙特阿拉伯尚未发表评论。",
+      "date": "2026-11-08T04:03:12Z",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Houthis say at least 33 killed in Saudi air strike"
       }
     },
     {
@@ -125,16 +657,72 @@ const siteData = {
       }
     },
     {
-      "id": "evt_a457e41a",
-      "title": "梅朗雄承诺，如果当选总统，将采取行动反对以色列的吞并",
-      "summary": "梅朗雄承诺，如果当选总统，将采取行动反对以色列的吞并",
-      "date": "2026-11-07T20:53:47Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "id": "evt_e42016e1",
+      "title": "美国提供2000万美元奖励以获取有关伊朗核计划的信息",
+      "summary": "唐纳德·特朗普一再提出重新打击伊朗核设施的可能性。",
+      "date": "2026-11-07T18:14:38Z",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "US offers $20m reward for information about Iran's nuclear programme"
+      }
+    },
+    {
+      "id": "evt_2f420152",
+      "title": "加沙婚礼节看到250对夫妇同时结婚",
+      "summary": "巴勒斯坦新娘和新郎的群众婚礼在加沙满是瓦砾的街道上举行。",
+      "date": "2026-11-07T17:58:41Z",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza wedding festival sees 250 couples married at the same time"
+      }
+    },
+    {
+      "id": "evt_f87a708f",
+      "title": "加沙暴雨后成千上万的帐篷被淹",
+      "summary": "大雨淹没了以色列与哈马斯战争期间流离失所的巴勒斯坦人使用的临时避难所。",
+      "date": "2026-11-07T16:25:55Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -149,427 +737,7 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Mélenchon promises action against Israeli annexation if elected President"
-      }
-    },
-    {
-      "id": "evt_86e65c72",
-      "title": "以色列总统选择艾森科特而不是内塔尼亚胡组建下届政府",
-      "summary": "艾萨克·赫尔佐格（ Isaac Herzog ）正式给予加迪·艾森科特（ Gadi Eisenkot ） 28天的时间，以确保获得61个议会席位并取代内塔尼亚胡担任总理",
-      "date": "2026-11-07T20:26:58Z",
-      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel’s president picks Eisenkot over Netanyahu to form next government"
-      }
-    },
-    {
-      "id": "evt_6b939ce2",
-      "title": "以色列继续在黎巴嫩南部进行拆除和轰炸",
-      "summary": "德黑兰--周六，以色列工兵部队在南部城镇巴尼海扬（ Bani Hayyan ）引爆了建筑物，与此同时，炮兵炮击了胡贾尔谷（ Wadi al-Hujair ）郊区，结束了黎巴嫩南部又一天的激烈军事行动，这暴露了华盛顿外交姿态的真空。",
-      "date": "2026-11-07T17:56:03Z",
-      "url": "https://www.tehrantimes.com/news/531910/Israel-continues-demolitions-and-bombardment-in-southern-Lebanon",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531910/Israel-continues-demolitions-and-bombardment-in-southern-Lebanon"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel continues demolitions and bombardment in southern Lebanon"
-      }
-    },
-    {
-      "id": "evt_03417cf0",
-      "title": "美以军事援助：结束依赖，还是开启新篇章？",
-      "summary": "德黑兰--11月3日，特朗普总统表示，美国将在年底前结束对以色列约40亿美元的年度援助。",
-      "date": "2026-11-07T17:55:49Z",
-      "url": "https://www.tehrantimes.com/news/531911/US-Israel-military-aid-End-of-dependence-or-a-new-chapter",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531911/US-Israel-military-aid-End-of-dependence-or-a-new-chapter"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US-Israel military aid: End of dependence, or a new chapter?"
-      }
-    },
-    {
-      "id": "evt_c7a38b52",
-      "title": "巴林什叶派领导人敦促和平捍卫面临大规模审判的酷刑被告",
-      "summary": "德黑兰--巴林统治者于2016年剥夺其公民身份的什叶派高级神职人员谢赫·伊萨·卡西姆（ Sheikh Isa Qassim ）周五敦促公众和平地站在等待11月8日法庭判决的60名神职人员身后，并警告君主制，基于“捏造和诽谤性指控”的案件可能会产生严重后果。",
-      "date": "2026-11-07T17:55:19Z",
-      "url": "https://www.tehrantimes.com/news/531909/Bahrain-s-Shia-leader-urges-peaceful-defense-of-tortured-defendants",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531909/Bahrain-s-Shia-leader-urges-peaceful-defense-of-tortured-defendants"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Bahrain’s Shia leader urges peaceful defense of tortured defendants facing mass trial"
-      }
-    },
-    {
-      "id": "evt_31e38080",
-      "title": "特朗普通过提升其被拒绝议程的“极端主义”设计师来应对中期失败",
-      "summary": "德黑兰--就在共和党人在周二的选举中失去对国会的控制权几天后，唐纳德·特朗普总统周五任命斯蒂芬·米勒（ Stephen Miller ）为白宫办公厅主任。米勒是政府移民和驱逐战略的主要设计师，取代了苏茜·怀尔斯，并于周一正式就职。",
-      "date": "2026-11-07T17:54:37Z",
-      "url": "https://www.tehrantimes.com/news/531912/Trump-answers-midterm-defeat-by-elevating-the-extremist-architect",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531912/Trump-answers-midterm-defeat-by-elevating-the-extremist-architect"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Trump answers midterm defeat by elevating the ‘extremist’ architect of his rejected agenda"
-      }
-    },
-    {
-      "id": "evt_f7ed4695",
-      "title": "TMoCA电影院将放映有关伊朗的法国纪录片",
-      "summary": "德黑兰--在“寻找伊朗：德黑兰当代艺术博物馆收藏”展览的同时，一个名为“在电影中寻找伊朗”的节目将在博物馆的电影院举行。",
-      "date": "2026-11-07T17:54:03Z",
-      "url": "https://www.tehrantimes.com/news/531890/TMoCA-cinematheque-to-show-French-documentary-about-Iran",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531890/TMoCA-cinematheque-to-show-French-documentary-about-Iran"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "TMoCA cinematheque to show French documentary about Iran"
-      }
-    },
-    {
-      "id": "evt_7a30cf84",
-      "title": "第19届Mehr Muharram比赛摄影展在Semnan开幕",
-      "summary": "德黑兰–第19届Mehr Muharram国际数字媒体大赛的摄影展于11月7日星期六在塞姆南启动，展出伊朗和其他12个国家的摄影师的作品。",
-      "date": "2026-11-07T17:53:38Z",
-      "url": "https://www.tehrantimes.com/news/531891/Photo-exhibition-of-19th-Mehr-Muharram-contest-opens-in-Semnan",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531891/Photo-exhibition-of-19th-Mehr-Muharram-contest-opens-in-Semnan"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Photo exhibition of 19th Mehr Muharram contest opens in Semnan"
-      }
-    },
-    {
-      "id": "evt_d3483fae",
-      "title": "Mehr Media Group首席执行官在北京峰会上提出新闻业人工智能的国际合作",
-      "summary": "TEHRAN - Mehr Media Group首席执行官Mohammad Mahdi Rahmati在北京第七届世界媒体峰会期间提议成立一个国际工作组，就新闻业人工智能进行合作和知识共享，并共同投资开发一个开源的人工智能驱动的编辑管理系统。",
-      "date": "2026-11-07T17:53:01Z",
-      "url": "https://www.tehrantimes.com/news/531900/Mehr-Media-Group-CEO-proposes-international-cooperation-on-AI",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531900/Mehr-Media-Group-CEO-proposes-international-cooperation-on-AI"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Mehr Media Group CEO proposes international cooperation on AI in journalism at Beijing summit"
-      }
-    },
-    {
-      "id": "evt_0b011375",
-      "title": "工业，采矿，贸易部长访问，在阿尔达比勒省开设工业单位",
-      "summary": "TEHRAN -工业、矿业和贸易部长周六前往阿尔达比勒省，参观了几个生产项目，并开设了一个工业单位。",
-      "date": "2026-11-07T17:52:35Z",
-      "url": "https://www.tehrantimes.com/news/531905/Industry-mining-trade-minister-visits-inaugurates-industrial",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531905/Industry-mining-trade-minister-visits-inaugurates-industrial"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Industry, mining, trade minister visits, inaugurates industrial units in Ardabil province"
-      }
-    },
-    {
-      "id": "evt_3b99c5db",
-      "title": "伊朗馆在上海中国国际进口博览会上开幕",
-      "summary": "TEHRAN -伊朗贸易促进组织组织负责人兼东部和次大陆办事处总干事助理宣布，经伊朗贸易促进组织授权，在上海中国国际进口博览会（ CIIE ）上建立伊朗伊斯兰共和国国家和商业展馆。",
-      "date": "2026-11-07T17:51:20Z",
-      "url": "https://www.tehrantimes.com/news/531903/Iran-pavilion-opens-at-China-International-Import-Expo-in-Shanghai",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531903/Iran-pavilion-opens-at-China-International-Import-Expo-in-Shanghai"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran pavilion opens at China International Import Expo in Shanghai"
-      }
-    },
-    {
-      "id": "evt_60d25716",
-      "title": "CBI州长强调支持重建天然气行业",
-      "summary": "TEHRAN -伊朗中央银行行长在访问南帕尔斯期间，强调为重建受损设施提供资金，并恢复该国三分之一的天然气产量。",
-      "date": "2026-11-07T17:50:42Z",
-      "url": "https://www.tehrantimes.com/news/531902/CBI-governor-emphasizes-support-for-rebuilding-gas-industry",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531902/CBI-governor-emphasizes-support-for-rebuilding-gas-industry"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "CBI governor emphasizes support for rebuilding gas industry"
-      }
-    },
-    {
-      "id": "evt_f735423f",
-      "title": "国家大坝储量增长57%",
-      "summary": "TEHRAN -该国大坝水库的水量达到225.8亿立方米，与去年相比增长了30 ％。",
-      "date": "2026-11-07T17:49:18Z",
-      "url": "https://www.tehrantimes.com/news/531901/Country-s-dam-reserves-up-57",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531901/Country-s-dam-reserves-up-57"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Country’s dam reserves up 57%"
-      }
-    },
-    {
-      "id": "evt_62b376ff",
-      "title": "伊斯兰革命卫队将推出新的地下导弹城市，誓言不间断地生产武器",
-      "summary": "德黑兰–伊朗伊斯兰革命卫队（ IRGC ）发言人宣布计划推出一个新的地下导弹生产综合体和其他几项军事成就，同时强调该国的武器制造和开发计划将继续不间断，即使在敌人的轰炸下。",
-      "date": "2026-11-07T17:48:17Z",
-      "url": "https://www.tehrantimes.com/news/531921/IRGC-to-unveil-new-underground-missile-city-vows-uninterrupted",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531921/IRGC-to-unveil-new-underground-missile-city-vows-uninterrupted"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "IRGC to unveil new underground missile city, vows uninterrupted weapons production"
-      }
-    },
-    {
-      "id": "evt_e7798549",
-      "title": "联合国特别报告员将米纳布学校袭击描述为战争罪：伊朗官员",
-      "summary": "德黑兰--据一名伊朗司法官员称，联合国特别报告员将2月28日美以袭击伊朗南部米纳布Shajareh Tayyebeh学校的行为定性为战争罪和侵略罪。",
-      "date": "2026-11-07T17:45:07Z",
-      "url": "https://www.tehrantimes.com/news/531919/UN-special-rapporteur-describes-Minab-school-attack-as-war-crime",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531919/UN-special-rapporteur-describes-Minab-school-attack-as-war-crime"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "UN special rapporteur describes Minab school attack as war crime: Iranian official"
-      }
-    },
-    {
-      "id": "evt_87c5d2b3",
-      "title": "伊朗战争标志着向非极性世界秩序的构造转变：全球事务学者",
-      "summary": "TEHRAN- Arshin Adib-Moghaddam ， SOAS伦敦大学全球思想和比较哲学教授，是国际政治、伊朗研究和比较哲学的领先学者。他共同领导该大学的人工智能未来中心和伊朗研究中心。他的新书《The Myth of Good AI: A Manifesto for Critical Artificial Intelligence》探讨了人工智能的批判观点。",
-      "date": "2026-11-07T17:41:22Z",
-      "url": "https://www.tehrantimes.com/news/531918/The-Iran-war-signals-a-tectonic-shift-toward-a-non-polar-world",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/531918/The-Iran-war-signals-a-tectonic-shift-toward-a-non-polar-world"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "The Iran war signals a tectonic shift toward a non-polar world order: global affairs scholar"
+        "en": "Tens of thousands of tents flooded after heavy rains in Gaza"
       }
     },
     {
@@ -601,90 +769,6 @@ const siteData = {
       }
     },
     {
-      "id": "evt_6777872e",
-      "title": "卫星图像显示，伊朗导弹基地附近正在进行重大建设",
-      "summary": "卫星图像显示，在11月拍摄的卫星图像中可以看到挖掘和新建筑的证据。",
-      "date": "2026-11-06T07:33:41Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Major construction ongoing near Iran missile bases, satellite images suggest"
-      }
-    },
-    {
-      "id": "evt_d3731d80",
-      "title": "伊朗首席谈判代表称美国人投票反对战争",
-      "summary": "“我们支持这一信息，”穆罕默德·巴盖尔·加里巴夫（ Mohammed Bagher Ghalibaf ）说，唐纳德·特朗普（ Donald Trump ）承认冲突在共和党失败中的作用。",
-      "date": "2026-11-04T16:59:15Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran's chief negotiator says Americans voted 'no to war'"
-      }
-    },
-    {
-      "id": "evt_c59f9d3a",
-      "title": "以色列总统在选举僵局后开始与政党进行磋商",
-      "summary": "赫尔佐格警告政治家，如果他们想避免再次选举， “并非所有的承诺和承诺都可以实现”。",
-      "date": "2026-11-04T16:18:21Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 31.7683,
-        "lng": 35.2137,
-        "name": "以色列"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Israel's president begins consultations with parties after election deadlock"
-      }
-    },
-    {
       "id": "evt_5fca4363",
       "title": "特朗普称美国“不会在年底前向以色列付款”",
       "summary": "总统指责民主党人将美国对以色列的援助武器化，作为攻击共和党人的“谈话要点”。",
@@ -710,34 +794,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Trump says US 'won't be paying Israel' by end of year"
-      }
-    },
-    {
-      "id": "evt_47321ac3",
-      "title": "美国在中期选举前袭击伊朗岛",
-      "summary": "据英国广播公司的美国合作伙伴哥伦比亚广播公司称，美国官员将格什姆岛的袭击描述为有限和防御性的。",
-      "date": "2026-11-03T11:33:33Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "US strikes Iranian island ahead of midterm elections"
       }
     },
     {
