@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-11-14T04:25:03.227075Z
+// 自动生成的数据 - 更新时间: 2026-11-15T04:09:59.641089Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-11-14T04:25:03.227045Z",
-    "totalEvents": 32,
+    "lastUpdate": "2026-11-15T04:09:59.641038Z",
+    "totalEvents": 37,
     "sources": {
-      "international": 18,
+      "international": 23,
       "iranian": 14,
       "social": 0,
       "osm": 0
@@ -13,19 +13,19 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_1ee02f1e",
-      "title": "国际刑事法院停止对美国军队在阿富汗涉嫌犯罪的调查",
-      "summary": "该决定是在美国与位于海牙的国际刑事法院之间发生争端之后作出的。",
-      "date": "2026-11-14T04:03:49Z",
-      "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
+      "id": "evt_9c86f4c2",
+      "title": "印度一女子在住宅小区内遭猴子袭击",
+      "summary": "在印度古吉拉特邦的一个住宅小区，一名女子遭到一只猴子的袭击并被多次咬伤。",
+      "date": "2026-11-15T03:39:39Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss"
         }
       ],
-      "category": "diplomatic",
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -37,27 +37,27 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "ICC stops probe into alleged crimes by US troops in Afghanistan"
+        "en": "Monkey attacks woman inside residential complex in India"
       }
     },
     {
-      "id": "evt_faa0a9fd",
-      "title": "阿富汗通往中国的新道路止于一条关闭的边境",
-      "summary": "塔利班政府希望其瓦罕走廊公路能开辟新的贸易路线，并减少对巴基斯坦的依赖。",
-      "date": "2026-11-14T00:06:43Z",
-      "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "id": "evt_5f0372ca",
+      "title": "意大利艺术家重新诠释圣母画作，揭示加沙的苦难",
+      "summary": "意大利艺术家爱德华多·卡斯塔尔多（Eduardo Castaldo）在那不勒斯的帕帕科达小教堂（Pappacoda Chapel）内展出了一件名为《加沙的圣母》（Holy Mothers of Gaza）的艺术作品。",
+      "date": "2026-11-15T03:30:29Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
       "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
       },
       "languages": [
         "zh",
@@ -65,20 +65,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Afghanistan’s new road to China ends at a closed border"
+        "en": "Italian artist reimagines Madonna paintings to expose Gaza’s pain"
       }
     },
     {
-      "id": "evt_e9d989de",
-      "title": "伊朗战争直播：也门战事激烈，卡塔尔与土耳其签署国防协议",
-      "summary": "随着也门战火导致平民流离失所，多哈与安卡拉的协议承诺采取联合行动，应对外部袭击。",
-      "date": "2026-11-14T00:00:25Z",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "id": "evt_b97f39a4",
+      "title": "沙特领导的联军在利雅得拦截了两枚导弹和两架无人机",
+      "summary": "也门马里卜省和焦夫省的战斗升级，联合国机构表示，自8月以来已有超过34万也门人流离失所。",
+      "date": "2026-11-15T02:59:06Z",
+      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -93,23 +93,79 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal"
+        "en": "Saudi-led coalition intercepts two missiles, two drones in Riyadh"
       }
     },
     {
-      "id": "evt_14402745",
-      "title": "卡塔尔和土耳其通过签署新国防条约发出威慑信号",
-      "summary": "卡塔尔和土耳其签署了一项共同防御条约，在地区局势日益不稳定的背景下深化了两国的伙伴关系。",
-      "date": "2026-11-13T20:48:02Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+      "id": "evt_3adc19a5",
+      "title": "伊拉克总理因亲伊朗阵营大本营的石油走私事件而解雇九名官员",
+      "summary": "在调查揭露了由真主党旅控制的地区存在非法炼油厂和走私活动后，这些人员被解职。",
+      "date": "2026-11-15T01:54:55Z",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss"
         }
       ],
-      "category": "political",
+      "category": "military",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold"
+      }
+    },
+    {
+      "id": "evt_632d431a",
+      "title": "以色列空袭炸死加沙哈马斯高级指挥官",
+      "summary": "哈马斯证实，拉法旅指挥官萨米尔·阿布·尤尼斯（Samir Abu Younis）周六在汗尤尼斯（Khan Younis）的一次袭击中丧生。",
+      "date": "2026-11-15T01:00:42Z",
+      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Israeli air strike kills senior Hamas commander in Gaza"
+      }
+    },
+    {
+      "id": "evt_99960416",
+      "title": "伊朗战争直播：沙特领导的联军在短短数小时内击落3架无人机",
+      "summary": "沙特领导的联军在短短数小时内击落三架胡塞武装无人机，与此同时，巴林发布潜在危险警报。",
+      "date": "2026-11-15T00:00:08Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
+        }
+      ],
+      "category": "military",
       "location": {
         "lat": 32.0,
         "lng": 53.0,
@@ -121,20 +177,132 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Qatar and Turkiye send message of deterrence with new defence pact"
+        "en": "Iran war live: Saudi-led coalition strikes down 3 drones in as many hours"
       }
     },
     {
-      "id": "evt_fc5899e3",
-      "title": "盖尔·费耶的《小国》波斯文版现已出版",
-      "summary": "德黑兰——法国裔卢旺达说唱歌手、歌曲作者兼小说家盖尔·费耶（Gaël Faye）的首部小说《小国》（Small Country）的波斯语译本已在伊朗图书市场出版。",
-      "date": "2026-11-13T18:03:53Z",
-      "url": "https://www.tehrantimes.com/news/532040/Ga%C3%ABl-Faye-s-Small-Country-available-in-Persian",
+      "id": "evt_23cf5157",
+      "title": "伊拉克总理在3000万美元的石油走私调查中瞄准了强大的民兵据点",
+      "summary": "伊拉克总理已解雇九名高级安全官员，原因是涉嫌参与一个每月价值高达3000万美元的石油走私网络。",
+      "date": "2026-11-14T23:34:37Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss"
+        }
+      ],
+      "category": "political",
+      "location": {
+        "lat": 33.3152,
+        "lng": 44.3661,
+        "name": "伊拉克"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe"
+      }
+    },
+    {
+      "id": "evt_de806acd",
+      "title": "内塔尼亚胡表示，只有团结政府才能保障以色列的安全",
+      "summary": "随着谈判和议会议长的投票迫在眉睫，负责组建政府的艾森科特将该上诉斥之为“伎俩”。",
+      "date": "2026-11-14T23:01:30Z",
+      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.7683,
+        "lng": 35.2137,
+        "name": "以色列"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Netanyahu says only a unity government can guarantee Israel’s security"
+      }
+    },
+    {
+      "id": "evt_1b47c793",
+      "title": "叙利亚首都附近发生爆炸，造成父子身亡",
+      "summary": "叙利亚国内安全部队已对大马士革郊区一起疑似爆炸袭击事件展开调查。",
+      "date": "2026-11-14T22:43:12Z",
+      "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 33.5138,
+        "lng": 36.2765,
+        "name": "叙利亚"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Explosion near Syria’s capital kills father and child"
+      }
+    },
+    {
+      "id": "evt_9399c3a6",
+      "title": "扩大导弹射程是我们新的威慑战略",
+      "summary": "议员伊斯梅尔·科萨里（Esmail Kosari）在接受《青年报》（Javan）采访时谈到了伊朗的导弹射程扩展。随着威胁日益加剧，伊朗伊斯兰共和国宣布增加导弹射程，这是其加强威慑能力这一更广泛战略的一部分。在此之前，伊朗最高领袖曾发表讲话，强调要对威胁立即作出回应，不受地理限制。",
+      "date": "2026-11-14T17:57:37Z",
+      "url": "https://www.tehrantimes.com/news/532151/Expanding-missile-range-is-our-new-deterrence-strategy",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532040/Ga%C3%ABl-Faye-s-Small-Country-available-in-Persian"
+          "url": "https://www.tehrantimes.com/news/532151/Expanding-missile-range-is-our-new-deterrence-strategy"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Expanding missile range is our new deterrence strategy"
+      }
+    },
+    {
+      "id": "evt_0148df73",
+      "title": "加沙一名婴儿被冻死，联合国统计西岸已有245名儿童死亡",
+      "summary": "德黑兰——基南·艾哈迈德·拉基克于11月12日在汗尤尼斯的帐篷中去世。他才九个月大。",
+      "date": "2026-11-14T17:53:42Z",
+      "url": "https://www.tehrantimes.com/news/532138/Baby-in-Gaza-freezes-to-death-as-UN-counts-245-child-deaths-in",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532138/Baby-in-Gaza-freezes-to-death-as-UN-counts-245-child-deaths-in"
         }
       ],
       "category": "military",
@@ -149,104 +317,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Gaël Faye’s ‘Small Country’ available in Persian"
+        "en": "Baby in Gaza freezes to death as UN counts 245 child deaths in West Bank"
       }
     },
     {
-      "id": "evt_8ccb8511",
-      "title": "《朋友的家在哪里？》入选法国电影节“聚焦伊朗”单元",
-      "summary": "德黑兰——阿巴斯·基亚罗斯塔米备受赞誉的电影《朋友的家在哪里？》将在法国第46届亚眠国际电影节的“聚焦伊朗”单元上映，该片由儿童与青少年智力发展研究所（Kanoon）出品。",
-      "date": "2026-11-13T18:03:40Z",
-      "url": "https://www.tehrantimes.com/news/532043/Where-Is-the-Friend-s-House-joins-Focus-Iran-lineup-at-French",
+      "id": "evt_6ecc4660",
+      "title": "官员的解释前后不一，加深了人们对美国领空关闭的疑虑",
+      "summary": "德黑兰——美国联邦航空管理局周五下令该国所有出港航班停飞，公众最初的解释可以用一句话概括：“临时性电信中断”。该禁令于美国东部时间下午3点54分开始，一直持续到晚上8点15分。它导致数千架航班被取消，而政府花了数月时间承诺要建立一个现代化的空中交通系统，却要解释为什么其旧系统在各地同时失灵。",
+      "date": "2026-11-14T17:39:35Z",
+      "url": "https://www.tehrantimes.com/news/532139/Officials-shifting-explanations-deepen-doubts-over-US-airspace",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532043/Where-Is-the-Friend-s-House-joins-Focus-Iran-lineup-at-French"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "‘Where Is the Friend’s House?’ joins Focus Iran lineup at French film festival"
-      }
-    },
-    {
-      "id": "evt_03ece0f6",
-      "title": "德黑兰举办聚会纪念陀思妥耶夫斯基诞辰，并讨论其文学遗产",
-      "summary": "德黑兰——周三，伊朗作家、艺术家和文化界人士齐聚德黑兰，在纪念俄罗斯小说家陀思妥耶夫斯基诞辰的文学会上，探讨陀思妥耶夫斯基作品的持久意义及其对当代人类经历复杂性的思考。",
-      "date": "2026-11-13T18:03:14Z",
-      "url": "https://www.tehrantimes.com/news/532045/Tehran-gathering-marks-Dostoevsky-s-birthday-with-discussion",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532045/Tehran-gathering-marks-Dostoevsky-s-birthday-with-discussion"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Tehran gathering marks Dostoevsky’s birthday with discussion of his literary legacy"
-      }
-    },
-    {
-      "id": "evt_ef09ac8f",
-      "title": "伊朗电影《仙女的女儿》荣获“钻石蝴蝶”欧亚电影公开奖",
-      "summary": "德黑兰——由阿里·礼萨·莫塔梅迪编剧并执导的伊朗电影《仙女的女儿》（The Daughter of Lady Fairy）于11月12日在俄罗斯莫斯科举行的第二届欧亚电影开放奖“钻石蝴蝶”（Diamond Butterfly）上获奖。",
-      "date": "2026-11-13T18:02:39Z",
-      "url": "https://www.tehrantimes.com/news/532092/Iranian-film-The-Daughter-of-Lady-Fairy-wins-at-Open-Eurasian",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532092/Iranian-film-The-Daughter-of-Lady-Fairy-wins-at-Open-Eurasian"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iranian film ‘The Daughter of Lady Fairy’ wins at Open Eurasian Film Award ‘Diamond Butterfly'"
-      }
-    },
-    {
-      "id": "evt_844c972a",
-      "title": "Jensen Huang 的离场留下了一个更大的谜团",
-      "summary": "德黑兰——黄仁勋将英伟达打造成为人工智能繁荣不可或缺的供应商，并使华盛顿相信美国的领导地位有赖于此。他于周四辞职，留下了一个更棘手的问题：一家具有如此政治影响力（political reach）的公司是如何成为特朗普政府据称未能遏制的出口管制丑闻的中心的？",
-      "date": "2026-11-13T18:00:29Z",
-      "url": "https://www.tehrantimes.com/news/532100/Jensen-Huang-s-exit-leaves-a-much-bigger-story-unexplained",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532100/Jensen-Huang-s-exit-leaves-a-much-bigger-story-unexplained"
+          "url": "https://www.tehrantimes.com/news/532139/Officials-shifting-explanations-deepen-doubts-over-US-airspace"
         }
       ],
       "category": "political",
@@ -261,20 +345,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Jensen Huang’s exit leaves a much bigger story unexplained"
+        "en": "Officials’ shifting explanations deepen doubts over US airspace shutdown"
       }
     },
     {
-      "id": "evt_22a2037e",
-      "title": "四名参议员威胁要让政府停摆，除非国会削减对伊朗战争的拨款",
-      "summary": "德黑兰——四名民主党参议员周四表示，他们将投票反对任何短期支出法案，因为此类法案将使唐纳德·特朗普总统能够继续为对伊朗的战争提供资金，从而使12月11日的拨款截止日期成为国会是否会叫停一场其从未授权的战争的第一次真正考验。",
-      "date": "2026-11-13T17:59:39Z",
-      "url": "https://www.tehrantimes.com/news/532099/Four-senators-threaten-government-shutdown-unless-Congress-cuts",
+      "id": "evt_e3cbbdfb",
+      "title": "伊朗画家展出两幅纪念法蒂玛·扎赫拉（SA）的画作",
+      "summary": "德黑兰——伊朗画家阿里·巴赫雷尼（Ali Bahreini）于周五（先知穆罕默德（愿主福安之）之女哈扎拉特·法蒂玛·扎赫拉（愿主福安之）殉难周年纪念日）揭幕了两幅新画作，描绘了她的殉难情景。",
+      "date": "2026-11-14T17:38:57Z",
+      "url": "https://www.tehrantimes.com/news/532129/Iranian-painter-unveils-two-paintings-commemorating-Hazrat-Fatemeh",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532099/Four-senators-threaten-government-shutdown-unless-Congress-cuts"
+          "url": "https://www.tehrantimes.com/news/532129/Iranian-painter-unveils-two-paintings-commemorating-Hazrat-Fatemeh"
         }
       ],
       "category": "military",
@@ -289,132 +373,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Four senators threaten government shutdown unless Congress cuts off Iran war money"
+        "en": "Iranian painter unveils two paintings commemorating Hazrat Fatemeh Zahra (SA)"
       }
     },
     {
-      "id": "evt_1aa82531",
-      "title": "加利巴夫表示，对美国缺乏信任是达成协议的主要障碍",
-      "summary": "德黑兰——伊朗议会议长穆罕默德·巴盖尔·加利巴夫（Mohammad Baqer Qalibaf）是该国谈判小组的负责人，他表示，对美国缺乏信任仍然是达成协议的主要障碍，并补充说，华盛顿尚未对德黑兰的最新提议作出正式和具体的回复。",
-      "date": "2026-11-13T17:57:07Z",
-      "url": "https://www.tehrantimes.com/news/532112/Lack-of-trust-in-US-main-obstacle-to-agreement-Qalibaf-says",
+      "id": "evt_16eae81a",
+      "title": "诺兰的《奥德赛》将在德黑兰上映并接受评论",
+      "summary": "德黑兰——由克里斯托弗·诺兰编剧并执导的2026年史诗动作奇幻电影《奥德赛》将于周三在德黑兰书园的影城上映。",
+      "date": "2026-11-14T17:38:19Z",
+      "url": "https://www.tehrantimes.com/news/532118/Nolan-s-Odyssey-to-be-shown-reviewed-in-Tehran",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532112/Lack-of-trust-in-US-main-obstacle-to-agreement-Qalibaf-says"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Lack of trust in US main obstacle to agreement, Qalibaf says"
-      }
-    },
-    {
-      "id": "evt_40a0f14f",
-      "title": "佩泽什基安在COP31上与土耳其、巴西和库尔德领导人举行会谈",
-      "summary": "德黑兰——伊朗总统马苏德·佩泽什基安在安塔利亚举行的第31届联合国气候变化大会（COP31）期间，与土耳其和巴西总统以及伊拉克库尔德斯坦自治区总统举行了一系列会晤，重点讨论了扩大双边合作、加强经贸关系以及促进地区和平与稳定等议题。",
-      "date": "2026-11-13T17:55:09Z",
-      "url": "https://www.tehrantimes.com/news/532111/Pezeshkian-holds-talks-with-Turkish-Brazilian-and-Kurdish-leaders",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532111/Pezeshkian-holds-talks-with-Turkish-Brazilian-and-Kurdish-leaders"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Pezeshkian holds talks with Turkish, Brazilian and Kurdish leaders at COP31"
-      }
-    },
-    {
-      "id": "evt_eb121850",
-      "title": "伊朗警告各国不要协助美以侵略，称其将承担全部责任",
-      "summary": "德黑兰——伊朗外交部发言人埃斯梅尔·巴盖伊（Esmaeil Baqaei）警告称，任何国家如直接或间接支持美国对伊朗的侵略，包括提供军事和后勤援助或部署海军部队，都将被视为侵略的参与者，并对其后果承担全部责任。",
-      "date": "2026-11-13T17:48:34Z",
-      "url": "https://www.tehrantimes.com/news/532110/Iran-warns-states-against-assisting-US-Israeli-aggression-says",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532110/Iran-warns-states-against-assisting-US-Israeli-aggression-says"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran warns states against assisting US-Israeli aggression, says they will bear full responsibility"
-      }
-    },
-    {
-      "id": "evt_b29456c0",
-      "title": "阿拉格希谴责西方媒体对加沙种族灭绝的沉默",
-      "summary": "德黑兰——伊朗外交部长阿巴斯·阿拉格齐谴责西方媒体对以色列在加沙持续开展的种族灭绝行动缺乏关注，并警告称，对这场人道主义灾难的报道日益减少，正导致巴勒斯坦人的苦难从公众视野中淡出。",
-      "date": "2026-11-13T17:45:19Z",
-      "url": "https://www.tehrantimes.com/news/532109/Araghchi-condemns-Western-media-silence-on-Gaza-genocide",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532109/Araghchi-condemns-Western-media-silence-on-Gaza-genocide"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Araghchi condemns Western media silence on Gaza genocide"
-      }
-    },
-    {
-      "id": "evt_9da29d00",
-      "title": "为纪念阿亚图拉·赛义德·阿里·哈梅内伊殉难周年而成立的总部",
-      "summary": "德黑兰——根据“维护和弘扬阿亚图拉·赛义德·阿里·哈梅内伊的思想和著作办公室”主任侯赛因·赛义德·莫森·哈梅内伊的命令，“殉难圣战者伊玛目血腥升天纪念日”总部已成立。",
-      "date": "2026-11-13T17:43:38Z",
-      "url": "https://www.tehrantimes.com/news/532108/Headquarters-formed-to-mark-martyrdom-anniversary-of-Ayatollah",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532108/Headquarters-formed-to-mark-martyrdom-anniversary-of-Ayatollah"
+          "url": "https://www.tehrantimes.com/news/532118/Nolan-s-Odyssey-to-be-shown-reviewed-in-Tehran"
         }
       ],
       "category": "political",
@@ -429,48 +401,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Headquarters formed to mark martyrdom anniversary of Ayatollah Seyyed Ali Khamenei"
+        "en": "Nolan’s ‘Odyssey’ to be shown, reviewed in Tehran"
       }
     },
     {
-      "id": "evt_881a2f86",
-      "title": "德黑兰和其他城市为350名无名烈士举行葬礼，同时呼吁“复仇”",
-      "summary": "德黑兰——8年“神圣 دفاع”中350名无名烈士遗体的葬礼于周五上午在德黑兰和全国各地举行，正值哈扎拉特·法蒂玛·扎赫拉（SA）殉难周年纪念日和无名烈士纪念日，公众踊跃参加。",
-      "date": "2026-11-13T17:41:02Z",
-      "url": "https://www.tehrantimes.com/news/532107/Funeral-held-for-350-Unnamed-Martyrs-in-Tehran-other-cities",
+      "id": "evt_6fc97eea",
+      "title": "德黑兰的女艺术家们通过书法和视觉艺术探索《哈迪斯·基萨》（Hadith al-Kisa）",
+      "summary": "德黑兰——一场以《哈迪斯·基萨》（Hadith al-Kisa）为灵感的展览于周五在德黑兰艺术局的哈内画廊（Khaneh Gallery）开幕，展出了由伊朗女艺术家创作的80多件艺术品，以纪念法蒂玛·扎赫拉（Fatemeh Zahra）（SA）殉难周年。",
+      "date": "2026-11-14T17:37:44Z",
+      "url": "https://www.tehrantimes.com/news/532130/Women-artists-explore-Hadith-al-Kisa-through-calligraphy-visual",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532107/Funeral-held-for-350-Unnamed-Martyrs-in-Tehran-other-cities"
-        }
-      ],
-      "category": "diplomatic",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Funeral held for 350 Unnamed Martyrs in Tehran, other cities amid calls for “revenge”"
-      }
-    },
-    {
-      "id": "evt_29a91d71",
-      "title": "内塔尼亚胡种族灭绝机器的一个小齿轮在欧洲议会发言",
-      "summary": "德黑兰——近半个世纪前逃离伊朗的被废黜且声名狼藉的前王储礼萨·巴列维（Reza Pahlavi）近日现身欧洲议会。这个没有王冠的小丑再次假扮成伊朗人民的代言人，抛出他近年来已经重复过数百次的同样言论。他做出这些举动并不令人感到意外。也从来不会有别的什么可期待。",
-      "date": "2026-11-13T17:36:04Z",
-      "url": "https://www.tehrantimes.com/news/532105/A-cog-in-Netanyahu-s-genocide-machine-takes-the-floor-at-the",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532105/A-cog-in-Netanyahu-s-genocide-machine-takes-the-floor-at-the"
+          "url": "https://www.tehrantimes.com/news/532130/Women-artists-explore-Hadith-al-Kisa-through-calligraphy-visual"
         }
       ],
       "category": "military",
@@ -485,20 +429,20 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "A cog in Netanyahu’s genocide machine takes the floor at the European Parliament"
+        "en": "Women artists explore Hadith al-Kisa through calligraphy, visual arts in Tehran"
       }
     },
     {
-      "id": "evt_c616524e",
-      "title": "伊朗瞄准美国雷达并击落 MQ-1 无人机，巴林成为焦点",
-      "summary": "德黑兰——伊朗武装部队宣布摧毁了位于巴林的美国预警雷达设施，并击落了在该国南部海岸附近的一架美国MQ-1无人机。与此同时，德黑兰再次发出警告，表示将对进一步的军事侵略采取果断回击。",
-      "date": "2026-11-13T17:30:54Z",
-      "url": "https://www.tehrantimes.com/news/532104/Bahrain-in-focus-as-Iran-targets-US-radar-downs-MQ-1-drone",
+      "id": "evt_75cbb646",
+      "title": "伊朗击落第17架美国MQ-1型无人机，并报告称有两艘油轮在霍尔木兹海峡以东被水雷击中",
+      "summary": "德黑兰——伊朗伊斯兰革命卫队（IRGC）在波斯湾上空又击落了一架美国侦察和作战无人机，而伊朗海军则报告称，有两艘油轮在霍尔木兹海峡以东的禁航区触碰水雷后分别起火。",
+      "date": "2026-11-14T17:34:53Z",
+      "url": "https://www.tehrantimes.com/news/532150/Iran-downs-17th-US-MQ-1-drone-reports-two-tankers-hit-by-sea",
       "sources": [
         {
           "type": "iranian",
           "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532104/Bahrain-in-focus-as-Iran-targets-US-radar-downs-MQ-1-drone"
+          "url": "https://www.tehrantimes.com/news/532150/Iran-downs-17th-US-MQ-1-drone-reports-two-tankers-hit-by-sea"
         }
       ],
       "category": "military",
@@ -513,13 +457,209 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Bahrain in focus as Iran targets US radar, downs MQ-1 drone"
+        "en": "Iran downs 17th US MQ-1 drone, reports two tankers hit by sea mines east of Hormuz Strait"
+      }
+    },
+    {
+      "id": "evt_db758f7f",
+      "title": "前外长表示，伊朗在两场战争中展现出非凡的实力",
+      "summary": "德黑兰——伊朗前外交部长阿里·阿克巴尔·萨利希表示，伊朗在两场强加的战争（12天战争和斋月战争）中展现出非凡的韧性和力量，以其承受外部压力的能力令国际社会感到惊讶。",
+      "date": "2026-11-14T17:31:54Z",
+      "url": "https://www.tehrantimes.com/news/532149/Iran-demonstrated-remarkable-strength-in-two-wars-says-ex-FM",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532149/Iran-demonstrated-remarkable-strength-in-two-wars-says-ex-FM"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran demonstrated remarkable strength in two wars, says ex-FM"
+      }
+    },
+    {
+      "id": "evt_414f6bb9",
+      "title": "俄罗斯原子能机构将布什尔核电站的员工人数增加至300人",
+      "summary": "德黑兰——俄罗斯国家核能公司罗萨托姆计划在不久的将来将伊朗布歇赫尔核电站的员工人数从目前的180人增加到300人，尽管该地区局势持续紧张，但该公司正着手恢复原先计划的运营。",
+      "date": "2026-11-14T17:30:16Z",
+      "url": "https://www.tehrantimes.com/news/532148/Rosatom-to-increase-workforce-at-Bushehr-nuclear-plant-to-300",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532148/Rosatom-to-increase-workforce-at-Bushehr-nuclear-plant-to-300"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Rosatom to increase workforce at Bushehr nuclear plant to 300"
+      }
+    },
+    {
+      "id": "evt_5bef608e",
+      "title": "加强与中国的战略关系必须是伊朗的优先事项",
+      "summary": "德黑兰——伊朗议会主席团的一名成员呼吁政府各部门加强协调，以巩固伊朗与中国之间的战略关系，并将现有协议和机遇转化为切实成果。",
+      "date": "2026-11-14T17:27:42Z",
+      "url": "https://www.tehrantimes.com/news/532147/Strengthening-strategic-ties-with-China-must-be-a-priority-for",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532147/Strengthening-strategic-ties-with-China-must-be-a-priority-for"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Strengthening strategic ties with China must be a priority for Iran"
+      }
+    },
+    {
+      "id": "evt_2eabbb09",
+      "title": "议员表示，伊朗将推进国防工业发展",
+      "summary": "德黑兰——伊朗议会国家安全与外交政策委员会的一名成员表示，伊朗将坚定不移地全力推进国防工业发展，并强调该国的军事实力将得到显著提升。",
+      "date": "2026-11-14T17:25:08Z",
+      "url": "https://www.tehrantimes.com/news/532144/Iran-to-press-ahead-with-defense-industry-development-lawmaker",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532144/Iran-to-press-ahead-with-defense-industry-development-lawmaker"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran to press ahead with defense industry development, lawmaker says"
+      }
+    },
+    {
+      "id": "evt_84524792",
+      "title": "伊朗在巴士拉锦标赛中击败巴勒斯坦",
+      "summary": "德黑兰——在周六举行的巴士拉四国赛中，伊朗足球队击败了10人应战的巴勒斯坦队。",
+      "date": "2026-11-14T17:02:34Z",
+      "url": "https://www.tehrantimes.com/news/532145/Iran-defeat-Palestine-at-Basra-tournament",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532145/Iran-defeat-Palestine-at-Basra-tournament"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran defeat Palestine at Basra tournament"
+      }
+    },
+    {
+      "id": "evt_b67c1610",
+      "title": "资深议员：伊朗的坚定立场使美国陷入战略僵局",
+      "summary": "德黑兰——伊朗议会国家安全与外交政策委员会主席表示，伊朗在多条战线上坚决抵抗，已将美国逼入战略死胡同，其对手的任何进一步误判都可能引发德黑兰更加严厉的回应。",
+      "date": "2026-11-14T16:49:31Z",
+      "url": "https://www.tehrantimes.com/news/532143/Senior-Iranian-MP-Iran-s-steadfastness-has-left-US-in-a-strategic",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532143/Senior-Iranian-MP-Iran-s-steadfastness-has-left-US-in-a-strategic"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Senior MP: Iran’s steadfastness has left US in a strategic dead end"
+      }
+    },
+    {
+      "id": "evt_a69bd056",
+      "title": "伊朗拒绝在异常情况下接受国际原子能机构的常规视察",
+      "summary": "德黑兰——伊朗常驻维也纳联合国办事处代表团谴责国际原子能机构（IAEA）理事会通过的关于伊朗的决议在法律和技术上存在缺陷，并强调在对该国受保障监督的核设施的袭击所造成的异常情况下，无法恢复保障监督的正常实施。",
+      "date": "2026-11-14T16:46:40Z",
+      "url": "https://www.tehrantimes.com/news/532142/Iran-rejects-normal-IAEA-inspections-under-abnormal-conditions",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532142/Iran-rejects-normal-IAEA-inspections-under-abnormal-conditions"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran rejects normal IAEA inspections under abnormal conditions"
       }
     },
     {
       "id": "evt_e834fca2",
       "title": "联合国监管机构对伊朗未受核查的核设施“日益感到关切”",
-      "summary": "该机构表示，它从未能够视察伊朗在一年多前宣布的位于伊斯法罕的铀浓缩厂。",
+      "summary": "该机构表示，其从未能够视察伊朗在一年多前宣布的伊斯法罕铀浓缩厂。",
       "date": "2026-11-13T12:28:28Z",
       "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -574,8 +714,8 @@ const siteData = {
     },
     {
       "id": "evt_b6e4e2b4",
-      "title": "阿联酋卡车失控酿成23车连环相撞事故，造成14人死亡",
-      "summary": "当局称，该司机失控，与包括五辆卡车在内的23辆车辆相撞。",
+      "title": "阿联酋发生23辆车连环相撞事故，卡车失控致14人死亡",
+      "summary": "当局表示，该司机失控，与23辆车相撞，其中包括5辆卡车。",
       "date": "2026-11-12T16:56:31Z",
       "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -602,8 +742,8 @@ const siteData = {
     },
     {
       "id": "evt_d3b52092",
-      "title": "卫生部称，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡",
-      "summary": "目击者称，一枚导弹击中了加沙南部最大的纳赛尔医院内设有外科病房和重症监护病房的大楼。",
+      "title": "卫生部称，以色列对加沙医院的空袭造成六名巴勒斯坦人死亡",
+      "summary": "目击者称，一枚导弹击中了加沙南部最大的纳赛尔医院内设有外科病房和重症监护病房的建筑物。",
       "date": "2026-11-12T16:54:12Z",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -799,7 +939,7 @@ const siteData = {
     {
       "id": "evt_94b9b786",
       "title": "特朗普表示美国对伊朗发动更多袭击“极不可能”",
-      "summary": "美国总统表示，美国正与伊朗保持“现状”，但如果局势发生变化，美国仍将“严阵以待”。",
+      "summary": "总统表示，美国正与伊朗保持“现状”，但如果情况发生变化，仍将“严阵以待”。",
       "date": "2026-11-10T09:40:31Z",
       "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -826,7 +966,7 @@ const siteData = {
     },
     {
       "id": "evt_886dfb7a",
-      "title": "卫生部称，加沙沙堤坍塌压垮帐篷，造成四人死亡。",
+      "title": "卫生部表示，加沙沙堤坍塌压垮帐篷，造成四人死亡。",
       "summary": "据报道，这场事故发生在暴雨导致加沙各地数万顶帐篷被淹没的一天之后，遇难者中包括三名儿童。",
       "date": "2026-11-09T10:41:57Z",
       "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
