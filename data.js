@@ -1,11 +1,11 @@
-// 自动生成的数据 - 更新时间: 2026-11-19T05:23:30.868388Z
+// 自动生成的数据 - 更新时间: 2026-11-20T05:10:04.954791Z
 const siteData = {
   "metadata": {
     "title": "伊朗战争追踪",
-    "lastUpdate": "2026-11-19T05:23:30.868325Z",
-    "totalEvents": 27,
+    "lastUpdate": "2026-11-20T05:10:04.954736Z",
+    "totalEvents": 29,
     "sources": {
-      "international": 16,
+      "international": 18,
       "iranian": 11,
       "social": 0,
       "osm": 0
@@ -13,16 +13,72 @@ const siteData = {
   },
   "events": [
     {
-      "id": "evt_5b86fb02",
-      "title": "定居者在以色列中部多地驾车冲撞巴勒斯坦人",
-      "summary": "一段视频显示，一名定居者驾车碾压巴勒斯坦人，造成至少八人受伤。",
-      "date": "2026-11-19T01:13:45Z",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+      "id": "evt_cd2ee4c1",
+      "title": "加沙民防部门在车辆故障的情况下竭力拯救生命",
+      "summary": "加沙民防部门的车辆有超过85%已无法使用，工作人员正竭力营救被困人员。",
+      "date": "2026-11-20T05:01:40Z",
+      "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
       "sources": [
         {
           "type": "international",
           "name": "www.aljazeera.com",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 31.5,
+        "lng": 34.47,
+        "name": "加沙"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Gaza Civil Defence struggles to rescue lives as vehicles break down"
+      }
+    },
+    {
+      "id": "evt_ecbf47f6",
+      "title": "受污染的汽油让也门司机难以维持生计",
+      "summary": "在胡塞武装控制的地区，驾驶员面临着燃油价格上涨和维修费用高昂的问题，因为受污染的汽油会损坏他们的汽车。",
+      "date": "2026-11-20T05:00:16Z",
+      "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 15.5527,
+        "lng": 47.5198,
+        "name": "也门"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet"
+      }
+    },
+    {
+      "id": "evt_e17ab401",
+      "title": "加拿大备受喜爱的连锁咖啡店Tim Hortons因“过度”的以色列数据交易而引发众怒",
+      "summary": "倡导者对 Tim Hortons 的应用程序以及消费者隐私和数据共享表示担忧。",
+      "date": "2026-11-20T04:05:17Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "www.aljazeera.com",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss"
         }
       ],
       "category": "military",
@@ -37,14 +93,14 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Settler rams into Palestinians at multiple locations in central Israel"
+        "en": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal"
       }
     },
     {
       "id": "evt_515d5ed2",
-      "title": "以色列军队在加沙地带黄线以外发起罕见的地面行动",
-      "summary": "哈马斯谴责这次入侵行动是“公然”违反停火的行为，而以色列军方则表示正在摧毁一条“恐怖隧道”。",
-      "date": "2026-11-18T22:34:56Z",
+      "title": "以色列军队完成了在加沙黄线以外的地面行动",
+      "summary": "哈马斯谴责这次入侵是“公然”违反停火的行为，而以色列军方则表示这次行动是为了摧毁一条“恐怖隧道”。",
+      "date": "2026-11-19T17:03:23Z",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
@@ -65,12 +121,40 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line"
+        "en": "Israeli military completes ground operation in Gaza beyond Yellow Line"
+      }
+    },
+    {
+      "id": "evt_37e81781",
+      "title": "伊朗以高姿态揭幕2026年亚足联沙滩足球亚洲杯",
+      "summary": "德黑兰——周四，伊朗在2026年泰国AFC沙滩足球亚洲杯B组比赛中以9-2轻松战胜阿富汗，开启了卫冕之旅。",
+      "date": "2026-11-19T11:29:14Z",
+      "url": "https://www.tehrantimes.com/news/532318/Iran-open-AFC-Beach-Soccer-Asian-Cup-2026-on-high",
+      "sources": [
+        {
+          "type": "iranian",
+          "name": "www.tehrantimes.com",
+          "url": "https://www.tehrantimes.com/news/532318/Iran-open-AFC-Beach-Soccer-Asian-Cup-2026-on-high"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "德黑兰, 伊朗"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran open AFC Beach Soccer Asian Cup 2026 on high"
       }
     },
     {
       "id": "evt_273f3ada",
-      "title": "领袖对《死亡女神的第二次葬礼》的评述揭晓",
+      "title": "领袖对《死亡女神的第二次安葬》的评述揭晓",
       "summary": "德黑兰——第22届圣战与抵抗文学庆典于周二在萨尔切什梅文化中心举行，庆典上揭幕了烈士领袖对《死亡女神的第二次安葬》一书的评注。",
       "date": "2026-11-18T18:05:10Z",
       "url": "https://www.tehrantimes.com/news/532298/Leader-s-commentaries-on-The-Second-Burial-of-the-Lady-of-Death",
@@ -99,7 +183,7 @@ const siteData = {
     {
       "id": "evt_3b8729ec",
       "title": "街头戏剧艺术家在第20届抵抗戏剧节上缅怀沙贾雷·塔耶贝烈士学生",
-      "summary": "德黑兰——第20届国际抵抗戏剧节“Sardar-e Asemani”（天国统帅）单元的街头戏剧表演于首日在德黑兰的市立剧院庭院、革命广场和瓦利-阿斯尔（AS）广场举行，共有七个表演团体参演，吸引了众多热情观众前来观看。",
+      "summary": "德黑兰——第20届国际抵抗戏剧节“Sardar-e Asemani”（天国指挥官）单元的街头戏剧表演于首日在德黑兰市剧院庭院、英格拉布广场和瓦利-阿斯尔（AS）广场举行，共有七个表演团体参演，吸引了众多热情观众。",
       "date": "2026-11-18T18:04:59Z",
       "url": "https://www.tehrantimes.com/news/532286/Street-theater-artists-honor-Shajareh-Tayyebeh-martyred-students",
       "sources": [
@@ -127,7 +211,7 @@ const siteData = {
     {
       "id": "evt_3f4c6f10",
       "title": "外国戏剧团体将参加马里万国际街头戏剧节",
-      "summary": "德黑兰——主办方周二在德黑兰举行的新闻发布会上宣布，来自俄罗斯、土耳其和伊拉克的戏剧团体将参加第19届马里万国际街头戏剧节，该戏剧节将汇聚40个团体和270名参与者。",
+      "summary": "德黑兰——主办方周二在德黑兰举行的新闻发布会上宣布，来自俄罗斯、土耳其和伊拉克的戏剧团体将参加第19届马里万国际街头戏剧节，届时将有40个团体和270名参与者齐聚一堂。",
       "date": "2026-11-18T18:04:35Z",
       "url": "https://www.tehrantimes.com/news/532275/Foreign-theater-groups-to-join-Marivan-International-Street-Theater",
       "sources": [
@@ -155,7 +239,7 @@ const siteData = {
     {
       "id": "evt_8196fa4c",
       "title": "伊朗伊斯兰革命卫队官员表示，巴斯基的意识形态挫败了美国针对伊朗的目标",
-      "summary": "德黑兰——伊斯兰革命卫队（IRGC）一名高级官员周三表示，巴斯基的意识形态植根于信仰、民族团结、自我牺牲和社会责任，挫败了美国和其他敌对势力针对伊朗实现其目标的努力。",
+      "summary": "德黑兰——伊斯兰革命卫队（IRGC）一名高级官员周三表示，巴斯基的意识形态植根于信仰、民族团结、自我牺牲和社会责任，挫败了美国和其他敌对势力针对伊朗实现其目标的企图。",
       "date": "2026-11-18T17:58:21Z",
       "url": "https://www.tehrantimes.com/news/532316/Basij-ideology-has-thwarted-US-objectives-against-Iran-IRGC",
       "sources": [
@@ -182,7 +266,7 @@ const siteData = {
     },
     {
       "id": "evt_46f17eaf",
-      "title": "艰难而紧张的两年",
+      "title": "两年艰难而紧张的岁月",
       "summary": "《沙尔格报》对唐纳德·特朗普总统任期的最后两年进行了评估，认为国会对国内政策的掣肘可能会迫使他将精力集中于外交事务。在这种情况下，伊朗预计仍将是重中之重。该报认为，特朗普在40天的冲突中未能实现其目标，这很可能表明，仅靠远程空袭行动无法实现政权更迭。",
       "date": "2026-11-18T17:54:20Z",
       "url": "https://www.tehrantimes.com/news/532315/Two-difficult-and-tense-years",
@@ -211,7 +295,7 @@ const siteData = {
     {
       "id": "evt_cc872efe",
       "title": "巴斯基民兵组织指挥官表示，伊朗在与美国和以色列的对抗中取得了胜利",
-      "summary": "德黑兰——巴斯基（Basij）组织负责人表示，尽管对手部署了大量军事力量并使用了各种类型的导弹，但伊朗仍在与美国和以色列的军事对抗中取得了胜利。",
+      "summary": "德黑兰——巴斯基（Basij）组织负责人表示，尽管对手部署了大量军事资产并使用了各种类型的导弹，但伊朗仍在与美国和以色列的军事对抗中取得了胜利。",
       "date": "2026-11-18T17:51:07Z",
       "url": "https://www.tehrantimes.com/news/532314/Iran-has-emerged-victorious-in-confrontation-with-US-and-Israel",
       "sources": [
@@ -239,7 +323,7 @@ const siteData = {
     {
       "id": "evt_fd94c723",
       "title": "加利巴夫指责CNN报道所谓伊朗阴谋，煽动战争",
-      "summary": "德黑兰——伊朗议会议长穆罕默德·巴盖尔·加利巴夫谴责了CNN的一篇报道，该报道声称伊朗正计划在华盛顿特区发动涉及所谓脏弹或化学武器的袭击，并称该报道是旨在为战争制造借口的宣传攻势的一部分。",
+      "summary": "德黑兰——伊朗议会议长穆罕默德·巴盖尔·加利巴夫谴责了CNN的一篇报道，该报道声称伊朗正计划在华盛顿特区发动涉及所谓脏弹或化学武器的袭击，他称该报道是旨在为战争制造借口的宣传攻势的一部分。",
       "date": "2026-11-18T17:48:06Z",
       "url": "https://www.tehrantimes.com/news/532313/Qalibaf-accuses-CNN-of-promoting-war-with-report-on-alleged-Iranian",
       "sources": [
@@ -267,7 +351,7 @@ const siteData = {
     {
       "id": "evt_6768a7ba",
       "title": "伊朗议员表示，让步无法改变华盛顿对德黑兰的敌对政策",
-      "summary": "德黑兰——一位伊朗议员警告称，认为向美国让步就能说服华盛顿放弃其对伊朗的敌对政策是一种错误的假设，并指出这种期望从根本上说是错误的。",
+      "summary": "德黑兰——一位伊朗议员警告说，认为向美国让步就能说服华盛顿放弃其对伊朗的敌对政策是一种错误的假设，并称这种期望从根本上说是错误的。",
       "date": "2026-11-18T17:46:00Z",
       "url": "https://www.tehrantimes.com/news/532312/Iranian-lawmaker-says-concessions-cannot-change-Washington-s",
       "sources": [
@@ -294,8 +378,8 @@ const siteData = {
     },
     {
       "id": "evt_9859a8b2",
-      "title": "伊朗边防局局长表示，尽管面临敌人的压力，伊朗边境仍完全安全",
-      "summary": "德黑兰——伊朗边防司令部司令阿里·阿克巴尔·贾维丹准将周三表示，尽管面临日益加大的压力和破坏伊朗稳定的敌对行动，伊朗边境仍然完全安全，并强调不会让敌对势力实现其目标。",
+      "title": "伊朗边防局局长表示，尽管面临敌对势力的压力，伊朗边境仍完全安全",
+      "summary": "德黑兰——伊朗边防司令部司令阿里·阿克巴尔·贾维丹准将周三表示，尽管面临日益加大的压力和破坏伊朗稳定的敌对企图，伊朗边境仍然完全安全，并强调不会让敌对势力实现其目标。",
       "date": "2026-11-18T17:33:43Z",
       "url": "https://www.tehrantimes.com/news/532309/Iran-s-borders-fully-secure-despite-enemy-pressure-border-guard",
       "sources": [
@@ -323,7 +407,7 @@ const siteData = {
     {
       "id": "evt_c96711bb",
       "title": "伊朗将对任何新的侵略行为作出更强有力的回应：陆军司令",
-      "summary": "德黑兰——伊朗陆军司令阿米尔·哈塔米少将警告称，针对伊朗的任何新侵略都将遭到更强有力的回击，并强调该国武装部队已做好充分准备，可不分地域地应对威胁。",
+      "summary": "德黑兰——伊朗陆军司令阿米尔·哈塔米少将警告称，针对伊朗的任何新侵略行为都将遭到更强硬、更有力的回击，并强调该国武装部队已做好充分准备，可不限地域地应对威胁。",
       "date": "2026-11-18T17:31:34Z",
       "url": "https://www.tehrantimes.com/news/532308/Iran-will-respond-more-forcefully-to-any-renewed-aggression",
       "sources": [
@@ -346,34 +430,6 @@ const siteData = {
       "originalTexts": {
         "fa": null,
         "en": "Iran will respond more forcefully to any renewed aggression: army chief"
-      }
-    },
-    {
-      "id": "evt_9b934f67",
-      "title": "伊朗报告称对科威特和巴林的美国军事资产发动了袭击",
-      "summary": "德黑兰——伊朗军方报告称，周三，他们对位于科威特的一个美军基地实施了打击，并在霍尔木兹海峡以东击落了一架美国无人机。与此同时，有报道称巴林的美国基地发生爆炸，该战略水道还发生了一起独立的海上事件，这表明波斯湾地区的紧张局势正在加剧。",
-      "date": "2026-11-18T17:29:18Z",
-      "url": "https://www.tehrantimes.com/news/532307/Iran-reports-strikes-on-US-military-assets-in-Kuwait-and-Bahrain",
-      "sources": [
-        {
-          "type": "iranian",
-          "name": "www.tehrantimes.com",
-          "url": "https://www.tehrantimes.com/news/532307/Iran-reports-strikes-on-US-military-assets-in-Kuwait-and-Bahrain"
-        }
-      ],
-      "category": "military",
-      "location": {
-        "lat": 35.6892,
-        "lng": 51.389,
-        "name": "德黑兰, 伊朗"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Iran reports strikes on US military assets in Kuwait and Bahrain"
       }
     },
     {
@@ -406,8 +462,8 @@ const siteData = {
     },
     {
       "id": "evt_66b1f531",
-      "title": "巴勒斯坦卫生部称，一名72岁的巴勒斯坦妇女在约旦河西岸被以色列定居者开枪打死",
-      "summary": "巴勒斯坦人称，定居者在杜尤克·塔赫塔发动了袭击，而以色列军方则称，定居者是在遭到袭击后开火的。",
+      "title": "巴勒斯坦卫生部称，一名72岁的巴勒斯坦妇女在约旦河西岸被以色列定居者枪杀。",
+      "summary": "巴勒斯坦人称，定居者在杜尤克·塔赫塔发动了袭击，而以色列军方则表示，定居者是在遭到袭击后开火的。",
       "date": "2026-11-17T20:30:20Z",
       "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -435,7 +491,7 @@ const siteData = {
     {
       "id": "evt_99eb6453",
       "title": "英国对以色列西岸定居点相关公司实施制裁",
-      "summary": "这是自英国宣布对以色列在该领土上的行为采取更强硬态度以来的首次制裁。",
+      "summary": "这是自英国宣布对以色列在该地区的行动采取更强硬态度以来的首次制裁。",
       "date": "2026-11-17T18:27:27Z",
       "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -462,8 +518,8 @@ const siteData = {
     },
     {
       "id": "evt_ed7c5be1",
-      "title": "特朗普表示，美国“非常严肃地”对待伊朗针对华盛顿的任何阴谋",
-      "summary": "德黑兰驳斥了任何关于其密谋对美国首都发动所谓“脏弹”袭击的说法，称其“毫无根据”。",
+      "title": "特朗普表示，美国“非常严肃地”对待伊朗针对华盛顿的任何阴谋。",
+      "summary": "德黑兰驳斥了有关其策划对美国首都发动所谓“脏弹”袭击的任何说法，称其“毫无根据”。",
       "date": "2026-11-17T17:37:04Z",
       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -490,8 +546,8 @@ const siteData = {
     },
     {
       "id": "evt_1f83ef0b",
-      "title": "活动人士称，巴林法院判处数十名什叶派穆斯林无期徒刑",
-      "summary": "一个总部位于英国的人权组织称，因与伊朗有关的恐怖主义罪名而被监禁的人大多是神职人员，并声称这些人的供词是被逼供的。\n\n巴林当局指控69名未透露姓名的被告成立了一个与伊朗革命卫队有联系的恐怖组织。",
+      "title": "活动人士称，巴林法院判处数十名什叶派穆斯林终身监禁",
+      "summary": "一个总部位于英国的人权组织称，因与伊朗有关的恐怖主义罪名而被监禁的人大多是神职人员，并称这些人的供述是被逼迫的。\n\n巴林当局指控69名未透露姓名的被告成立了一个与伊朗革命卫队有联系的恐怖组织。",
       "date": "2026-11-16T23:01:47Z",
       "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -518,8 +574,8 @@ const siteData = {
     },
     {
       "id": "evt_c0837b61",
-      "title": "也门胡塞武装的推进可能会进一步破坏全球经济的稳定",
-      "summary": "BBC安全事务记者撰文指出，伊朗支持的胡塞武装正在取得进展，其推进可能带来危险的后果。",
+      "title": "也门胡塞武装的推进可能进一步 destabilise 全球经济",
+      "summary": "BBC的安全事务记者撰文指出，伊朗支持的胡塞武装正在取得进展，其推进可能带来危险的后果。",
       "date": "2026-11-16T21:40:07Z",
       "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -546,7 +602,7 @@ const siteData = {
     },
     {
       "id": "evt_53b41c64",
-      "title": "也门军队撤退以保卫港口城市免受胡塞武装的攻击",
+      "title": "也门军队撤退以保卫港口城市免受胡塞武装袭击",
       "summary": "沙特支持的部队表示，他们正在从曼德海峡调动部队，以保护临时首都亚丁。",
       "date": "2026-11-16T11:09:38Z",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
@@ -602,7 +658,7 @@ const siteData = {
     },
     {
       "id": "evt_23414961",
-      "title": "伊朗使用无人机袭击巴林的美国军事基地",
+      "title": "伊朗使用无人机袭击巴林的美军基地",
       "summary": "这是该国三天内发生的第二次袭击，正值美国和伊朗在霍尔木兹海峡僵持不下之际。",
       "date": "2026-11-15T13:42:58Z",
       "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
@@ -630,7 +686,7 @@ const siteData = {
     },
     {
       "id": "evt_e2f2b73e",
-      "title": "约旦三名男子因教堂大规模枪击致死而被判处死刑",
+      "title": "约旦三名男子因教堂大规模枪击致死案被判处死刑",
       "summary": "上个月，希腊东正教教堂的葬礼遭到袭击，造成9人死亡，34人受伤。",
       "date": "2026-11-15T11:06:32Z",
       "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
@@ -659,7 +715,7 @@ const siteData = {
     {
       "id": "evt_61a3a9ac",
       "title": "官员称，以色列在对加沙难民营的空袭中打死了哈马斯指挥官",
-      "summary": "哈马斯和以色列国防军官员均确认拉法旅指挥官萨米尔·阿布·尤尼斯（Samir Abu Younis）的死讯。",
+      "summary": "哈马斯和以色列国防军官员均证实了拉法旅指挥官萨米尔·阿布·尤尼斯（Samir Abu Younis）的死讯。",
       "date": "2026-11-15T08:17:41Z",
       "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
       "sources": [
@@ -713,44 +769,16 @@ const siteData = {
       }
     },
     {
-      "id": "evt_b6e4e2b4",
-      "title": "阿联酋卡车失控引发23辆车连环相撞，造成14人死亡",
-      "summary": "当局称，该司机失控，与包括五辆卡车在内的23辆车辆相撞。",
-      "date": "2026-11-12T16:56:31Z",
-      "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
+      "id": "evt_317cbf8f",
+      "title": "美国中期选举结果引发以色列对两国关系未来的担忧",
+      "summary": "美国对以色列的坚定支持被认为是共和党表现如此糟糕的原因之一。",
+      "date": "2026-11-06T13:23:44Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
       "sources": [
         {
           "type": "international",
           "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "category": "political",
-      "location": {
-        "lat": 32.0,
-        "lng": 53.0,
-        "name": "中东地区"
-      },
-      "languages": [
-        "zh",
-        "en"
-      ],
-      "originalTexts": {
-        "fa": null,
-        "en": "Fourteen dead after truck loses control in 23-vehicle crash in UAE"
-      }
-    },
-    {
-      "id": "evt_d3b52092",
-      "title": "卫生部称，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡",
-      "summary": "目击者称，一枚导弹击中了加沙南部最大的纳赛尔医院内设有外科病房和重症监护病房的建筑物。",
-      "date": "2026-11-12T16:54:12Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "sources": [
-        {
-          "type": "international",
-          "name": "feeds.bbci.co.uk",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "category": "military",
@@ -765,7 +793,35 @@ const siteData = {
       ],
       "originalTexts": {
         "fa": null,
-        "en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
+        "en": "US midterm results spark fears in Israel over future of two countries' ties"
+      }
+    },
+    {
+      "id": "evt_fbce8655",
+      "title": "伊朗杀害了她的未成年女儿——现在她正与该政权抗争",
+      "summary": "萨米拉16岁的女儿塞夫达在1月参加大规模抗议活动时被枪杀。",
+      "date": "2026-11-02T06:00:54Z",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "sources": [
+        {
+          "type": "international",
+          "name": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "category": "military",
+      "location": {
+        "lat": 32.0,
+        "lng": 53.0,
+        "name": "中东地区"
+      },
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "originalTexts": {
+        "fa": null,
+        "en": "Iran killed her teenage daughter - now she is facing up to the regime"
       }
     }
   ]
